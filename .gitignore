@@ -1,0 +1,34 @@
+# Python (FastAPI backend)
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+*.egg-info/
+
+# Secrets 
+.env
+*.env
+
+# Local databases (dev data, not code)
+*.db
+*.sqlite
+*.sqlite3
+
+# ChromaDB local storage 
+chroma/
+chroma_db/
+.chroma/
+
+#  Frontend 
+node_modules/
+dist/
+
+#  OS junk 
+.DS_Store
+Thumbs.db
+
+# Editor settings 
+.vscode/
+.idea/ 
