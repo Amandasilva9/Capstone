@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"
+    <meta name = "viewport" content = "width=device-width, initial-scale=1">
+    <title> Mobility Tracker - Camera Test 1</title>
+    <link rel = "stylesheet" href="css/style.css"
+</head>
+<body> 
+    <h1>Mobility Tracker</h1>
+    <p class = "disclaimer">
+        This is NOT a rehabilitation tool. If you are in pain, see a doctor.
+        If you have an injury, talk to a healthcare specialist before using this app.
+        No video is stored or sent anywhere. Everything runs on your computer
+    </p>
+
+    <button id ="startBtn"> Start camera</button>
+    <p id ="status">Press "Start camera".</p>
+
+    <div class="stage">
+        <video id="video" autoplay playsinline muted></video>
+        <canvas id="overlay"></canvas>
+    </div>
+
+    <table id="readout">
+        <tr><th>Side used</th><td id ="side">-</td></tr>
+        <tr><th>Knee angle</th><td id ="knee">-</td></tr>
+        <tr><th>Hip angle</th><td id ="hip">-</td></tr>
+        <tr><th>Ankle angle</th><td id ="ankle">-</td></tr>
+        <tr><th>Visibility</th><td id ="vis">-</td></tr>
+        <tr><th>FPS</th><td id ="fps">-</td></tr>
+    </table>
+
+    <script type="module" src="js/webcam.js"></script>
+
+</body>
+</html>
