@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; max-width: 760px; margin: 20px auto; padding: 0 12px; }
+.disclaimer { background: #fff3cd; border: 1px solid #e0c36a; padding: 8px; font-size: 14px; }
+
+.stage { position: relative; width: 100%; max-width: 720px; margin-top:12px; }
+.stage video, .stage canvas { width: 100%; display: block; }
+.stage canvas { position: absolute; top: 0; left:0;}
+
+#readout { margin-top: 12px; border-collapse: collapse; }
+#readout th, #readout td { border: 1px solid #ccc; padding: 6px 12px; text-align: left; }
+button { padding: 8px 16px; font-size: 15px; }
