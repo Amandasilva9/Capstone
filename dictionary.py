@@ -1,6 +1,6 @@
-Joint_Angles = {
+Joint_angles = {
     "knee": {
-        "flexion": {"left": (0, 100), "right": (0, 100)}
+        "flexion": {"left": (0, 150), "right": (0, 150)}
     },
     "elbow": {
         "flexion": {"left": (0, 150), "right": (0, 150)},
@@ -33,5 +33,17 @@ Joint_Angles = {
         "pronation": {"left": (0, 80), "right": (0, 80)},
         "supination": {"left": (0, 80), "right": (0, 80)},
     },
+    "neck": {
+        "flexion": {"midline": (0, 50)},
+        "extension": {"midline": (0, 60)},
+        "lateral_flexion": {"left": (0, 45), "right": (0, 45)},
+        "rotation": {"left": (0, 80), "right": (0, 80)},
+    },
+    "thumb": {
+        "mb_flexion": {"left": (0, 60), "right": (0, 60)},
+        "ib_flexion": {"left": (0, 80), "right": (0, 80)},
+    },
+    "back"
+    "flexion"
 }
 # added more joints and left / right angle degrees data
