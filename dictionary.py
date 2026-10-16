@@ -1,4 +1,4 @@
-Joint_angles = {
+joint_angles = {
     "knee": {
         "flexion": {"left": (0, 150), "right": (0, 150)}
     },
@@ -43,7 +43,8 @@ Joint_angles = {
         "mb_flexion": {"left": (0, 60), "right": (0, 60)},
         "ib_flexion": {"left": (0, 80), "right": (0, 80)},
     },
-    "back"
-    "flexion"
+    "back": {
+    "flexion": {"midline": (0, 90)},
+    "extension": {"midline": (0, 25)},
+    "lateral_flexion": {"left": (0, 25), "right": (0, 25)},
 }
-# added more joints and left / right angle degrees data
