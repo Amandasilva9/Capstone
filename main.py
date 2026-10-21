@@ -6,7 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import sqlite3                            # the built-in database engine
 from pydantic import BaseModel            # lets us define the required shape of incoming data
 from passlib.context import CryptContext  # the password scrambler
-
+from rules import BASELINE_RANGES  # healthy angle ranges from rules.py
 
 # creating server from blueprint; server is now named app
 app = FastAPI()
@@ -69,3 +69,50 @@ def login(creds: Credentials):
 @app.get("/")
 def root():
     return {"status": "capstone backend is alive"}
+
+
+# The shape of one camera view in the scan payload:
+# the angles it measured, how visible the body was, and frames used.
+class ScanView(BaseModel):
+    angles: dict
+    visibility: float
+    framesUsed: int
+
+
+# The full payload the frontend sends: which test, when, and the views.
+class Scan(BaseModel):
+    test: str
+    capturedAt: str
+    views: dict[str, ScanView]
+
+
+# Recommend
+# takes a full body scan, checks every angle against the healthy ranges,
+# and sends back a report card of anything out of range + stretches
+@app.post("/recommend")
+def recommend(scan: Scan):
+    flags = []
+
+    # walk through every view (front/left/right/back) and every angle in it
+    for view_name, view in scan.views.items():
+        for angle_name, value in view.angles.items():
+            key = f"{view_name}.{angle_name}"
+            if key not in BASELINE_RANGES:
+                continue  # no rule for this angle yet - skip it, don't crash
+            low, high = BASELINE_RANGES[key]
+            if not (low <= value <= high):
+                flags.append({
+                    "view": view_name,
+                    "angle": angle_name,
+                    "measured": value,
+                    "healthy_range": [low, high],
+                })
+
+    # the report card the frontend displays
+    return {
+        "test": scan.test,
+        "capturedAt": scan.capturedAt,
+        "flags": flags,
+        "restricted": len(flags) > 0,
+        "stretches": ["placeholder stretch 1", "placeholder stretch 2"],
+    }
