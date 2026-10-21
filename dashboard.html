@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dashboard - Mobility Tracker</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="app">
+        <aside id="sidebar" class="sidebar"></aside>
+        <div class="app-main">
+            <header id="topbar" class="topbar"></header>
+            <main class="content">
+                <div class="page-head">
+                    <div>
+                        <h1 id="welcome">Welcome back</h1>
+                        <p class="muted">Here is how your mobility is trending.</p>
+                    </div>
+                </div>
+
+                <div id="stats" class="stats"></div>
+
+                <div class="dash-grid">
+                    <div class="stack">
+                        <section class="card">
+                            <div class="card-head"><h2>Knee extension over time</h2></div>
+                            <div id="trend"></div>
+                        </section>
+                        <section class="card">
+                            <div class="card-head"><h2>Scan history</h2><a href="scan.html" class="btn btn-sm">New scan</a></div>
+                            <div id="history"></div>
+                        </section>
+                    </div>
+                    <section class="card">
+                        <div class="card-head"><h2>Your plan</h2></div>
+                        <div id="plan"></div>
+                    </section>
+                </div>
+
+                <p class="disclaimer">
+                    This app is not a medical tool. If you have pain or an injury, talk to a doctor or physical therapist.
+                </p>
+            </main>
+        </div>
+    </div>
+
+    <script type="module" src="js/dashboard.js"></script>
+</body>
+</html>

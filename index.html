@@ -1,37 +1,202 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8"
-    <meta name = "viewport" content = "width=device-width, initial-scale=1">
-    <title> Mobility Tracker - Camera Test 1</title>
-    <link rel = "stylesheet" href="css/style.css"
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mobility Tracker - Know how your body moves</title>
+    <meta name="description" content="Camera-based mobility checks you can do at home. Four quick views, clear results, gentle exercise ideas.">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
 </head>
-<body> 
-    <h1>Mobility Tracker</h1>
-    <p class = "disclaimer">
-        This is NOT a rehabilitation tool. If you are in pain, see a doctor.
-        If you have an injury, talk to a healthcare specialist before using this app.
-        No video is stored or sent anywhere. Everything runs on your computer
-    </p>
-
-    <button id ="startBtn"> Start camera</button>
-    <p id ="status">Press "Start camera".</p>
-
-    <div class="stage">
-        <video id="video" autoplay playsinline muted></video>
-        <canvas id="overlay"></canvas>
+<body>
+    <div class="announce">
+        Mobility Tracker is for general awareness only, not a medical device.
+        <a href="#privacy">Read how we keep you safe</a>
     </div>
+    <header id="nav"></header>
 
-    <table id="readout">
-        <tr><th>Side used</th><td id ="side">-</td></tr>
-        <tr><th>Knee angle</th><td id ="knee">-</td></tr>
-        <tr><th>Hip angle</th><td id ="hip">-</td></tr>
-        <tr><th>Ankle angle</th><td id ="ankle">-</td></tr>
-        <tr><th>Visibility</th><td id ="vis">-</td></tr>
-        <tr><th>FPS</th><td id ="fps">-</td></tr>
-    </table>
+    <main>
+        <!-- Hero -->
+        <section class="hero">
+            <div class="wrap hero-grid">
+                <div>
+                    <span class="eyebrow"><span class="dot"></span> Camera-based mobility check</span>
+                    <h1>Know how your body <span class="accent">moves.</span></h1>
+                    <p class="lead">
+                        Stand in front of your webcam for a guided four-view scan. Get clear joint-angle
+                        measurements, gentle exercise ideas, and an assistant for your questions.
+                    </p>
+                    <div class="hero-actions">
+                        <a href="signup.html" class="btn btn-accent btn-lg">Start your first scan</a>
+                        <a href="#how" class="btn btn-secondary btn-lg">See how it works</a>
+                    </div>
+                    <ul class="ticks">
+                        <li><span class="icon"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg></span>Video stays on your device</li>
+                        <li><span class="icon"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg></span>About two minutes</li>
+                        <li><span class="icon"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg></span>No special equipment</li>
+                    </ul>
+                </div>
+                <div class="hero-visual">
+                    <img src="assets/hero.svg" alt="Illustration of a standing figure with hip and knee angles measured" width="560" height="600">
+                    <div class="float-card">
+                        <span class="icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span>
+                        <div><strong>4 views</strong>front, sides, back</div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-    <script type="module" src="js/webcam.js"></script>
+        <!-- How it works -->
+        <section class="section" id="how">
+            <div class="wrap">
+                <div class="section-head center">
+                    <h2>A guided scan, start to finish</h2>
+                    <p class="muted">You always get time to get into position. Nothing is captured until you are set.</p>
+                </div>
+                <div class="cards-3">
+                    <article class="feature">
+                        <span class="icon"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l2-3h6l2 3h3v11H4z"/><circle cx="12" cy="13" r="3.5"/></svg></span>
+                        <span class="num">Step 1</span>
+                        <h3>Set up your camera</h3>
+                        <p>Place your laptop so your whole body fits in view. We check your position live and tell you what to adjust.</p>
+                    </article>
+                    <article class="feature">
+                        <span class="icon"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2.2"/><path d="M12 8v7M8 11l4-1 4 1M12 15l-3 6M12 15l3 6"/></svg></span>
+                        <span class="num">Step 2</span>
+                        <h3>Strike four poses</h3>
+                        <p>Front, left side, right side and back. A countdown gives you time, then we pick the clearest frame.</p>
+                    </article>
+                    <article class="feature">
+                        <span class="icon"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5M4 19h16M8 15l3-4 3 2 4-6"/></svg></span>
+                        <span class="num">Step 3</span>
+                        <h3>Get clear results</h3>
+                        <p>See what stood out, follow a simple exercise plan, and track how you change over time.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
 
+        <!-- What we measure -->
+        <section class="section" id="measure" style="padding-top: 0;">
+            <div class="wrap">
+                <div class="section-head">
+                    <h2>What we measure</h2>
+                    <p class="muted">Joint angles and posture markers from your webcam, shown in plain language.</p>
+                </div>
+                <div class="cards-5">
+                    <article class="feature">
+                        <span class="icon"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3v8l5 4v6"/><circle cx="8" cy="11" r="1.6"/></svg></span>
+                        <h3>Knee extension</h3>
+                        <p>How straight each leg gets when you stand. A fully straight knee reads close to 180°.</p>
+                    </article>
+                    <article class="feature">
+                        <span class="icon"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2.2"/><path d="M12 8v7M12 15l-3 6M12 15l3 6"/></svg></span>
+                        <h3>Hip extension</h3>
+                        <p>How upright your hips sit from the side, which can show tightness at the front of the hip.</p>
+                    </article>
+                    <article class="feature">
+                        <span class="icon"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 3v12l-4 4h13"/></svg></span>
+                        <h3>Ankle angle</h3>
+                        <p>The angle between shin and foot, shown for reference alongside your other measurements.</p>
+                    </article>
+                    <article class="feature">
+                        <span class="icon"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9h18M12 9v12"/></svg></span>
+                        <h3>Shoulder and hip level</h3>
+                        <p>Whether your shoulders and hips sit level when seen from the front and back.</p>
+                    </article>
+                    <article class="feature">
+                        <span class="icon"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M6 8h12M7 16h10"/></svg></span>
+                        <h3>Knee alignment</h3>
+                        <p>How closely hip, knee and ankle line up, which helps spot knees that drift inward or outward.</p>
+                    </article>
+                    <article class="feature">
+                        <span class="icon"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 9 5-9 5-9-5z"/><path d="m3 13 9 5 9-5"/></svg></span>
+                        <h3>Left vs right</h3>
+                        <p>Side-by-side comparison so you can see where one side moves differently from the other.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- Privacy -->
+        <section class="section" id="privacy" style="padding-top: 0;">
+            <div class="wrap">
+                <div class="band">
+                    <div>
+                        <h2>Built to be safe and private</h2>
+                        <p>
+                            Mobility Tracker is a wellness tool, not a rehabilitation program. If you are in pain
+                            or have an injury, see a doctor or physical therapist before using it.
+                        </p>
+                    </div>
+                    <div class="band-list">
+                        <div class="band-item">
+                            <span class="icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l8 3v6c0 4.5-3.2 8-8 9-4.8-1-8-4.5-8-9V6z"/></svg></span>
+                            <div><strong>Your video never leaves your device</strong><span>The camera feed is analyzed in your browser and is not uploaded or stored.</span></div>
+                        </div>
+                        <div class="band-item">
+                            <span class="icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5M4 19h16M8 15l3-4 3 2 4-6"/></svg></span>
+                            <div><strong>Only numbers are sent</strong><span>We save your joint-angle measurements so you can see your history.</span></div>
+                        </div>
+                        <div class="band-item">
+                            <span class="icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v5M12 16h.01"/></svg></span>
+                            <div><strong>Estimates, not diagnoses</strong><span>A single webcam gives rough measurements and cannot diagnose anything.</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- FAQ -->
+        <section class="section" id="faq" style="padding-top: 0;">
+            <div class="wrap">
+                <div class="section-head center">
+                    <h2>Frequently asked questions</h2>
+                </div>
+                <div class="faq">
+                    <details>
+                        <summary>Do I need any special equipment?</summary>
+                        <p>No. You need a laptop or computer with a webcam, enough space to stand 6 to 8 feet back, and a well-lit room.</p>
+                    </details>
+                    <details>
+                        <summary>Is my video recorded or uploaded?</summary>
+                        <p>No. The video is processed in your browser. Only the measured angles are sent to your account so you can see your history.</p>
+                    </details>
+                    <details>
+                        <summary>How accurate are the measurements?</summary>
+                        <p>They are good for noticing differences and tracking change over time, but a single webcam is only an estimate and can be off by several degrees. It is not a clinical measurement.</p>
+                    </details>
+                    <details>
+                        <summary>Is this a replacement for physical therapy?</summary>
+                        <p>No. It is not a rehabilitation tool. If you have pain or an injury, talk to a healthcare professional before exercising.</p>
+                    </details>
+                    <details>
+                        <summary>What should I wear?</summary>
+                        <p>Fitted clothing helps the camera see your joints. Avoid baggy clothes and make sure your whole body, head to feet, is in view.</p>
+                    </details>
+                </div>
+            </div>
+        </section>
+
+        <!-- Final CTA -->
+        <section class="wrap">
+            <div class="cta">
+                <h2>Ready for your first scan?</h2>
+                <p>Create a free account, set your camera up, and get your results in about two minutes.</p>
+                <a href="signup.html" class="btn btn-accent btn-lg">Create your account</a>
+            </div>
+        </section>
+    </main>
+
+    <footer id="footer"></footer>
+
+    <script type="module">
+        import { renderNav, renderFooter } from "./js/ui.js";
+        renderNav("home");
+        renderFooter();
+    </script>
 </body>
 </html>
