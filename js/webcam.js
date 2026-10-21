@@ -177,21 +177,31 @@ startBtn.addEventListener("click", async () => {
         stream.getTracks().forEach((t) => t.stop());
         drawSkeleton(canvas, null);
         titleEl.textContent = "Scan complete";
-        msgEl.textContent = "Done.";
 
-        // Payload without the images (send images separately if the backend wants them)
-        const payload = { capturedAt: new Date().toISOString(), views: {} };
+        // Build the payload the backend expects: test name, timestamp, and the
+        // measured views. Views that got skipped are left out entirely.
+        const payload = { test: "baseline_scan", capturedAt: new Date().toISOString(), views: {} };
         for (const [id, r] of Object.entries(results)) {
-            payload.views[id] = r ? { angles: r.angles, visibility: r.visibility, framesUsed: r.framesUsed } : null;
+            if (r) payload.views[id] = { angles: r.angles, visibility: r.visibility, framesUsed: r.framesUsed };
         }
-        console.log("Payload:", payload);
-        console.log("Images:", Object.fromEntries(Object.entries(results).map(([k, r]) => [k, r?.image])));
-        $("results").textContent = JSON.stringify(payload, null, 2);
-        startBtn.disabled = false;
-        startBtn.textContent = "Scan again";
+
+        // Send the scan to our backend, which compares every angle against the
+        // healthy ranges and sends back a report card (flags + stretches).
+        msgEl.textContent = "Analyzing your results...";
+        const res = await fetch("http://localhost:8000/recommend", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(payload),
+        });
+        const report = await res.json();
+
+        // Hand the report card to the results page and navigate there.
+        localStorage.setItem("lastResult", JSON.stringify(report));
+        window.location.href = "results.html";
     } catch (err) {
         console.error(err);
         statusEl.textContent = "Error: " + err.message;
         startBtn.disabled = false;
+        startBtn.textContent = "Scan again";
     }
 });
