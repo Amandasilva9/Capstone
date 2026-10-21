@@ -1,0 +1,47 @@
+{
+  "topic": "elbow",
+  "sources": [
+    {
+      "source_id": "elbow/Lucado_Joing_Mobilizations_Pain_elbow",
+      "title": "Do joint mobilizations assist in the recovery of lateral elbow tendinopathy? A systematic review and meta-analysis",
+      "authors": ["Lucado, A. M., et al."],
+      "year": 2019,
+      "journal": "Journal of Hand Therapy",
+      "doi": "10.1016/j.jht.2018.01.010",
+      "study_type": "systematic review",
+      "keywords": ["joint mobilization", "ROM", "pain reduction"],
+      "pdf_path": "data/raw_data/pdfs/elbow/Lucado_Joing_Mobilizations_Pain_elbow.pdf",
+      "markdown_path": "data/raw_data/markdown/elbow/Lucado_Joing_Mobilizations_Pain_elbow.md",
+      "page_count": 16,
+      "notes": "gives LLM validated effect sizes for how manual therapy and joint glides at the elbow restore pain-free grip and range of motion."
+    },
+    {
+      "source_id": "elbow/Sardelli_Functional_Range_motion_elbow",
+      "title": "Functional Range of Motion Assessment in Patients with Elbow Pathology",
+      "authors": ["Sardelli, A. et al."],
+      "year": 2011,
+      "journal": "Journal of Hand Therapy",
+      "doi": "10.1016/j.jht.2019.12.002",
+      "study_type": "cross-sectional study",
+      "keywords": ["ROM", "ADL"],
+      "pdf_path": "data/raw_data/pdfs/elbow/Sardelli_Functional_Range_motion_elbow.pdf",
+      "markdown_path": "data/raw_data/markdown/elbow/Sardelli_Functional_Range_motion_elbow.md",
+      "page_count": 8,
+      "notes": "The functional range of motion for the elbow is more than what many people would think showing importance of restoring full range of motion for ADL and sport."
+    },
+    {
+      "source_id": "elbow/Piacenza_Managing_Pain_In_Elbow",
+      "title": "Effectiveness of conservative treatment in the management of post-traumatic elbow stiffness: A systematic review",
+      "authors": ["Piacenza, F. et al."],
+      "year": 2024,
+      "journal": "Musculoskeletal Science and Practice",
+      "doi": "10.1016/j.msksp.2024.103194",
+      "study_type": "systematic review",
+      "keywords": ["PNF", "joint mobilization", "ROM", "pain reduction"],
+      "pdf_path": "data/raw_data/pdfs/elbow/Piacenza_Managing_Pain_In_Elbow.pdf",
+      "markdown_path": "data/raw_data/markdown/elbow/Piacenza_Managing_Pain_In_Elbow.md",
+      "page_count": 10,
+      "notes": "Provides evidence for the effectiveness of conservative treatments, including joint mobilization and PNF stretching, in improving range of motion and reducing pain in patients with post-traumatic elbow stiffness."
+    }
+  ]
+}

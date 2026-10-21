@@ -1,0 +1,176 @@
+{
+  "topic": "general",
+  "sources": [
+    {
+      "source_id": "general/Behm_Acute_Effects_Various_Stretching_General",
+      "title": "Acute Effects of Various Stretching Techniques on Range of Motion: A Systematic Review with Meta-Analysis",
+      "authors": [
+        "David G. Behm",
+        "Sahar Alizadeh",
+        "Abbas Daneshjoo",
+        "Andreas Konrad"
+      ],
+      "year": 2023,
+      "journal": "Sports Medicine - Open",
+      "doi": "10.1186/s40798-023-00652-x",
+      "study_type": "systematic review",
+      "keywords": [
+        "flexibility",
+        "ROM",
+        "static stretching",
+        "dynamic stretching"
+        ],
+      "pdf_path": "data/raw_data/pdfs/general/Behm_Acute_Effects_Various_Stretching_General.pdf",
+      "markdown_path": "data/raw_data/markdown/general/Behm_Acute_Effects_Various_Stretching_General.md",
+      "page_count": 16,
+      "notes": "Evaluates the acute effects of different stretching techniques and durations on range of motion and physical performance. Emphasizes that long-duration static stretching enhances ROM but can impair performance, whereas dynamic stretching improves readiness with minimal ROM gains."
+    },
+    {
+      "source_id": "general/Chronic_effects_of_streching_General",
+      "title": "Chronic effects of stretching on range of motion with consideration of potential moderating variables: A systematic review with meta-analysis",
+      "authors": [
+        "Ewan Thomas",
+        "Antonino Bianco",
+        "Antonio Paoli",
+        "Antonio Palma"
+      ],
+      "year": 2024,
+      "journal": "Journal of Sport and Health Science",
+      "doi": "10.1016/j.jshs.2023.06.001",
+      "study_type": "systematic review",
+      "keywords": [
+        "PNF",
+        "static stretching",
+        "ROM",
+        "flexibility",
+        "moderating variables"
+      ],
+      "pdf_path": "data/raw_data/pdfs/general/Chronic_effects_of_streching_General.pdf",
+      "markdown_path": "data/raw_data/markdown/general/Chronic_effects_of_streching_General.md",
+      "page_count": 9,
+      "notes": "Concludes that PNF or static stretching should be used to maximize long-term ROM, and demonstrates that variables like volume, intensity, and frequency play a lesser role than technique."
+    },
+    {
+      "source_id": "general/Effect_Stretching_Training_General",
+      "title": "Effect of stretching training on the viscoelastic properties of human tendon structures in vivo",
+      "authors": [
+        "Keitaro Kubo",
+        "Hiroaki Kanehisa",
+        "Tetsuo Fukunaga"
+      ],
+      "year": 2002,
+      "journal": "Journal of Applied Physiology",
+      "doi": "10.1152/japplphysiol.00658.2001",
+      "study_type": "experimental study",
+      "keywords": [
+       "ROM",
+       "static stretching",
+       "dynamic stretching",
+       "flexibility"
+      ],
+      "pdf_path": "data/raw_data/pdfs/general/Effect_Stretching_Training_General.pdf",
+      "markdown_path": "data/raw_data/markdown/general/Effect_Stretching_Training_General.md",
+      "page_count": 19,
+      "notes": "Foundational biomechanics study demonstrating that chronic stretching training primarily affects the viscosity (decreasing hysteresis) but not the elasticity of human tendon structures."
+    },
+    {
+      "source_id": "general/MarinezAranda_Effects_Of_Myofascial_Release",
+      "title": "Effects of Self-Myofascial Release on Athletes Physical Performance: A Systematic Review",
+      "authors": [
+        "Luis Miguel Martínez-Aranda et al."
+      ],
+      "year": 2024,
+      "journal": "Journal of Functional Morphology and Kinesiology",
+      "doi": "10.3390/jfmk9010014",
+      "study_type": "systematic review",
+      "keywords": [
+        "myofascial release",
+        "foam rolling",
+        "ROM",
+        "non-stretching intervention"
+      ],
+      "pdf_path": "data/raw_data/pdfs/general/MarinezAranda_Effects_Of_Myofascial_Release.pdf",
+      "markdown_path": "data/raw_data/markdown/general/MarinezAranda_Effects_Of_Myofascial_Release.md",
+      "page_count": 31,
+      "notes": "Determines that self-myofascial release (SMR) and foam rolling have acute positive effects on flexibility and range of motion without impairing muscle performance during maximal strength and power actions."
+    },
+    {
+      "source_id": "general/Normal_ROM_General",
+      "title": "Normal Range of Motion (ROM) Values — AAOS Chart by Joint",
+      "authors": [
+        "American Academy of Orthopaedic Surgeons (AAOS)"
+      ],
+      "year": 1965,
+      "journal": "AAOS Clinical Reference",
+      "doi": "",
+      "study_type": "clinical reference standard",
+      "keywords": [
+        "ROM",
+        "clinical baseline"
+      ],
+      "pdf_path": "data/raw_data/pdfs/general/Normal_ROM_General.pdf",
+      "markdown_path": "data/raw_data/markdown/general/Normal_ROM_General.md",
+      "page_count": 8,
+      "notes": "The primary clinical reference standard establishing normal baseline limits for all human joint measurements via goniometry. Crucial for defining the healthy threshold parameters"
+    },
+    {
+      "source_id": "general/Normal_ROM_with_Variations",
+      "title": "Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy",
+      "authors": [
+        "MystPhysio"
+      ],
+      "year": 2026,
+      "journal": "Raushan Kumar",
+      "doi": "",
+      "study_type": "Clinical Guide",
+      "keywords": [
+        "ROM",
+        "variations"
+      ],
+      "pdf_path": "data/raw_data/pdfs/general/Normal_ROM_with_Variations.pdf",
+      "markdown_path": "data/raw_data/markdown/general/Normal_ROM_with_Variations.md",
+      "page_count": 14,
+      "notes": "Summarizes standard ROM values across major joints while detailing expected variations within standard limits commonly encountered in a physical therapy setting."
+    },
+    {
+      "source_id": "ankle/Takeuchi_LongTerm_Ankle_stretching",
+      "title": "The Effects of Long-Term Ankle Stretching on Range of Motion",
+      "authors": [
+        "Kousuke Takeuchi",
+        "Masahiro Hori"
+      ],
+      "year": 2023,
+      "journal": "Journal of Sports Science and Medicine",
+      "doi": "",
+      "study_type": "experimental study",
+      "keywords": [
+        "static stretching",
+        "ROM",
+        "muscle stiffness"
+      ],
+      "pdf_path": "data/raw_data/pdfs/ankle/Takeuchi_LongTerm_Ankle_stretching.pdf",
+      "markdown_path": "data/raw_data/markdown/ankle/Takeuchi_LongTerm_Ankle_stretching.md",
+      "page_count": 11,
+      "notes": "Analyzes the impacts of prolonged ankle dorsiflexion stretching interventions on both joint mobility and underlying structural changes."
+    },
+    {
+      "source_id": "hip/Page_Stretching_for_rehabilition_Hip",
+      "title": "Current Concepts in Muscle Stretching for Exercise and Rehabilitation",
+      "authors": ["Phil Page"],
+      "year": 2012,
+      "journal": "The International Journal of Sports Physical Therapy",
+      "doi": "PMC3273886",
+      "study_type": "Clinical Commentary",
+      "keywords": [
+        "static stretching",
+        "ROM",
+        "dynamic stretching",
+        "pre-contraction stretching"
+      ],
+      "pdf_path": "data/raw_data/pdfs/hip/Page_Stretching_for_rehabilition_Hip.pdf",
+      "markdown_path": "data/raw_data/markdown/hip/Page_Stretching_for_rehabilition_Hip.md",
+      "page_count": 11,
+      "notes": "Provides a comprehensive overview of stretching techniques, including static, dynamic, and pre-contraction stretching"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "topic": "hip",
+  "sources": [
+    {
+      "source_id": "hip/Laird_Kinematics_Hip",
+      "title": "Comparing lumbo-pelvic kinematics in people with and without back pain: a systematic review and meta-analysis",
+      "authors": [
+        "Laird RA",
+        "Gilbert J",
+        "Kent P",
+        "Keating JL"
+      ],
+      "year": 2014,
+      "journal": "BMC Musculoskeletal Disorders",
+      "doi": "10.1186/1471-2474-15-229",
+      "study_type": "systematic review",
+      "keywords": ["pain reduction", "ROM", "coordination", "kinetic chain"],
+      "pdf_path": "data/raw_data/pdfs/hip/Laird_Kinematics_Hip.pdf",
+      "markdown_path": "data/raw_data/markdown/hip/Laird_Kinematics_Hip.md",
+      "page_count": 13,
+      "notes": "Discusses kinematics and coordination of the lumbar spine, pelvis, and hip in populations with low back pain."
+    },
+    {
+      "source_id": "hip/Powers_Bad_Hip_Cause_Knee_injury",
+      "title": "The Influence of Abnormal Hip Mechanics on Knee Injury: A Biomechanical Perspective",
+      "authors": [ "Christopher M. Powers"],
+      "year": 2010,
+      "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+      "doi": "10.2519/jospt.2010.3337",
+      "study_type": "clinical commentary",
+      "keywords": [
+        "joint mechanics",
+        "kinetic chain",
+        "pain reduction",
+        "kinematics"
+      ],
+      "pdf_path": "data/raw_data/pdfs/hip/Powers_Bad_Hip_Cause_Knee_injury.pdf",
+      "markdown_path": "data/raw_data/markdown/hip/Powers_Bad_Hip_Cause_Knee_injury.md",
+      "page_count": 10,
+      "notes": "Outlines a biomechanical argument for the incorporation of pelvis/trunk stability and dynamic hip joint control into knee rehabilitation."
+    },
+    {
+     "source_id": "hip/The Relation Between Stretching Typology and Stretching Duration - The Effects on Range of Motion",
+      "title": "The Relation Between Stretching Typology and Stretching Duration: The Effects on Range of Motion",
+      "authors": [
+        "Ewan Thomas",
+        "Antonino Bianco",
+        "Antonio Paoli",
+        "Antonio Palma"
+      ],
+      "year": 2018,
+      "journal": "International Journal of Sports Medicine",
+      "doi": "10.1055/s-0044-101146",
+      "study_type": "Systematic Review",
+      "keywords": [
+        "ballistic stretching",
+        "static stretching",
+        "ROM",
+        "PNF"
+      ],
+      "pdf_path": "data/raw_data/pdfs/hip/The Relation Between Stretching Typology and Stretching Duration - The Effects on Range of Motion.pdf",
+      "markdown_path": "data/raw_data/markdown/hip/The Relation Between Stretching Typology and Stretching Duration - The Effects on Range of Motion.md",
+      "page_count": 12,
+      "notes": "Evaluates data indicating the effects of different stretching typologies and duration per week to promote Range of Motion improvements."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "topic": "spine",
+  "sources": [
+    {
+     "source_id": "spine/Gordon_Activity_to_reduce_Pain_Spine",
+      "title": "A Systematic Review of the Effects of Exercise and Physical Activity on Non-Specific Chronic Low Back Pain",
+      "authors": [
+        "Rebecca Gordon",
+        "Saul Bloxham"
+      ],
+      "year": 2016,
+      "journal": "Healthcare",
+      "doi": "10.3390/healthcare4020022",
+      "study_type": "systematic review",
+      "keywords": [
+        "pain reduction",
+        "muscle strength",
+        "ROM"
+      ],
+      "pdf_path": "data/raw_data/pdfs/spine/Gordon_Activity_to_reduce_Pain_Spine.pdf",
+      "markdown_path": "data/raw_data/markdown/spine/Gordon_Activity_to_reduce_Pain_Spine.md",
+      "page_count": 19,
+      "notes": "Highlights that general exercise programs combining muscular strength, flexibility, and aerobic fitness are beneficial for the rehabilitation of non-specific chronic low back pain, providing foundational justification for movement-based therapy."
+    },
+    {
+     "source_id": "spine/Maatta_Thoracic_Spine_Mobility_Increase_Pain",
+      "title": "Lower thoracic spine extension mobility is associated with higher intensity of thoracic spine pain",
+      "authors": [
+        "Juhani Määttä",
+        "Jani Takatalo",
+        "Tero Leinonen",
+        "Tuomo Pienimäki",
+        "Jari Ylinen",
+        "Arja Häkkinen"
+      ],
+      "year": 2022,
+      "journal": "Journal of Manual & Manipulative Therapy",
+      "doi": "10.1080/10669817.2022.2047270",
+      "study_type": "observational study",
+      "keywords": [
+        "posture",
+        "mobility",
+        "pain reduction",
+        "ROM"
+      ],
+      "pdf_path": "data/raw_data/pdfs/spine/Maatta_Thoracic_Spine_Mobility_Increase_Pain.pdf",
+      "markdown_path": "data/raw_data/markdown/spine/Maatta_Thoracic_Spine_Mobility_Increase_Pain.md",
+      "page_count": 10,
+      "notes": "Demonstrates that reduced lower thoracic extension mobility is clinically correlated with higher pain scores. Useful for the RAG to explain why it recommends thoracic extension drills."
+    },
+    {
+      "source_id": "spine/Spine_Pain_with_posture",
+      "title": "Is thoracic spine posture associated with shoulder pain, range of motion and function? A systematic review",
+      "authors": [
+        "E. Barrett",
+        "M. O'Keeffe",
+        "K. O'Sullivan",
+        "J. Lewis",
+        "K. McCreesh"
+      ],
+      "year": 2016,
+      "journal": "Manual Therapy",
+      "doi": "10.1016/j.math.2016.07.008",
+      "study_type": "systematic review",
+      "keywords": [
+        "posture",
+        "pain reduction",
+        "ROM",
+        "kinetic chain",
+        "ROM"
+      ],
+      "pdf_path": "data/raw_data/pdfs/spine/Spine_Pain_with_posture.pdf",
+      "markdown_path": "data/raw_data/markdown/spine/Spine_Pain_with_posture.md",
+      "page_count": 9,
+      "notes": "Critically links two different joints in your RAG (spine and shoulder). Indicates that reducing thoracic kyphosis facilitates greater shoulder ROM, allowing your recommendation engine to suggest thoracic extensions to fix overhead shoulder limitations."
+    },
+    {
+      "source_id": "spine/Wiewelhove_Foam_Rolling_Recovery_spine",
+      "title": "A Meta-Analysis of the Effects of Foam Rolling on Performance and Recovery",
+      "authors": [
+        "Thimo Wiewelhove",
+        "Alexander Döweling",
+        "Christoph Schneider",
+        "Laura Hottenrott",
+        "Tim Meyer",
+        "Michael Kellmann",
+        "Mark Pfeiffer",
+        "Alexander Ferrauti"
+      ],
+      "year": 2019,
+      "journal": "Frontiers in Physiology",
+      "doi": "10.3389/fphys.2019.00376",
+      "study_type": "meta analysis",
+      "keywords": [
+        "foam rolling",
+        "myofascial release",
+        "ROM", 
+        "non-stretching intervention",
+        "pain reduction"
+      ],
+      "pdf_path": "data/raw_data/pdfs/spine/Wiewelhove_Foam_Rolling_Recovery_spine.pdf",
+      "markdown_path": "data/raw_data/markdown/spine/Wiewelhove_Foam_Rolling_Recovery_spine.md",
+      "page_count": 15,
+      "notes": "Validates self-myofascial release (foam rolling) for short-term flexibility improvements and muscle pain recovery. Perfect for justifying foam rolling prescriptions within the app's recovery recommendations."
+    }
+  ]
+}

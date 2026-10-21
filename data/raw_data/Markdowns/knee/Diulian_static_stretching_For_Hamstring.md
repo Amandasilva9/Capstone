@@ -1,0 +1,397 @@
+[page 1]
+
+
+## **Physiotherapy Theory and Practice** 
+
+**An International Journal of Physical Therapy** 
+
+**ISSN: 0959-3985 (Print) 1532-5040 (Online) Journal homepage: http://www.tandfonline.com/loi/iptp20** 
+
+
+
+# **Influence of static stretching on hamstring flexibility in healthy young adults: Systematic review and meta-analysis** 
+
+#### **Diulian M. Medeiros PT, Anelize Cini PT, Graciele Sbruzzi PT, ScD & Cláudia S. Lima PT, ScD** 
+
+**To cite this article:** Diulian M. Medeiros PT, Anelize Cini PT, Graciele Sbruzzi PT, ScD & Cláudia S. Lima PT, ScD (2016): Influence of static stretching on hamstring flexibility in healthy young adults: Systematic review and meta-analysis, Physiotherapy Theory and Practice, DOI: <u>10.1080/09593985.2016.1204401</u> 
+
+**To link to this article:** <u>http://dx.doi.org/10.1080/09593985.2016.1204401</u> 
+
+
+
+
+
+
+
+
+
+Published online: 26 Jul 2016. 
+
+
+
+Submit your article to this journal 
+
+View related articles View Crossmark data 
+
+
+
+Full Terms & Conditions of access and use can be found at http://www.tandfonline.com/action/journalInformation?journalCode=iptp20 
+
+**Download by:** [Diulian Medeiros] 
+
+**Date:** 27 July 2016, At: 17:56 
+
+
+
+[page 2]
+PHYSIOTHERAPY THEORY AND PRACTICE http://dx.doi.org/10.1080/09593985.2016.1204401 
+
+###### REVIEW 
+
+### Influence of static stretching on hamstring flexibility in healthy young adults: Systematic review and meta-analysis 
+
+Diulian M. Medeiros, PT, Anelize Cini, PT, Graciele Sbruzzi, PT, ScD, and Cláudia S. Lima, PT, ScD 
+
+Physical Therapy Course, Federal University of Rio Grande do Sul, Porto Alegre, Brazil 
+
+ABSTRACT The aim of the current study was to investigate the influence of static stretching on hamstring flexibility in healthy young adults by means of systematic review and meta-analysis. The search strategy included MEDLINE, PEDro, Cochrane CENTRAL, EMBASE, LILACS, and manual search from inception to June 2015. Randomized and controlled clinical trials studies that have compared static stretching to control group, and evaluated range of motion (ROM), were included. On the other hand, studies that have worked with special population such as children, elderly people, athletes, and people with any dysfunction/disease were excluded, as well as articles that have used contralateral leg as control group or have not performed static stretching. The meta-analysis was divided according to three types of tests. Nineteen studies were included out of the 813 articles identified. In all tests, the results favored static stretching compared to control group: passive straight leg raise (12.04; 95% CI: 9.61 to 14.47), passive knee extension test (8.58; 95% CI: 6.31 to 10.84), and active knee extension test (8.35; 95% CI: 5.15 to 11.55). In conclusion, static stretching was effective in increasing hamstring flexibility in healthy young adults. 
+
+ARTICLE HISTORY Received 3 March 2015 Revised 16 September 2015 Accepted 21 September 2015 KEYWORDS Hamstring; range of motion; systematic review 
+
+##### Introduction 
+
+Hamstring muscles are well known for their great tendency to shortening (Kerkhoffs, Wieldraaijer, Tsierevelt, and Dijk, 2013; Safran, Seaber, and Garrett, 1989), which is due to their multijoint condition, their tonic postural character, and considerable amount of tensional forces to which they are constantly submitted (Davis et al., 2005). The literature shows that lack of hamstring flexibility may result in major muscle imbalances, predisposing athletes to muscle injuries (Witvrouw et al., 2003), patellar tendinopathy, and patellofemoral pain (Harvard and Ronald, 2007; Jonhagen, Nemeth, and Eriksson, 1994; Witvrouw et al., 2000), as well as facilitating the development of low back pain (Alston et al., 1966; Biering-Sorensen, 1984; Jonhagen, Nemeth, and Eriksson, 1994; Witvrouw et al., 2000). Thereby, hamstring flexibility becomes an important matter in the context of physiotherapy. 
+
+Stretching has been a widespread technique to improve flexibility. There are many stretching techniques in which this goal may be achieved such as ballistic stretching, dynamic stretching, proprioceptive neuromuscular facilitation (PNF), and static stretching (Jaggers, Swank, Frost, and Lee, 2008; Manoel, Harris-Love, Danoff, and Miller, 2008). Static stretching has been the most widely used 
+
+strategy since it is relatively easy to perform, it does not require either too much time or effort, it has a low risk of injuries, and it has shown positive results in improving flexibility (Aquino et al., 2010; Ayala, Sainz de Baranda, De Ste Croix, and Santonja, 2013; Cipriani, Abel, and Pirrwitz, 2003; Ford and McChesney, 2007; Marshall, Cashman, and Cheema, 2011; Rancour, Holmes, and Cipriani, 2009). 
+
+Nevertheless, there is no consensus in the literature regarding the optimal parameters of static stretching that should be applied in order to increase hamstring flexibility. Studies present different number of sets (Aquino et al., 2010; Covert, Alexander, Petronis, and Davis, 2010), duration of stretching (de Weijer, Gorniak, and Shamus, 2003; Halbertsma and Göeken, 1994; Wiemann and Hahn, 1997), length of training (Bandy, Irion, and Briggler, 1998; Cipriani, Abel, and Pirrwitz, 2003; Marshall, Cashman, and Cheema, 2011), and ways to evaluate flexibility (Bandy and Irion, 1994; Davis et al., 2005; Waseem, Nuhmani, Ram, and Ahmad, 2009). These inconsistencies diminish the effectiveness of stretching and make it difficult to establish optimal static stretching training programs. 
+
+Hence, the aim of the current study was to investigate the influence of static stretching on hamstring flexibility 
+
+> CONTACT Cláudia S. Lima, PT, ScD claudia.lima@ufrgs.br Federal University of Rio Grande do Sul, Rua Felizardo, 750 – sala 201a LAPEX, Bairro Jardim Botânico, CEP: 90690200, Brazil. 
+
+> Color versions of one or more of the figures in the article can be found online at www.tandfonline.com/iptp. © 2016 Taylor & Francis 
+
+
+
+[page 3]
+2 D. M. MEDEIROS ET AL. 
+
+in healthy young adults by means of systematic review and meta-analysis. 
+
+##### Methods 
+
+##### Data sources and searches 
+
+We searched the following electronic databases (from inception to June 2015): MEDLINE (accessed by PubMed), Physiotherapy Evidence Database (PEDro), The Cochrane Central Register of Controlled Trials (Cochrane CENTRAL), Centro Latino-Americano e do Caribe de Informação em Ciências da Saúde (LILACS), and EMBASE. In addition, we searched the references of published studies. The search was performed in June 2015 and comprised the following terms: “Muscle Stretching Exercises,” “Exercise, Muscle Stretching,” “Exercises, Muscle Stretching,” “Muscle Stretching Exercise,” “Range of Motion, Articular,” “Joint Range of Motion,” “Joint Flexibility,” “Flexibility, Joint,” “Range of Motion,” “Passive Range of Motion,” combined with a high sensitivity combination of words used in the search for randomized clinical trials (Robinson and Dickersin, 2002). We included publications in English, Spanish, and Portuguese. The complete search strategy used for the MEDLINE database is shown in Table 1 (Moher, Liberati, Tetzlaff, and Altman, 2009). Details for the other strategies used are available on request. 
+
+##### Studies selection 
+
+We included randomized clinical trials and controlled clinical trials that assessed the influence of static stretching (passive or active) compared to a control group (no intervention) and evaluated hamstring flexibility in healthy young adults. The following exclusion criteria were used: (1) samples comprised of people with any disease/dysfunction; (2) samples formed by athletes; (3) samples of people under 18 or over 40 years old; (4) non-application of static stretching; (5) no assessment of range of motion (ROM); and (6) contralateral leg used as control group. Two investigators, in duplicate, independently evaluated titles and abstracts of all articles identified by the search strategy. All abstracts that did not provide sufficient information regarding the inclusion and exclusion criteria were selected for full-text evaluation. In the second phase, the same reviewers independently evaluated the full-text articles and made their selection in accordance with the eligibility criteria. Disagreements between reviewers were solved by consensus or through a third person review. 
+
+##### Data extraction 
+
+Using standardized forms, the same two reviewers independently conducted data extraction with regard to the methodological characteristics of the studies, interventions, participants, and outcomes; disagreements were also solved by consensus. The main outcome extracted was ROM. 
+
+##### Quality assessment 
+
+Table 1. Complete search strategy used for MEDLINE. 
+
+- #1 (randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized controlled trials[mh] OR random allocation[mh] OR double-blind method[mh] OR single-blind method[mh] OR clinical trial[pt] OR clinical trials[mh] OR (“clinical trial”[tw]) OR ((singl*[tw] OR doubl*[tw] OR trebl*[tw] OR tripl*[tw]) AND (mask*[tw] OR blind* [tw])) OR (“latin square”[tw]) OR placebos[mh] OR placebo*[tw] OR random*[tw] OR research design[mh:noexp] OR follow-up studies [mh] OR prospective studies[mh] OR cross-over studies[mh] OR control*[tw] OR prospectiv*[tw] OR volunteer*[tw]) NOT (animal[mh] NOT human[mh]) 
+
+- #2 “Muscle Stretching Exercises”[Mesh] OR “Exercise, Muscle Stretching” OR “Exercises, Muscle Stretching” OR “Muscle Stretching Exercise” OR “Dynamic Stretching” OR “Stretching, Dynamic” OR “Isometric Stretching” OR “Stretching, Isometric” OR “Active Stretching” “Stretching, Active” OR “Static-Active Stretching” OR “Static Active Stretching” OR “Stretching, Static-Active” OR “Static Stretching” OR “Stretching, Static” OR “Passive Stretching” OR “Stretching, Passive” OR “Relaxed Stretching” OR “Stretching, Relaxed” OR “Static-Passive Stretching” OR “Static Passive Stretching” OR “Stretching, StaticPassive” OR “Ballistic Stretching” OR “Stretching, Ballistic” OR “Proprioceptive Neuromuscular Facilitation (PNF) Stretching” 
+
+> #3 “Range of Motion, Articular”[Mesh] OR “Joint Range of Motion” OR “Joint Flexibility” OR “Flexibility, Joint” OR “Range of Motion” OR “Passive Range of Motion” OR “muscle length 
+
+- #4 #1 AND #2 AND #3 
+
+Study quality assessment included adequate sequence generation, allocation concealment, blinding of outcome assessors, use of intention-to-treat analysis, and description of losses and exclusions. Use of intention-to-treat analysis was considered as a confirmation on study assessment that the number of participants randomized and the number analyzed were identical, except for patients lost to follow-up or who withdrew consent for study participation. Studies without a clear description of these characteristics were considered as unclear or not reporting the latter. The same two reviewers independently performed quality assessment. 
+
+##### Data synthesis and analysis 
+
+Pooled-effect estimates were obtained by post-intervention values. Calculations were performed using a randomeffects method. A p-value ≤ 0.05 and confidence interval of 95% (95% CI) were considered statistically significant. Statistical heterogeneity of the treatment effects among 
+
+
+
+[page 4]
+PHYSIOTHERAPY THEORY AND PRACTICE 3 
+
+studies was assessed using Cochran’s Q test and the inconsistency I<sup>2</sup> test, in which values above 25% and 50% were considered indicative of moderate and high heterogeneity, respectively (Higgins, Thompson, Deeks, and Altman, 2003). All analyses were conducted using Review Manager version 5.2. Because of the different techniques used to evaluate ROM, it was necessary to separate the studies for the meta-analysis according to three types of test: (1) passive straight leg raise; (2) passive knee extension (full knee extension as 0°); and (3) active knee extension (90° knee flexionas 0°).Weexplored heterogeneity between studies by re-running the meta-analyses removing one paper at a time to check whether some individual study explained heterogeneity. Sensitivity analysis could not be performed since we were unable to find subgroups of studies that could provide relevant clinical information within the analyses performed. 
+
+##### Risk of bias 
+
+Of the studies included in the systematic review, 26.3% presented an adequate sequence generation, none presented reported allocation concealment; 42.1% had blinded assessment of outcomes; 36.8% described losses to follow-up and exclusions; and 63.1% of the studies used the intention-to-treat principle for statistical analyses (Table 3). 
+
+##### Effects of interventions 
+
+##### Range of motion 
+
+The quantitative analysis of the ROM was carried out grouping the articles that have used the same ROM assessment technique, as described above. 
+
+##### Passive straight leg raise test 
+
+##### Results 
+
+##### Description of studies 
+
+The search strategy yielded 813 articles, among which 58 studies were considered as potentially relevant and retrieved for detailed analysis. Nineteen of these studies met the eligibility criteria and were included in the systematic review (n = 689). Figure 1 shows the flow diagram of the studies included in this review and Table 2 summarizes the characteristics of these studies. 
+
+Eight studies (Ayala and de Baranda Andújar, 2010; Ayala et al., 2013; Cipriani et al., 2012; Gajdosik, 1991; Gribble, Guskiewicz, Prentice, and Shields, 1999; Halbertsma and Göeken, 1994; Marshall, Cashman, and Cheema, 2011; Wiemann and Hahn, 1997) (n = 291) evaluated the influence of the static stretching on the ROM, using as evaluation method the passive straight leg raise test. We observed that static stretching provides higher gain in ROM compared to the control group (12.04°; 95% CI: 9.61 to 14.47; I<sup>2</sup> : 2%) (Figure 2). 
+
+
+
+Figure 1. Flowchart of studies included in the review. 
+
+
+
+[page 5]
+4 D. M. MEDEIROS ET AL. 
+
+Table 2. Characteristics of included studies. 
+
+|Study|Subjects/mean age ±<br>SD|Technique|Outcome|Duration|Protocol|
+|---|---|---|---|---|---|
+|Ayala and de Baranda<br>Andújar (2010)|150/21.3 ± 2.5|Static stretching active|PSLR|6 × 30 s|12 weeks, 3/weeks|
+|Ayala et al. (2013)|138/21.9 ± 1.7|Static stretching active|PSLR|6 × 30 s—rest 20 s|12 weeks, 3/weeks|
+|Bandy and Irion (1994)|57/26.5 ± 5.3|Static stretching|PKE|1 × 30 s|6 weeks, daily|
+|Bandy et al. (1997)|93/26.2 ± 5.1|Static stretching|PKE|1 × 30 s|6 weeks, daily|
+|Bandy et al. (1998)|58/26.2 ± 5.7|Static stretching|PKE|1 × 30 s|6 weeks, daily|
+|Cipriani et al. (2012)|53/24 ± 5.5|Static stretching|PSLR|2 × 30 s—rest 10 s|4 weeks, 3/weeks|
+|Covert et al. (2010)|32/21.6 ± 2.7|Static stretching|PKE|1 × 30 s|4 weeks, 3/weeks|
+|Ford and McChesney<br>(2007)|32/22.1 ± 3.0|Static stretching|AKE|5 × 30 s—rest 10 s|Acute effect|
+|Gajdosik (1991)|24/25.3 ± 5.6|Static stretching|AKE and SLR|10 × 15 s—rest 15 s|3 weeks, daily|
+|Gribble et al. (1999)|42/19.67 ± 1.55|Static stretching|AKE and PSLR|4 × 30 s—rest 30 s|6 weeks, 3/weeks|
+|Halbertsma and Göeken<br>(1994)|14/27.2 ± 5.3|Passive stretching|PSLR|10 min (twice a day)|4 weeks, daily|
+|Li et al. (1996)|39/29.3 ± 3.5|Static stretching|AKE and PSLR|10 × 15 s—rest 15 s|3 weeks, daily|
+|Lim et al. (2014)|48/22.25 ± 2.29|Static stretching|AKE|1 × 30 s|Acute effect|
+|Marshall et al. (2011)|22/22.7 ± 3.8|Passive stretching|PSLR|3 × 30s—4 stretchings|4 weeks, 5/weeks|
+|Milazotto et al. (2009)|25/21 ± 4|Static stretching|AKE|10 × 30 s|6 weeks, 3/weeks|
+|O’Hora et al. (2011)|45/25 ± 2.8|Static stretching|PKE|1 × 30 s|acute effect|
+|Rancour, Terry, Holmes<br>and Cipriani (2010)|20/Not informed|Static stretching|PSLR|1 × 30 s (twice a day)|4 weeks, daily|
+|de Weijer et al. (2003)|56/25.2 ± 3.1|Static stretching|AKE|3 × 30—rest 10 s|Acute effect|
+|Wiemann and Hahn<br>(1997)|69/Not informed|Static stretching|PSLR|3 × 15—3 stretchings|Acute effect|
+
+
+
+PSLR, Passive straight leg raise; PKE, Passive knee extension; AKE, Active knee extension. 
+
+Table 3. Risk of bias of included studies. 
+
+|Study|Adequate sequence<br>generation|Allocation<br>concealment|Blinding of outcomes<br>assessors|Description of losses and<br>exclusions|Intention-to-treat<br>analysis|
+|---|---|---|---|---|---|
+|Ayala and de Baranda Andújar (2010)|Not informed|Not informed|Yes|Not informed|Yes|
+|Ayala et al. (2013)|Yes|Not informed|Yes|Yes|No|
+|Bandy and Irion (1994)|Not informed|Not informed|Yes|Yes|No|
+|Bandy et al. (1997)|Not informed|Not informed|Not informed|Yes|No|
+|Bandy et al. (1998)|Not informed|Not informed|Yes|Not informed|Yes|
+|Cipriani et al. (2012)|Not informed|Not informed|Yes|Yes|No|
+|Covert et al. (2010)|Yes|Not informed|Yes|Yes|No|
+|Ford and McChesney (2007)|Not informed|Not informed|Not informed|Not informed|Yes|
+|Gajdosik (1991)|Not informed|Not informed|Not informed|Not informed|Yes|
+|Gribble et al. (1999)|Not informed|Not informed|Not informed|Yes|Yes|
+|Halbertsma and Göeken (1994)|Not informed|Not informed|Not informed|Yes|No|
+|Li et al. (1996)|Not informed|Not informed|Not informed|Not informed|Yes|
+|Lim et al. (2014)|Yes|No|Not informed|Not informed|Yes|
+|Marshall et al. (2011)|Not informed|No|Not informed|Not informed|Yes|
+|Milazotto et al. (2009)|Not informed|Not informed|Yes|No|No|
+|O’Hora et al. (2011)|Yes|Not informed|Not informed|Not informed|Yes|
+|Rancour et al. (2010)|Yes|Not informed|Not informed|Not informed|Yes|
+|de Weijer et al. (2003)|Yes|Not informed|Yes|Not informed|Yes|
+|Wiemann and Hahn (1997)|Not informed|Not informed|Not informed|Not informed|Yes|
+
+
+
+
+
+Figure 2. Analysis of passive straight leg raise test. 
+
+
+
+[page 6]
+PHYSIOTHERAPY THEORY AND PRACTICE 
+
+5 
+
+
+
+Figure 3. Analysis of passive knee extension test. 
+
+##### Passive knee extension test 
+
+Six studies (Bandy and Irion, 1994; Bandy, Irion, and Briggler, 1997; Bandy, Irion, and Briggler, 1998; Covert, Alexander, Petronis, and Davis, 2010; Gajdosik, 1991; O’Hora et al., 2011) (n = 183) evaluated the influence of static stretching on the ROM, using as evaluation method the passive knee extension test. Static stretching provides higher gain in ROM compared to the control group (8.58; 95% CI: 6.31 to 10.84; I<sup>2</sup> : 0%) (Figure 3). 
+
+##### Active knee extension test 
+
+Five studies (de Weijer, Gorniak, and Shamus, 2003; Ford and McChesney, 2007; Gribble, Guskiewicz, Prentice, and Shields, 1999; Lim, Nam, and Jung, 2014; Millazoto, Corazzina, and Liebano, 2009) (n = 184) evaluated the influence of the static stretching on the ROM, using active knee extension test (knee flexion 90° considered as 0°). However, only four studies were suitable for meta-analysis (de Weijer, Gorniak, and Shamus, 2003; Ford and McChesney, 2007; Gribble, Guskiewicz, Prentice, and Shields, 1999; Millazoto, Corazzina, and Liebano, 2009) (n = 136). We observed that static stretching provides higher gain in ROM compared to the control group (8.35°; 95% CI: 5.15 to 11.55; I<sup>2</sup> : 0%) (Figure 4). 
+
+##### Discussion 
+
+This systematic review and meta-analysis’ findings elicit that regardless of the parameters used, static stretching was effective in increasing hamstring flexibility in healthy young adults compared to a control group (no stretching). However, there was no consensus in the literature about optimal static stretching parameters to enhance hamstring flexibility. 
+
+The mechanisms responsible for increasing muscle length after stretching are not completely understood (Weppler and Magnusson, 2010). The improvements in ROM observed after static stretching training might be explained by the fact that in static stretching there is a great possibility of increasing the number of sarcomeres in series (muscle length) due to longer exposure to the stresses generated in the specific degree of stretching, which remains constant (Bandy and Sanders, 2001). In addition, stretching increases viscoelasticity and decreases stiffness of muscular and connective tissues (Halbertsma, Van Bolhuis, and Göken, 1996; Magnusson, Simonsen, Aagaard, and Kjaer, 1996), which enhances muscular extensibility. Nonetheless, many studies (Ben and Harvey, 2010; Folpp, Deall, Harvey, and Gwinn, 2006; Konrad and Tilp, 2014; Law et al., 2009) have refuted the existence of muscular mechanical adaptation after static stretching. Instead, 
+
+
+
+Figure 4. Analysis of active knee extension test (knee flexion 90° considered as 0°). 
+
+
+
+[page 7]
+6 D. M. MEDEIROS ET AL. 
+
+they state that what appears to be a mechanical change in muscular extensibility is in fact just an increased sensory capacity of tolerating the discomfort associated with stretching of tight muscles. Regardless of the mechanisms behind flexibility improvements, the benefits of both stretching and adequate flexibility seem to be real. 
+
+Stretching itself enhances blood supply in joints and muscles, helping to warm them up, which improves functional performance during sports and activities of daily living (Savelberg and Meijer, 2003). Even though there is substantial evidence suggesting that stretching performed prior to physical activities may decrease muscle performance (Behm, Bambury, Cahill, and Power, 2004; Cramer et al., 2004; Cramer et al., 2007; Nelson, Guillory, Cornwell, and Kokkonen, 2001), we recommend a regular practice of static stretching due its satisfactory effect on flexibility as demonstrated in the present study. 
+
+As important as stretching are the flexibility improvements acquired as a result of stretching training. Adequate hamstring extensibility may prevent or relieve symptoms of both sacroiliac joint pain (Massoud Arab, Reza Nourbakhsh, and Mohammadifar, 2011) and low back pain (Alston et al., 1966; Biering-Sorensen, 1984). Likewise, proper muscular flexibility seems to decrease the risk of musculotendinous injuries (Cross and Worrell, 1999; Mahieu et al., 2006; Witvrouw et al., 2003). Flexibility also seems to have an important role in muscle function, improving results of various types of activities (Shrier, 2004). According to Ferreira, TeixeiraSalmela, and Guimaraes (2007) and LaRoche, Lussier, and Roy (2008) increased flexibility from long-term stretching training enhances muscle performance, which, in turn, improves functional capacity. 
+
+This review presents several methodological strengths such as the formulation of a focused research question, evaluation of a single stretching technique (static stretching), and a specific sample (healthy young adults). Also, a strategy for a sensitive and comprehensive search for the location of all studies in this topic was held. Furthermore, to the best of our knowledge, the current study is the first meta-analysis addressing the influence of stretching on flexibility. Making a parallel between our study and the review by Decoster, Cleland, Altiery, and Russel (2005), we are able to state that our findings seem more conclusive. This is probably related to the fact that we have focused our study on static stretching only, which enables us to carry out a meta-analysis. 
+
+One factor that negatively interfered in the data analysis was the difference between training protocols, with respect to both duration of stretching and length of training. This discrepancy did not allow us to conduct a 
+
+meta-analysis compiling all studies, and it was not possible to carry out relevant sensitivity analyses that would enable comparisons between stretching parameters found in the literature. Another point that should be highlighted as a limitation is the moderate methodological quality of the included articles. None of the studies reported allocation concealment. Less than half of the studies blinded the outcome assessors or explained the generation of the random sequence. These data show that greater concern about the internal validity of the studies is required in order to obtain more reliable data. 
+
+##### Conclusion 
+
+This systematic review showed that static stretching was effective in increasing hamstring flexibility in healthy young adults, regardless of the stretching parameters used among the included studies. However, due to the methodological heterogeneity between the studies, it was not possible to determine optimal stretching training parameters. Future systematic reviews and studies should either analyze other stretching techniques or compare static stretching with other approaches to find out the most effective way to improve flexibility. 
+
+##### Acknowledgments 
+
+We thank the University for its assistance in obtaining the literature. 
+
+##### Declaration of interest 
+
+The authors have no conflicts of interest and did not receive financial assistance to perform this review. 
+
+##### References 
+
+- Alston W, Carlson KE, Feldman DJ, Grimm Z, Gerontinos E 1966 A quantitative study of muscle factors in the chronic low back syndrome. Journal of the American Geriatrics Society 14: 1041–1047. 
+
+- Aquino CF, Fonseca ST, GonÁalves GG, Silva PL, Ocarino JM, Mancini MC 2010 Stretching versus strength training in lengthened position in subjects with tight hamstring muscles: A randomized controlled trial. Manual Therapy 15: 26–31. 
+
+- Ayala F, de Baranda Andújar PS 2010 Effect of 3 different active stretch durations on hip flexion range of motion. Journal of Strength and Conditioning Research 24: 430–436. 
+
+- Ayala F, Sainz de Baranda P, De Ste Croix M, Santonja F 2013 Comparison of active stretching technique in males with normal and limited hamstring flexibility. Physical Therapy in Sport 14: 98–104. 
+
+- Bandy WD, Irion JM 1994 The effect of time on static stretch on the flexibility of the hamstring muscles. Physical Therapy 74: 845–852. 
+
+
+
+[page 8]
+PHYSIOTHERAPY THEORY AND PRACTICE 7 
+
+- Bandy WD, Irion JM, Briggler M 1997 The effect of time and frequency of static stretching on flexibility of the hamstring muscles. Physical Therapy 77: 1090–1096. 
+
+- Bandy WD, Irion JM, Briggler M 1998 The effect of static stretch and dynamic range of motion training on the flexibility of the hamstring muscles. Journal of Orthopaedic and Sports Physical Therapy 27: 295–300. 
+
+- Bandy WD, Sanders B 2001 Therapeutic Exercise: Techniques for Intervention. Philadelphia, Lippincott, Williams, and Wilkins. 
+
+- Behm DG, Bambury A, Cahill F, Power K 2004 Effect of acute static stretching on force, balance, reaction time, and movement time. Medicine and Science in Sports and Exercise 36: 1397–1402. 
+
+- Ben M, Harvey LA 2010 Regular stretch does not increase muscle extensibility: A randomized controlled trial. Scandinavian Journal of Medicine and Science in Sports 20: 136–144. 
+
+- Biering-Sorensen F 1984 Physical measurements as risk indicators for low-back trouble over a one-year period. Spine 9 (2): 106–119. 
+
+- Cipriani DJ, Abel B, Pirrwitz D 2003 A comparison of two stretching protocols on hip range of motion: Implications for total daily stretch duration. Journal of Strength and Conditioning Research 17: 274–278. 
+
+- Cipriani DJ, Terry ME, Haines MA, Tabibnia AP, Lyssanova O 2012 Effect of stretch frequency and sex on the rate of gain and rate of loss in muscle flexibility during a hamstring-stretching program: A randomized single-blind longitudinal study. Journal of Strength and Conditioning Research 26: 2119–2129. 
+
+- Covert CA, Alexander MP, Petronis JJ, Davis DS 2010 Comparison of ballistic and static stretching on hamstring muscle length using an equal stretching dose. Journal of Strength and Conditioning Research 24: 3008–3014. 
+
+- Cramer JT, Beck TW, Housh TJ, Massey LL, Marek SM, Danglemeier S, Purkayastha S, Culbertson JY, Fitz KA, Egan AD 2007 Acute effects of static stretching on characteristics of the isokinetic angle-torque relationship, surface electromyography, and mechanomyography. Journal of Sports Sciences 25: 687–698. 
+
+- Cramer JT, Housh TJ, Johnson GO, Miller JM, Coburn JW, Beck TW 2004 Acute effects of static stretching on peak torque in women. Journal of Strength and Conditioning Research 18: 236–241. 
+
+- Cross KM, Worrell TW 1999 Effects of a static stretching program on the incidence of lower extremity musculotendinous strains. Journal of Athletic Training 34: 11–14. 
+
+- Davis DS, Ashby PE, McCale KL, McQuain JA, Wine JM 2005 The effectiveness of 3 stretching techniques on hamstring flexibility using consistent stretching parameters. Journal of Strength and Conditioning Research 19: 27–32. 
+
+- Decoster LC, Cleland J, Altieri C, Russell P 2005 The effects of hamstring stretching on range of motion: a systematic literature review. Journal of Orthopaedic and Sports Physical Therapy 35: 377–387. 
+
+- de Weijer VC, Gorniak GC, Shamus E 2003 The effect of static stretch and warm-up exercise on hamstring length over the course of 24 hours. Journal of Orthopaedic and Sports Physical Therapy 33: 727–733. 
+
+- Ferreira GN, Teixeira-Salmela LF, Guimaraes CQ 2007 Gains in flexibility related to measures of muscular performance: 
+
+- impact of flexibility on muscular performance. Clinical Journal of Sport Medicine 17: 276–281. 
+
+- Folpp H, Deall S, Harvey LA, Gwinn T 2006 Can apparent increases in muscle extensibility with regular stretch be explained by changes in tolerance to stretch? Australian Journal of Physiotherapy 52: 45–50. 
+
+- Ford P, McChesney J 2007 Duration of maintained hamstring ROM following termination of three stretching protocols. Journal of Sport Rehabilitation 16: 18–27. 
+
+- Gajdosik RL 1991 Effects of static stretching on the maximal length and resistance to passive stretch of short hamstring muscles. Journal of Orthopaedic and Sports Physical Therapy 14: 250–255. 
+
+- Gribble PA, Guskiewicz KM, Prentice WE, Shields EW 1999 Effects of static and hold-relax stretching on hamstring range of motion using the FlexAbility LEI 000. Journal of Sport Rehabilitation 8: 195–208. 
+
+- Halbertsma JP, Göeken LN 1994 Stretching exercises: effect on passive extensibility and stiffness in short hamstrings of healthy subjects. Archives of Physical Medicine and Rehabilitation 75: 976–981. 
+
+- Halbertsma JPK, Van Bolhuis AI, Göeken LNH 1996 Sport stretching: Effect on passive muscle stiffness of short hamstrings. Archives of Physical Medicine and Rehabilitation 77: 688–692. 
+
+- Harvard V, Roald B 2007 The evaluation of eccentric training as treatment for patellar tendinopathy (jumper’s knee): A critical review of exercise programmes. British Journal of Sports Medicine 41(23): 217. 
+
+- Higgins JP, Thompson SG, Deeks JJ, Altman DG 2003 Measuring inconsistency in meta-analyses. BMJ 327 (7414): 557–560. 
+
+- Jaggers JR, Swank AM, Frost KL, Lee CD 2008 The acute effects of dynamic and ballistic stretching on vertical jump height, force, and power. Journal of Strength and Conditioning Research 22: 1844–1849. 
+
+- Jonhagen S, Nemeth G, Eriksson E 1994 Hamstring injuries in sprinters. The role of concentric and eccentric hamstring muscle strength and flexibility. American Journal of Sports Medicine 22: 262–266. 
+
+- Kerkhoffs GM, van Es N, Wieldraaijer T, Sierevelt N, Ekstrand J, van Dijk CN 2013 Diagnosis and prognosis of acute hamstring injuries in athletes. Knee Surgery, Sports Traumatology, Arthroscopy 21(2): 500–509. 
+
+- Konrad A, Tilp M 2014 Increased range of motion after static stretching is not due to changes in muscle and tendon structures. Clinical Biomechanics 29: 636–642. 
+
+- LaRoche DP, Lussier MV, Roy SJ 2008 Chronic stretching and voluntary muscle force. Journal of Strength and Conditioning Research 22: 589–596. 
+
+- Law RY, Harvey LA, Nicholas MK, Tonkin L, De Sousa M, Finniss DG 2009 Stretch exercises increase tolerance to stretch in patients with chronic musculoskeletal pain: A randomized controlled trial. Physical Therapy 89: 1016– 1026. 
+
+- Li Y, McClure PW, Pratt N 1996 The effect of hamstring muscle stretching on standing posture and on lumbar and hip motions during forward bending. Physical Therapy 76 (8): 836–845. 
+
+- Lim K, Nam HC, Jung KS 2014 Effects on hamstring muscle extensibility, muscle activity, and balance of different stretching techniques. J Phys Ther Sci. 26: 209–213. 
+
+
+
+[page 9]
+8 D. M. MEDEIROS ET AL. 
+
+- Magnusson SP, Simonsen EB, Aagaard P, Kjaer M 1996 Biomechanical responses to repeated stretches in human hamstring muscle in vivo. American Journal of Sports Medicine 24: 622–628. 
+
+- Mahieu NN, Witvrouw E, Stevens V, Van Tiggelen D, Roget P 2006 Intrinsic risk factors for the development of Achilles tendon overuse injury: A prospective study. American Journal of Sports Medicine 34: 226–235. 
+
+- Manoel ME, Harris-Love MO, Danoff JV, Miller TA 2008 Acute effects of static, dynamic, and proprioceptive neuromuscular facilitation stretching on muscle power in women. Journal of Strength and Conditioning Research 22: 1528–1534. 
+
+- Marshall PW, Cashman A, Cheema BS 2011 A randomized controlled trial for the effect of passive stretching on measures of hamstring extensibility, passive stiffness, strength, and stretch tolerance. Journal of Science and Medicine in Sport 14: 535–540. 
+
+- Massoud Arab A, Reza Nourbakhsh M, Mohammadifar A 2011 The relationship between hamstring length and gluteal muscle strength in individuals with sacroiliac joint dysfunction. Journal of Manual and Manipulative Therapy 19: 5–10. 
+
+- Milazzotto MV, Corazzina LG, Liebano RE 2009 Influência do número de séries e tempo de alongamento estático sobre a flexibilidade dos músculos isquiotibiais em mulheres sedentárias. Rev Bras Med Esporte 15(6): 420–423. 
+
+- Moher D, Liberati A, Tetzlaff J, Altman DG 2009 Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 6(7): e1000097. 
+
+- Nelson AG, Guillory IK, Cornwell C, Kokkonen J 2001 Inhibition of maximal voluntary isokinetic torque production following stretching is velocity-specific. Journal of Strength and Conditioning Research 15: 241–246. 
+
+- O’Hora J, Cartwright A, Wade CD, Hough AD, Shum GL 2011 Efficacy of static stretching and proprioceptive neuromuscular facilitation stretch on hamstrings length after a single session. Journal of Strength and Conditioning Research 25: 1586–1591. 
+
+- Rancour JL, Holmes CF, Cipriani DJ 2009 The effects of intermittent stretching following a 4-week static stretching 
+
+protocol: A randomized trial. Journal of Strength and Conditioning Research 23: 2217–2222. 
+
+- Rancour JL, Terry ME, Holmes C, Cipriani DJ 2010 Superficial precooling on a 4-week static stretching regimen: A randomized trial. Sports Health 2: 433–436. 
+
+- Robinson KA, Dickersin K 2002 Development of a highly sensitive search strategy for the retrieval of reports of controlled trials using PubMed. International Journal of Epidemiology 31: 150–153. 
+
+- Safran MR, Seaber AV, Garrett WE 1989 Warm-up and muscular injury prevention. An update. Sports Medicine 8: 239–249. 
+
+- Savelberg HH, Meijer K 2003 Contribution of mono- and biarticular muscles to extending knee joint moments in runners and cyclists. Journal of Applied Physiology 94: 2241–2248. 
+
+- Shrier I 2004 Does stretching improve performance? A systematic and critical review of the literature. Clinical Journal of Sports Medicine 14(5): 267–273. 
+
+- Waseem M, Nuhmani S, Ram CS, Ahmad F 2009 A comparative study: Staticstretching versus eccentric training on popliteal angle in normal healthy Indian collegiate males. International Journal of Sports Science and Engineering 3 (3): 180–186. 
+
+- Weppler CH, Magnusson SP 2010 Increasing muscle extensibility: A matter of increasing length or modifying sensation? Physical Therapy 90: 438–449. 
+
+- Wiemann K, Hahn K 1997 Influences of strength, stretching and circulatory exercises on flexibility parameters of the human hamstrings. International Journal of Sports Medicine 18: 340–346. 
+
+- Witvrouw E, Danneels L, Asselman P, D’Have T, Cambier D 2003 Muscle flexibility as a risk factor for developing muscle injuries in male professional soccer players. A prospective study. American Journal of Sports Medicine 31: 41–46. 
+
+- Witvrouw E, Lysens R, Bellemans J, Cambier D, Vanderstraeten G 2000 Intrinsic risk factors for the development of anterior knee pain in an athletic population. A two-year prospective study. American Journal of Sports Medicine 28: 480–489. 
+

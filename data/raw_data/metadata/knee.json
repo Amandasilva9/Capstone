@@ -1,0 +1,118 @@
+{
+  "topic": "knee",
+  "sources": [
+    {
+     "source_id": "knee/Cheatham_FoamRoller_Increase_Joint_ROM_Knee",
+      "title": "The effects of self-myofascial release using a foam roll or roller massager on joint range of motion, muscle recovery, and performance: a systematic review",
+      "authors": [
+        "Scott W. Cheatham",
+        "Morey J. Kolber",
+        "Matt Cain",
+        "Matt Lee"
+      ],
+      "year": 2015,
+      "journal": "The International Journal of Sports Physical Therapy",
+      "doi": "PMC4637917",
+      "study_type": "systematic review",
+      "keywords": ["foam rolling", "myofascial release", "joint mobilization", "non-stretching intervention"],
+      "pdf_path": "data/raw_data/pdfs/knee/Cheatham_FoamRoller_Increase_Joint_ROM_Knee.pdf",
+      "markdown_path": "data/raw_data/markdown/knee/Cheatham_FoamRoller_Increase_Joint_ROM_Knee.md",
+      "page_count": 12,
+      "notes": "Reviews evidence indicating that self-myofascial release tools can enhance joint range of motion (ROM) and the recovery process by decreasing delayed onset muscle soreness."
+    },
+    {
+     "source_id": "knee/Diulian_static_stretching_For_Hamstring",
+      "title": "Influence of static stretching on hamstring flexibility in healthy young adults: Systematic review and meta-analysis",
+      "authors": [
+        "Diulian M. Medeiros",
+        "Anelize Cini",
+        "Graciele Sbruzzi",
+        "Cláudia S. Lima"
+      ],
+      "year": 2016,
+      "journal": "Physiotherapy Theory and Practice",
+      "doi": "10.1080/09593985.2016.1204401",
+      "study_type": "systematic review",
+      "keywords": [
+        "ROM",
+        "static stretching",
+        "flexibility"
+      ],
+      "pdf_path": "data/raw_data/pdfs/knee/Diulian_static_stretching_For_Hamstring.pdf",
+      "markdown_path": "data/raw_data/markdown/knee/Diulian_static_stretching_For_Hamstring.md",
+      "page_count": 9,
+      "notes": "Concludes that static stretching is effective in increasing hamstring flexibility and passive knee extension in healthy young adults."
+    },
+    {
+      "source_id": "knee/Harato_Gait_Analysis_Knee&Spine_Relationship",
+      "title": "A gait analysis of simulated knee flexion contracture to elucidate knee-spine syndrome",
+      "authors": [
+        "Kenta Harato"
+      ],
+      "year": 2008,
+      "journal": "Gait & Posture",
+      "doi": "10.1016/j.gaitpost.2008.05.008",
+      "study_type": "biomechanical gait analysis",
+      "keywords": [
+        "kinetic chain",
+        "kinematics",
+        "imbalance"
+      ],
+      "pdf_path": "data/raw_data/pdfs/knee/Harato_Gait_Analysis_Knee&Spine_Relationship.pdf",
+      "markdown_path": "data/raw_data/markdown/knee/Harato_Gait_Analysis_Knee&Spine_Relationship.md",
+      "page_count": 6,
+      "notes": "Analyzes how knee flexion contractures significantly influence three-dimensional trunk kinematics during standing and walking, contributing to spinal imbalance."
+    },
+    {
+      "source_id": "knee/Xiaotin_Joint_Moblization_For_Pain_Knee",
+      "title": "Effects of Joint Mobilization on Pain, Range of Motion, and Function in Patients with Knee Osteoarthritis: A Systematic Review and Meta-analysis of Randomized Controlled Trials",
+      "authors": [
+        "Xiaoting Chen",
+        "Debiao Yu",
+        "Yaoyu Lin",
+        "Peng Chen",
+        "Bin Shao",
+        "Fuchun Wu"
+      ],
+      "year": 2024,
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.11.10.24317074v1",
+      "study_type": "systematic review",
+      "keywords": [
+        "pain reduction",
+        "joint mobilization",
+        "kinetic chain",
+        "ROM"
+      ],
+      "pdf_path": "data/raw_data/pdfs/knee/Xiaotin_Joint_Moblization_For_Pain_Knee.pdf",
+      "markdown_path": "data/raw_data/markdown/knee/Xiaotin_Joint_Moblization_For_Pain_Knee.md",
+      "page_count": 33,
+      "notes": "Demonstrates that joint mobilization significantly improves knee pain and dysfunction in KOA patients, though it does not significantly surpass control groups in purely increasing knee mobility."
+    },
+    {
+      "source_id": "knee/YongHao_Physical_fuction_Strength_ROM_Knee",
+      "title": "Associations of self-report physical function with knee strength and knee range-of-motion in total knee arthroplasty: possible nonlinear and threshold effects",
+      "authors": [
+        "Yong-Hao Pua",
+        "Peck-Hoon Ong",
+        "Hwei-Chi Chong",
+        "William Yeo",
+        "Celia I-C Tan",
+        "Ngai-Nung Lo"
+      ],
+      "year": 2013,
+      "journal": "The Journal of Arthroplasty",
+      "doi": "10.1016/j.arth.2012.10.020",
+      "study_type": "retrospective cohort study",
+      "keywords": [
+        "ROM",
+        "mobility",
+        "muscle strength"
+      ],
+      "pdf_path": "data/raw_data/pdfs/knee/YongHao_Physical_fuction_Strength_ROM_Knee.pdf",
+      "markdown_path": "data/raw_data/markdown/knee/YongHao_Physical_fuction_Strength_ROM_Knee.md",
+      "page_count": 7,
+      "notes": "Evaluates nonlinear associations and distinct threshold points between knee extensor strength, range of motion, and physical function post-surgery."
+    }
+  ]
+}

@@ -32,3 +32,6 @@ Thumbs.db
 # Editor settings 
 .vscode/
 .idea/ 
+
+# Raw_data
+raw_data/pdfs/

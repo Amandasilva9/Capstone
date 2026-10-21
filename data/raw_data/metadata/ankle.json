@@ -1,0 +1,75 @@
+{
+  "topic": "ankle",
+  "sources": [
+    {
+      "source_id": "ankle/Grieve_effects_of_foam_rolling",
+      "title": "The effects of foam rolling on ankle dorsiflexion range of motion in healthy adults: A systematic literature review",
+      "authors": ["Grieve et al."],
+      "year": 2022,
+      "journal": "Journal of Bodywork and Movement Therapies",
+      "doi": "10.1016/j.jbmt.2022.01.006",
+      "study_type": "literature review",
+      "keywords": ["foam rolling", "myofascial release", "joint mobilization", "non-stretching intervention"],
+      "pdf_path": "data/raw_data/pdfs/ankle/Grieve_effects_of_foam_rolling.pdf",
+      "markdown_path": "data/raw_data/markdown/ankle/Grieve_effects_of_foam_rolling.md",
+      "page_count": 7,
+      "notes": "Justifies foam rolling as a warm-up or alternative for users who experience muscle tightness without altering tissue strength."
+    },
+    {
+      "source_id": "ankle/Hyunjoong_Effect_Joint_Mobilization_Ankle",
+      "title": "Effect of Joint Mobilization in Individuals with Chronic Ankle Instability: A Systematic Review and Meta-Analysis",
+      "authors": ["Kim", "Moon"],
+      "year": 2022,
+      "journal": "Functional Morphology and Kinesiology",
+      "doi": "10.3390/jfmk7030066",
+      "study_type": "systematic review",
+      "keywords": ["instability", "mobilization", "tightness"],
+      "pdf_path": "data/raw_data/pdfs/ankle/Hyunjoong_Effect_Joint_Mobilization_Ankle.pdf",
+      "markdown_path": "data/raw_data/markdown/ankle/Hyunjoong_Effect_Joint_Mobilization_Ankle.md",
+      "page_count": 10,
+      "notes": "Justifies manual glides when joint stiffness is present for restoring dorsiflexion."
+    },
+    {
+      "source_id": "ankle/Lima_ankle_to_knee_relation",
+      "title": "The association of ankle dorsiflexion and dynamic knee valgus: A systematic review and meta-analysis",
+      "authors": ["Lima et al."],
+      "year": 2018,
+      "journal": "Physical Therapy in Sport",
+      "doi": "10.1016/j.ptsp.2017.07.003",
+      "study_type": "systematic review",
+      "keywords": ["kinetic chain", "ROM"],
+      "pdf_path": "data/raw_data/pdfs/ankle/Lima_ankle_to_knee_relation.pdf",
+      "markdown_path": "data/raw_data/markdown/ankle/Lima_ankle_to_knee_relation.md",
+      "page_count": 9,
+      "notes": "Explains why fixing a 5° ankle limitation matters—preventing knee collapse and lower-limb injury during dynamic movements (squats, jumps)."
+    },
+    {
+      "source_id": "ankle/Medeiros_chronic_effect_of_stretching_dorsiflexion",
+      "title": "Chronic effect of different types of stretching on ankle dorsiflexion range of motion_ Systematic review and meta-analysis",
+      "authors": ["Medeiros", "Martins"],
+      "year": 2018,
+      "journal": "The Foot",
+      "doi": "10.1016/j.foot.2017.09.006",
+      "study_type": "systematic review",
+      "keywords": ["static stretching", "ballistic stretching", "PNF","stretching protocol"],
+      "pdf_path": "data/raw_data/pdfs/ankle/Medeiros_chronic_effect_of_stretching_dorsiflexion.pdf",
+      "markdown_path": "data/raw_data/markdown/ankle/Medeiros_chronic_effect_of_stretching_dorsiflexion.md",
+      "page_count": 8,
+      "notes": "Quantifies exact degree gains (+5.17° for static stretching) and instructs the LLM to recommend static/PNF over ballistic stretching."
+    },
+    {
+      "source_id": "ankle/Young_increasing_ankle_joint_dorsiflexion",
+      "title": "Interventions for increasing ankle joint dorsiflexion: a systematic review and meta‐analysis",
+      "authors": ["Young et al."],
+      "year": 2018,
+      "journal": "Physical Therapy in Sport",
+      "doi": "10.1016/j.ptsp.2017.07.003",
+      "study_type": "systematic review",
+      "keywords": ["clinical baseline","stretching protocol","non-stretching intervention"],
+      "pdf_path": "data/raw_data/pdfs/ankle/Young_increasing_ankle_joint_dorsiflexion.pdf",
+      "markdown_path": "data/raw_data/markdown/ankle/Young_increasing_ankle_joint_dorsiflexion.md",
+      "page_count": 10,
+      "notes": "Establishes clinical cutoffs for ankle restriction (<10° equinus) and validates combination protocols (e.g., heat/stretching)."
+    }
+  ]
+}

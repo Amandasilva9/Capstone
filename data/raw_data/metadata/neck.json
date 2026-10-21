@@ -1,0 +1,130 @@
+{
+  "topic": "neck",
+  "sources": [
+    {
+      "source_id": "neck/Graaf_Neck_range_of_motion",
+      "title": "Normative values of cervical range of motion for both children and adults: A systematic review",
+      "authors": [
+        "M. A. de Graaf",
+        "P. T. van den Oever",
+        "C. J. M. van der Veen",
+        "W. J. J. Assendelft"
+      ],
+      "year": 2017,
+      "journal": "Musculoskeletal Science and Practice",
+      "doi": "10.1016/j.math.2017.02.004",
+      "study_type": "systematic review",
+      "keywords": [
+        "ROM",
+        "kinematics",
+        "normative values"
+      ],
+      "pdf_path": "data/raw_data/pdfs/neck/Graaf_Neck_range_of_motion.pdf",
+      "markdown_path": "data/raw_data/markdown/neck/Graaf_Neck_range_of_motion.md",
+      "page_count": 11,
+      "notes": "Establishes baseline normative values for cervical ROM across different age groups, critical for identifying pathological restriction."
+    },
+    {
+      "source_id": "neck/Gross_Neck_Mobilisation",
+      "title": "Manipulation and mobilisation for neck pain contrasted against an inactive control or another active treatment",
+      "authors": [
+        "Anita R. Gross",
+        "Christian Goldsmith",
+        "Jan L. Hoving",
+        "Trudy Haines",
+        "Nadine Peloso"
+      ],
+      "year": 2015,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "doi": "10.1002/14651858.CD004249.pub4",
+      "study_type": "systematic review",
+      "keywords": [
+        "pain reduction",
+        "mobilization",
+        "manipulation",
+        "manual therapy"
+      ],
+      "pdf_path": "data/raw_data/pdfs/neck/Gross_Neck_Mobilisation.pdf",
+      "markdown_path": "data/raw_data/markdown/neck/Gross_Neck_Mobilisation.md",
+      "page_count": 19,
+      "notes": "Evaluates the efficacy of manual joint mobilization on acute and chronic neck pain; useful as a clinical constraint to distinguish when manual therapy is needed over stretching."
+    },
+    {
+     "source_id": "neck/Mahmoud_Relationship_between_postion_and_pain_Neck",
+      "title": "The Relationship Between Forward Head Posture and Neck Pain: a Systematic Review and Meta-Analysis",
+      "authors": [
+        "Nada F. Mahmoud",
+        "Khadija A. Hassan",
+        "Salwa F. Abdelmajeed",
+        "Ibrahim M. Moustafa",
+        "Anabela G. Silva"
+      ],
+      "year": 2019,
+      "journal": "Current Reviews in Musculoskeletal Medicine",
+      "doi": "10.1007/s11926-019-0848-1",
+      "study_type": "systematic review",
+      "keywords": [
+        "kinematics",
+        "pain reduction",
+        "biomechanics",
+        "forward head posture",
+        "posture"
+      ],
+      "pdf_path": "data/raw_data/pdfs/neck/Mahmoud_Relationship_between_postion_and_pain_Neck.pdf",
+      "markdown_path": "data/raw_data/markdown/neck/Mahmoud_Relationship_between_postion_and_pain_Neck.md",
+      "page_count": 16,
+      "notes": "Directly links FHP to reported neck pain, providing the clinical justification for corrective interventions."
+    },
+    {
+      "source_id": "neck/Navarro_Santana_DryNeedling_for_pain_Neck",
+      "title": "Effectiveness of Dry Needling for Myofascial Trigger Points Associated with Neck Pain Symptoms: An Updated Systematic Review and Meta-Analysis",
+      "authors": [
+        "Marcos J. Navarro-Santana",
+        "Gaston F. Gomez-Chiguano",
+        "Joshua A. Cleland",
+        "Jorge L. Arias-Buría",
+        "César Fernández-de-las-Peñas"
+      ],
+      "year": 2020,
+      "journal": "Journal of Clinical Medicine",
+      "doi": "10.3390/jcm9103300",
+      "study_type": "systematic review",
+      "keywords": [
+        "dry needling",
+        "myofascial release",
+        "pain reduction",
+        "muscle tension",
+        "non-stretching intervention"
+      ],
+      "pdf_path": "data/raw_data/pdfs/neck/Navarro_Santana_DryNeedling_for_pain_Neck.pdf",
+      "markdown_path": "data/raw_data/markdown/neck/Navarro_Santana_DryNeedling_for_pain_Neck.md",
+      "page_count": 35,
+      "notes": "Analyzes an invasive intervention for trigger points."
+    },
+    {
+      "source_id": "neck/Sheikhhoseini_Therapeutic_Exercies_Neck",
+      "title": "Effectiveness of Therapeutic Exercise on Forward Head Posture: A Systematic Review and Meta-analysis",
+      "authors": [
+        "Rahman Sheikhhoseini",
+        "Shahnaz Shahrbanian",
+        "Peyman Aghaie",
+        "Hamed Baghban"
+      ],
+      "year": 2018,
+      "journal": "Journal of Manipulative and Physiological Therapeutics",
+      "doi": "10.1016/j.jmpt.2018.02.002",
+      "study_type": "systematic review",
+      "keywords": [
+        "pain reduction",
+        "forward head posture",
+        "ROM",
+        "muscle strength",
+        "posture"
+      ],
+      "pdf_path": "data/raw_data/pdfs/neck/Sheikhhoseini_Therapeutic_Exercies_Neck.pdf",
+      "markdown_path": "data/raw_data/markdown/neck/Sheikhhoseini_Therapeutic_Exercies_Neck.md",
+      "page_count": 10,
+      "notes": "Validates specific active exercises that can be prescribed by the RAG to correct the craniovertebral angle deficits."
+    }
+  ]
+}
