@@ -19,23 +19,6 @@ Key Indexing Terms: Posture; Head; Neck; Exercise; Review
 
 Forward head posture (FHP) isa common postural variation in people of all ages, from childhood to old age.<sup>1,2</sup> Forward head posture is characterized by the head position in the sagittal 
 
-> a Faculty of Sport Sciences, Allameh Tabataba’i University, Tehran, Iran. 
-
-> b Department of Physical Education, Faculty of Humanities, Tarbiat Modares University, Tehran, Iran. 
-
-> c Faculty of Sport Sciences, Bu Ali Sina University, Hamedan, Iran. 
-
-> d Sports Spine Centre, Aspetar Orthopaedic and Sports Hospital, Doha, Qatar. 
-
-> e SchoolofAlliedHealth,UniversityofLimerick,Limerick,Ireland. 
-
-Corresponding author: Rahman Sheikhhoseini, PhD, Faculty of Sport Sciences, Allameh Tabataba’i University, Tehran, Iran 1485743411. Tel.: +98 2148394134. 
-
-(e-mail: rahman.pt82@gmail.com). 
-
-Paper submitted July 10, 2017; in revised form November 18, 2017; accepted February 12, 2018. 0161-4754 
-
-Copyright © 2018 by National University of Health Sciences. https://doi.org/10.1016/j.jmpt.2018.02.002 
 
 plane being forward relative to the neck. Forward head posture is associated with hyperextension of the upper cervical spine (C1-C3) and flexion of the lower cervical spine (C4-C7). In some studies, FHP is characterized as pathologic when the craniovertebral angle (CVA) is ≥50°, even though such cutoffs ~~lack rigorous validity.~~<sup>3-5</sup> ~~Some research has shown that head~~ and neck position are associated with other musculoskeletal disorders, such as neck pain,<sup>6</sup> headache,<sup>7</sup> and masticatory dysfunction.<sup>8</sup> Thus, it has been hypothesized that the treatment of FHP may be helpful in managing these disorders. 
 
@@ -46,27 +29,15 @@ Several studies have shown that corrective exercise regimes can improve FHP and 
 
 
 [page 2]
-Sheikhhoseini et al 531 Effectiveness of Exercise on Head Posture 
 
-Journal of Manipulative and Physiological Therapeutics Volume 41, Number 6 
 
 range of motion,<sup>22</sup> neck disability,<sup>22</sup> and pain.<sup>5,22</sup> A systematic review with pooled meta-analysis would clarify the strength of theeffect of suchexercisesonFHP.Thepurpose of this systematic review and meta-analysis was to summarize the results related to the effects of corrective exercises on postural variables in individuals with FHP. 
 
 ## METHODS 
 
-### Literature Search Strategy 
-
-To determine whether a systematic review on this topic had existed, the Cochrane Library and the Database of Abstracts of Reviews of Effectiveness were searched and none were found. An extensive review of the electronic literature was subsequently performed by 2 investigators (R.S. and P.S.). The electronic literature databases included PubMed, MEDLINE, Web of Science, ScienceDirect, Cochrane Central Register of Controlled Clinical Trials, Google Scholar, and Scopus. The keywords were originally selected from MeSH terms and then partially modified to try to ensure all eligible studies were found. These electronic databases were searched using combinations of the following keyword groups: (1) exercise, sport, movement therapy, exercise therapy, physical therapy, and corrective exercise; AND (2) FHP, forward head; AND (3) randomized study, randomized controlled trial, randomized clinical trial, randomized trial, randomized experiment. The “AND” operator was used between the 3 keyword groups, while the “OR” operator was used within each keyword group. The search period covered years from inception to February 2017. The reference lists contained in all eligible studies were checked to identify additional eligible studies. 
-
 ### Selection Criteria 
 
 Both reviewers (R.S. and P.S.) independently performed the searches, assessed inclusion criteria, and extracted data on trial design and outcomes, and disagreements were resolved by consensus. Potential publications were selected by screening titles and abstracts for clinical trials that used any kind of exercise intervention for FHP. All potentially eligible studies were retrieved, and the full-text articles were reviewed to determine whether they met the inclusion criteria. Only randomized controlled trials (RCTs) published in peerreviewed journals were considered. Studies had to include a control group and at least 1 variable aimed at assessing head or neck alignment. Studies were not excluded based on the type of exercise protocol used or the type of measurement used to assess FHP. Studies had to be published in English. Studies were excluded if exercise was not performed or if it was performed in addition to other interventions, such as manipulation or medications, and the measured variables did not includeheador neckalignment.Studiesthat had duplicated data were excluded, with only 1 of them selected for the review. 
-
-### Data Extraction 
-
-Review authors (R.S. and S.S.) extracted study data on the following topics: first author name and date of 
-
-publication, quality assessment of the study, participants’ characteristics (eg, sample size, age, and sex), intervention type, frequency, duration, comparison group, outcome measures, and primary results (Table 1). 
 
 ### Quality Assessment and Level of Evidence 
 
@@ -85,9 +56,7 @@ The search of selected databases provided a total of 3380 citations. Of these, 3
 
 
 [page 3]
-532 Sheikhhoseini et al Effectiveness of Exercise on Head Posture 
 
-Journal of Manipulative and Physiological Therapeutics July/August 2018 
 
 criteria. The full text of the remaining 47 citations were examined in more detail, with 39 being excluded because they did not meet the inclusion criteria, leaving 8 studies. One study was also excluded<sup>15</sup> because it reported overlapping data with another paper included in this review.<sup>3</sup> Finally, a total of 7 clinical trials were therefore eligible (Fig 1). 
 
@@ -144,9 +113,7 @@ C, control group; CA, cranial angle; CCEP, comprehensive corrective exercise pro
 
 
 [page 5]
-534 Sheikhhoseini et al Effectiveness of Exercise on Head Posture 
 
-Journal of Manipulative and Physiological Therapeutics July/August 2018 
 
 
 
@@ -179,9 +146,7 @@ Some of the studies had small sample sizes, so the chance of type 2 errors may b
 
 
 [page 6]
-Sheikhhoseini et al 535 Effectiveness of Exercise on Head Posture 
 
-Journal of Manipulative and Physiological Therapeutics Volume 41, Number 6 
 
 |**Study name**||**Statisti**|**cs for ea**|**ch study**|||**Odds**|**ratio and 95%**|**CI**|
 |---|---|---|---|---|---|---|---|---|---|
@@ -220,9 +185,7 @@ Only 3 studies had medium-term to long-term follow ups: 1 study with 16 weeks,<s
 
 
 [page 7]
-536 Sheikhhoseini et al Effectiveness of Exercise on Head Posture 
 
-Journal of Manipulative and Physiological Therapeutics July/August 2018 
 
 |**Study name**<br>Diab, 2011|**Std diff**<br>**in means**<br>1.809|**St**<br>**Standard**<br>**error**<br>0.242|**atistics f**<br>**Variance**<br>0.059|**or each**<br>**Lower**<br>**limit**<br>1.334|**study**<br>**Upper**<br>**limit **<br>2.284|**Z-Value** <br>7.466|**_P_ Value**<br>0.000||**Std diff in means and 95% CI**|
 |---|---|---|---|---|---|---|---|---|---|
@@ -261,9 +224,7 @@ attempts to search in any language other than English. This review was not regis
 
 
 [page 8]
-Sheikhhoseini et al 537 Effectiveness of Exercise on Head Posture 
 
-Journal of Manipulative and Physiological Therapeutics Volume 41, Number 6 
 
 |**Study name**||**Statisti**|**cs for e**|**ach study**||**Odds ratio and 95% CI**|
 |---|---|---|---|---|---|---|
@@ -296,42 +257,9 @@ precise nature of the relationship between FHP and neck pain is not linear and r
 
 The results of this review provide level 1a evidence that prescribing therapeutic exercises may reduce CVA but level 1b evidence that prescribing therapeutic exercises cannot reduce CA. There is also level 1b evidence of a moderate improvement in neck pain when exercises are prescribed in participants with FHP. The degree of improvement in CVA and pain varied considerably between studies, suggesting some exercise programs may be more effective than others. There was considerable heterogeneity in the results, suggesting caution in extrapolating the findings to all participants with FHP and to all forms of exercise. The 
 
-FUNDING SOURCES AND CONFLICTS OF INTEREST 
-
-No funding sources or conflicts of interest were reported for this study. 
-
-CONTRIBUTORSHIP INFORMATION 
-
-Concept development (provided idea for the research): R.S., S.S., P.S., K.O. 
-
-Design (planned the methods to generate the results): R.S., S.S., P.S., K.O. 
-
-Supervision (provided oversight, responsible for organization and implementation, writing of the manuscript): R.S., K.O. 
-
 
 
 [page 9]
-538 Sheikhhoseini et al Effectiveness of Exercise on Head Posture 
-
-Journal of Manipulative and Physiological Therapeutics July/August 2018 
-
-Data collection/processing (responsible for experiments, patient management, organization, or reporting data): R.S., S.S., P.S., K.O. 
-
-Analysis/interpretation (responsible for statistical analysis, evaluation, and presentation of the results): R.S., S.S. Literature search (performed the literature search): R.S., P.S. Writing (responsible for writing a substantive part of the manuscript): R.S., S.S., K.O. 
-
-Critical review (revised manuscript for intellectual content, this does not relate to spelling and grammar checking): K.O. 
-
-7. Fernandez-de-las-Penas C, Alonso-Blanco C, Cuadrado ML, Gerwin RD, Pareja JA. Trigger points in the suboccipital muscles and forward head posture in tension-type headache. Headache. 2006;46(3):454-460. 
-
-8. Armijo-Olivo S, Rappoport K, Fuentes J, et al. Head and cervical posture in patients with temporomandibular disorders. J Orofac Pain. 2011;25(3):199-209. 
-
-9. Page P, Frank CC, Lardner R. Assessment and Treatment of Muscle Imbalance: The Janda Approach. Champaign, IL: Human Kinetics; 2010. 
-
-10. Liebenson C. Rehabilitation of the Spine: A Practitioner's Manual. 2nd ed. Philadelphia, PA: Lippincott Williams & Wilkins; 2007. 
-
-11. Sahrmann S. Diagnosis and Treatment of Movement Impairment Syndromes. St. Louis, MO: Mosby; 2002. 
-
-12. Sahrmann S. Movement System Impairment Syndromes of the Extremities, Cervical and Thoracic Spines. 1st ed. St. Louis, MO: Mosby; 2010. 
 
 ### Practical Applications 
 

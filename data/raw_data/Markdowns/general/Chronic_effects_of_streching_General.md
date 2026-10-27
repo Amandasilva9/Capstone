@@ -1,31 +1,6 @@
 [page 1]
-Available online at www.sciencedirect.com 
 
 
-
-
-
-Journal of Sport and Health Science 13 (2024) 186�194 
-
-
-
-Review 
-
-Chronic effects of stretching on range of motion with consideration of potential moderating variables: A systematic review with meta-analysis Andreas Konrad<sup>a,b</sup> , Shahab Alizadeh<sup>b</sup> , Abdolhamid Daneshjoo<sup>c</sup> , Saman Hadjizadeh Anvar<sup>b</sup> , Andrew Graham<sup>b</sup> , Ali Zahiri<sup>b</sup> , Reza Goudini<sup>b</sup> , Chris Edwards<sup>b</sup> , Carina Scharf<sup>a</sup> , David George Behm<sup>b,</sup> * 
-
-a Institute of Human Movement Science, Sport and Health, Graz University, Graz A-8010, Austria 
-
-b School of Human Kinetics and Recreation, Memorial University of Newfoundland, St. John’s, NL A1C 5S7, Canada 
-
-c Department of Sport Injuries and Corrective Exercises, Faculty of Sport Sciences, Shahid Bahonar University of Kerman, Kerman 76169-13439, Iran 
-
-Received 4 November 2022; revised 31 March 2023; accepted 10 May 2023 
-
-Available online 8 June 2023 
-
-2095-2546/� 2024 Published by Elsevier B.V. on behalf of Shanghai University of Sport. This is an open access article under the CC BY-NC-ND license. 
-
-(http://creativecommons.org/licenses/by-nc-nd/4.0/) 
 
 ## Abstract 
 
@@ -41,24 +16,13 @@ Keywords: Flexibility; Long-term stretching; Stretch training
 
 The most common stretching techniques are static, ballistic, dynamic, and proprioceptive neuromuscular facilitation (PNF) stretching.<sup>1�7</sup> All of these methods are able to increase joint range of motion (ROM) when implemented consistently in a training program.<sup>8�11</sup> Traditionally, the most commonly used technique is static stretching,<sup>12�16</sup> where the joint is held at 
 
-Peer review under responsibility of Shanghai University of Sport. 
-
-> * Corresponding author. 
-
-E-mail address: dbehm@mun.ca (D.G. Behm). 
 
 the maximum ROM at a specific stretch intensity (e.g., until the point of discomfort).<sup>17</sup> However, in response to research over the last 25 years reporting performance decrements following prolonged static stretching, there has been a shift toward emphasizing dynamic and ballistic stretching, especially in athletic populations.<sup>3,6,18</sup> Dynamic stretching involves moving the joint repeatedly at a controlled velocity throughout the whole ROM.<sup>11</sup> A ballistic stretch is a form of dynamic stretching, but performed at higher velocities where the joint may reach the maximum ROM.<sup>10</sup> Additionally, PNF stretching is a technique frequently used in sports practice as well as in 
-
-https://doi.org/10.1016/j.jshs.2023.06.002 
-
-Cite this article: Konrad A, Alizadeh S, Daneshjoo A, et al. Chronic effects of stretching on range of motion with consideration of potential moderating variables: A systematic review with meta-analysis. J Sport Health Sci 2024;13:186�94. 
 
 
 
 [page 2]
-Stretch training effects on flexibility 
 
-187 
 
 rehabilitation. The PNF technique can be divided into various sub-techniques. In the passive techniques (“contract�relax” or “hold�relax”), the target muscle is placed into a position of stretch followed by a static contraction. The muscle is then passively moved into a greater position of stretch. In the active technique (“contract�relax�antagonist�contract”), the final passive stretch is exchanged by an active contraction of the antagonist, which stretches the target muscle.<sup>4</sup> Due to the different stimuli applied in the various stretching techniques, it is expected that changes in ROM due to long-term stretch training can be explained by different adaptations within the muscle�tendon unit<sup>13,19,20</sup> and/or by changes in stretch or pain perception.<sup>8,13</sup> However, to date it is not clear which stretching technique will result in the highest ROM gains over the long term. 
 
@@ -76,24 +40,11 @@ This review was conducted according to the Preferred Reporting Items for Systema
 
 guidelines and the suggestions for systematic reviews with meta-analysis from Moher et al.<sup>27</sup> 
 
-# 2.1. Search strategy 
-
-An electronic literature search was performed in PubMed, Scopus, Web of Science, and SportDiscus. Papers published through September 2022 were considered for inclusion. Using AND and OR Boolean operators, a systematic search was conducted using the following keywords: flexibility, “range of motion”, extensibility, and stretch*. In addition to the aforementioned keywords, the studies were filtered using the subsequent keywords to include controlled trials: “randomized controlled trial”, “controlled clinical trial”, “randomized”, “placebo”, “randomly”, and “trial”. Furthermore, to exclude animal studies we added a NOT operator with the following MeSH Term “exp animals/not humans”. For example, the following search query was used in PubMed: ((((“flexibility” (Title/Abstract)) OR (“range of motion”(Title/Abstract))) OR (“extensibility”(Title/Abstract))) AND (“stretch*”(Title/ Abstract))) AND ((((((((“randomized controlled trial”(Publication Type)) OR (“controlled clinical trial”(Publication Type))) OR (“randomized”(Title/Abstract))) OR (“placebo”(Title/ Abstract))) OR (“clinical trials as topic”(MeSH Terms))) OR (“randomly”(Title/Abstract))) OR (“trial”(Title/Abstract))) NOT (exp animals/not humans(MeSH Terms))). The systematic search was conducted by 8 independent researchers (SA, SHA, AD, AZ, RG, CE, CS, and AG). Initially, articles were screened by title and abstract. If the content remained unclear, the full text was retrieved for further screening, and relevant papers were identified. Following this screening process, the independent researchers compared their findings. Disagreements were resolved by jointly reassessing the studies against the eligibility criteria. 
-
-# 2.2. Inclusion and exclusion criteria 
-
-This review considered studies that investigated the training effects of stretching on joint ROM in healthy participants. The studies were included when they were either randomized controlled trials or controlled trials with an intervention duration �2 weeks.<sup>28</sup> This means that we excluded studies dealing with the acute effects of stretching (or interventions shorter than 2 weeks), those that investigated any combined treatment (e.g., stretching and strength training), and those that had another treatment as the control condition (e.g., foam roller). Moreover, we excluded review papers, case reports, special communications, letters to the editor, invited commentaries, conference papers, and theses. 
-
-# 2.3. Extraction of the data 
-
-We extracted the following data from included papers: the characteristics of the participants (i.e., age, trained state, sex), the sample size, the characteristics of the intervention (i.e., stretch per bout, stretch duration per week, stretch frequency per week, stretch technique, stretch intensity, muscle stretched, muscle tested, supervision of the stretch intervention), and the 
 
 
 
 [page 3]
-A. Konrad et al. 
 
-188 
 
 results of the main variables (flexibility parameters). For the flexibility parameters, pre- and post-intervention values plus SDs of the foam rolling and control groups were extracted. If some of the required data were missing from the included studies, the authors of the studies were contacted via email or similar channels (e.g., ResearchGate). 
 
@@ -101,23 +52,7 @@ results of the main variables (flexibility parameters). For the flexibility para
 
 The meta-analysis was performed using Comprehensive Meta-Analysis software (Biostat, Englewood, NJ, USA) according to the recommendations of Borenstein et al.<sup>29</sup> By applying a random-effect meta-analysis, we assessed the ES in terms of the standardized mean difference. If any study reported >1 ES, the mean of all the outcomes (ES) within the single study was used for the analysis and was defined as combined (as suggested by Borenstein et al.<sup>29</sup> ). Moreover, we performed subgroup analyses by applying a mixed-effect model. Although there is no general rule of thumb,<sup>29</sup> we only performed subgroup analyses when there were �3 studies included in the respective subgroups. Consequently, we performed subgroup analyses for the muscles tested (sit and reach vs. isolated hamstrings vs. quadriceps vs. triceps surae vs. hip flexors vs. shoulder), intensity of stretch (high intensity vs. low intensity), trained state of the participants (recreational active vs. professional athletes vs. sedentary), stretching techniques (static vs. dynamic/ballistic vs. PNF), supervision of the stretching intervention (fully supervised vs. periodically supervised vs. non supervised), and sex (male vs. female). To determine differences between the ESs of the subgroups, Q-statistics were applied.<sup>29</sup> Moreover, we conducted a meta-regression to assess possible relationships between the moderating variables (i.e., age of the participants, total stretch duration, stretch frequency per week). If the moderating variables could not be clearly defined within a single study (e.g., mixed sex), the study was not considered for the moderating analyses. According to the recommendations of Hopkins et al.,<sup>30</sup> the effects for a standardized mean difference of <0.2, 0.2�0.6, >0.6�1.2, >1.2�2.0, >2.0�4.0, and >4.0 were defined as trivial, small, moderate, large, very large, and extremely large, respectively. I<sup>2</sup> statistics were calculated to assess the heterogeneity among included studies, and thresholds of 25%, 50%, and 75% were defined as having a low, moderate, and high level of heterogeneity, respectively.<sup>31,32</sup> An a level of 0.05 was defined for the statistical significance of all the tests. 
 
-# 2.5. Risk of bias assessment and methodological quality 
-
-The methodological quality of the included studies was assessed using the PEDro scale. In total, 11 methodological criteria were rated by 8 independent researchers (SA, SHA, AD, AZ, RG, CE, CS, and AG), and each of the methodological criteria was assigned either 1 point or no points. Higher scores indicated better methodological quality. In the case of conflict between researchers, the methodological criteria were reassessed and discussed. Moreover, statistics from the 
-
-Egger’s regression intercept test and visual inspection of the funnel plot were applied to detect possible publication bias. 
-
 # 3. Results 
-
-# 3.1. Results of the search 
-
-Overall, after removal of the duplicates, 4796 papers were screened, of which 74 papers were found to be eligible for this review. However, following a search of the reference lists and citations (through Google Scholar) of the 74 included papers, 3 additional papers were identified as relevant. In total, 77 papers were included in this systematic review and meta-analysis. The search process is illustrated in Fig. 1. 
-
-Overall, 186 ESs were extracted from the 77 eligible studies. There were a total of 3870 participants with age = 27.2 § 18.3 years (mean § SD). Supplementary Table 1 presents the participant characteristics and outcomes of the included studies. 
-
-# 3.2. Risk of bias assessment and methodological quality 
-
-Fig. 2 shows the funnel plot, which includes all 77 studies in this meta-analysis. A visual inspection of the funnel plot and the Egger’s regression intercept test (intercept = �3.96; p < 0.001) indicated reporting bias. The methodological quality, as assessed with the PEDro scale, revealed a range of scores between 4 and 10 points (out of 11) for all included studies. The average PEDro score value was 7.30 § 1.09, indicating a low risk of bias.<sup>33,34</sup> The assessors agreed with 100% of the 847 criteria (77 studies £ 11 scores). Mismatched outcomes were discussed, and the assessors agreed on the scores presented in Supplementary Table 2. 
 
 # 3.3. Overall effects 
 
@@ -132,9 +67,7 @@ Q statistics of the subgroup analysis revealed a significant difference for sex 
 
 
 [page 4]
-Stretch training effects on flexibility 
 
-189 
 
 
 
@@ -159,9 +92,7 @@ The finding of the main meta-analysis is in agreement with other meta-analyses<s
 
 
 [page 5]
-A. Konrad et al. 
 
-190 
 
 
 
@@ -174,9 +105,7 @@ stretching induced greater ankle ROM improvements compared to ballistic stretchi
 
 
 [page 6]
-Stretch training effects on flexibility 
 
-191 
 
 Table 1 
 
@@ -229,9 +158,7 @@ resistive torque at the same angle following a 6-week stretching intervention wi
 
 
 [page 7]
-A. Konrad et al. 
 
-192 
 
 ROM increase. When considering lower stretching volumes, changes in the perception to stretch or stretch tolerance (rather than structural changes) are thought to be the mechanisms responsible for the increase in ROM following static stretch training over several weeks.<sup>8,28</sup> 
 
@@ -252,9 +179,7 @@ In terms of the individual muscles stretched, we saw no significant difference i
 
 
 [page 8]
-Stretch training effects on flexibility 
 
-193 
 
 This meta-analysis has some limitations. First, a moderate to high heterogeneity was found in the main meta-analysis (I<sup>2</sup> = 74.97). This could be explained by varying outcome measures, participants, or intervention duration. Second, the visual inspection of the funnel plot as well as the significant Egger’s regression intercept test (intercept = �3.96) indicated reporting bias. It is well known that significant positive results are more likely to be published, with an increased probability that they will be published in higher impact journals and, thus, achieve a higher number of citations.<sup>51,52</sup> Although one must always be cautious when interpreting results, especially those with a possibility of bias, the results of the main analysis of 77 studies did demonstrate moderate standardized differences in means (ES = �1.002). 
 
@@ -262,19 +187,4 @@ This meta-analysis has some limitations. First, a moderate to high heterogeneity
 
 This study was the first to perform a comprehensive meta-analysis on all joints and stretching techniques to allow a consideration of potential moderating factors, including stretching technique, intensity, duration, and muscles stretched, as well as sex-specific, age-specific, and/or trained state-specific adaptations to stretch training. The main meta-analysis showed an increase in ROM due to stretch training compared to the control groups. Subgroup analysis showed a significant difference between the stretching techniques and in the effects between the sexes. The finding that the volume, intensity, and weekly frequency of stretching might not play a significant role in ROM gains could be useful for sports practice as well as in future research. 
 
-# Acknowledgments 
-
-This study was supported by a grant (Project J 4484) from the Austrian Science Fund (AK) as well as the Natural Science and Engineering Research Council of Canada: RGPIN-202305861 (DGB). 
-
-# Authors’ contributions 
-
-AK was involved in the idea conception, produced the figures and tables, performed the meta-analysis, and collaborated in writing the major parts of the manuscript; SA was involved in the idea conception and produced the figures and tables; DGB was involved in the idea conception and collaborated in writing the major parts of the manuscript. All authors collaborated on the literature review search and collection of data from their assigned articles and interpreting the results. All authors have read and approved the final version of the manuscript, and agree with the order of presentation of the authors. 
-
-# Competing interests 
-
-The authors declare they have no competing interests. 
-
-# Supplementary materials 
-
-Supplementary materials associated with this article can be found in the online version at doi:10.1016/j.jshs.2023.06.002. 
 

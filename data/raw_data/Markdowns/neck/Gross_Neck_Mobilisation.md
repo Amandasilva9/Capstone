@@ -17,16 +17,6 @@ journal homepage: www.elsevier.com/math
 
 Anita Gross<sup>a,*</sup> , Jordan Miller<sup>a</sup> , Jonathan D’Sylva<sup>a</sup> , Stephen J. Burnie<sup>b</sup> , Charles H. Goldsmith<sup>c</sup> , Nadine Graham<sup>a</sup> , Ted Haines<sup>c</sup> , Gert Brønfort<sup>d</sup> , Jan L. Hoving<sup>e</sup> , COG<sup>1</sup> 
 
-> a School of Rehabilitation Science, McMaster University, 1400 Main Street West, Hamilton, Ontario L8S 1C7, Canada 
-
-> b Department of Clinical Education, Canadian Memorial Chiropractic College, Toronto, Canada 
-
-> c Department of Clinical Epidemiology & Biostatistics, McMaster University, Hamilton, Canada 
-
-> d Wolfe-Harris Center for Clinical Studies, Northwestern Health Sciences University, Bloomington, MN, USA 
-
-> e Coronel Institute of Occupational Health, Academic Medical Center, Universiteit van Amsterdam, Amsterdam, Netherlands 
-
 a r t i c l e i n f o 
 
 ### a b s t r a c t 
@@ -39,32 +29,18 @@ Neck disorders are common, disabling to various degrees, and costly (Côté et a
 
 q This paper is based on a Cochrane Review published in The Cochrane Library 2010, Issue 1 (see www.thecochranelibrary.com for information). Cochrane Reviews are regularly updated as new evidence emerges and in response to feedback, and The Cochrane Library should be consulted for the most recent version of the review. 
 
-* Corresponding author. 
-
 or short-term change in length of connective tissue and neurophysiologic effects including analgesic effects, motor effects, and sympathetic nervous system effect (Souvlis et al., 2004). Based on our earlier Cochrane Reviews (Gross et al., 1996, 2004a,b) and other reviews (Bodgduk, 2001; Hoving et al., 2001; Peeters et al., 2001; Gross et al., 2002a,b, 2007; Vernon et al., 2006, 2007), studies of their effectiveness have generally been noted when combined with other treatment like exercise and had short-term with inconclusive long-term results. Multimodal approaches that included manual therapy are reported separately (Miller et al., 2010; D’Sylva et al., in press); this review explores manipulation or mobilisation as a single-modal treatment; it has excluded combined therapies. We present a précis of our Cochrane Review’s findings using grade summary statements; access Gross et al. (2010) for a detailed report. 
 
-#### 2. Objectives 
 
-E-mail address: grossa@mcmaster.ca (A. Gross). 
-
-> 1 COG e Cervical Overview Group: Bronfort G, Burnie SJ, Cameron ID, D’Sylva J, Dumoulin-White R, Eddy A, Ezzo J, Goldsmith CH, Graham N, Gross A, Haines T, Haraldsson B, Hildebrand C, Hoving J, Kay T, Kroeling P, Lilge L, Miller J, Morien A, Peloso P, Perry L, Radylovick Z, Santaguida P, Trinh K, Voth S, Wang E. 
-
-This update of our systematic review assessed the effect of manipulation or mobilisation alone on pain, function, disability, patient satisfaction, global perceived effect (GPE), and quality of life 
-
-1356-689X/$ e see front matter � 2010 Elsevier Ltd. All rights reserved. doi:10.1016/j.math.2010.04.002 
 
 
 
 [page 2]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-316 
 
 (QoL) in adults experiencing neck pain with or without radicular symptoms and cervicogenic headache. 
 
 #### 3. Methods 
-
-#### 3.1. Study selection 
 
 #### 3.1.1. Types of studies 
 
@@ -100,10 +76,6 @@ A research librarian searched bibliographic databases, without language restrict
 
 #### 3.3. Data collection and analysis 
 
-#### 3.3.1. Study selection and data extraction 
-
-At least two review authors with expertise in medicine, physiotherapy, chiropractic, massage therapy, statistics, or clinical epidemiology independently conducted citation identification, study selection, and data extraction. Agreement for study selection was assessed using the quadratic weighted Kappa statistic (Kw) with Cicchetti weights (Cicchetti, 1976). A third review author was consulted in the case of persisting disagreement. Pre-piloted forms were used for all phases. 
-
 #### 3.3.2. Risk of bias assessment 
 
 The Cervical Overview Group uses a calibrated team of interdisciplinary assessors. At least two review authors independently assessed the risk of bias (Appendix 2). The consensus team met to reach a final decision. The following characteristics for risk of bias (maximum criteria ¼ 12, low risk of bias ¼ more than six criteria met) were assessed: randomisation; concealment of treatment allocation; blinding of patient, provider, and outcome assessor; incomplete data: withdrawal/drop-out rate and intention-to-treat analysis; selective outcome reporting; and other: similar at baseline, similar co-interventions, acceptable compliance, similar timing of assessment. Studies were not excluded from further analyses based on the results of risk of bias assessments. We noted explicit details on study design; number analysed and randomised; intention-to-treat analysis; and power analysis in Table 1. 
@@ -115,9 +87,7 @@ We used descriptive statistics to provide a summarized description of the groups
 
 
 [page 3]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-317 
 
 Table 1 
 
@@ -157,11 +127,8 @@ Characteristics of the included studies.
 
 
 [page 4]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-318 
 
-##### Table 1 (continued ) 
 
 |Study/participants<br>|Interventions<br>|Outcomes<br>|
 |---|---|---|
@@ -175,11 +142,8 @@ A. Gross et al. / Manual Therapy 15 (2010) 315e333
 
 
 [page 5]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-319 
 
-Table 1 (continued ) 
 
 |Study/participants<br>llil|Interventions<br>d|Outcomes<br>ih|
 |---|---|---|
@@ -193,11 +157,8 @@ Table 1 (continued )
 
 
 [page 6]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-320 
 
-##### Table 1 (continued ) 
 
 |Study/participants|Interventions<br>’|Outcomes<br>|
 |---|---|---|
@@ -211,11 +172,8 @@ A. Gross et al. / Manual Therapy 15 (2010) 315e333
 
 
 [page 7]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-321 
 
-##### Table 1 (continued ) 
 
 |Study/participants|Interventions|Outcomes<br>LNR|
 |---|---|---|
@@ -229,11 +187,8 @@ A. Gross et al. / Manual Therapy 15 (2010) 315e333
 
 
 [page 8]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-322 
 
-##### Table 1 (continued ) 
 
 |Study/participants|Interventions|Outcomes<br>PiifiNR|
 |---|---|---|
@@ -250,11 +205,8 @@ A. Gross et al. / Manual Therapy 15 (2010) 315e333
 
 
 [page 9]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-323 
 
-##### Table 1 (continued ) 
 
 |Study/participants|Interventions|Outcomes|
 |---|---|---|
@@ -281,9 +233,7 @@ We assessed the quality of the body of the evidence using the GRADE approach (Hi
 
 
 [page 10]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-324 
 
 
 
@@ -312,9 +262,7 @@ Fig. 2. Flow diagram of study selection.
 
 
 [page 11]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-325 
 
 
 
@@ -323,9 +271,7 @@ Fig. 3. Methodological quality summary: review of authors’ judgments about eac
 
 
 [page 12]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-326 
 
 #### 4.2. Risk of bias in included studies 
 
@@ -366,9 +312,7 @@ Fig. 4. Manipulation versus mobilisation for pain at short- and intermediate-ter
 
 
 [page 13]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-327 
 
 
 
@@ -386,10 +330,6 @@ The number of subjects experiencing side effects was reported in 29% (8/27) of t
 
 side effects and five trials reported benign and transient side effects including radicular symptoms (58/1000 in the treatment group versus 20/1000 in the control group) headache or neck pain (105/ 1000 in the treatment group versus 52/1000 in the control group) (Carlesso et al., in press). The rate of rare but serious adverse events such as strokes or serious neurological deficits could not be established from our review. 
 
-#### 4.4.2. Cost of care 
-
-No direct measures of the cost of care were reported in the 27 trials included in this review. 
-
 #### 5. Discussion 
 
 This update investigates the effect of mobilisation or manipulation alone in the treatment of neck pain and is a co-publication of a Cochrane Review. The overall methodological quality of trials has not improved in spite of CONSORT guidelines (Schultz et al., 2010). The evidence suggests some immediate- or short-term pain relief with a course of cervical manipulation or mobilisation alone, but these benefits are not maintained over the long-term. Evidence seems to support the use of thoracic manipulation alone for immediate pain relief or as an adjunct to electrothermal or individualised physiotherapy treatment strategies for pain relief and improvements in function. One doseeresponse trial and one trial with a low risk of bias that used a factorial design emerged. Certain mobilisation techniques may be superior. 
@@ -401,9 +341,7 @@ Fig. 6. Manipulation of the thoracic region for pain outcomes.
 
 
 [page 14]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-328 
 
 Table 2 
 
@@ -435,9 +373,7 @@ Fig. 7. Manipulation of the cervical region for pain at immediate-, short-term a
 
 
 [page 15]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-329 
 
 use of thoracic manipulation in the treatment of neck pain. Similar studies investigating clinical prediction rules for other mobilisations or manipulations in varied neck pain populations would help clinicians to determine when to utilize manual therapy. 
 
@@ -454,30 +390,6 @@ oscillatory and rotational mobilisation; ipsilateral posterioreanterior or centr
 #### 6.2. Implications for research 
 
 Meta-analysis of data across trials and sensitivity analysis were hampered by the wide spectrum of comparisons, treatment characteristics and dosages. Factorial design would help to determine the active treatment agent(s) within a treatment mix. Phase II trials would help to identify the most effective treatment characteristics and dosages. Greater attention to methodological quality continues to be needed. 
-
-#### Acknowledgements 
-
-We are indebted to the many authors of primary studies for their support in retrieving original research. We thank our volunteers, translators, students, the Cochrane Back Review Group editors, and Lisa Carlesso and Colleen McPhee for early access to their research. 
-
-Declarations of interest: Two of our review authors are authors of included studies. Although Gert Brønfort and Jan Hoving were review authors, they were not involved in decisions about the inclusion, risk of bias assessment or data extraction of their studies. 
-
-#### Appendix 1. MEDLINE search strategy 
-
-1. neck/ or neck muscles/ or exp cervical plexus/ or exp cervical vertebrae/ or atlanto-Axial Joint/ or atlanto-occipital joint/ or axis/ or atlas/ or spinal nerve roots/ or exp brachial plexus/ 
-
-2. (odontoid or cervical or occip: or atlant:).tw. 
-
-3. 1 or 2 
-
-4. exp arthritis/ or exp myofascial pain syndromes/ or fibromyalgia/ or spondylitis/ or exp spinal osteophytosis/ or spondylolisthesis/ 
-
-5. exp headache/ and cervic:.tw. 
-
-6. whiplash injuries/ or cervical rib syndrome/ or torticollis/ or cervico-brachial neuralgia.ti,ab,sh. or exp radiculitis/ or polyradiculitis/ or polyradiculoneuritis/ or thoracic outlet syndrome/ 
-
-7. (monoradicul: or monoradicl:).tw. 
-
-8. 4 or 5 or 6 or 7 
 
 #### 6. Conclusion 
 
@@ -530,9 +442,7 @@ Mobilisation for neck pain of mixed duration:
 
 
 [page 16]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-330 
 
 24. or/21e23 
 
@@ -619,9 +529,7 @@ The reviewer determines if the compliance with the interventions is acceptable, 
 
 
 [page 17]
-A. Gross et al. / Manual Therapy 15 (2010) 315e333 
 
-331 
 
 number and frequency of sessions for both the index intervention and control intervention(s). For example, physiotherapy treatment is usually administered over several sessions; therefore it is necessary to assess how many sessions each patient attended. For single-session interventions (for example: surgery), this item is irrelevant. 
 

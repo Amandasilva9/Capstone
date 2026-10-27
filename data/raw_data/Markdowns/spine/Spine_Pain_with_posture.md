@@ -19,12 +19,6 @@ journal homepage: www.elsevier.com/math
 
 Eva Barrett<sup>a, *</sup> , Mary O'Keeffe<sup>a</sup> , Kieran O'Sullivan<sup>a</sup> , Jeremy Lewis<sup>b, c, a</sup> , Karen McCreesh<sup>a</sup> 
 
-> a Department of Clinical Therapies, University of Limerick, Ireland 
-
-> b Department of Allied Health Professions and Midwifery, University of Hertfordshire, UK 
-
-> c Musculoskeletal Services, Central London Community Healthcare NHS Trust, London, UK 
-
 |a r t i c l e<br>i n f o|a b s t r a c t|
 |---|---|
 |Article history:<br>Received 1 December 2015<br>Received in revised form<br>12 July 2016<br>Accepted 15 July 2016|Introduction: Excessive thoracic kyphosis is considered a predisposing factor for shoulder pain, though<br>there is uncertainty about the nature of the relationship between shoulder pain and thoracic spine<br>posture. The aim of this systematic review was to investigate the relationship between thoracic kyphosis<br>and shoulder pain, shoulder range of motion (ROM) and function.<br>Methods: Two reviewers independently searched eight electronic databases and identified relevant|
@@ -36,24 +30,14 @@ Eva Barrett<sup>a, *</sup> , Mary O'Keeffe<sup>a</sup> , Kieran O'Sullivan<sup>a
 
 Shoulder pain is a common musculoskeletal condition and is often associated with substantial morbidity, with a third of patients demonstrating persisting restriction of movement, loss of function and/or pain after one year (Reilingh et al., 2008; Greving et al., 2012). The most common source of shoulder pain reported in clinical practice is subacromial pain (van der Windt et al., 1995). Subacromial pain syndrome (SAPS) has been described as nontraumatic shoulder pain, localised around the acromion, which worsens during or subsequent to lifting the arm (Lewis, 2011). Due to the limited diagnostic accuracy of clinical tests (Lewis, 2009), 
 
-* Corresponding author. 
-
-E-mail addresses: evabarrett@live.ie (E. Barrett), mary.okeeffe@ul.ie (M. O'Keeffe), Kieran.OSullivan@ul.ie (K. O'Sullivan), jeremy.lewis@ LondonShoulderClinic.com (J. Lewis), Karen.McCreesh@ul.ie (K. McCreesh). 
-
 SAPS has been adopted as an overarching term encompassing subacromial impingement, bursitis and rotator cuff (RC) tendinopathy (Lewis, 2011; Diercks et al., 2014; Engebretsen et al., 2009). The pain and limitation of shoulder movement associated with shoulder pain may reduce shoulder function and health-related quality of life (Duckworth et al., 1999; Smith et al., 2000; MacDermid et al., 2004). 
 
 The role of the thoracic spine in shoulder mechanics has been investigated. Previous studies have demonstrated that approximately 15<sup>�</sup> of thoracic extension mobility is required for full bilateral shoulder flexion, in both younger and older populations (Crawford and Jull, 1993). Other research suggests that full unilateral arm elevation requires approximately 9<sup>�</sup> of thoracic extension (Stewart et al., 1995). Thoracic hyperkyphosis, an angulation of the thoracic spine of greater than 40<sup>�</sup> (Greendale et al., 2011) or 50<sup>�</sup> (Willner,1981; Teixeira and Carvalho, 2007), has been implicated as a contributing factor to shoulder pain (Grimsby and Gray, 1997). 
 
-http://dx.doi.org/10.1016/j.math.2016.07.008 
-
-1356-689X/Crown Copyright © 2016 Published by Elsevier Ltd. All rights reserved. 
-
 
 
 [page 2]
-E. Barrett et al. / Manual Therapy 26 (2016) 38e46 
 
-39 
 
 Crawford and Jull demonstrated that older adults with a large thoracic kyphosis had reduced arm elevation (Crawford and Jull, 1993). A recent cross sectional study involving 525 volunteers compared the prevalence of rotator cuff tears across four postural classifications; ideal alignment, kyphotic-lordotic posture, flat-back posture and sway-back posture (Yamamoto et al., 2015). This study reported that the prevalence of rotator cuff tears, diagnosed using ultrasound, was lowest in the ideal posture at 2.9% and highest in the kyphotic-lordotic posture at 65.8%, which points towards a posture-impairment model. 
 
@@ -69,22 +53,6 @@ The impingement model of the shoulder has been widely challenged in recent resea
 
 This review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement (Liberati et al., 2009) and was registered with PROSPERO (ID: CRD42015024834). 
 
-### 2.1. Identification and selection of studies 
-
-An electronic search was conducted by two reviewers (EB, MOK) in July 2015 using the following databases: Medline, CINAHL, AMED, SPORTDiscus, PsycINFO, PsycARTICLES, General Science and Biomedical Reference Collection. A combination of three search lines was used; 
-
-(“shoulder” OR<sup>00</sup> glenohumeral”) [Title/Abstract] AND (“range” OR “movement” OR “motion” OR “pain” OR “function*” OR “disability” OR “symptom*” OR 00dyskinesi*”) [Title/Abstract] AND (“spin*” OR<sup>00</sup> alignment” OR<sup>00</sup> hyperkypho*” OR<sup>00</sup> kypho*” 
-
-OR<sup>00</sup> postur*” OR “orientation” OR “biomechanic*” OR “curv*” OR 00thora*”) [Title/Abstract]. 
-
-Two reviewers (EB, MOK) independently screened the title and abstract of each article, followed by the full texts of those deemed potentially relevant, applying the eligibility criteria. Inclusion and exclusion criteria are displayed in Table 1. Both observational and experimental studies were eligible for inclusion. The reference lists of the included studies were manually searched for other relevant studies. 
-
-### 2.2. Assessment of risk of bias 
-
-Sources of bias were assessed independently by two reviewers (EB, MOK) using a standardised checklist of 10 criteria (Ijaz et al., 2013) which was validated for use in observational studies (Shamliyan et al., 2010). Each item was rated as a low, high or unclear risk of bias. The 10 items were divided into two hierarchical groups (Ijaz et al., 2013). The group with the major items of bias included exposure definition, exposure assessment, reliability of exposure assessment, analysis bias and confounding factors. The remaining five items were considered as minor domains: attrition, blinding of assessors, selective reporting, funding and conflict of interest. Studies were considered as low risk of bias if they had low risk in all major domains and �2 of the minor domains, moderate risk of bias if they had low risk of bias in �4 major and 2 minor domains, or high risk of bias if they had low risk of bias in <4 major domains (Ijaz et al., 2013). 
-
-For the purpose of this review, the exposure was considered to be thoracic kyphosis. Therefore, to be scored as a low risk of bias in the domain of exposure definition, the level of spinous processes where measurement was taken was required to be stated. To be scored as low risk of bias in the domain of exposure assessment, the study must have used an objective measurement of thoracic kyphosis, thereby providing a thoracic kyphosis angle. To be scored as low risk of bias in the domain of reliability exposure assessment, the reliability of the measurement tool must have been stated, either by measuring the tool's reliability in a pilot study or providing reference to its previously established level of reliability. To be scored as low risk of bias in the domain of confounders, between group comparisons of thoracic kyphosis must contain samples of similar gender and age, as these variables influence thoracic kyphosis angle (Fon et al., 1980). The remaining six domains were rated as previously recommended (Ijaz et al., 2013). 
-
 ### 2.3. Data analysis 
 
 One reviewer (EB) extracted data relating to the study design, study population, postures used and outcome measures related to shoulder pain, range of motion and/or function. Variation in the study designs, study population and outcome measures used did not permit the pooling of data in a meta-analysis. Data were synthesized using a level of evidence approach (van Tulder et al., 2003), taking into account the risk of bias, the design of the study and the outcomes of the included studies. Definitions for levels of evidence are outlined in Table 2. 
@@ -98,9 +66,7 @@ Fig. 1 details the flow of studies through the review process. A total of ten st
 
 
 [page 3]
-E. Barrett et al. / Manual Therapy 26 (2016) 38e46 
 
-40 
 
 Table 1 
 
@@ -137,9 +103,6 @@ Six studies utilised a cross-sectional design which compared thoracic kyphosis b
 
 pain (Lewis et al., 2005a) and one compared shoulder ROM in different thoracic postures (Lewis et al., 2005b). Study characteristics are displayed in more detail in Table 3. 
 
-### 3.2.2. Risk of bias 
-
-Four studies were deemed to be at low risk of bias (Kanlayanaphotporn, 2014; Bullock et al., 2005; Lewis et al., 2005b; Lewis and Valentine, 2010), three at moderate risk of bias (Kebaetse et al., 1999; Lewis et al., 2005a; McClure et al., 2006) and three at high risk of bias (Greenfield et al., 1995; Theisen et al., 2010; Otoshi et al., 2014). Every study demonstrated a low risk of bias when defining thoracic kyphosis and measuring thoracic kyphosis objectively, reported all of their intended outcomes and had no loss to follow-up. One study (Otoshi et al., 2014) did not report the reliability of their method for thoracic kyphosis measurement and used cut-off points for restriction of shoulder ROM, rather than absolute values. Six studies (Greenfield et al., 1995; Kebaetse et al., 1999; Lewis et al., 2005a; McClure et al., 2006; Theisen et al., 2010; Otoshi et al., 2014) did not carry out a power calculation or reach statistical power. Seven studies did not use blinded assessors (Greenfield et al., 1995; Kebaetse et al., 1999; Bullock et al., 2005; Lewis et al., 2005a, 2005b; McClure et al., 2006; Otoshi et al., 2014). Seven studies did not report on potential conflicts of interest (Greenfield et al., 1995; Bullock et al., 2005; Lewis et al., 2005a, 2005b; McClure et al., 2006; Otoshi et al., 2014; Kanlayanaphotporn, 2014) The involvement of the funding body with the investigations was unclear in five studies (Greenfield et al., 1995; Kebaetse et al., 1999; Bullock et al., 2005; McClure et al., 2006; Kanlayanaphotporn, 2014). Full details are shown in Table 4. 
 
 
 
@@ -155,9 +118,7 @@ A variety of methods were used for thoracic kyphosis measurement. Three studies 
 
 
 [page 4]
-E. Barrett et al. / Manual Therapy 26 (2016) 38e46 
 
-41 
 
 Table 3 
 
@@ -178,9 +139,7 @@ Descriptive characteristics of studies and their populations.
 
 
 [page 5]
-E. Barrett et al. / Manual Therapy 26 (2016) 38e46 
 
-42 
 
 Table 3 (continued ) 
 
@@ -236,9 +195,7 @@ ROM ¼ range of motion, SD ¼ standard deviation, SIS ¼ subacromial impingement
 
 
 [page 6]
-E. Barrett et al. / Manual Therapy 26 (2016) 38e46 
 
-43 
 
 with and without shoulder pain (Lewis and Valentine, 2010). Similarly, two further studies which compared a group with SIS to an age- and gender-matched control group reported no significant difference in resting thoracic posture (McClure et al., 2006; Theisen et al., 2010). However, these were considered to be at a moderate (McClure et al., 2006) and high (Theisen et al., 2010) risk of bias. A study with a high risk of bias which compared thoracic kyphosis in a group of people with mixed shoulder diagnoses to a pain-free control group demonstrated no significant difference between groups (Greenfield et al., 1995). 
 
@@ -280,9 +237,7 @@ ROM ¼ range of motion, SD ¼ standard deviation, CS ¼ comfortable slouched, MS
 
 
 [page 7]
-E. Barrett et al. / Manual Therapy 26 (2016) 38e46 
 
-44 
 
 study did report a significant association between thoracic kyphosis and shoulder pain, this study was at high risk of bias. Further, there is strong evidence (three studies at low risk of bias, one at moderate risk of bias) that slouched postures, which increase thoracic kyphosis, are associated with reduced shoulder flexion and abduction ROM in participants with and without shoulder pain. None of the eligible studies investigated the association between thoracic posture and shoulder function. 
 
@@ -313,9 +268,7 @@ A limitation of this review is the relatively low number of included studies and
 
 
 [page 8]
-E. Barrett et al. / Manual Therapy 26 (2016) 38e46 
 
-45 
 
 (Butler and Moseley, 2003). Using the history and clinical examination to gauge the degree to which central pain mechanisms are involved in shoulder pain, may also allow for a more patient specific approach to the assessment and rehabilitation of shoulder pain. 
 

@@ -16,16 +16,12 @@
 <!-- Start of picture text -->
  BACK<br> JOURNALS <br> JOURNAL MENU<br> ARTICLE<br>Effect of stretching training on the viscoelastic properties of<br>human tendon structures in vivo<br>Authors: Keitaro: KeitaroKeitaro: KeitaroKeitaroKeitaro Kubo,,, Hiroaki Kanehisa, and Tetsuo, and Tetsuo and TetsuoTetsuo, and Tetsuo and TetsuoTetsuo and TetsuoTetsuoTetsuo Fukunaga AUTHORS INFO & AFFILIATIONS<br>Publication: Journal of Applied Physiology: Journal of Applied Physiology: Journal of Applied Physiology Volume 92, Issue 2 https://doi.org/10.1152/japplphysiol.00658.2001<br>   CITE  PDF<br>        <br>Abstract<br>The purpose of this study was to examine whether stretching training altered the viscoelastic<br>properties of human tendon structures in vivo. Eight men performed the stretching training for<br>3 wk. Before and after the stretching training, the elongation of the tendon and aponeurosis of<br>medial gastrocnemius muscle was directly measured by ultrasonography while the subjects<br>performed ramp isometric plantar flexion up to the voluntary maximum, followed by a ramp<br>relaxation. The relationship between the estimated muscle force (Fm) and tendon elongation<br>(L) during the ascending phase was fitted to a linear regression, the slope of which wasL) during the ascending phase was fitted to a linear regression, the slope of which was) during the ascending phase was fitted to a linear regression, the slope of which wasL) during the ascending phase was fitted to a linear regression, the slope of which was) during the ascending phase was fitted to a linear regression, the slope of which was) during the ascending phase was fitted to a linear regression, the slope of which was<br>defined as stiffness of tendon structures. The percentage of the area within the Fm-L loop toL loop to loop toL loop to loop to loop to<br>the area beneath the curve during ascending phase was calculated as an index representing<br><!-- End of picture text -->
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-1/19 
 
 
 
 [page 2]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  hysteresis. To assess the flexibility, the passive torque of the plantar flexor muscles wasBACK 
 
@@ -37,16 +33,12 @@ It is widely conjectured that increasing flexibility will promote better perform
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-2/19 
 
 
 
 [page 3]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  Recent reports have shown that ultrasonography can be used to determine the stiffness andBACK 
 
@@ -64,16 +56,12 @@ EMG activity was recorded during the ramp isometric contraction (measurement of 
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-3/19 
 
 
 
 [page 4]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  rectified and integrated for the duration of the contraction and passive stretch to giveBACK 
 
@@ -91,16 +79,12 @@ The posture of the subject and setup were similar to that for the measurement of
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-4/19 
 
 
 
 [page 5]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  3 min between trials. Torque signals were analog-to-digital converted at a sampling rate of 1BACK 
 
@@ -112,16 +96,12 @@ Fig. 1. Ultrasonic images of longitudinal sections of medial gastrocnemius (MG) 
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-5/19 
 
 
 
 [page 6]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
 maximal voluntary contraction (MVC) (P2; B). The distance traveled by P (L) was defined as the length  BACK 
 
@@ -143,16 +123,12 @@ The test-retest correlation coefficient was 0.90 for stiffness and 0.86 for hyst
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-6/19 
 
 
 
 [page 7]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  The subjects were randomly assigned to stretch the plantar flexor muscles on one leg whileBACK 
 
@@ -164,16 +140,12 @@ Statistics.
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-7/19 
 
 
 
 [page 8]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  Descriptive data included means ± SD. A two-way ANOVA [2 (groups) × 2 (test times)] wasBACK 
 
@@ -185,16 +157,12 @@ During the stretching, EMG activities of all the muscles tested were very small 
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-8/19 
 
 
 
 [page 9]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  BACK 
 
@@ -206,16 +174,12 @@ Figure 4 shows the relationships between Fm and L. In the control and trained si
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-9/19 
 
 
 
 [page 10]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  BACK Fig. 4. Relationships between muscle force (Fm) and Lin the trained (A) and control (B) side. Values are 
 
@@ -235,16 +199,12 @@ Table 1. Measured variables before and after stretching training
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-10/19 
 
 
 
 [page 11]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  BACK 
 
@@ -283,16 +243,12 @@ Before interpreting the results obtained, however, we must draw attention to the
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-11/19 
 
 
 
 [page 12]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  among subjects might have caused the large variability in the measured parameters. MomentBACK 
 
@@ -304,16 +260,12 @@ Many previous studies have demonstrated that the maximum range of motion, i.e., 
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-12/19 
 
 
 
 [page 13]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  (−13.4%). Similarly, the flexibility increase observed in response to the stretching program wasBACK 
 
@@ -325,16 +277,12 @@ Recently, our laboratory showed that the static stretching of plantar flexors fo
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-13/19 
 
 
 
 [page 14]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  laboratory also reported the acute change in stiffness after the static stretching, but thisBACK 
 
@@ -348,28 +296,16 @@ The hysteresis, i.e., the area within the loop, represents the energy loss as he
 
 
 
-https://journals.physiology.org/doi/full/10.1152/japplphysiol.00658.2001 
 
-14/19 
 
 
 
 [page 15]
-Effect of stretching training on the viscoelastic properties of human tendon structures in vivo | Journal of Applied Physiology | American Physiolo… 
 
-10/6/26, 1:18 PM 
 
  recoil. Hence, the hysteresis of tendon structures should be taken into account whenBACK 
 
 estimating the dynamics of the muscle-tendon complex during human movements. For example, the value of 20% obtained in our measurements (before stretching training) would be representative of the percent energy dissipated as heat in loading-unloading cycles of the tendon during several everyday-life activities. As a result of observations on human in vivo, Wilson et al. (26) reported that flexibility training for the upper limbs induced a significant increase in work during the initial concentric portion of the rebound bench press lift. Also, Dintiman (1) found that the sprint performance was improved when a stretching regimen was included with regular sprint training. These led us to speculate that stretching may be an effective way to increase reused energy during exercise involving a stretch-shortening cycle, by reducing the hysteresis. 
 
 In conclusion, the stretching training produced no significant change in stiffness of tendon structures, but it significantly decreased hysteresis. The present results suggested that the static stretching training affected the viscosity of tendon structures but not the elasticity. However, we have no definite information on how the changes induced by stretching training in tendon properties are correlated to performances during stretch-shortening cycle exercises. Further investigations are needed to clear up this point. 
-
-## Footnotes 
-
-Address for reprint requests and other correspondence: K. Kubo, Dept. of Life Science (Sports Sciences), Univ. of Tokyo, Komaba 3-8-1, Meguro-ku, Tokyo 153-8902, Japan (Email:kubo@idaten.c.u-tokyo.ac.jp). 
-
-The costs of publication of this article were defrayed in part by the payment of page charges. The article must therefore be hereby marked “advertisement” in accordance with 18 U.S.C. Section 1734 solely to indicate this fact. 
-
-10.1152/japplphysiol.00658.2001 
 

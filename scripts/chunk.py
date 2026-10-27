@@ -15,6 +15,7 @@ import random
 import re
 import sys
 from pathlib import Path
+from transformers import AutoTokenizer
 
 
 BASE = Path(__file__).resolve().parent
@@ -24,20 +25,16 @@ OUTPUT_DIR =  "data/chunks/"    # every joint's .jsonl ends up here
 
 MARKDOWN_ROOT, METADATA_DIR, OUTPUT_DIR = Path(MARKDOWN_ROOT), Path(METADATA_DIR), Path(OUTPUT_DIR)
 
-MAX_TOK = 800        # hard-ish ceiling (only a single table/sentence can exceed it)
+MAX_TOK = 450        # hard-ish ceiling (only a single table/sentence can exceed it)
 MIN_MERGE = 150      # sections smaller than this get merged into the next one
 OVERLAP_TOK = 60     # tail of previous chunk repeated at start of the next (text only)
 
-try:
-    #using tiktoken for its speed over other options like huggingface tokenizers
-    import tiktoken
-    _enc = tiktoken.get_encoding("cl100k_base")
+#originally usedd tiktoken for higher speeds but the embedding model BAAI/bge-small-en-v1.5 works better with a huggingface tokenizer as well
+_tok = AutoTokenizer.from_pretrained("BAAI/bge-m3", model_max_length=1_000_000)
 
-    def ntok(s):
-        return len(_enc.encode(s))
-except ImportError:  # rough fallback: ~4 chars per token
-    def ntok(s):
-        return max(1, len(s) // 4)
+
+def ntok(s):
+    return len(_tok.encode(s, add_special_tokens=False))
 
 #regexes for finding where pages, headings, and tables are in the text for chunking
 PAGE_RE = re.compile(r"\[page\s+(\d+)\]", re.I)

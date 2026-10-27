@@ -9,36 +9,18 @@ SYSTEMATIC REVIEW published: 09 April 2019 doi: 10.3389/fphys.2019.00376
 
 Thimo Wiewelhove<sup>1</sup> *, Alexander Döweling<sup>1</sup> , Christoph Schneider<sup>1</sup> , Laura Hottenrott<sup>1</sup> , Tim Meyer<sup>2</sup> , Michael Kellmann<sup>1,3</sup> , Mark Pfeiffer<sup>4</sup> and Alexander Ferrauti<sup>1</sup> 
 
-1 Faculty of Sport Science, Ruhr University, Bochum, Germany, 2 Institute of Sports and Preventive Medicine, Saarland University, Saarbrücken, Germany,<sup>3</sup> School of Human Movement Studies and School of Psychology, The University of Queensland, Brisbane, QLD, Australia,<sup>4</sup> Department for Theory and Practical Performance in Sports, Institute of Sports Science, Johannes-Gutenberg University, Mainz, Germany 
-
-Edited by: Fábio Yuzo Nakamura, Università degli Studi G. d’Annunzio Chieti e Pescara, Italy 
-
-Reviewed by: David George Behm, Memorial University of Newfoundland, Canada Helmi Chaabene, Universität Potsdam, Germany 
-
-*Correspondence: Thimo Wiewelhove thimo.wiewelhove@ ruhr-uni-bochum.de 
-
-Specialty section: This article was submitted to Exercise Physiology, a section of the journal Frontiers in Physiology Received: 23 January 2019 Accepted: 18 March 2019 Published: 09 April 2019 
-
-Citation: 
-
-Wiewelhove T, Döweling A, Schneider C, Hottenrott L, Meyer T, Kellmann M, Pfeiffer M and Ferrauti A (2019) A Meta-Analysis of the Effects of Foam Rolling on Performance and Recovery. Front. Physiol. 10:376. doi: 10.3389/fphys.2019.00376 
 
 Foam rolling is thought to improve muscular performance and flexibility as well as to alleviate muscle fatigue and soreness. For this reason, foam rolling has become a popular intervention in all kinds of sport settings used to increase the efficiency of training or competition preparation as well as to speed post-exercise recovery. The objective of this meta-analysis was to compare the effects of foam rolling applied before (pre-rolling as a warm-up activity) and after (post-rolling as a recovery strategy) exercise on sprint, jump, and strength performance as well as on flexibility and muscle pain outcomes and to identify whether self-massage with a foam roller or a roller massager is more effective. A comprehensive and structured literature search was performed using the PubMed, Google Scholar, PEDro, and Cochrane Library search engines. Twenty-one studies were located that met the inclusion criteria. Fourteen studies used pre-rolling, while seven studies used post-rolling. Pre-rolling resulted in a small improvement in sprint performance (+0.7%, g = 0.28) and flexibility (+4.0%, g = 0.34), whereas the effect on jump (−1.9%, g = 0.09) and strength performance (+1.8%, g = 0.12) was negligible. Post-rolling slightly attenuated exercise-induced decreases in sprint (+3.1%, g = 0.34) and strength performance (+3.9 %, g = 0.21). It also reduced muscle pain perception (+6.0%, g = 0.47), whereas its effect on jump performance (−0.2%, g = 0.06) was trivial. Of the twenty-one studies, fourteen used foam rollers, while the other seven used roller massage bars/sticks. A tendency was found for foam rollers to offer larger effects on the recovery of strength performance (+5.6%, g = 0.27 vs. −0.1%, g = −0.01) than roller massagers. The differences in the effects between foam rolling devices in terms of pre-rolling did not seem to be of practical relevance (overall performance: +2.7 %, g = 0.11 vs. +0.4%, g = 0.21; flexibility: +5.0%, g = 0.32 vs. +1.6%, g = 0.39). Overall, it was determined that the effects of foam rolling on performance and recovery are rather minor and partly negligible, but can be relevant in some cases (e.g., to increase sprint performance and flexibility or to reduce muscle pain sensation). Evidence seems to justify the widespread use of foam rolling as a warm-up activity rather than a recovery tool. 
 
 Keywords: rolling massage, sprint, jump, strength, flexibility, muscle pain 
 
-Frontiers in Physiology | www.frontiersin.org 
 
-April 2019 | Volume 10 | Article 376 
 
-1 
 
 
 
 [page 2]
-Wiewelhove et al. 
 
-Effects of Foam Rolling 
 
 ## INTRODUCTION 
 
@@ -54,26 +36,14 @@ FR have either determined whether massage-like mechanical pressure with a foam r
 
 ## METHODS 
 
-## Search Strategy 
 
-A comprehensive and structured search of articles were performed using the PubMed, Google Scholar, PEDro, and Cochrane Library search engines. Different sets of seven key terms (“self-massage,” “foam rolling,” “roller massage,” “roller massager,” “self-myofascial release,” “performance,” “recovery”) were combined by Boolean logic (“AND,” “OR”), and the results were limited to human subjects that were healthy and physically active as well as to articles written in English. Each database was searched from the earliest available article up to December 2017. We also searched the reference lists of all incoming articles and extracted the appropriate publications. From the 954 abstracts reviewed, 110 potentially suitable articles were identified ( **Figure 1** ). 
 
-## Selection Criteria 
 
-The selection of articles for inclusion in this meta-analysis was based on the following criteria. First, only publications that appeared in an international, peer-reviewed scientific journal were selected. Second, a FR intervention had to have been done as part of the analysis, regardless of which type of FR device was used for the intervention. Third, the FR intervention had to have been used either as a warm-up or a recovery routine. Fourth, before and after the FR intervention, measurements of performance, flexibility, and/or muscle pain outcomes had to have been conducted. Fifth, there had to have been a control condition, where athletes were subdivided either as their own controls or randomly into an intervention and control group. The first author was responsible for the study selection. After the selection process, all studies were discussed among three authors. In case of disagreement about the inclusion of a study, a voting process was used to determine if a study should be included or not. **Figure 1** provides a flow chart of the literature search. 
-
-Frontiers in Physiology | www.frontiersin.org 
-
-April 2019 | Volume 10 | Article 376 
-
-2 
 
 
 
 [page 3]
-Wiewelhove et al. 
 
-Effects of Foam Rolling 
 
 
 
@@ -99,18 +69,13 @@ where cp is a bias factor recommended for small sample sizes (Morris, 2008), Mpr
 
 24 and 48 h). In these cases, the respective results were combined as described above, assuming correlation coefficients of 0.9. To combine the different types of sprint, jump, 
 
-Frontiers in Physiology | www.frontiersin.org 
 
-April 2019 | Volume 10 | Article 376 
 
-3 
 
 
 
 [page 4]
-Wiewelhove et al. 
 
-Effects of Foam Rolling 
 
 and strength performances, a correlation coefficient of 0.6 was used. 
 
@@ -142,18 +107,13 @@ Post-rolling slightly attenuated exercise-induced decreases in sprint (+3.1%, g 
 
 There is a growing body of literature examining the use of FR as a warm-up activity (i.e., pre-rolling) or as a recovery strategy (i.e., post-rolling); however, the effectiveness of FR is still in question in both scenarios. The variation in methodological design, combined with the differences in FR intervention, exercise modality, and training status of the populations investigated, has perhaps contributed to the apparently inconsistent findings. This study used a meta-analytical approach to (1). Explore whether the use of pre-rolling and post-rolling are effective tools to improve 
 
-Frontiers in Physiology | www.frontiersin.org 
 
-April 2019 | Volume 10 | Article 376 
 
-4 
 
 
 
 [page 5]
-Wiewelhove et al. 
 
-Effects of Foam Rolling 
 
 
 
@@ -169,18 +129,13 @@ the value increasing the chance of victory for an athlete by 10%. Based on this 
 
 However, for recreational athletes, a change in sprint performance as small as ∼0.3% may be barely noticeable due to a likely greater within-athlete variability. In this case, the minimum worthwhile enhancement in sprint performance would be greater than the change in sprint performance induced by pre-rolling. Consequently, the effects of pre-rolling on sprint performance seem to be more relevant for elite athletes, while it is possible that recreationally active individuals may not benefit substantially from pre-rolling. Furthermore, the small average overall effect size for sprint performance is based on only four studies and is mainly due to the studies conducted by Mikesky et al. (2002) 
 
-Frontiers in Physiology | www.frontiersin.org 
 
-April 2019 | Volume 10 | Article 376 
 
-5 
 
 
 
 [page 6]
-Wiewelhove et al. 
 
-Effects of Foam Rolling 
 
 
 
@@ -196,18 +151,13 @@ Alternative explanations for acute benefits in performance could be a potential 
 
 It should also be noted that sprint performance mainly depends on muscle strength and neuromuscular coordination. However, similar to the findings of Cheatham et al. (2015), the effects of pre-rolling on jump (g = 0.09) and strength performance (g = 0.12) were negligible ( **Figures 3** , **4** ). Thus, 
 
-Frontiers in Physiology | www.frontiersin.org 
 
-April 2019 | Volume 10 | Article 376 
 
-6 
 
 
 
 [page 7]
-Wiewelhove et al. 
 
-Effects of Foam Rolling 
 
 
 
@@ -221,18 +171,13 @@ the foam roller and the mechanical breakdown of scar tissue. However, this is me
 
 Apart from this, FR may increase flexibility due to a process known as autogenic inhibition. As the FR device applies pressure to the muscle tissue, it is believed that mechanoreceptors called Golgi tendon organs (GTO) send a message to the central nervous system that substantial tension is being placed on the muscle, causing the central nervous system to relax that muscle to 
 
-Frontiers in Physiology | www.frontiersin.org 
 
-April 2019 | Volume 10 | Article 376 
 
-7 
 
 
 
 [page 8]
-Wiewelhove et al. 
 
-Effects of Foam Rolling 
 
 
 
@@ -244,18 +189,13 @@ Apart from the study by Sagiroglu et al. (2017), which has shown that pre-rollin
 
 when putting together a menu of warm-up activities, since training and competition preparation should always aim to enhance performance. Nevertheless, additional research is necessary to identify different FR protocols that are relevant to different sports and to develop guidelines that ensure FR routines do not impair performance. For example, despite causing an acute increase in range of motion in the joints, prolonged static stretching of more than 60 s per muscle is likely to result in significant performance impairment (Kay and Blazevich, 2012; Behm et al., 2015; Reid et al., 2018). Therefore, one might assume that prolonged static stretching is not recommended during pre-event warm-up activities, especially when performance is required immediately after stretching. However, in studies that conducted performance tests >10 min after static stretching, performance changes were typically statistically trivial unless extreme stretch protocols were used (Behm et al., 2015). Moreover, Blazevich et al. (2018) and Reid et al. (2018) reported that potential performance decrements caused by static stretching are insignificant with shorter stretching durations (i.e., <60 s) and appear to be resolved after a complete, progressive pre-exercise warm-up routine. Therefore, strong evidence supports the deleterious effects of static stretching prior to performance (Behm and Chaouachi, 2011), but when used 
 
-Frontiers in Physiology | www.frontiersin.org 
 
-April 2019 | Volume 10 | Article 376 
 
-8 
 
 
 
 [page 9]
-Wiewelhove et al. 
 
-Effects of Foam Rolling 
 
 
 
@@ -273,18 +213,13 @@ tissue and muscle tissue, as well as an increase in muscle soreness. Nevertheles
 
 Although Pearcey et al. (2015) did not directly investigate the physiological mechanisms of FR, they speculated that post-rolling might enhance post-exercise recovery of dynamic performance measures via systemic biomechanical effects. These include: increased levels of circulating neutrophil; smaller increases in post-exercise plasma creatine kinase; activated mechano-sensory sensors that signal transcription of COX7B and ND1, indicating that new mitochondria are being formed, which presumably accelerate the healing of the muscle; and less active heat-shock proteins and immune cytokines, thus reflecting less cellular stress and inflammation. Furthermore, the reduced perception of pain may positively affect the short-term recovery 
 
-Frontiers in Physiology | www.frontiersin.org 
 
-April 2019 | Volume 10 | Article 376 
 
-9 
 
 
 
 [page 10]
-Wiewelhove et al. 
 
-Effects of Foam Rolling 
 
 
 
@@ -298,18 +233,13 @@ The largest average effects of FR in general and post-rolling in particular were
 
 muscle pain. The total Hedges’ g of 0.47 ( **Figure 9** ) indicates that with the use of post-rolling, 66% of the population is likely to experience reduced muscle pain (Coe, 2002). In terms of athletic performance, muscle soreness, as previously described, can have negative consequences. It may result in altered muscle functions. These alterations may substantially reduce the performance or optimal training intensity of athletes (Pearcey et al., 2015). For example, Byrne et al. (2004) reported the negative effects of perceived muscle pain on sprint, jump, and strength performance, all of which are important during many athletic events. Several theories have been proposed to explain the underlying mechanisms of exercise-induced muscle soreness. Some authors suggest that perceived muscle pain arises from disruption to the muscle fiber and surrounding connective tissue, while others suggest that it is associated with the inflammatory response, and other suggest that it is a combination of both (Hill et al., 2014). However, since muscle enzyme efflux and myofibrillar damage are not correlated with the actual sensation of muscle soreness, it has been postulated that exercise-induced muscle soreness may be more related to connective tissue damage and the 
 
-Frontiers in Physiology | www.frontiersin.org 
 
-April 2019 | Volume 10 | Article 376 
 
-10 
 
 
 
 [page 11]
-Wiewelhove et al. 
 
-Effects of Foam Rolling 
 
 
 
@@ -323,18 +253,13 @@ trigger point, can reduce trigger point-induced muscle spasms, and ultimately de
 
 As proposed by Aboodarda et al. (2015) and Cavanaugh et al. (2017), the most plausible explanation for the mediation of perceived muscle pain following FR could be the effect of rolling massages on the central pain-modulatory systems. Their findings suggest that FR performed on muscles that contain a hypersensitive tender spot and FR performed on the contralateral muscle group can both provide an acute increase in the pain threshold. Since the increase in the pain threshold has a transient and non-localized effect, they suggest that massage-like mechanical pressure can provide analgesic effects through the ascending pain inhibitory system (gate theory of pain) and the descending anti-nociceptive pathway (diffuse noxious inhibitory control), respectively. Although the physiological mechanisms underlying the analgesic effect of FR have yet to be demonstrated empirically, a reduction in the sensation of muscle soreness is beneficial to athletes and may improve their readiness to participate in physical activity (Hill et al., 2014). 
 
-Frontiers in Physiology | www.frontiersin.org 
 
-April 2019 | Volume 10 | Article 376 
 
-11 
 
 
 
 [page 12]
-Wiewelhove et al. 
 
-Effects of Foam Rolling 
 
 
 
@@ -350,18 +275,13 @@ The results from the present meta-analysis provide evidence that the effects of 
 
 reduced statistical power. Second, none of the included studies were able to blind their patients to the treatment due to the nature of the FR technique. As such, the placebo effect cannot be eliminated. Third, the methodology varied widely between the studies. For example, the majority of the published studies have not standardized and/or measured the applied pressure of the rolling action, while only a few studies have used a kind of pressure roller apparatus to maintain a constant rolling intensity. Consequently, there may be large ranges in the pressure exerted through FR. Furthermore, the FR procedures differed in terms of the duration of the application, the FR device used, and the muscles targeted. Fourth, with respect to the subjects’ training status, the studies recruited both elite athletes and recreationally active or untrained individuals. Overall, these differences may explain some of the inconsistent findings within the current literature and future research should account for this inconsistency by at least directly measuring as well as reporting and standardizing the degree of pressure induced through FR. Finally, the statistical analysis is based only on articles that were published before January 2018. However, the vast majority of articles published since January 2018 confirm the pooled effects of FR, which are calculated in this meta-analysis. For example, Cheatham and Stull (2018), de Souza et al. (2019), Hall and 
 
-Frontiers in Physiology | www.frontiersin.org 
 
-April 2019 | Volume 10 | Article 376 
 
-12 
 
 
 
 [page 13]
-Wiewelhove et al. 
 
-Effects of Foam Rolling 
 
 Chadwick Smith (2018), Killen et al. (2018), Macgregor et al. (2018), Madoni et al. (2018), Monteiro et al. (2018, 2019a,b), and Smith et al. (2018, 2019) were able to confirm that FR can improve flexibility, perceived muscle pain perception, and/or the recovery of strength performance, while Madoni et al. (2018) found that FR had no effect on jump performance. 
 

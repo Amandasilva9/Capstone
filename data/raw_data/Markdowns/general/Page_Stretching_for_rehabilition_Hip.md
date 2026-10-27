@@ -9,11 +9,6 @@ Stretching is a common activity used by athletes, older adults, rehabilitation p
 
 **_Key words:_** Exercise, fitness, rehabilitation, stretching 
 
-### **CORRESPONDING AUTHOR** 
-
-Phil Page, PT, PhD, ATC, CSCS, FACSM Baton Rouge, Louisiana USA Email: drphilpage@gmail.com 
-
-_The International Journal of Sports Physical Therapy | Volume 7, Number 1 | February 2012 | Page 109_ 
 
 
 
@@ -38,7 +33,6 @@ Pre-contraction stretching involves a contraction of the muscle being stretched 
 
 **Figure 1.** _Factors contributing to muscle tension._ 
 
-_The International Journal of Sports Physical Therapy | Volume 7, Number 1 | February 2012 | Page 110_ 
 
 
 
@@ -59,7 +53,6 @@ Other types of pre-contraction stretching include “post-isometric relaxation�
 
 
 
-_The International Journal of Sports Physical Therapy | Volume 7, Number 1 | February 2012 | Page 111_ 
 
 
 
@@ -86,7 +79,6 @@ Static stretching is effective at increasing ROM. The greatest change in ROM wit
 
 Unfortunately, however, static stretching as part of a warm-up immediately prior to exercise has been shown detrimental to dynamometer-measured muscle strength<sup>19-29</sup> and performance in running and jumping.<sup>30-39</sup> The loss of strength resulting from acute static stretching has been termed, “stretchinduced strength loss.”<sup>3</sup> The specific causes for this type of stretch induced loss in strength is not clear; some suggest neural factors,<sup>31,40</sup> while others suggest mechanical factors.<sup>19,23</sup> Furthermore, the strength loss may be related to the length of the muscle at the time of testing<sup>23</sup> or the duration of the stretch.<sup>25</sup> Interestingly, a maximal contraction of the muscle being stretched before static stretching may decrease stretch-induced strength loss.<sup>41</sup> 
 
-_The International Journal of Sports Physical Therapy | Volume 7, Number 1 | February 2012 | Page 112_ 
 
 
 
@@ -105,7 +97,6 @@ that Hoffman reflexes (H-reflexes) are depressed with a pre-contraction stretch.
 
 Several authors have compared static and dynamic stretching on ROM, strength, and performance (See Table 2). Both static and dynamic stretching appear equally effective at improving ROM acutely or over time with training.<sup>54-57</sup> Several authors have found no improvement in performance when comparing static and dynamic stretching.<sup>55,58-61</sup> In contrast to static stretching, dynamic stretching is not associated with strength or performance deficits, and actually has been shown to improve dynamometer-measured power<sup>27,62</sup> as well as jumping and running performance.<sup>31,32,34,56,59,63,64</sup> 
 
-_The International Journal of Sports Physical Therapy | Volume 7, Number 1 | February 2012 | Page 113_ 
 
 
 
@@ -140,7 +131,6 @@ Several researchers have investigated different muscle stretching techniques on 
 
 Stretching is effective for the treatment of orthopedic conditions or injury; however, as with other populations, outcomes may be based on the individual 
 
-_The International Journal of Sports Physical Therapy | Volume 7, Number 1 | February 2012 | Page 114_ 
 
 
 

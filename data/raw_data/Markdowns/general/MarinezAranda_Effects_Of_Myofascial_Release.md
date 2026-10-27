@@ -1,5 +1,4 @@
 [page 1]
-Journal of **_Functional Morphology and Kinesiology_** 
 
 
 
@@ -7,48 +6,20 @@ _Review_
 
 # **Effects of Self-Myofascial Release on Athletes’ Physical Performance: A Systematic Review** 
 
-**Luis Manuel Martínez-Aranda**<sup>**1,2,**</sup> *****<sup>**,†**</sup> **, Manuel Sanz-Matesanz**<sup>**3,†**</sup> **, Ezequiel David García-Mantilla**<sup>**3**</sup> **and Francisco Tomás González-Fernández**<sup>**4**</sup> 
-
-- 1 Physical and Sports Performance Research Centre, Faculty of Sports Sciences, Pablo de Olavide University, 41013 Seville, Spain 
-
-- 2 SEJ-680: Science-Based Training (SBT) Research Group, Faculty of Sports Sciences, Pablo de Olavide University, 41013 Seville, Spain 
-
-- 3 Faculty of Sport, Catholic University of Murcia, Guadalupe, 30107 Murcia, Spain; msanz74@alu.ucam.edu (M.S.-M.); ezequiel.davidgarcia@gmail.com (E.D.G.-M.) 
-
-- 4 Department of Physical Education and Sports, Faculty of Education and Sport Sciences, Campus of Melilla, University of Granada, 52006 Melilla, Spain; ftgonzalez@ugr.es 
-
-- Correspondence: lmmarara@upo.es; Tel.: +34-968278757 
-
-- These authors have contributed equally to this work. 
-
-**Citation:** Martínez-Aranda, L.M.; Sanz-Matesanz, M.; García-Mantilla, E.D.; González-Fernández, F.T. Effects of Self-Myofascial Release on Athletes’ Physical Performance: A Systematic Review. _J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20. https://doi.org/10.3390/ jfmk9010020 
 
 **Abstract:** Therapists and strength and conditioning specialists use self-myofascial release (SMR) as an intervention tool through foam rollers or massage rollers for soft tissue massage, with the purpose of improving mobility in the muscular fascia. Moreover, the use of SMR by professional and amateur athletes during warm-ups, cool downs, and workouts can have significant effects on their physical performance attributes, such as range of motion (ROM) and strength. The purpose of this study was to analyse the literature pertaining to these types of interventions and their effects found in different physical performance attributes for athletes. A systematic search was carried out using the following databases: PUBMED, ISI Web of Science, ScienceDirect, and Cochrane, including articles up to September 2023. A total of 25 articles with 517 athletes were studied in depth. SMR seems to have acute positive effects on flexibility and range of motion, without affecting muscle performance during maximal strength and power actions, but favouring recovery perception and decreasing delayed-onset muscle soreness. Some positive effects on agility and very short-range high-speed actions were identified, as well. In conclusion, although there is little evidence of its method of application due to the heterogeneity in that regard, according to our findings, SMR could be used as an intervention to improve athletes’ perceptual recovery parameters, in addition to flexibility and range of motion, without negatively affecting muscle performance. 
 
 **Keywords:** self-fascial massage; intervention programme; foam rolling; range of motion; athletes; fitness performance 
 
-Academic Editor: Žiga Kozinc 
-
-Received: 3 November 2023 Revised: 31 December 2023 Accepted: 5 January 2024 Published: 11 January 2024 
-
-
-
-**Copyright:** © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
 
 ## **1. Introduction** 
 
 The myofascial system consists of a continuous three-dimensional, fibrous, soft connective collagen tissue, which envelopes the body [1]. This includes elements such as adipose tissue, neurovascular sheaths, aponeurosis, deep and superficial fascia, joint capsules, ligaments, membranes, meninges, myofascial expansions, periosteum, retinaculum, tendons, visceral fascia, and all intramuscular and intermuscular connective tissues, including the endomysium, perimysium, and epimysium [2]. The fascial system penetrates and surrounds all organs, muscles, bones, and nerve fibres; it gives the body a functional structure and provides an environment that allows all body systems to operate in an integrated manner [3]. The myofascial system and its physiological effects on the human body have been widely studied over the past decade within the field of physical activity and sports strength and conditioning [4–6]. Although scientific evidence is limited, nowadays, it is common to 
 
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20. https://doi.org/10.3390/jfmk9010020 
-
-https://www.mdpi.com/journal/jfmk 
-
 
 
 [page 2]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-2 of 31 
 
 see the terms “myofascial release” (MFR) and “self-myofascial release” (SMR) in areas frequented by the general population with individuals of all ages and abilities (e.g., gyms or sports centres) [7,8], and even more in the fields of sports performance (athletes and their coaches) and physiotherapy [9,10]. 
 
@@ -63,9 +34,7 @@ Although mechanical mechanistic studies of the effects of SMR on the organism we
 
 
 [page 3]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-3 of 31 
 
 this regard, some research has shown that muscle massage causes the inhibition of the H reflex [38–42], which is an indirect measure of the excitation of alpha motor neurons. This phenomenon has also been attributed to the activation of mechanoreceptors, which are believed to inhibit the central nervous system during massage [42]. It is noteworthy that Bradbury-Squires et al. [43] showed a decrease in electromyographic activity (EMG) during the exercise called “body weight front lunges” after an SMR session, which could offer a possible explanation based on the H reflex inhibition. 
 
@@ -80,95 +49,24 @@ Interestingly, there is no evidence of any systematic review that synthesises th
 
 
 [page 4]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-4 of 31 
 
 ## **2. Materials and Methods** 
-
-## _2.1. Search Strategy_ 
-
-This systematic review was carried out in accordance with the recommendations of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines [51]. 
-
-The studies were identified by searching the following electronic databases: MEDLINE (PubMed), Web of Science (WOS), ScienceDirect, and Cochrane. A time search parameter was established between 1 January 2008 and 1 September 2023, using the Patient, Intervention, Control, and Results (PICO) strategy [52], where an adequate construction of the research question and the review of the literature was required based on the following keywords: “athletes”, “sports”, “myofascial release”, “Self-Myofascial Release”, “Foam rolling”, “performance”, “delayed onset muscle soreness”, “DOMS”, “range of motion”, “flexibility”, “strength”, “muscle activation”, “power”, “force”, “agility”, and “sprint”. 
-
-The following Boolean operators were used following the PICO strategy for the methodological reliability of the search: (“Myofascial release” OR “Self-Myofascial Release” OR “foam rolling” OR “Self-fascial massage” OR “self-massage”) AND (performance OR “Sports performance” OR “fitness performance” OR “physical performance” OR “delayed onset muscle soreness” OR “effects on muscle” OR “Range of motion” OR flexibility OR strength OR “muscle activation” OR power OR force OR agility OR sprint) AND (athletes OR Sports). 
-
-The search strategy used in this study was adapted to the specific conditions of each database’s search engine. In this case, an advanced search approach was consistently employed, with identical filters for temporality and study type (original research). 
-
-## _2.2. Study Selection_ 
-
-The following inclusion and exclusion criteria were taken into consideration: 
-
-## 2.2.1. Inclusion 
-
-(1) The subjects had to engage in sports practice for more than or equal to five hours a week. (2) The subjects had to have been involved in one or more competitive sports disciplines for at least six months or equivalent in training hours. (3) The studies had to measure the effect of SMR in one or more functional physical-sports performance-related factors. (4) The subjects had to use an SMR instrument to demonstrate the respective effects in each intervention. (5) Articles had to compare the effects of SMR/FR using two or more groups with different protocols (including a control group or at least one group without SMR/FR). 
-
-## 2.2.2. Exclusion 
-
-(1) Studies in a language other than English. (2) Case reports, conferences, and systematic, literary, or narrative reviews with or without meta-analysis. (3) Studies concerning injury rehabilitation programmes or invasive interventions. (4) Studies involving pregnant women, cancer patients, or other pathologies. (5) Studies including injured athletes or a non-athlete population. 
-
-## _2.3. Quality Assessment_ 
-
-To evaluate the quality of the studies, the PEDro scale [53] was used based mainly on the independent consensus by the authors: LMMA and MSM. This tool allows one to quickly identify which of the randomised trials may have sufficient internal validity and statistical information to make its results interpretable. The scale is composed of 11 criteria, and one point is awarded for each criterion clearly met. According to the scale, after applying the inclusion and exclusion criteria, all the selected articles obtained a score of 6 or higher and were accepted in this review (Table 1). 
 
 
 
 [page 5]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-5 of 31 
 
 **Table 1.** PEDro scale for study qualification. 
-
-|**Studies**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**|**10**|**11**|**S**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Kurt, 2023 [54]|1|1|0|1|0|0|0|1|1|1|1|7|
-|Barrenetxea-García, 2023 [55]|1|1|1|1|1|0|0|1|1|1|1|8|
-|Chen, 2023 [56]|1|1|0|1|0|0|0|1|1|1|1|7|
-|Kozlenia 2022 [57]|1|1|0|1|0|0|0|1|1|1|1|7|
-|Michalski, 2022 [58]|0|1|0|1|0|0|0|1|1|1|1|6|
-|Wang, 2022 [59]|1|1|0|1|0|0|0|1|1|1|1|7|
-|Chen, 2021 [60]|1|1|0|1|0|0|0|1|1|1|1|7|
-|Lopez-Samanes, 2021 [61]|1|1|0|1|0|0|0|1|1|1|1|7|
-|<br>Rahimi, 2020 [62]|1|1|0|1|0|0|0|1|1|1|1|7|
-|Ornachuk, 2019 [63]|1|1|0|1|0|0|0|1|1|1|1|7|
-|Romero-Franco, 2019 [64]|1|1|0|1|1|0|1|1|1|1|1|9|
-|Guillot, 2019 [65]|1|1|0|1|0|0|0|1|1|1|1|7|
-|Aune, 2018 [66]|1|1|0|1|0|0|0|1|1|1|1|7|
-|Giovanelli, 2018 [67]|1|1|0|1|0|0|0|1|1|1|1|7|
-|Stroiney, 2018 [68]|1|1|0|1|0|0|0|1|1|1|1|7|
-|Richman, 2018 [69]|1|1|1|1|0|0|0|1|1|1|1|8|
-|Sa˘giro˘glu, 2017 [70]|0|1|0|1|0|0|0|1|1|1|1|6|
-|D’Amico, 2017 [71]|1|1|0|0|1|0|0|1|1|1|1|7|
-|Fairall, 2017 [72]|1|1|1|1|0|0|0|1|1|1|1|8|
-|Rey, 2017 [73]|1|1|1|1|1|0|0|1|1|1|1|9|
-|Behara, 2017 [74]|1|1|1|1|1|0|0|1|1|1|1|9|
-|Murray, 2016 [75]|1|1|0|1|1|0|0|1|1|1|1|8|
-|<br>Škarabot, 2015 [76]|1|1|1|1|1|0|0|1|1|1|1|9|
-|Markovic, 2015 [77]|0|1|1|1|1|0|0|1|1|1|1|8|
-|Peacock, 2014 [78]|0|1|1|0|0|0|0|1|1|1|1|6|
-
 
 
 S: score; 1. The selection criteria were specified; 2. The subjects were randomised to the groups (in a cross-study, the subjects were randomly distributed as they received the treatments); 3. The assignment was hidden; 4. The groups were similar at the beginning in relation to the most important prognostic indicators; 5. All subjects were blinded; 6. All therapists who administered the therapy were blinded; 7. All evaluators who measured at least one key result were blinded; 8. The measurements of at least one of the key results were obtained from more than 85% of the subjects; 9. Initially assigned to the groups, and results were presented from all subjects who received treatment or were assigned to the control group, or when this could not be achieved, the data for at least one key result were analysed for “intention to treat”; 10. The results of statistical comparisons between groups were reported for at least one key result; 11. The study provides specific measures and variability for at least one key result. 
 
-## _2.4. Data Extraction and Synthesis_ 
-
-From the selected studies, the following data were extracted from each article: study objective, group of participants, type of intervention, methods, measurement, and main results or highlights. For the qualification of the results of each study, and in order to homogenise the findings as much as possible, the significance levels ( _p_ -value) are given in the results section for a more functional comparison. Information on the mean and standard deviation is also provided in the text, where possible. 
-
-To facilitate the reader’s understanding of the studies, the main results obtained are subdivided into categories related to the performance variables that each intervention protocol focused on. These variables include flexibility/mobility, strength, speed, agility, or the perception of effort and recovery. 
-
-## _2.5. Search Summary_ 
-
-The PRISMA methodology was used, consisting of a list of 27 items [79] and a fourphase flow chart [80] (Figure 1). A total of 567 articles were initially identified through the databases and 3 additional records were found in other sources. After deleting the duplicate articles and carefully reading the abstracts, 246 articles were selected, of which 123 were chosen after reading the full text. Then, 98 articles were excluded for not meeting the inclusion/exclusion criteria. Finally, 25 studies were included in this systematic review. 
-
 
 
 [page 6]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-6 of 31 
 
 
 
@@ -198,9 +96,7 @@ Table 3 lists the results obtained concerning the improvement of mobility and fl
 
 
 [page 7]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-7 of 31 
 
 **Table 2.** General characteristics of the studies that used SMR on athletes. 
 
@@ -217,11 +113,8 @@ _J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20
 
 
 [page 8]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-8 of 31 
 
-**Table 2.** _Cont._ 
 
 ||||||**Intervention**||
 |---|---|---|---|---|---|---|
@@ -239,11 +132,8 @@ _J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20
 
 
 [page 9]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-9 of 31 
 
-**Table 2.** _Cont._ 
 
 |**Stud (1st Author**|||||**Intervention**||
 |---|---|---|---|---|---|---|
@@ -259,11 +149,8 @@ _J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20
 
 
 [page 10]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-10 of 31 
 
-**Table 2.** _Cont._ 
 
 ||||||**Intervention**||
 |---|---|---|---|---|---|---|
@@ -280,11 +167,8 @@ _J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20
 
 
 [page 11]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-11 of 31 
 
-**Table 2.** _Cont._ 
 
 ||||||**Intervention**||
 |---|---|---|---|---|---|---|
@@ -300,9 +184,7 @@ CG = control group; DS = dynamic stretching; DYN = dynamic warm-up; FAT = fascia
 
 
 [page 12]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-12 of 31 
 
 **Table 3.** Effects of SMR on athletes’ flexibility and mobility. 
 
@@ -363,11 +245,8 @@ _J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20
 
 
 [page 13]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-13 of 31 
 
-**Table 3.** _Cont._ 
 
 |**Study**|**_n_**|**Measurement**||**Results**<br><br>||
 |---|---|---|---|---|---|
@@ -420,11 +299,8 @@ _J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20
 
 
 [page 14]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-14 of 31 
 
-**Table 3.** _Cont._ 
 
 |**Study**|**_n_**|**Measurement**||**Resu**|**lts**||
 |---|---|---|---|---|---|---|
@@ -451,9 +327,7 @@ Regarding specific hip mobility tests, FR has also demonstrated its efficacy. Ro
 
 
 [page 15]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-15 of 31 
 
 American football players. Similar results to those were found by Chen et al. [56], where significant differences in knee flexion were observed between the group using the VFR (vibration foam roller) plus DS and the group undertaking a general warm-up, in a study of elite female handball players (79.4 DS + VFR vs. 69.3 general warm-up, _p_ < 0.05). On the other hand, Murray et al. [75] found significant improvements in overall flexibility following the administration of an FR programme ( _p_ = 0.03), indicating that an applied force equivalent to 50 _±_ 12.6% of the body weight (27.2 kg) could be appropriate to achieve the best results. Moreover, the application of this type of strategy increased the temperature of the muscles involved (control being colder by 0.15–0.17<sup>_◦_</sup> C, _p_ < 0.01). 
 
@@ -472,9 +346,7 @@ In the case of the CMJ test, which was the most commonly used by researchers, fi
 
 
 [page 16]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-16 of 31 
 
 **Table 4.** Effects of SMR on athletes’ strength. 
 
@@ -533,11 +405,8 @@ _J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20
 
 
 [page 17]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-17 of 31 
 
-**Table 4.** _Cont._ 
 
 |**Study**|**_n_**|**Measurement**|**Group**|**Resu**<br>**M**|**lts**<br>**SD**|**_p_**|
 |---|---|---|---|---|---|---|
@@ -586,11 +455,8 @@ _J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20
 
 
 [page 18]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-18 of 31 
 
-**Table 4.** _Cont._ 
 
 |**Study**|**_n_**|**Measurement**||**Res**<br>|**ults**<br>||
 |---|---|---|---|---|---|---|
@@ -625,9 +491,7 @@ In Table 5, it can be seen that the study of D’Amico [71] reported a statistic
 
 
 [page 19]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-19 of 31 
 
 **Table 5.** Effects of SMR on speed. 
 
@@ -680,9 +544,7 @@ CG = control group; DS = dynamic stretching; DYN = dynamic warm-up; FR = foam ro
 
 
 [page 20]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-20 of 31 
 
 ## 3.3.4. Agility Improvement 
 
@@ -732,9 +594,7 @@ Moreover, the study conducted by Rey et al. [73], applied to professional footba
 
 
 [page 21]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-21 of 31 
 
 Lastly, Peacock et al. [78] showed a statistically significant difference ( _p_ = 0.001) in the pro-agility test of 18.3 m (providing information on different athletic abilities, such as speed, change in direction, as well as acceleration and deceleration), evidencing an improvement in time in favour of the SMR group compared to a dynamic warm-up group, when applied to 11 athletes from NCAA DI and II. 
 
@@ -777,11 +637,8 @@ It should be noted that the studies by Lopez-Samanes et al. [61], Barrenetxea-Ga
 
 
 [page 22]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-22 of 31 
 
-**Table 7.** _Cont._ 
 
 |**Study**|**_n_**|**Measurement**||**Results**<br>|||
 |---|---|---|---|---|---|---|
@@ -819,9 +676,7 @@ In this systematic review, 25 studies in total were identified [54–78], examin
 
 
 [page 23]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-23 of 31 
 
 Concerning mobility improvement and flexibility, SMR exercises can temporarily increase the ROM of the hip, knee, and ankle joints, as well as muscle flexibility, without affecting neuromuscular activity or maximum isometric strength in a non-athlete population [10,82–85], or recreational participants in running activities [6]. Specifically in an athlete sample, thirteen studies were found reporting an increased ROM when using SMR, mostly in the lower limbs [54,63,75], with only one in the upper limbs [72]. Meanwhile, several studies did not show significant changes or improvements when compared to conventional stretching (passive/static or dynamic) or other methods combined, but they did not find a negative effect at least [59–61,71,73,78]. In addition, other studies [86] reported a lack of consistency or evidence to support myofascial decompression as a functional tool to increase hamstring flexibility; or found that proprioceptive neuromuscular facilitation stretching induced more gains in hamstring flexibility compared to the FR/SMR [87]. 
 
@@ -840,9 +695,7 @@ However, despite the above studies showed significant results, there are also st
 
 
 [page 24]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-24 of 31 
 
 In addition, aside from these studies without differences, a recent study stated that a general warm-up based on running yielded better results in muscle tension tests compared to those individuals using an FR, indicating a potential decrease in muscle tone and hamstring stiffness and, consequently, a reduction in the capacity for specific force application in elite female handball players [56]. 
 
@@ -863,9 +716,7 @@ Interestingly, other investigations studied variables indicating the effects of 
 
 
 [page 25]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-25 of 31 
 
 “Pro-Agility 18.3 m” test, specifically when an SMR session was compared with a dynamic warm-up session prior to the test. 
 
@@ -888,9 +739,7 @@ As an additional limitation, the sample size was rather low. Therefore, the poss
 
 
 [page 26]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-26 of 31 
 
 Lastly, it seems that the vast majority of potential side effects of SMR exercises have been ignored or not studied in the scientific literature. 
 
@@ -915,21 +764,8 @@ Therefore, it can be theorised that SMR applications throughout the body, using 
 
 
 [page 27]
-_J. Funct. Morphol. Kinesiol._ **2024** , _9_ , 20 
 
-27 of 31 
 
 Finally, engaging in light exercise as a form of active recovery is probably a more effective approach than an FR in minimising performance declines induced by fatigue during subsequent exercise sessions. 
 
-**Author Contributions:** Conceptualisation, L.M.M.-A. and E.D.G.-M.; methodology, L.M.M.-A., M.S.-M. and E.D.G.-M.; formal analysis, L.M.M.-A., M.S.-M. and E.D.G.-M.; resources, L.M.M.-A. and F.T.G.-F.; writing—original draft preparation, L.M.M.-A., M.S.-M. and E.D.G.-M.; writing—review and editing, L.M.M.-A. and M.S.-M.; visualisation, L.M.M.-A., M.S.-M., E.D.G.-M. and F.T.G.-F.; supervision, L.M.M.-A. and F.T.G.-F.; funding acquisition, L.M.M.-A. All authors have read and agreed to the published version of the manuscript. 
-
-**Funding:** No institutional funding was received for the development of this research. 
-
-**Institutional Review Board Statement:** Not applicable. 
-
-### **Informed Consent Statement:** Not applicable. 
-
-**Data Availability Statement:** There are no additional data beyond those provided in this article. 
-
-**Conflicts of Interest:** The authors declare no conflicts of interest. 
 

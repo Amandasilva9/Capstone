@@ -11,45 +11,6 @@
 
 ### **Juhani Määttä, Jani Takatalo, Tero Leinonen, Tuomo Pienimäki, Jari Ylinen & Arja Häkkinen** 
 
-**To cite this article:** Juhani Määttä, Jani Takatalo, Tero Leinonen, Tuomo Pienimäki, Jari Ylinen & Arja Häkkinen (2022) Lower thoracic spine extension mobility is associated with higher intensity of thoracic spine pain, Journal of Manual & Manipulative Therapy, 30:5, 300-308, DOI: <u>10.1080/10669817.2022.2047270</u> 
-
-**To link to this article:** <u>https://doi.org/10.1080/10669817.2022.2047270</u> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-© 2022 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group. 
-
-Published online: 08 Mar 2022. 
-
-
-
-Submit your article to this journal 
-
-Article views: 4472 View related articles View Crossmark data Citing articles: 9 View citing articles 
-
-
-
-Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=yjmt20 
-
-
-
-[page 2]
-JOURNAL OF MANUAL & MANIPULATIVE THERAPY 2022, VOL. 30, NO. 5, 300–308 https://doi.org/10.1080/10669817.2022.2047270 
-
-
-
 ## **Lower thoracic spine extension mobility is associated with higher intensity of thoracic spine pain** 
 
 ##### Juhani Määttä a,b, Jani Takataloa,b,c*, Tero Leinonenb,d, Tuomo Pienimäkie, Jari Ylinenf and Arja Häkkinenc,f 
@@ -76,18 +37,8 @@ The thorax, consisting of ribs, ribcage cartilage, sternum, and the TS, is the s
 
 Thoracic kyphosis is associated with limited daily functioning and upper and middle back pain, while limited thoracic mobility is associated with low back pain especially among older individuals or 
 
-> **CONTACT** Juhani Määttä juhani.maatta@fimnet.fi Medical Research Center Oulu, , University of Oulu, Oulu, Finland 
-
-> *Määttä J and Takatalo J had an equal contribution to this manuscript (designing the study, statistical analysis and interpretation, and writing the manuscript).Pienimäki T, Ylinen J, and Häkkinen A had contribution to designing the study, interpretation of the results and writing the manuscript. Leinonen T contributed to the manuscript by writing the manuscript and interpreting the data. 
-
-> © 2022 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group. 
-
-> This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/bync-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way. 
-
-
 
 [page 3]
-JOURNAL OF MANUAL & MANIPULATIVE THERAPY 301 
 
 postmenopausal women [13,20–23]. Studies evaluating participants with TS posture are rather rare. Existing studies have generally included asymptomatic postmenopausal women, older adults, or athletes [21– 23]. Furthermore, the focus is usually on excessive thoracic kyphosis, whereas decreased kyphosis or a flat TS as a poor posture is often overlooked [21,22]. 
 
@@ -108,7 +59,6 @@ Self-reported thoracic pain intensity during the last week was evaluated using V
 
 
 [page 4]
-302 J. H. MÄÄTTÄ ET AL. 
 
 
 
@@ -123,7 +73,6 @@ weak (0.20–0.39), moderate (0.40–0.59), strong (0.60– 0.79), and very stro
 
 
 [page 5]
-JOURNAL OF MANUAL & MANIPULATIVE THERAPY 303 
 
 mobility. The multinomial logistic regression model was adjusted for age. Multinomial logistic regression analysis was used as the dependent variables were classified into three groups and no linear relationship was found and, thus, results are shown in odds ratios (OR). For all statistical analyses, IBM SPSS Statistical software, version 23 (Chicago, IL, USA) was used. 
 
@@ -148,7 +97,6 @@ Although information about TS pain is scarce, there are a few studies assessing 
 
 
 [page 6]
-304 J. H. MÄÄTTÄ ET AL. 
 
 **Table 1.** Study <u>participants’ characteristics, pain, and thoracic spine (TS) posture and mobility variables classified by sex.</u> 
 
@@ -221,7 +169,6 @@ JOURNAL OF MANUAL & MANIPULATIVE THERAPY
 
 
 [page 8]
-306 J. H. MÄÄTTÄ ET AL. 
 
 **Table 3.** The association of thoracic spine pain variables with different thoracic posture and mobility variables in three groups after adjusting for age<sup>§</sup> . 
 
@@ -272,7 +219,6 @@ Our study consisted of participants with TS pain with a good representation of t
 
 
 [page 9]
-JOURNAL OF MANUAL & MANIPULATIVE THERAPY 307 
 
 large compared to the previous studies on older adults, asymptomatic participants, or athletes. Furthermore, we wanted to exclude participants with mild TS pain in order to analyze patients with clinically more meaningful TS pain as usually studies assessing general or working population include participants with any TS pain [3,7]. 
 
@@ -285,34 +231,4 @@ There are a few limitations in this study. Only TS was considered in postural ev
 In this study comprising adult participants with TS pain, reduced thoracic extension mobility was associated with higher pain scores. Moreover, greater TS flexion was associated with lower pain scores. Flat upper TS was associated with significantly lower night pain and pain sum score. The physical therapist’s evaluation of thoracic posture seemed to correlate strongly with the measured upper and whole thoracic posture. More research is required to demonstrate the clinical importance of thoracic posture and mobility 
 
 and their association with symptoms and preferably with larger number of participants. 
-
-#### **Acknowledgments** 
-
-We thank for Juho Vainio Foundation for funding this work. We thank Fysioteekki Inc. for providing the facilities for performing the assessment in the study and Mikhail Saltychev for statistical consulting. 
-
-#### **Disclosure statement** 
-
-No potential conflict of interest was reported by the author(s). 
-
-#### **Funding** 
-
-This work was supported by the Juho Vainio Foundation. 
-
-#### **Notes on contributors** 
-
-**_Juhani Määttä_** Doctor specialized in Physical and Rehabilitation Medicine. He has also specialized in Orthopaedic Manual Physical Therapy. His subject in PhD was Modic changes in the lumbar spine. 
-
-**_Jani Takatalo_** Doctor specialized in Physical and Rehabilitation Medicine. He has background as a physiotherapist, and he is also specialized in Orthopaedic Manual Physical Therapy. His subject in PhD was degenerative changes in lumbar spine among young adults. 
-
-**_Tero Leinonen_** Working as a physiotherapist with specialization in Orthopaedic Manual Physical Therapy. 
-
-**_Tuomo Pienimäki_** Doctor specialized in Physical and Rehabilitation Medicine. Associate Professor. Entrepreneur, senior consulting physician. 
-
-**_Jari Ylinen_** Doctor specialized in Physical and Rehabilitation Medicine. Associate professor. Member of the London College of Osteopathic Medicine (MLCOM). 
-
-**_Arja Häkkinen_** Professor of Clinical Physical Therapy. 
-
-#### **ORCID** 
-
-Juhani Määttä http://orcid.org/0000-0002-2400-9195 
 

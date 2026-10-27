@@ -56,9 +56,7 @@ associated with this tissue pathology.<sup>3</sup> Although this is a common con
 
 
 [page 2]
-A.M. Lucado et al. / Journal of Hand Therapy 32 (2019) 262e276 
 
-263 
 
 Functional limitations and participation restrictions associated with LET can result in considerable economic costs for those affected, especially when LET becomes chronic.<sup>9,10</sup> Many individuals with severe elbow pain are not able to function optimally, although the precise impact of LET on society is not known. The National Institute for Occupational Safety and Health reports that individuals with LET have a higher rate of sick leave than individuals with other upper extremity disorders.<sup>11</sup> Functional limitations and participation restrictions and the resulting economic impacts are further compounded by high recurrence rates.<sup>3,12,13</sup> 
 
@@ -91,9 +89,7 @@ A standardized set of data was extracted for the selected studies. Data collecte
 
 
 [page 3]
-A.M. Lucado et al. / Journal of Hand Therapy 32 (2019) 262e276 
 
-264 
 
 Summary measures of quantitative data including measures of central tendency and variability, standardized mean differences (SMDs), or mean differences (MDs) were extracted or calculated where possible. The summary data were considered to be statistically significant if the 95% confidence interval (CI) did not include 0. These data were interpreted within the context of the study as to a positive or negative sign associated with the SMD or MD to appropriately determine which intervention was favored in any given analysis. According to convention by Cohen,<sup>27</sup> a large effect was considered to be � to 0.80, a moderate effect was >0.20 to <0.80, and a small effect was �0.20. 
 
@@ -130,9 +126,7 @@ Fig. 1. PRISMA flow diagram summarizing study selection process. PEDro ¼ Physio
 
 
 [page 4]
-A.M. Lucado et al. / Journal of Hand Therapy 32 (2019) 262e276 
 
-265 
 
 Table 1 
 
@@ -216,9 +210,7 @@ Pain-free grip associated with MWM had 2 studies<sup>22,51</sup> suitable for da
 
 
 [page 5]
-A.M. Lucado et al. / Journal of Hand Therapy 32 (2019) 262e276 
 
-266 
 
 Table 4 
 
@@ -238,9 +230,7 @@ Mobilization with movement study characteristics
 
 
 [page 6]
-A.M. Lucado et al. / Journal of Hand Therapy 32 (2019) 262e276 
 
-267 
 
 Table 4 (continued ) 
 
@@ -278,9 +268,7 @@ LET ¼ lateral elbow tendinopathy; PFGS ¼ Pain free grip strength; VAS ¼ Visua
 
 
 [page 7]
-A.M. Lucado et al. / Journal of Hand Therapy 32 (2019) 262e276 
 
-268 
 
 Table 6 
 
@@ -312,9 +300,7 @@ Studies looking at the immediate effects of MWM did not include measures of func
 
 
 [page 8]
-A.M. Lucado et al. / Journal of Hand Therapy 32 (2019) 262e276 
 
-269 
 
 
 
@@ -335,9 +321,7 @@ Fig. 4. Forest plot of short-term effect sizes (<3 months) of mobilization with 
 
 
 [page 9]
-A.M. Lucado et al. / Journal of Hand Therapy 32 (2019) 262e276 
 
-270 
 
 
 
@@ -370,9 +354,7 @@ Fig. 6. (A) Forest plot of short-term effect sizes (<3 months) of Mill’s Manip
 
 
 [page 10]
-A.M. Lucado et al. / Journal of Hand Therapy 32 (2019) 262e276 
 
-271 
 
 
 
@@ -407,9 +389,7 @@ All studies except one reported on only the immediate or shortterm effectiveness
 
 
 [page 11]
-A.M. Lucado et al. / Journal of Hand Therapy 32 (2019) 262e276 
 
-272 
 
 with the group receiving US, transverse friction massage, and exercise [MD ¼ 3.2 (SD ¼ �2.1)]. In a similar study, Joshi et al<sup>25</sup> found that at 3-week follow-up, the wrist mobilization group demonstrated a significantly greater decrease (MD ¼ 2.5) in “pain during day” compared with the group receiving US and transverse friction massage (MD ¼ 1.7) on the 10-cm VAS scale; no measures of variability were reported. Hsu et al<sup>59</sup> reported no between-group comparisons but found that there were no significant differences in VAS scores for the acupuncture group (P ¼ .165) from baseline to week 10, but the radial bone manipulation group demonstrated a significant decrease in pain (P ¼ .001) in a similar timeframe. 
 
@@ -442,9 +422,7 @@ The mechanisms by which mobilizations improve both patient pain perception and f
 
 
 [page 12]
-A.M. Lucado et al. / Journal of Hand Therapy 32 (2019) 262e276 
 
-273 
 
 may trigger sympathetic sensory and motor function changes through afferent and efferent pathways in the spinal cord and/or brain that may result in pain modulation and improvement of grip strength. 
 
@@ -477,9 +455,7 @@ There is compelling evidence that joint mobilizations directed at the elbow impr
 
 
 [page 13]
-A.M. Lucado et al. / Journal of Hand Therapy 32 (2019) 262e276 
 
-274 
 
 managing LET. There is a need for replication of higher quality studies in different settings, the inclusion of true control groups, and more explicit physical screening of participants for the exclusion of unrelated disorders that cause lateral elbow pain. 
 

@@ -1,19 +1,4 @@
 [page 1]
-Review 
-
-
-
-Editor’s choice Scan to access more free content 
-
-> 1Department of Rehabilitation Sciences and Physiotherapy, Ghent University, Ghent, Belgium 2Division of Musculoskeletal Physiotherapy, Department of Health Sciences, Artesis University College Antwerp, Antwerp, Belgium 
-
-### Correspondence to 
-
-Dr Barbara Cagnie, Department of Rehabilitation Sciences and Physiotherapy, Ghent University, De Pintelaan 185, 3B3, 9000 Ghent, Belgium; Barbara.cagnie@ugent.be 
-
-Received 4 January 2013 Revised 15 April 2013 Accepted 20 April 2013 Published Online First 18 May 2013 
-
-To cite: Cools AMJ, Struyf F, De Mey K, et al. Br J Sports Med 2014;48: 692–697. 
 
 # Rehabilitation of scapular dyskinesis: from the office worker to the elite overhead athlete 
 
@@ -39,14 +24,11 @@ There is a strong relationship between chronic neck and shoulder pain and dysfun
 
 There is a body of evidence suggesting that patients with impingement symptoms and glenohumeral instability consistently show altered scapular kinematics.<sup>20–28</sup> With respect to scapular orientation in the resting position, it has also been demonstrated that individuals with neck pain may display altered postural behaviour, especially when performing prolonged sitting tasks, such as during computer use.<sup>29</sup> Increased cervical and thoracic curves and a slouched posture are known to affect scapular orientation, shoulder muscle strength and shoulder range of motion.<sup>30–32</sup> Scapular dynamic stability has primarily been investigated in association with shoulder pathologies where a reduced clavicle retraction, scapular upward rotation, scapular posterior tilt and increased clavicle elevation have been reported.<sup>9</sup> Recently, Helgadottir et al<sup>3334</sup> demonstrated a significantly reduced clavicle retraction on 
 
-1 of 8 
 
-Cools AMJ, et al. Br J Sports Med 2014;48:692–697. doi:10.1136/bjsports-2013-092148 
 
 
 
 [page 2]
-Review 
 
 the dominant side in patients with insidious onset neck pain and whiplash-associated disorders (WAD) both at rest and during arm elevation. 
 
@@ -76,14 +58,11 @@ There is no consensus about the cause–consequence relationship between scapula
 
 Irrespective of the direction of cause and effect, it is generally believed that the clinician should focus on scapular evaluation and rehabilitation prior to, or in concordance with, the treatment of the neck or shoulder. Indeed, scapular dyskinesis tends to jeopardise optimal shoulder and neck function through various mechanisms, from decreasing the width of the subacromial space, threatening the fulcrum of the humeral head into the glenoid fossa, to inducing abnormal compressive and shear 
 
-2 of 8 
 
-Cools AMJ, et al. Br J Sports Med 2014;48:692–697. doi:10.1136/bjsports-2013-092148 
 
 
 
 [page 3]
-Review 
 
 forces in the cervical spine, thus compromising cervical motion and stability. Moreover, scapular dyskinesis may lead to a breakage in the kinetic chain, during overhead athletic activities as well as during prolonged daily activities of the upper quadrant.<sup>5</sup> 6 The scapula plays a very important role as a link between the trunk and the arm, transferring and increasing the energy, power and equilibrium from the lower extremities and the trunk into the arm.<sup>569</sup> In order to fulfil this task, the scapula has to be in the correct position and all scapular muscles should be activated at the right time in sufficient amount to allow the ground reaction forces to be transferred into the shoulder, and finally into the most distal link of the chain, the hand. Abnormal scapular position and kinematics might lead to a breakage of the functional kinetic chain, putting other links at risk for injury. Therefore, the therapist should always observe, examine and treat scapular dyskinesis in patients with shoulder and neck pain. 
 
@@ -101,14 +80,11 @@ Figure 1 summarises a recently published clinical reasoning algorithm that the c
 
 Figure 1 Scapular rehabilitation algorithm. 
 
-3 of 8 
 
-Cools AMJ, et al. Br J Sports Med 2014;48:692–697. doi:10.1136/bjsports-2013-092148 
 
 
 
 [page 4]
-Review 
 
 ## Rehabilitation of flexibility deficits 
 
@@ -140,14 +116,11 @@ The use of therapeutic tape can also be helpful in this stage of the rehabilitat
 
 Depending on the results of the clinical examination, the therapist may decide in the second stage of scapular muscle training to focus more on muscle control and co-contraction (advanced control during basic activities) or muscle strength (in case, for 
 
-4 of 8 
 
-Cools AMJ, et al. Br J Sports Med 2014;48:692–697. doi:10.1136/bjsports-2013-092148 
 
 
 
 [page 5]
-Review 
 
 instance, manual muscle testing or isokinetic testing shows isolated strength deficit in one or more scapular muscles). 
 
@@ -169,14 +142,11 @@ Once muscle balance is restored, in the third stage of scapular muscle rehabilit
 
 There are no science-based guidelines for return to play (RTP) in overhead athletes with shoulder and neck dysfunction. Although a general decision-based RTP model has been published,<sup>110</sup> specific guidelines and cut-point values for the medical factors at the shoulder girdle to be evaluated in step 
 
-5 of 8 
 
-Cools AMJ, et al. Br J Sports Med 2014;48:692–697. doi:10.1136/bjsports-2013-092148 
 
 
 
 [page 6]
-Review 
 
 one (evaluation of the health status) are scarce. As a result, each clinician uses normative data from the literature, or his own clinical reasoning process to decide whether an athlete is ready to play. Ideal return-to-play criteria are described by Mc Carty et al<sup>111</sup> comprising little/no pain, subjective satisfaction of the treatment by the patient, near normal ROM and strength, and normal functional ability and sport-specific skills. Regarding scapular dyskinesis, we recommend symmetry in the scapular muscle strength in athletes not performing throwing sports, and 10% increased strength on the dominant side in unilateral overhead sports (isometric muscle strength, measured with a Hand-Held Dynamometer).<sup>112</sup> Special attention should be given to the strength of the middle and lower portions of the trapezius.<sup>37</sup> Based on values in a normal non-injured population, a ratio of 100% is recommended between the protractors and retractors, measured isokinetically.<sup>48113</sup> For flexibility variables, a pectoralis minor index (pectoralis minor length normalised for body height) of 8.61 is advised,<sup>40</sup> along with less than a 20° side difference for internal rotation range of motion,<sup>32</sup> or a 10% side difference in the total ROM (ER+IR).<sup>15</sup> Finally, although there is no validated standardised RTP play test, the clinician can use specific functional fatigue tests to assist him in the decision to return to play, such as a high performance plyometric test, or an eccentric test for the rotator cuff muscles. 
 
@@ -204,7 +174,5 @@ In summary, there is evidence of scapular kinematic alterations associated with 
 
 Contributors AMJC has substantially contributed to the conception and design of the manuscript, drafting of the article and final approval of the manuscript. She is responsible for the overall content as guarantor. FS, KDM, AM, BC and BCG has substantially contributed to the drafting, revision and final approval of the manuscript. BCG has also contributed to the conception and design of the manuscript. She is also responsible for the overall content as a Guarantor. 
 
-Competing interests None. 
 
-Provenance and peer review Commissioned; externally peer reviewed. 
 

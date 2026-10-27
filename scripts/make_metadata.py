@@ -5,8 +5,8 @@ import pymupdf  # pymupdf
 from pathlib import Path
 
 #This script extracts metadata from PDFs in a specified folder and saves it to a JSON file.
-#It is another helper script to help with the project and is not neccisary to the project but is a time saver for extracting metadata from PDFs.
-#This was written using Claude AI and is being left in the project for future use if more pdfs are added to help speed up the process of extracting metadata from PDFs.
+#It is another helper script to help with the project it is a time saver for extracting metadata from PDFs.
+#This was written using Claude AI and can be used if more pdfs are added to help speed up the process of extracting metadata from PDFs.
 #-Hayden Daoust
 
 #if the user does not provide a folder name, exit the script with a usage message

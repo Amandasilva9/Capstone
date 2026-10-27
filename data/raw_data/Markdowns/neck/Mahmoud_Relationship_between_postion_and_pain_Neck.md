@@ -9,8 +9,6 @@ HOT TOPICS
 
 Nesreen Fawzy Mahmoud<sup>1</sup> & Karima A. Hassan<sup>1</sup> & Salwa F. Abdelmajeed<sup>1</sup> & Ibraheem M. Moustafa<sup>2</sup> & Anabela G. Silva<sup>3</sup> 
 
-Published online: 26 November 2019 # Springer Science+Business Media, LLC, part of Springer Nature 2019 
-
 #### Abstract 
 
 Purpose of Review Forward head posture (FHP) is the most common cervical postural fault in the sagittal plane that is found with different severity levels in almost all populations. Despite claims that FHP may be related to neck pain, this relation seems to be controversial. Thus, our purpose is to determine whether FHP differs between asymptomatic subjects and those with neck pain and to investigate if there is a relationship between head posture and neck pain. 
@@ -21,24 +19,6 @@ Keywords Systematic review<sup>.</sup> Meta-analysis<sup>.</sup> Neck pain<sup>.
 
 ## Introduction 
 
-- Nesreen Fawzy Mahmoud dr_noonfawzy@yahoo.com; dr_nesreenfawzy@cu.edu.eg 
-
-Karima A. Hassan Karima.abdelaty@pt.cu.edu.eg 
-
-Salwa F. Abdelmajeed dr_salwa_fadl@live.com 
-
-Ibraheem M. Moustafa iabuamr@sharjah.ac.ae 
-
-Anabela G. Silva asilva@ua.pt 
-
-- 1 Department of Musculoskeletal Disorders & Surgery, Faculty of Physical Therapy, Cairo University, Cairo 14531, Egypt 
-
-- 2 Department of Physiotherapy, College of Health Sciences, University of Sharjah, Sharjah, UAE 
-
-- 3 
-
-- School of Health Sciences & CINTESIS.UA, University of Aveiro, Aveiro, Portugal 
-
 Neck pain is a common complaint in the population, with a considerable impact on individuals and their families, communities, health-care systems, and businesses [1, 2, 3•]. The estimated 1-year incidence of neck pain ranges between 10.4 and 21.3%, and the overall prevalence of neck pain in general population can be as high as 86.8% [2, 3•]. Neck pain has an episodic occurrence with variable recovery between episodes [4], and it is considered the most persistent musculoskeletal pain syndrome [5]. Neck pain can be associated to serious conditions such as neurological conditions, infections, neoplasms, and fractures of the cervical spine, or it can be idiopathic (neck pain without unknown cause) [6]. 
 
 Strong evidence was found to relate neck pain with female gender, older age, being an ex-smoker, high job demands, and low social or work support [7, 8]. Regarding physical work factors, neck pain was significantly associated with holding the neck in a forward bent posture for a prolonged time and making repetitive movements [9]. In addition, the increasing 
@@ -46,9 +26,7 @@ Strong evidence was found to relate neck pain with female gender, older age, bei
 
 
 [page 2]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
 
-563 
 
 use of new information and communication technologies has led to an increase in time spent texting messages on mobile phones or using computers, which might have a long-term impact on neck pain, potentially due to prolonged periods of neck flexion [10•]. 
 
@@ -60,42 +38,8 @@ A previous systematic review compared surrogate measures for head posture in ind
 
 This systematic review was registered on PROSPERO (PROSPERO 2017: CRD CRD42018081494) and conducted according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines [24]. 
 
-### Information Sources and Search Strategy 
-
-The electronic databases EMBASE, MEDLINE/PubMed, Cochrane Library Web search, Physiotherapy Evidence Database (PEDro), and CINAHL were searched for observational studies published in English and indexed from 2009 to April 2017, and updated search was performed on 19 September 2018. The search strategy consisted of a mix of free-text terms and Medical Subject Headings (MeSH). The details of the search strategy are shown in Appendix Table 4. Reference lists of the relevant articles were also searched. 
-
-We searched the databases from 2009 because this systematic review is considered an update of a previously published review [22] and is being undertaken in the light of the publication as a significant new research with some modifications in the research questions as well as inclusion and exclusion criteria. The inclusion and exclusion criteria are shown in (Table 1). 
-
-### Study Selection 
-
-All titles and abstracts were imported into Mendeley Desktop© (version 1.17.6) through which we removed duplicates and irrelevant articles that did not meet the inclusion criteria. Two reviewers (NF and KH) independently identified papers as relevant based on eligibility criteria. Lists from both reviewers were compared, and papers identified by both authors were obtained in full text. Discrepancies in judgment were resolved by consensus. A third reviewer (AGS) acted as arbiter. 
-
-### Data Extraction 
-
-Two reviewers (NF and KH) independently extracted the appropriate data. They compared their findings to verify whether all appropriate data were successfully extracted. We also contacted the primary authors for additional data and/or clarification of data, when needed. 
-
-Table 1 Eligibility criteria of the included studies 
-
-|Studies were eligible for inclusion if|
-|---|
-|•Transversal or longitudinal studies evaluating the relationship between<br>sagittal head posture and idiopathic neck pain (observational studies)<br>•Investigating FHP in individuals with idiopathic neck pain (described as<br>neck pain of unknown origin and described as a posterior pain<br>perceived in the region below the superior nuchal line, above the spine<br>of the scapula) [4]|
-|•The comparison group included pain-free subject (described with no<br>history or current neck pain)|
-|•Involving individuals with acute or chronic idiopathic neck pain of any<br>age group|
-|•The primary outcome of interest was FHP (measured as distances or<br>angles between anatomical landmarks). Secondary outcomes include<br>neck pain measures (e.g., severity, frequency, duration, and/or disabil-<br>ity) assessed using validated instruments|
-|Studies were excluded if|
-|•Neck pain has a specific underlying pathology such as fractures,<br>rheumatoid arthritis, osteoporosis, or whiplash injuries as well as neck<br>pain associated with radiculopathy|
-|•Including the assessment of dynamic FHP (during working or using<br>visual display terminals)|
-|•Including participants with neck pain and other concomitant complaints<br>(e.g., patients who suffered from neck pain and headache)<br>•In languages other than English<br>•Conference proceedings, editorials, letters, and poster presentations|
-
-
-
-
 
 [page 3]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
-
-564 
-
 ### Quality Assessment 
 
 Three researchers (AGS, KH, and NF) independently assessed the quality of selected articles by using an adapted form of the Effective Public Health Practice Project (EPHPP) assessment tool which was developed by Thomas et al. [25]. This tool was chosen because it had been used previously in adapted form for recording quality of similar studies [22, 26]. To avoid conflict of interest, 2 articles were assessed by 2 researchers only (KA and NF) as the third researcher (AGS) was one of the authors of these two articles [27, 28]. Discrepancies in assessment were solved by discussion until consensus was reached. 
@@ -112,28 +56,10 @@ transformed into I<sup>2</sup> percent with its p value. Publication bias could 
 
 ## Results 
 
-### Search Results 
-
-The search of selected databases provided a total of 1292 references. After excluding for duplicates as well as title, abstract, and full-text review finally, a total of 15 studies were eligible to be included in this review (Fig. 1). The agreement between the 2 reviewers who screened the references was 81%. Thirteen of the 15 studies provided data for metaanalysis. 
-
-### Characteristics of Included Studies 
-
-Ten studies were cross-sectional studies (compared FHP between a group of participants with neck pain and a group of asymptomatic participants) [27, 28, 31–38], while four papers were cross-sectional without a comparison group (presented correlation data between FHP and neck pain) [39–42] and one study investigated the correlation between four postural clusters and neck pain [43]. Of the ten studies that presented comparative data, 3 studies presented correlational data also [28, 32, 33]. A summary of the retrieved data of the included articles is presented in Table 2. 
-
-### Quality Assessment 
-
-Results from using the EPHPP quality assessment tool are shown in Table 3. Eight studies were rated of moderate quality while 7 were rated of weak quality. The most common limitations include the following: not using an appropriate sample size, uncontrolled confounding factors, and using a neck pain assessment tool that was not shown to be valid. Eight studies used appropriate sample size [27, 33, 35, 36, 40–43], and only two of them performed a priori sample size calculation [27, 33]. 
-
-Included studies controlled for different confounding factors: six studies controlled for both age and sex [27, 32–34, 37, 43], while two studies controlled for sex only [35, 40] or for age only [28] and six studies did not control for sex or age [31, 36, 38, 39, 41, 42]. 
-
-Three studies did not measure or report on the reliability of the FHP measuring tool [33, 40, 41], while six studies did not use a valid instrument to assess neck pain [34–36, 38, 40, 43]. 
-
 
 
 [page 4]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
 
-565 
 
 
 
@@ -159,9 +85,7 @@ Nagai et al. [34] and Dunleavy et al. [37] investigated the combined sample of a
 
 
 [page 5]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
 
-566 
 
 |Conclusion|,<br> <br>Patients with chronic<br>non-traumatic NP aged<br>50 years or below had a more<br>forward standing head posture<br>than pain-free individuals,<br>whereas there was no difference<br>between these groups for older<br>participants. No difference was<br>found between groups for head<br>extension<br>Adolescents with NP have less<br>FHP compared to<br>asymptomatic participants, but<br>no relation between FHP and<br>NP duration, frequency, and<br>intensity<br>No significant difference between<br>both groups<br>The CCA was lower in subjects<br>with neck pain than normal<br>subjects indicating FHP.<br>Subjects with NP demonstrated<br>high sagittal head tilt angle<br>indicating greater upper cervical<br>extension<br>Subjects with NP had a smaller<br>CV angle. CVA was an<br>acceptable predictor for the<br>presence of neck pain. The|
 |---|---|
@@ -180,9 +104,7 @@ Curr Rev Musculoskelet Med (2019) 12:562–577
 
 
 [page 6]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
 
-567 
 
 |Conclusion|<br> <br> <br>cervical spine had a significant<br>correlation with NP severity<br>and disability<br>Individuals with pain exhibited a<br>significantly more extended<br>UCA than age-matched asymp-<br>tomatic individuals without<br>pain, while there were no dif-<br>ferences in FHP distances be-<br>tween the groups<br>There was no significant<br>difference (p> 0.05) in the<br>unloaded CV angles between<br>the neck pain group and<br>non-neck pain|No significant difference between<br>both groups during looking<br>forward|
 |---|---|---|
@@ -202,9 +124,7 @@ Curr Rev Musculoskelet Med (2019) 12:562–577
 
 
 [page 7]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
 
-568 
 
 |NP<br>characteristics<br>AS<br>characteristics<br>Statistical tests<br>Results<br>Conclusion|between the<br>sagittal posture of<br>cervical and<br>thoracic spine<br>(CVA, HTA) and<br>neck pain<br>A score of at<br>least 10 on<br>the NDI and<br>neck<br>symptoms<br>of more<br>than<br>6 months<br>No cervical and<br>shoulder<br>dysfunction<br>and a score<br>below 10 on<br>the NDI are<br>scored as“no<br>disability”<br>General linear model<br>one-way ANOVA,<br>the correlation<br>(NR)<br>•A significant<br>difference was also<br>observed in the<br>cranial angle<br>(p< 0.01) and a<br>tendency in the<br>cervical angle<br>(p= 0.07)<br>•The correlation<br>between the<br>dependent<br>variables and the<br>scores on the NDI<br>and VAS was<br>found to be weak<br>(r< 0.50)<br>•Significantly<br>decreased cranial<br>angle in the IONP<br>group (p= 0.02)<br>and the WAD<br>group (p= 0.03)<br>compared with the<br>control group<br>Reduced cranial angle in patients<br>with NP compared with<br>asymptomatic subjects<br>Independent-samples<br>ttest; a chi-square<br>test was used to<br>assess the relation-<br>ship between the<br>forward head and<br>cervical pain<br>•The overall mean<br>CVA<br>(NP = 46.5 ± 5.6,<br>AS = 47.9 ± 4.79)<br>*<br>•HT angle<br>(NP = 16.4 ± 5.7,<br>AS = 17.6 ± 5.7)<br>•Adolescents with<br>FH than<br>adolescents<br>without FH<br>(29.8% vs 8.4%)<br>•Girls cervical angle<br>(NP = 45.81 ± 5.6,<br>AS = 47.38 ±<br>4.76°)*<br>•The overall NP group showed a<br>significantly lower mean CV<br>angle<br>•No statistically significant<br>difference was found between<br>patients and pain-free partici-<br>pants for the HT angle<br>•Neck pain was more prevalent in<br>adolescents with FH than<br>adolescents without FH<br>•Girls with NP also reported a<br>significantly lower cervical<br>angle than the girls without NP<br>NR<br>NR<br>Pearson’s correlation<br>•NDI (mild disability<br>range)<br>•Correlation CVA<br>and NDI in<br>standing position<br>(r=−0.35)*<br>A significant negative correlation<br>of CVA (standing or sitting)<br>with NDI|
 |---|---|
@@ -220,9 +140,7 @@ Curr Rev Musculoskelet Med (2019) 12:562–577
 
 
 [page 8]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
 
-569 
 
 |NP assessment<br>measures<br>NP<br>characteristics<br>AS<br>characteristics<br>Statistical tests<br>Results<br>Conclusion|•Correlation CVA<br>and NDI in sitting<br>(r=−0.33)<br>NP rating scale<br>(NPRS) and<br>the Chinese<br>version of<br>(NPQ)<br>Mechanical<br>NP for at<br>least 3 m<br>without<br>referral<br>Pearson’s correlation<br>•AHT with NPQ<br>(r= 0.39)<br>•AHT with NPRS<br>(r= 0.49)<br>•CVA with NPQ<br>(r=−0.67)<br>•CVA with NPRS<br>(r=−0.70)<br>•Moderate positive correlation of<br>AHT with NPQ and NPRS and<br>a negative correlation of CV<br>angle with NPQ and NPRS<br>Questionnaire<br>(lifetime and<br>1 month<br>prevalence<br>and doctor<br>visit of NP)<br>Univariate analysis<br>and binary logistic<br>regression<br>•In boys, a lifetime<br>prevalence of NP:<br>the CVA<br>(OR = 0.954; 95%<br>CI =<br>0.924–0.985;<br>p= 0.004)<br>•In girls, a doctor<br>visit for NP: the<br>CVA (OR = 0.905;<br>95%<br>CI =<br>0.824–0.994;<br>p= 0.037)<br>•In boys, the CVA and the trunk<br>lean angle are significant<br>predictors of lifetime<br>prevalence of NP.<br>•In girls, the CVA is a significant<br>predictor of doctor visit for NP<br>The<br>questionnaire<br>(adapted from<br>the NPQ)<br>included the<br>following:<br>•Presence<br>•Persistent NP<br>•NP worse with<br>sitting<br>Multivariable logistic<br>regression after<br>adjusting for the<br>potential<br>confounding<br>variables<br>•Presence of<br>persistent NP and<br>posture clusters<br>(p= 0.741)<br>•Neck pain made<br>worse by sitting<br>and posture<br>clusters<br>(p= 0.262)<br>There was no significant<br>difference between the clusters<br>and the presence of persistent<br>NP. Also, the odds of neck pain<br>made worse by sitting did not<br>differ among the clusters<br>VAS, NPQ<br>Mild to<br>moderate<br>neck pain<br>subjects<br>A Pearson’s<br>correlation<br>coefficient<br>•The CVangle with<br>the VAS<br>(r=−0.536)*<br>•The CVangle with<br>the NPQ<br>(r=−0.389)*<br>A significantly moderate negative<br>correlation of CVA with NP<br>intensity and a significantly<br>weak negative correlation with<br>disability|flexion angle = C7, tragus, and vertical/tragus, eye, and horizontal = gaze angle = sagittal head angle (HT)/tragus, eye, and vertical =<br>Disability Index,NPQNeck Pain Questionnaire,AHTanterior head translation,HPSCIHead Posture Spinal Curvature Instrument,<br>cervical range of motion device<br>he (conclusion) column|
 |---|---|---|
@@ -235,9 +153,7 @@ Curr Rev Musculoskelet Med (2019) 12:562–577
 
 
 [page 9]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
 
-570 
 
 Table 3 Quality assessment of the included studies 
 
@@ -292,9 +208,7 @@ Fig. 2 Overall CVA difference between asymptomatic (AS) and neck pain (NP) parti
 
 
 [page 10]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
 
-571 
 
 
 
@@ -329,9 +243,7 @@ Fig. 4 Forest plot of comparison. Comparison between asymptomatic (AS) and neck 
 
 
 [page 11]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
 
-572 
 
 
 
@@ -373,9 +285,7 @@ Fig. 6 Meta-analysis of the correlation between neck pain intensity and CVA in a
 
 
 [page 12]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
 
-573 
 
 |**Study name**|**S**|**tatistics**|**for each**|**study**||**Correlation and 95% CI**||
 |---|---|---|---|---|---|---|---|
@@ -420,9 +330,7 @@ The limitations in this review includes the studies in languages other than Engl
 
 
 [page 13]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
 
-574 
 
 but received no response. Studies of low and moderate methodological quality were included in the meta-analysis, and subgroup analysis according to sex, position of assessment, instrumentations, and quality of the studies was not feasible because of the small number of retrieved studies. 
 
@@ -461,7 +369,5 @@ Table 4 Search strategy and number of founded papers in each database
 
 
 [page 14]
-Curr Rev Musculoskelet Med (2019) 12:562–577 
 
-575 
 

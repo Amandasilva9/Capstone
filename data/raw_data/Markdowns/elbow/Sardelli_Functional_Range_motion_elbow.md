@@ -1,25 +1,3 @@
-[page 1]
-
-
-_This is an enhanced PDF from The Journal of Bone and Joint Surgery_ 
-
-_The PDF of the article you requested follows this cover page._ 
-
-## **Functional Elbow Range of Motion for Contemporary Tasks** 
-
-Matthew Sardelli, Robert Z. Tashjian and Bruce A. MacWilliams _J Bone Joint Surg Am._ 2011;93:471-477.  doi:10.2106/JBJS.I.01633 
-
-### **This information is current as of March 8, 2011** 
-
-**Reprints and Permissions** Click here to **order reprints or request permission** to use material from this article, or locate the article citation on jbjs.org and click on the [Reprints and Permissions] link. **Publisher Information** The Journal of Bone and Joint Surgery 20 Pickering Street, Needham, MA 02492-3157 **www.jbjs.org** 
-
-
-
-[page 2]
-471 
-
-COPYRIGHT � 2011 BY THE JOURNAL OF BONE AND JOINT SURGERY, INCORPORATED 
-
 # Functional Elbow Range of Motion for Contemporary Tasks 
 
 By Matthew Sardelli, MD, Robert Z. Tashjian, MD, and Bruce A. MacWilliams, PhD 
@@ -42,20 +20,8 @@ The purpose of this study was to determine the functional range of motion of the
 
 ### Materials and Methods 
 
-### Subjects 
-
-The study was approved by the institutional review board Human SubjectsCommittee at the University of Utah, Salt Lake City, Utah. A sample size of 
-
-Disclosure: The authors did not receive any outside funding or grants in support of their research for or preparation of this work. Neither they nor a member of their immediate families received payments or other benefits or a commitment or agreement to provide such benefits from a commercial entity. 
-
-J Bone Joint Surg Am. 2011;93:471-7 d doi:10.2106/JBJS.I.01633 
-
-
-
 [page 3]
-472 
 
-T HE J OURNAL OF B ONE & J OINT S URGERY d JBJS. ORG VOLUME 93-A d N U MBE R 5 d M ARCH 2, 2011 
 
 
 
@@ -73,7 +39,6 @@ Two generations of a ten-camera, optical, three-dimensional motion analyzer (Vic
 
 Light-reflective spherical markers (14 mm in diameter) were attached to the skin of each subject. Markers were placed on each subject at the radial and ulnar 
 
-F UNCTIONA L E LBOW R A NG E O F M OTION FOR C ONTEMPORARY TASKS 
 
 styloids, medial and lateral humeral epicondyles, distal one-third of the radial shaft, distal one-third of the humeral shaft laterally, incisura jugularis sterni, xiphoid process, spinous process of C7, spinous process of T10, the acromioclavicular joint ipsilateral and contralateral to the elbow being measured, and the midpoint of the clavicle ipsilateral to the elbow being measured14 (Fig. 1). A single evaluator placed all markers for all study participants. Functional motions of the shoulder and elbow were used to calculate the glenohumeral joint center and the location and orientation of the elbow flexion axis. With use of functional joint centers to establish anatomic axes of motion, error attributable to skin motion is minimized. Flexion accuracy of the model has been reported as within 2�, and repeatability of the model has been reported as within 6� for all motions14. 
 
@@ -88,11 +53,8 @@ Test setup for activities of daily living. Subjects are seated at a desk of stan
 
 
 [page 4]
-473 
 
-T HE J OURNAL OF B ONE & J OINT S URGERY d JBJS. ORG VOLUME 93-A d N U MBE R 5 d M ARCH 2, 2011 
 
-F UNCTIONA L E LBOW R A NG E O F M OTION FOR C ONTEMPORARY TASKS 
 
 
 
@@ -101,10 +63,6 @@ Fig. 3 Positioning test end points of motion for elbow flexion ordered from mini
 ### Data Analysis 
 
 Mean, standard deviation, and confidence interval measures were made for each positional task analyzed. Minimum, maximum, and range of motion arc measurements were made for each functional task along with confidence intervals. 
-
-### Source of Funding 
-
-External funding did not play a role in the development of this study. 
 
 ### Results 
 
@@ -121,11 +79,8 @@ Fig. 4 Positioning test end points of motion for forearm rotation ordered from m
 
 
 [page 5]
-474 
 
-T HE J OURNAL OF B ONE & J OINT S URGERY d JBJS. ORG VOLUME 93-A d N U MBE R 5 d M ARCH 2, 2011 
 
-F UNCTIONA L E LBOW R A NG E O F M OTION FOR C ONTEMPORARY TASKS 
 
 
 
@@ -144,7 +99,6 @@ Fig. 7
 
 
 [page 6]
-475 
 
 T HE J OURNAL OF B ONE & J OINT S URGERY d JBJS. ORG F UNCTIONA L E LBOW R A NG E O F M OTION VOLUME 93-A d N U MBE R 5 d M ARCH 2, 2011 FOR C ONTEMPORARY TASKS 
 
@@ -171,17 +125,13 @@ In 2005, standards for defining motion axes were implemented by the Internationa
 
 
 [page 7]
-476 
 
-T HE J OURNAL OF B ONE & J OINT S URGERY d JBJS. ORG VOLUME 93-A d N U MBE R 5 d M ARCH 2, 2011 
 
 for picking up a telephone and combing one’s hair were reported as 140�. Raiss et al.10, in a study of eight subjects, used an optical tracking system to evaluate ten activities of daily living. A motion arc for flexion of a mean of 110� (range, 36� to 146�) and a mean pronation-supination arc of 117� (range, 55� of pronation to 72� of supination) were found. Henmi et al.<sup>8</sup> evaluated five subjects for three functional tasks. Eating a meal, shampooing one’s hair, and washing one’s face were all evaluated with use of an optical tracking system with a similar marker setup. Flexion values ranged from a mean (and standard deviation) of 140� ± 5� for washing one’s face to 151� ± 9� for shampooing one’s hair. Mean pronation was reported as 75� and mean supination as 100�. These motion arcs and positional values are more consistent with the findings in the present study. Nevertheless, none of those authors replicated all of the tasks evaluated in the study by Morrey et al.<sup>5</sup> . 
 
 Possible explanations for the differences between the results reported by Morrey et al., with use of the triaxial goniometer, compared with the results with use of optical motion tracking include soft-tissue impingement with the device and/ or inadequate alignment of the goniometer along the arm during elbow motion, subsequently altering motion axes. Both of these were identified as potential weaknesses in the original study by Morrey et al.5. Three-dimensional motion tracking offers the advantage of not needing to have the subjects to wear a linkage and wires, and potentially allows individuals to perform the tasks more naturally. 
 
 Varus and valgus elbow positioning in a normal group of individuals has not been previously reported as far as we know. These data may prove useful, especially when total elbow arthroplasty is considered. The degree to which the varus-valgus motion is coupled with flexion due to axis alignment and Euler angle specifications versus true motion laxity is uncertain. O’Driscoll et al. reported on electromagnetic tracking of eleven cadaveric elbows before and after implantation of a semiconstrained Coonrad-Morrey elbow prosthesis17. Varus-valgus laxity was evaluated throughout the flexion arc with the muscles loaded. A mean (and standard deviation) of 6.9� ± 3.7� of varus and valgus laxity was found prior to implantation, while 10.8� ± 1.8� of each was found after implantation. This information suggested that the prosthesis behaved as a ‘‘semiconstrained’’ joint. The authors suggested that because the Coonrad-Morrey prosthesis has more allowable varus-valgus motion than commonly seen in the intact elbow, the implant should never achieve the maximal varus-valgus positions allowed by the design, thereby limiting the development of early wear. That study was the first, as far as we know, to report on the kinematics of the elbow after total elbow arthroplasty, confirming that angular changes are present at the prosthesis with regard to varus and valgus positioning. Our study confirms these in vitro data as we found that, within a normal group of individuals, there is varus and valgus motion of the elbow while performing activities of daily living. Similarly, our in vivo data of 7.0� ± 1.7� of varus and 9.0� ± 2.9� of valgus is close to the 6.9� ± 3.7� determined by O’Driscoll et al. in cadaveric elbows. Further study would include in vivo analysis 
-
-F UNCTIONA L E LBOW R A NG E O F M OTION FOR C ONTEMPORARY TASKS 
 
 of varus and valgus motion arcs in patients after undergoing total elbow arthroplasty. 
 
@@ -194,21 +144,9 @@ Limitations of the study can be categorized as those inherent to studying the up
 
 
 [page 8]
-477 
 
-T HE J OURNAL OF B ONE & J OINT S URGERY d JBJS. ORG VOLUME 93-A d N U MBE R 5 d M ARCH 2, 2011 
 
-F UNCTIONA L E LBOW R A NG E O F M OTION FOR C ONTEMPORARY TASKS 
 
 asked to pick up a pitcher and pour into a glass, there is a great deal of individual variation in the execution of the task, which alters the mean and standard deviation values for the given task. Another disadvantage similar to the variety in execution strategies among individuals is the varying amounts of compensatory motions from the other joints of the spine and upper extremity used to complete a task. Vasen et al. demonstrated this in their study of functional elbow range of motion19. They had forty-nine subjects wear a Bledsoe brace, which sequentially limited their range of flexion and extension by 15�, and asked them to perform tasks as outlined by Morrey et al.5. They used ‘‘completion of the task’’ as their primary end point and found that subjects could complete most tasks within a range of 75� to 120�. Completion of tasks was facilitated through compensatory motion at other joints. A limitation of any optical motion capture measurement is soft-tissue artifact. Skin motion across the bones, along with movement between markers, is a source of error that cannot be ignored. It is most pronounced in the forearm affecting rotation, but could also affect joint centers and motion axes as markers change position 
 
 relative to one another through each movement. In this study, a calibration, described in our previous study14, was applied to adjust for skin motion artifact in supination-pronation. n 
-
-Matthew Sardelli, MD TRIA Orthopaedic Center, 8100 Northland Drive, Minneapolis, MN 55431. E-mail address: Matthew.Sardelli@hsc.utah.edu 
-
-Robert Z. Tashjian, MD 
-
-Department of Orthopaedics, University of Utah School of Medicine, 590 Wakara Way, Salt Lake City, UT 84108. E-mail address: Robert.Tashjian@hsc.utah.edu 
-
-Bruce A. MacWilliams, PhD Movement Analysis Laboratory, Shriners Hospitals for Children, Fairfax Road at Virginia Street, Salt Lake City, UT 84103. E-mail address: bmacwilliams@shrinenet.org 
-

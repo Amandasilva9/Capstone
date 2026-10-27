@@ -1,13 +1,9 @@
 [page 1]
-**Thieme** 
 
-Review 
 
 # The Relation Between Stretching Typology and Stretching Duration: The Effects on Range of Motion 
 
 Authors 
-
-**Ewan Thomas**<sup>**1, 2**</sup> **, Antonino Bianco**<sup>**1,2**</sup> **, Antonio Paoli**<sup>**3**</sup> **, Antonio Palma**<sup>**1,2**</sup> 
 
 ##### Affiliations 
 
@@ -21,11 +17,6 @@ Authors
 
 flexibility, range of motion, stretch, long term, ballistic stretching, passive stretching, PNF, static stretching, active stretching 
 
-accepted  05.01.2018 
-
-Bibliography DOI https://doi.org/10.1055/s-0044-101146 Published online: 2018 Int J Sports Med © Georg Thieme Verlag KG Stuttgart · New York ISSN 0172-4622 
-
-Correspondence Dr. Ewan Thomas, University of Palermo Sport and Exercise Research Unit Via Giovanni Pascoli, 6 Palermo, 90144 Italy Tel.:  + 39/320/8899 934, Fax:  + 39/09123860894 ewan.thomas@unipa.it 
 
 ##### **ABsTrAcT** 
 
@@ -43,14 +34,11 @@ Therefore an optimal level of flexibility is a key component of health and shoul
 
 An effective strategy that may be adopted to increase ROM is muscle stretching. Such a strategy has shown to act on ROM at various levels, decreasing the visco-elastic properties of human ten- 
 
-Thomas E et al. The Relation Between Stretching … Int J Sports Med 
 
 
 
 [page 2]
-**Thieme** 
 
-Review 
 
 dons increasing the compliance in vivo at an anatomical level [25, 35], reducing the spinal reflex activity and modulating the presynaptic excitability of the Ia inhibitory pathways at a physiological level [16] and acting through a progressive modification of sensation as a result of an increased tolerance to a stretch [41]. In particular, acute bouts or short term stretching sessions up to three weeks seem to promote stretch tolerance, whereas long term stretching sessions over three weeks seem to act on the biomechanical and physiological properties of muscles, tendons and the nervous system [16, 25, 41]. 
 
@@ -60,19 +48,6 @@ Therefore, the main aim of this review will be to analyze studies that have carr
 
 ## Materials and Methods 
 
-### Literature search 
-
-The PRISMA guidelines for conducting a systematic review were adopted [33]. A literature search was performed using three online databases: MEDLINE, ScienceDirect and SPORTDiscuss, using a number of keywords: stretch, stretching, exercise and flexibility. These were identified through an initial snowballing sampling that started from the keywords: Stretching, adaptation and range of motion. The selected keywords were used combined: stretch AND exercise, stretch AND flexibility, stretching AND exercise, stretching AND flexibility. Bibliographies of relevant publications were also examined. Abstracts and unpublished material were not included. Only papers in English were reviewed. The PRISMA flow diagram (▶ **Fig. 1** ) illustrates the process by which the manuscripts were selected. 
-
-### Inclusion criteria 
-
-Studies examining the influence of stretching typology and stretching duration on ROM were included for review if they fulfilled the following selection criteria: 1) The studies were published between 1995 and 2015; 2) the studies were original articles, published in 
-
-English and in peer review journals; 3) the studies had a minimum timeframe of intervention of 4 weeks; 4) the studies properly described a defined stretching technique; and 5) the studied had a ROM measure as outcome (Pre- and Post-intervention measures). Articles that evaluated acute ROM variations or articles that evaluated pathological cohorts or subjects with impaired flexibility were excluded from investigation. The exclusion of non-English manuscripts is a limitation of this review due to possible loss of useful information, however inappropriate language interpretation may lead to inclusion of irrelevant data. The article screening was carried out by two independent investigators, who eventually resolved disagreements about article inclusion by negotiation. All duplicates were removed. The study was conducted in line with the ethical international guidelines for sport and exercise science research [19]. 
-
-### Statistical analysis 
-
-The manuscripts included in the qualitative synthesis were initially classified according to their stretching technique and for each one, the mean change of ROM variation between pre and post intervention was determined (if not already available,  %Δ). Subsequently 95 % confidence intervals (CIs) for each stretching typology and effect sizes (ES) based on the population size, describing the magnitude of the effects, were determined on the identified articles. After the CIs were determined, the included studies in the quantitative synthesis were subsequently stratified by time of intervention: 1) Total time per week spent stretching (i. less than 5 min, ii. between 5 and 10 min, iii. more than 10 min), 2) total time per stretching session (i. less than 60 s, ii. between 60 and 120 s, iii. More than 120 s) and number of days per week spent stretching. Differences between ROM  %Δ for stretching typologies and stretching durations were assessed through an unpaired t-test and through ANOVA when appropriate using STATISTICA 10.0 for windows (Statsoft inc., Tulsa, OK, USA). Significance level was set at p < 0.05 for all analyses. 
 
 ## Results 
 
@@ -82,7 +57,6 @@ Five articles analyzed active stretching [2, 3, 26, 38, 42], two studies analyze
 
 Nine studies, independently of stretching typology focused on hip extensibility, targeting the hamstring muscles with their stretch intervention. The ROM measures were assessed through the passive bilateral straight leg raise (PSRL). This consisted in having the participants in a supine position with both legs straight and the ankle of the tested leg at 90 ° of dorsiflexion [2–4, 8, 21, 26, 31, 38, 44]. From this position the investigators raised the tested leg until an end point. The end point was determined when the leg either opposed a firm resistance or when a palpable onset of pelvic 
 
-Thomas E et al. The Relation Between Stretching … Int J Sports Med 
 
 
 
@@ -112,14 +86,11 @@ through the SiliconCOACH software to analyze ROM, and calculated the angle forme
 
 Other analyzed studies had as main stretch target the ankle dorsiflexors. Four of these studies measured the ROM variations through an electronic goniometer fixed on the ankle joint [23, 24, 29, 30]. The measurements were taken positioning the participants standing upright in a neutral position, with the ankle joint at 90 °. The participants were then asked to step back one leg and bring the ankle joint at a maximum dorsiflexion keeping the heel on the ground. The knee of the tested leg (back leg) had to remain fully extended and the knee of the opposite leg flexed. Both feet had to stay parallel. The remaining three studies assessed ROM 
 
-Thomas E et al. The Relation Between Stretching … Int J Sports Med 
 
 
 
 [page 4]
-**Thieme** 
 
-Review 
 
 |**District**<br>**%Δ**|Hip<br>22.5|Hamstrings<br>13.6|Hip<br>24.2|Hip<br>23.9|Hip<br>22.2|Ankle Dorsi flexors<br>19.9|l<br>Akl Plt fl<br>195|ne anar lexors<br>.|Hip<br>23.9<br><br>|Hip<br>24.5<br><br>|Hip<br>16.8|Hmtrin<br>167|asgs<br>.|Hamstrings<br>20.5|Hamstrings<br>22.6|Lower body<br>18.1|Ankle Dorsi flexors<br>11.8<br>l|Ankle Dorsi flexors<br>184|l<br>.<br>Hip<br>15.4|Hip<br>19.5|Hi<br>143|p<br>.<br>|Ankle Plantar Flexors<br>11.5|Ankle Plantar Flexors<br>20.8|Akl Di Fl<br>17|ne ors exors<br>5.|Hamstrings<br>20.9|Ankle Dorsi Flexors<br>20.4|Hip<br>20.3|Hip<br>15.2|Hip<br>16.6<br><br>|Hip<br>21.8|Hip<br>17.1|Hamstrings<br>12.6|Lower body<br>20.5<br><br>|Hip<br>14.2|Hip<br>18.9|Hip<br>13.5|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -136,7 +107,6 @@ Review
 
 
 
-Thomas E et al. The Relation Between Stretching … Int J Sports Med 
 
 
 
@@ -194,14 +164,11 @@ The limited number of retrieved records did not allow a direct comparison of ROM
 
 Static stretching can be further distinguished in active or passive. However, if during the analysis of the retrieved records this distinction was not specified, nor clear, the term “static” alone was maintained and a more generic category was created. During the analysis of static stretching a mean  %Δ of 20.9 of ROM was obtained between pre and post interventions across the studies [4, 6– 9, 22, 34]. This variation was 17.7 % across the static active stretching [2, 3, 22, 26, 38, 42] and 18.2 % across the static passive stretching [21, 24, 26, 31, 38, 39, 44]. No statistically significant difference was found across these groups amongst the mean  %Δ of ROM. 
 
-Thomas E et al. The Relation Between Stretching … Int J Sports Med 
 
 
 
 [page 6]
-**Thieme** 
 
-Review 
 
 The  %Δ of ROM regarding ballistic and PNF stretching was, 11.65 and 15.0, respectively [6–9, 23, 30, 34]. The analysis showed significant differences between all the static stretching groups and the ballistic stretching (p < 0.01, for static vs. ballistic stretching and p < 0.05 for active and passive vs. ballistic stretching) and differences between static stretching and PNF (p < 0.05), but no differences were shown between ballistic and PNF stretching or between the other static stretching groups and the PNF group. The relatively small sample size of the groups may not permit a broader application of the results to a wider population. Therefore these findings may be limited to the analyzed cohorts. The results are summarized in ▶ **Table 3** and ▶ **Fig. 2** . 
 
@@ -231,7 +198,6 @@ It is interesting to note that even though the volumes of the “volume per stre
 
 The main aim of this review was to understand the relation between stretching typology and stretching duration in long term stretching and how these parameters affect ROM. The findings suggest that an improvement in ROM is achieved independently from stretching typology. All stretching typologies exhibit increases in ROM after a period of at least 4 weeks although, relatively higher gains are shown with static stretching (20.9 % increase), compared 
 
-Thomas E et al. The Relation Between Stretching … Int J Sports Med 
 
 
 
@@ -288,14 +254,11 @@ man reflex, both evoked and measured through Electromyography) during the stretc
 
 The higher gains obtained by static stretching may also be explained by a reduction in muscle stiffness with consequent increase of the compliance of the muscle already described in humans in vivo [25], promoting ROM gains through a combination of neural and mechanical adaptations. 
 
-Thomas E et al. The Relation Between Stretching … Int J Sports Med 
 
 
 
 [page 8]
-**Thieme** 
 
-Review 
 
 
 
@@ -317,7 +280,6 @@ Over the past few years, PNF stretching has been preferred as a stretching techn
 
 of the spinal reflex excitability seems to last about 5 s and immediately returns to its initial excitability level at the end of the stretch [16]. This characteristic may suggest PNF stretching as a methodology to acutely improve ROM [5]. 
 
-Thomas E et al. The Relation Between Stretching … Int J Sports Med 
 
 
 
@@ -373,14 +335,11 @@ stretching, finding higher gains with static stretching [11] or no differences b
 
 There also seems to be a relation between time and ROM variations, especially regarding time spent stretching each week. Various studies have also related time and ROM improvements. A study by Feland et al. [13] compared three stretching protocols of different durations (60 s, 30 s and 15 s). The participants stretched their hamstrings, according to their time duration, for four sets five days 
 
-Thomas E et al. The Relation Between Stretching … Int J Sports Med 
 
 
 
 [page 10]
-**Thieme** 
 
-###### Review 
 
 a week; this resulted in 1200 (20 min), 600 (10 min) and 300 (5 min), respectively each week. Results found that, over a period of four weeks, the group with the highest gains in ROM was the one that underwent the longest intervention. Similar findings are also shown in the studies of Cipriani et. al[8]. A review by Weppler and Magnusson[41] that summarizes the main factors that contribute to muscle extensibility, describes a relation between time and muscle extensibility caused by the viscoelastic properties of the muscle. The decline of resistance to a stretch is termed viscoelastic stress relaxation and gradually increases while the stretch is applied. However, in human muscles this property is transient. Therefore, the authors reject the hypothesis of mechanical adaptation as the main contributor to muscle extensibility and suggest that, over a period of time between 3 and 8 weeks, the main contributor to muscle extensibility is a modification in the subjects’ sensation. This may also explain the higher gains in ROM achieved by the group that stretched with a higher weekly frequency. 
 
@@ -393,8 +352,4 @@ The studies included in the present review ranged between 4 and 16 weeks, and fo
 The main limit of this study is the limited number of retrieved records that analyzed stretching variations over a long term period; the results may vary across different cohorts. It is however important to note that the age range of the participants in the retrieved records lies between 18 and 46 years of age. 
 
 Stretching is an effective strategy for increasing range of motion regardless of stretching typology. However, static stretching shows slightly higher gains in ROM during a period of time between 4 and 16 weeks. There is also a time dependency in ROM gains, with this being mainly related to the total time spent stretching per week rather than the time spent stretching per session. A minimum time of 5 min each week and for each stretched muscle, seems to be more beneficial for ROM gains. In addition, stretching to a higher weekly frequency, at least 5 times per week, has shown further gains compared to lower frequencies. However, all analyzed groups showed increases in ROM and for such it is difficult to rank stretching protocols based on their effectiveness in increasing muscle flexibility. 
-
-#### Conflict of Interest 
-
-The authors declare no conflict of interest. 
 

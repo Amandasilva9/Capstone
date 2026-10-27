@@ -1,5 +1,4 @@
 [page 1]
-Musculoskeletal Science and Practice 49 (2020) 102182 
 
 
 
@@ -19,13 +18,6 @@ Systematic Review
 
 Marloes Thoomes-de Graaf<sup>a,*</sup> , Erik Thoomes<sup>a</sup> , C�esar Fernandez-de-las-Pe� nas~<sup>b</sup> , Gustavo Plaza-Manzano<sup>c,d</sup> , Joshua A. Cleland<sup>e,f</sup> 
 
-a _Fysio-Experts, Hazerswoude-Rijndijk, the Netherlands_ 
-
-b _Department of Physical Therapy, Occupational Therapy, Physical Medicine and Rehabilitation, Universidad Rey Juan Carlos, Alcorcon, Spain_ � 
-
-c _Department of Radiology, Rehabilitation and Physiotherapy, Universidad Complutense de Madrid, Madrid, Spain_ d _Instituto de Investigaci_ � _on Sanitaria Del Hospital Clínico San Carlos, Madrid, Spain_ 
-
-e _Department of Physical Therapy, Franklin Pierce University, Manchester, NH, USA_ f _Faculty, Manual Therapy Fellowship Program, Regis University, Denver, CO, USA_ 
 
 A B S T R A C T 
 
@@ -41,20 +33,10 @@ Optimal cervical range of motion (ROM) is essential for maximizing function of t
 
 ROM is not recommended (Childs et al., 2008; Blanpied et al., 2017; de Koning et al., 2008; Williams et al., 2010). The Cervical Range of Motion (CROM) device, the standard goniometer, and the inclinometer are the most commonly used tools to measure cervical ROM (Childs et al., 2008; Blanpied et al., 2017). Several systematic reviews have concluded the CROM device is both reliable and valid in patients with non-specific neck pain (de Koning et al., 2008; Williams et al., 2010). The single inclinometer (de Koning et al., 2008; Williams et al., 2010), Spin-T goniometer (de Koning et al., 2008; Williams et al., 2010) and The EDI-320 (de Koning et al., 2008) are also reported to have good reliability and concurrent validity but reportedly require further evaluation (de Koning et al., 2008; Williams et al., 2010). A large number of sophisticated devices are available to measure cervical spine ROM (e.g. 
 
-* Corresponding author. 
-
-_E-mail address:_ marloesthoomes@me.com (M. Thoomes-de Graaf). 
-
-https://doi.org/10.1016/j.msksp.2020.102182 
-
-Received 12 February 2020; Received in revised form 28 March 2020; Accepted 8 May 2020 Available online 19 May 2020 2468-7812/© 2020 Elsevier Ltd. All rights reserved. 
-
 
 
 [page 2]
-_Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
-_M. Thoomes-de Graaf et al._ 
 
 FASTRAK, Flock-of-birds, Cervical Measurement System, CA-6000 SMA, Zebris system), some of which are likely more appropriate for research purposes than for everyday clinical use (Williams et al., 2010). 
 
@@ -68,43 +50,8 @@ There seems to be an increasing interest in systematic reviews on normative valu
 
 The Preferred Reporting Items for Systematic Reviews and MetaAnalyses guidelines were used as the basis for our systematic review (Moher et al., 2009). The protocol of this review was registered _a priori_ in PROSPERO (CRD42018108547). 
 
-### _2.1. Literature search_ 
-
-A research librarian, together with the lead author (MTG) conducted the electronic search. Electronic searches included EMBASE, MEDLINE, Web of Science, Cochrane, CINAHL and Google Scholar from inception to August 2018. Eligible studies were identified using MeSH (Medline), Thesaurus (EMBASE, CINAHL) and free text words such as ‘range of motion’, ‘goniometry’, ‘cervical spine’, ‘neck’, ‘normative data’, ‘normal value’, ‘reference value’. The search strategy is presented in Appendix 1. 
-
-### _2.2. Inclusion criteria_ 
-
-Studies were included if they involved healthy humans in which active cervical ROM was assessed and if assessing normative values was the objective. In an effort not to miss any relevant information however, studies focused on e.g. validating a measurement product presenting descriptive measures (e.g. mean or median) and spread (e.g. standard deviation, standard error or interquartile interval) per age category on healthy subjects were also included (in case ranges were described, a range of 10 years was deemed appropriate. If no range was reported, studies were only included if they had a very small SD ( _<_ 1.5)). Studies 
-
-were excluded if individuals were pregnant, had a history of cervical surgery, had treatment for neck pain in the past year or had serious/ severe diseases. Studies focused on assessing cervical ROM using imaging techniques such as radiography, CT or MRI were also excluded. No language restrictions were applied. Only results from full reports were included in this analysis. 
-
-### _2.3. Study selection_ 
-
-Articles retrieved from the database searches were imported in EndNote X9 (Thomson Reuters) and duplicated references were removed. A published inclusion strategy using EndNote was used (Bramer et al., 2017). Two investigators (MTG and ET) independently screened the titles and abstracts (excluded articles are listed in Appendix 2) to identify articles that would potentially meet the eligibility criteria. The full text of these articles was reviewed and the articles satisfying eligibility criteria were selected. Finally, the reference lists of the selected articles were screened to identify further relevant articles. Disagreements were solved by discussion or through arbitration by a third review author (JC). The excluded studies were listed and their bibliographic details with the reason for exclusion. 
-
-### _2.4. Quality assessment_ 
-
-All included articles were independently assessed by two raters (MTG and ET) for methodological quality and risk of bias (RoB). We used the checklist of Castro et al. (2018), which is based upon the QUADAS (Whiting et al., 2003), a checklist for the assessment of the methodological quality of both randomized and non-randomized studies of health care interventions (Downs and Black, 1998) and other topics deemed important for the purpose of the systematic review. We slightly modified these specific topics, as the measurement of strength and ROM differ. The scale used, consists of 15 items, and covers three sections: (a) Study sample; (b) Test procedure and data analysis; and (c) Results presentation. Each item was rated as either ‘yes’, ‘no’, ‘unclear’ or ‘not applied/applicable’ (Table 2). A study was considered high RoB (low quality) when it received five or more ‘no’ or ‘unclear’ rates; and a study was considered low RoB (high quality) when it received less than five ‘no’ or ‘unclear’ rates. The consensus-agreement approach was used in the case of disagreement between the two reviewers. A third reviewer (JC) was consulted if consensus could not be reached. The Cohen _k_ was used to calculate the interrater reliability of methodological scoring between raters (Cohen, 1960). The Cohen _k_ identifies the percentage agreement between raters that would occur beyond chance. 
-
-### _2.5. Clinical appropriateness_ 
-
-In an effort to comment on clinical appropriateness, manufacturers were approached for pricing quotes and Instructions for use in an effort to make an expert opinion-based judgement by all authors on the viability of clinical use in private practice, looking at cost and userfriendliness. 
-
-### _2.6. Data extraction and analysis_ 
-
-Two investigators (MTG and ET) independently extracted the following information from each of the included studies: study objective, participant invitation process, number of participants, age, gender, measurement instrument studied, test protocol and information about the raters. Next, data on the outcome of interest was extracted for studies with low RoB, or when no low RoB studies were available for a specific instrument: the mean cervical range of motion in degrees and a standard deviation in all one-dimensional directions in “full cycle” (flexion plus extension, left plus right rotation, left plus right lateral flexion) and/or “half cycle” (flexion, extension, lateral flexion right, lateral flexion left, rotation right, rotation left) per age category. In case the researchers felt 
-
-2 
-
-
 
 [page 3]
-_Musculoskeletal Science and Practice 49 (2020) 102182_ 
-
-_M. Thoomes-de Graaf et al.                                                                                                                                                                                                                  Musculoskeletal Science and Practice 49 (2020) 102182_ 
-
-important data was missing, the authors of the original study were contacted. 
-
 ### _2.7. Analysis_ 
 
 We re-calculated a mean value for the total group in case data was presented per gender per age-category only, as presenting normative values per age category was the primary objective of this review and a large number of studies report that gender is not important in terms of normative (Chen et al., 1999; Hole et al., 1995; Swinkels and Swinkels-Meewisse, 2014; Trott et al., 1996; Guo et al., 2011; McKay et al., 2017; Cagnie et al., 2007; Castro et al., 2000; Feipel et al., 1999a; Lansade et al., 2009; Malmstrom et al., 2006€ ). 
@@ -121,14 +68,11 @@ Not all manufacturers were able to provide pricing quotes or Instructions for us
 
 **Fig. 1.** Inclusion. 
 
-3 
 
 
 
 [page 4]
-_Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
-_M. Thoomes-de Graaf et al._ 
 
 ### _3.1. Description of studies_ 
 
@@ -174,14 +118,11 @@ A systematic review concluded that the single inclinometer is found to be reliab
 
 Ten studies using a goniometer/inclinometer were included (McKay et al., 2017; Adegoke et al., 2015; Balogun et al., 1989; Farooq et al., 2016; Guth, 1995; Kuhlman, 1993; Schops et al., 1997€ ; Alahmari, 2017 Buck et al., 1959; Ramiro et al., 2012). The primary aim of the majority of studies was to determine normative values (McKay et al., 2017; Guth, 1995; Kuhlman, 1993; Schops et al., 1997€ ; Alahmari, 2017; Buck et al., 1959; Ramiro et al., 2012). Five studies were rated as low RoB studies (McKay et al., 2017; Adegoke et al., 2015; Guth, 1995; Kuhlman, 1993 Alahmari, 2017). Data could not be pooled, as the instruments used and protocols were not considered to be acceptably comparable. Normative values of low RoB studies are presented per age category in Table 5a. As a general trend, greatest ROM was observed in the 2nd decade of life, again slowly decreasing and with a more rapid decrease in the 6th decade. 
 
-4 
 
 
 
 [page 5]
-_Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
-_M. Thoomes-de Graaf et al.                                                                                                                                                                                                                  Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
 **Table 3** 
 
@@ -253,14 +194,11 @@ Quality assessment.
 
 > a Agreement after discussion. n: no; y: yes; na: not applicable; uc: unclear. 
 
-5 
 
 
 
 [page 6]
-_Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
-_M. Thoomes-de Graaf et al.                                                                                                                                                                                                                  Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
 ||ln left<br>Lateral flexion right<br>(SD)|51.3 (6.7)<br>51.4 (5.6)<br>57.5 (8.2)<br>48.1 (5.5)<br>44.1 (4.7)a|46.9 (7.4)<br>43.7 (3.7)<br>44.7 (7.4)|44.7 (6.4)|44.7 (8.0)<br>41.9 (7.6)<br>39.5 (9.0)<br>36.8 (7.3)<br>30.9 (7.0)<br>26.8 (7.3)<br>25.0 (6.0)<br>22.4 (8.0)||Lateral flexion right (SD)|46.7<br>40.5<br>38.8<br>37.7<br>32.7<br>26.3|
 |---|---|---|---|---|---|---|---|---|
@@ -270,14 +208,11 @@ _M. Thoomes-de Graaf et al.                                                     
 
 
 
-6 
 
 
 
 [page 7]
-_Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
-_M. Thoomes-de Graaf et al.                                                                                                                                                                                                                  Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
 
 
@@ -305,14 +240,11 @@ The number of studies using the measurement devices differed: Vicon (5) (Assi et
 
 Studies using the optoelectronic system BTS (Bulgheroni et al., 1998 Ferrario et al., 2002; Sforza et al., 2002; Tommasi et al., 2009), Electrogoniometric Penny & Giles (Lewandowski and Szulc, 2003; Szulc et al., 2011; Wendt et al., 2013), 3 SPACE Isotrack (Trott et al., 1996 Walmsley et al., 1996) were rated as being of high risk. A number of studies used measurement devices or procedures which are not considered to be appropriate for contemporary clinical practice, as e.g. the markers/cameras were not described in detail, authors manufactured the device themselves and studied it only once and/or the devices were no longer commercially available (Arbogast et al., 2007; Kuo et al., 2009; Ferlic, 1962; Kim et al., 2013; Theobald et al., 2012). All of these studies were rated as high risk as well. Due to the nature of the missing information of the instruments and high risk rating we did not present 
 
-7 
 
 
 
 [page 8]
-_Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
-_M. Thoomes-de Graaf et al.                                                                                                                                                                                                                  Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
 |Lateral flexion right (SD)|27.6 (7.6)|n/a|n/a|n/a|n/a|48.5 (4.6)|52.7 (7.3)|47.5 (8.4)|45.2 (5.3)<br>42.4 (6.0)<br>41.5 (7.4)<br>40.6 (6.8)<br>38.3 (9.3)|n/a|n/a|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -349,14 +281,11 @@ We pooled data of the CROM device and the Zebris, even though there were differe
 
 Cervical ROM is considered to be useful in clinical decision making (Childs et al., 2008; Blanpied et al., 2017; Luedtke et al., 2016; Snodgrass et al., 2014). Restricted ROM is a criterion in diagnosing cervicogenic headache and clinically important spine injuries (Snodgrass et al., 2014). Moreover, restricted ROM is considered a negative prognostic factor for patients with neck pain (Snodgrass et al., 2014). “Restricted” however, is undefined. The current normative database using the CROM device presented in this systematic review can potentially be of value in order to label a patient as being restricted, when compared to a ‘normal’ value. There is no particular cut off value for an individual, as there is 
 
-8 
 
 
 
 [page 9]
-_Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
-_M. Thoomes-de Graaf et al.                                                                                                                                                                                                                  Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
 |SD)<br>Lateral flexion left (SD)<br>Lateral flexion right (SD)|l<br>l<br>52.1 (5.5)<br>51.2 (5.4)<br>32.9 (13.6)<br>33.9 (13.6)<br>46.7<br>47.3<br>93.5 (20.6)<br>40.5<br>44.0<br>84.0 (16.3)<br>38.7<br>41.1<br>80.3 (21.3)||)<br>Lateral flexion left (SD)<br>Lateral flexion right (SD)|84.0 (14.0)<br>47 (9)<br>48 (10)<br>44 (7)<br>45 (8)|42.4 (6.2)<br>42.7 (7.9)|86.5 (12.0)<br>76.0 (19.0)<br>78.5 (14.5)<br>67.5 (12.5)<br>64.0 (15.0)<br>56.0 (13.5)<br>48.5 (15.0)|
 |---|---|---|---|---|---|---|
@@ -366,14 +295,11 @@ _M. Thoomes-de Graaf et al.                                                     
 
 
 
-9 
 
 
 
 [page 10]
-_Musculoskeletal Science and Practice 49 (2020) 102182_ 
 
-_M. Thoomes-de Graaf et al._ 
 
 not one “normal” value for any direction. Normal should be considered as a value within a range of “normal range of motion”. For example, for people in their 30s, cervical rotation between 65 and 83<sup>�</sup> can be considered as “normal range of motion”. ROM may be informative to clinical decision making and is moderately valuable when considered as one component within a suite of assessment items. 
 
@@ -386,12 +312,4 @@ Recently, the use of smartphone applications (utilizing the device’s internal 
 ### **5. Conclusion** 
 
 This systematic review revealed that although a large number of studies assessed normative data, the methodological quality of most studies was low and the heterogeneity between the studies was high. Differences were mainly due to equipment, procedure and age categories. Normative values of active cervical ROM differ across measurement devices. Therefore, only the normative database for active cervical ROM using the CROM device seems to be useful. “Normal range of motion” seems to have a substantial bandwidth, as the SDs are of importance. Overall, reference values for measuring active ROM is unclear for most measurement devices. There is still a scarcity of comparable research on normative data. 
-
-### **Acknowledgements** 
-
-We would like to thank research librarian Wichor Bramer, of the Erasmus Medical Centre, with the help of the search strategy. 
-
-### **Appendix A. Supplementary data** 
-
-Supplementary data to this article can be found online at https://doi. org/10.1016/j.msksp.2020.102182. 
 

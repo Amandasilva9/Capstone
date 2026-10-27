@@ -11,42 +11,15 @@ _Review_
 
 **Marcos J. Navarro-Santana**<sup>**1,2**</sup> **, Jorge Sanchez-Infante**<sup>**3**</sup> **, César Fernández-de-las-Peñas**<sup>**4,5,**</sup> *** , Joshua A. Cleland**<sup>**6**</sup> **, Patricia Martín-Casas**<sup>**1**</sup> **and Gustavo Plaza-Manzano**<sup>**1,7**</sup> 
 
-- 1 Department of Radiology, Rehabilitation and Physiotherapy, Universidad Complutense de Madrid, 28040 Madrid, Spain; marcosjose.navarrosantana@gmail.com (M.J.N.-S.); pmcasas@enf.ucm.es (P.M.-C.); gusplaza@ucm.es (G.P.-M.) 
-
-2 
-
-   - Department of Physical Therapy, Rehabilitación San Fernando, 28807 Madrid, Spain 
-
-- 3 Performance and Sport Rehabilitation Laboratory, Faculty of Sport Sciences, University of Castilla-La Mancha, 45003 Toledo, Spain; jorge.fisio.uclm@gmail.com 
-
-- 4 Department of Physical Therapy, Occupational Therapy, Physical Medicine and Rehabilitation, Universidad Rey Juan Carlos (URJC), Alcorcón, 28922 Madrid, Spain 
-
-- 5 Cátedra Institucional en Docencia, Clínica e Investigación en Fisioterapia: Terapia Manual, Punción Seca y Ejercicio Terapéutico, Universidad Rey Juan Carlos, Alcorcón, 28922 Madrid, Spain 
-
-- 6 Doctor of Physical Therapy Program, Department of Public Health and Community Medicine, Tufts University School of Medicine, Boston, MA 02111, USA; joshcleland@comcast.net 
-
-- 7 Instituto de Investigación Sanitaria del Hospital Clínico San Carlos, 28040 Madrid, Spain 
-
-- Correspondence: cesar.fernandez@urjc.es; Tel.: +34-91-488-88-84 
-
-Received: 17 September 2020; Accepted: 8 October 2020; Published: 14 October 2020 
-
-��������� **�������** 
 
 **Abstract:** Our aim was to evaluate the effect of dry needling alone as compared to sham needling, no intervention, or other physical interventions applied over trigger points (TrPs) related with neck pain symptoms. Randomized controlled trials including one group receiving dry needling for TrPs associated with neck pain were identified in electronic databases. Outcomes included pain intensity, pain-related disability, pressure pain thresholds, and cervical range of motion. The Cochrane risk of bias tool and the Physiotherapy Evidence Database (PEDro) score were used to assessed risk of bias (RoB) and methodological quality of the trials. The quality of evidence was assessed by using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach. Between-groups mean differences (MD) and standardized mean differences (SMD) were calculated (3) Twenty-eight trials were finally included. Dry needling reduced pain immediately after (MD −1.53, 95% CI −2.29 to −0.76) and at short-term (MD −2.31, 95% CI −3.64 to −0.99) when compared with sham/placebo/waiting list/other form of dry needling and, also, at short-term (MD −0.51, 95% CI −0.95 to −0.06) compared with manual therapy. No differences in comparison with other physical therapy interventions were observed. An effect on pain-related disability at the short-term was found when comparing dry needing with sham/placebo/waiting list/other form of dry needling (SMD −0.87, 95% CI −1.60 to −0.14) but not with manual therapy or other interventions. Dry needling was effective for improving pressure pain thresholds immediately after the intervention (MD 55.48 kPa, 95% CI 27.03 to 83.93). No effect on cervical range of motion of dry needling against either comparative group was found. No between-treatment effect was observed in any outcome at mid-term. Low to moderate evidence suggests that dry needling can be effective for improving pain intensity and pain-related disability in individuals with neck pain symptoms associated with TrPs at the short-term. No significant effects on pressure pain sensitivity or cervical range of motion were observed. 
 
 **Keywords:** dry needling; neck pain; cervical spine; systematic review; meta-analysis 
 
-_J. Clin. Med._ **2020** , _9_ , 3300; doi:10.3390/jcm9103300 
-
-www.mdpi.com/journal/jcm 
-
 
 
 [page 2]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-2 of 35 
 
 ## **1. Introduction** 
 
@@ -58,124 +31,16 @@ Among the several approaches proposed for the treatment of TrPs, dry needling ha
 
 A few previous reviews have investigated the effectiveness of dry needling for inactivating TrPs associated with neck pain. Cagnie et al. concluded that dry needling can be recommended for upper trapezius muscle TrPs treatment; however, no quantitative analysis was conducted [12]. Liu et al. concluded that TrP dry needling could be recommended for the management of neck/shoulder pain of myofascial origin at short and mid-term follow-ups [13]. This meta-analysis only included pain intensity as the outcome and considered one month as a mid-term follow-up [13]. In addition, a greater number of randomized clinical trials investigating the effectiveness of dry needling in patients with TrPs associated to neck pain symptoms have been published after the Liu et al. meta-analysis [13]. Therefore, an updated quantitative analysis of the available literature comparing the effects of dry needling vs. sham, control, or other interventions could help to further elucidate its effectiveness. The current updated meta-analysis compares the effects of dry needling against sham, control, no intervention, or other physical therapy interventions applied over muscle TrPs associated with neck pain symptoms on pain intensity, pain-related disability, pressure pain sensitivity, and cervical range of motion. 
 
-## **2. Experimental Section** 
-
-This systematic review and metanalysis was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement [14]. The international Open Science Framework Registry link is https://doi.org/10.17605/OSF.IO/P2UWD. 
-
-## _2.1. Systematic Literature Search_ 
-
-An electronic literature search on MEDLINE, CINAHL, PubMed, PEDro, Cochrane Library, SCOPUS, and Web of Science databases was conducted from their inception to 15 July 2020. Searches were restricted to randomized clinical trials, if permitted. The reference lists of the identified papers in database searches were also searched. All search strategy was conducted with the assistance of an experienced librarian. 
-
-
-
-[page 3]
-_J. Clin. Med._ **2020** , _9_ , 3300 
-
-3 of 35 
-
-Population: Adults (older than 18 years) with TrPs in the cervical musculature associated with neck pain symptoms of musculoskeletal origin. 
-
-Intervention: Dry needling of muscle or tendon. Acupuncture was excluded. 
-
-Comparator: Acceptable comparators were any sham or placebo dry needling, any control group without intervention, or any other type of physiotherapy intervention. Interventions should be applied in isolation (self-stretching was permitted). 
-
-Outcomes: Pain intensity OR pain-related disability were considered as the primary outcomes. Secondary outcomes included pressure pain thresholds OR cervical range of motion. 
-
 The search strategy for each database is available in Table 1. 
 
 **Table 1.** Database formulas during the literature search. 
 
-### **PubMed Search Formula** 
-
-#1 “Dry Needling” (Mesh) OR “Trigger Point Acupuncture” (Title/Abstract) OR “Needling Therapy” (Title/Abstract) OR “Intramuscular Stimulation” (Title/Abstract) 
-
-#2 “Placebos” (Mesh) OR “Control Groups” (Mesh) OR “Physical Therapy Modalities” (Mesh) 
-
-OR “Cervical Pain” (Title/Abstract) OR “Mechanical Neck Pain” (Title/Abstract) OR “Myofascial Neck Pain” 
-
-(Title/Abstract) #4 #1 AND #2 AND #3 
-
-**CINAHL** / **Medline (via EBSCO) Search Formula** 
-
-#1 “Dry Needling” OR “Trigger Point Acupuncture” OR “Needling Therapy” OR “Intramuscular Stimulation” #2 “Placebos” OR “Control Groups” OR “Physical Therapy Modalities” 
-
-#3 “Neck Pain” OR “Non-Specific Neck Pain” OR “Cervicalgia” OR “Cervical Pain” OR “Mechanical Neck Pain” OR “Myofascial Neck Pain” #4 #1 AND #2 AND #3 
-
-### **SCOPUS Search Formula** 
-
-TITLE-ABS-KEY (“Dry Needling” OR “Trigger Point Acupuncture” OR “Needling Therapy” OR “Intramuscular Stimulation”) AND TITLE-ABS-KEY (“Placebos” OR “Control Groups” OR “Physical Therapy Modalities”) AND TITLE-ABS-KEY (“Neck Pain” OR “Non-Specific Neck Pain” OR “Cervicalgia” OR “Cervical Pain” OR “Mechanical Neck Pain” OR “Myofascial Neck Pain”) 
-
-**PEDro Search Formula** Abstract & Title: Neck Pain, Myofascial Pain Syndrome Therapy: Dry Needling Method: Clinical trial When Searching: AND **WOS Search Formula** 
-
-(“Dry Needling” OR “Trigger Point Acupuncture” OR “Needling Therapy” OR “Intramuscular Stimulation”) AND (“Placebos” OR “Control Groups” OR “Physical Therapy Modalities”) AND (“Neck Pain” OR “Non-Specific Neck Pain” OR “Cervicalgia” OR “Cervical Pain” OR “Mechanical Neck Pain” OR “Myofascial Neck Pain”) **Cochrane Library Search Formula** #1 Mesh: Dry Needling #2 Mesh: Placebos #3 Mesh: Neck Pain #4 Trigger Point Acupuncture #5 Needling Therapy #6 Intramuscular Stimulation #7 Mesh: Control Groups #8 Mesh: Physical Therapy Modalities #9 Nonspecific Neck Pain #10 Cervicalgia #11 Cervical Pain #12 Mechanical Neck Pain #13 Myofascial Neck Pain #14 #1 OR #4 OR #5 OR #6 #15 #2 OR #7 OR #8 #16 #3 OR #9 OR #10 OR #11 OR #12 OR #13 #17 #14 AND #15 AND #16 
-
-
-
-[page 4]
-_J. Clin. Med._ **2020** , _9_ , 3300 
-
-4 of 35 
-
-## _2.2. Selection Criteria_ 
-
-Randomized clinical trials including at least one group receiving any form of dry needling alone in people with myofascial TrPs associated with neck pain were included in the meta-analysis. Since there is no consensus in the terminology, the diagnoses usually associated with TrPs were considered: mechanical/idiopathic neck pain, myofascial neck pain, myofascial pain syndrome, or whiplash-associated disorders. 
-
-The following inclusion criteria were considered: (1) adults older than 18 years old with at least at one active TrP in the cervical muscles associated with neck pain symptoms; (2) one group receiving muscle/tendon dry needling; (3) one comparative group including sham or placebo, a control group without intervention, or other physiotherapy intervention; and (4) neck pain intensity or pain-related disability as one of the primary outcomes of the study. Secondary outcomes included sensitivity to pressure pain (e.g., pressure pain thresholds) or cervical range of motion (e.g., as assessed with a goniometer). Exclusion criteria were: (1) trials including participants with neurological-related pain (e.g., post-stroke pain); (2) postoperative cervical pain; (3) trials not published as a full-text journal article; (4) retrospective designs or pilot studies; or (5) the use of needling interventions different than dry needling, e.g., acupuncture or wet needling (e.g., lidocaine injection). 
-
-## _2.3. Screening, Selection Process, and Data Extraction_ 
-
-Two authors reviewed the articles identified on each database for their inclusion. After removing duplicates, titles and abstracts of the remaining were screened. Finally, a full-text read of the eligible studies was conducted to determine the inclusion of the trial. The inclusion of a trial was done by consensus between both authors. If discrepancy existed, a third author participated in the process to get a consensus. 
-
-Data including study design, number of subjects, population, interventions, outcome measures, and follow-ups were extracted independently by 2 authors using a specific extraction form. Data extraction was also conducted by consensus. If disagreement occurred, a third author participated. 
-
-## _2.4. Assessment of Methodological Quality and Risk of Bias_ 
-
-The Cochrane Risk of Bias (RoB) assessment tool [15] and the Physiotherapy Evidence Database (PEDro) scale [16] were used to assess the risk of bias and methodological quality of the trials included in the meta-analysis. Methodological quality and RoB were independently assessed by two authors. 
-
-The RoB evaluated the selection bias, performance bias, detection bias, attrition bias, reporting bias, and other bias [15]. Each item was classified as low-risk, high-risk, or unclear according to the Cochrane Collaboration’s tool [15]. The PEDro score evaluated the methodological quality of a trial by assessing the random/concealed allocation, between-groups similarity at baseline, participant/ therapist/assessor blinding, dropouts, intention-to-treat analysis, between-groups comparison, point measures, and variability data [16]. A trial was considered of high quality when the PEDro score was ≥6 out of 10 points. 
-
-## _2.5. Level of Evidence_ 
-
-The Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach was used to evaluate the level of evidence [17]. The level of evidence was classified as high, moderate, low, or very low based on study limitations, indirectness of evidence, unexplained heterogeneity, imprecision of the results, and high probability of publication bias [18]. High-quality evidence was scored when all items were negative, moderate quality was scored when one item included serious risk, low quality if two items showed serious risk or one item showed very serious risk, or very low quality when three or more items had serious risk or two or more had very serious risk. This process was also performed by two authors, with the participation of a third one if disagreement occurred. 
-
-
-
 [page 5]
-_J. Clin. Med._ **2020** , _9_ , 3300 
-
-5 of 35 
-
-## _2.6. Data Synthesis and Analysis_ 
-
-Data analysis was performed with Review Manager statistical software (RevMan version 5.3). Data synthesis was presented by groups according to comparative groups as sham/control/placebo, manual therapy, or other physical therapy intervention and by follow-up as immediate (less than one week), short (1 to 12 weeks), and mid (12 to 24 weeks)-terms, since long-term (>24 weeks) data was not available. No other subgroup analysis was prespecified a priori. 
-
-Data extraction for the data analysis included sample size, means, and standard deviations of the outcomes. When the trial reported standard errors, they were converted to standard deviations. Mean and standard deviation were estimated from graphs when needed. If data were expressed as median and interquartile range, they were converted to mean and standard deviation as needed [19,20]. 
-
-The between-groups mean difference (MD) with the 95% confidence interval (CI) was calculated for those outcomes assessed with the same instrument, e.g., pain intensity and pressure pain thresholds. Between-groups mean differences were converted to SMD when different instruments were used for the same outcome, e.g., pain-related disability. A random-effects model was used to determine the effect sizes (SMD). An effect size (SMD) of ≥0.8 was considered large, between 0.5 to 0.8 was considered moderate, and between 0.2 to 0.5 was considered small [21]. _p_ -values < 0.05 were considered statistically significant. 
-
-Cervical range of motion was pooled for each movement, i.e., flexion, extension, lateral-flexion, and rotation. When the trial calculated the total range of motion or either side separately for lateral-flexion and rotation, the mean was used in the analysis. If different groups received dry needling with different dosages, data were pooled in just one needling group for the meta-analyses. Finally, when two subgroups included the same intervention, e.g., dry needling, the sample size was adjusted by dividing the sample size as the Cochrane textbook recommends for avoiding duplication in the overall effect [22]. 
-
-The I<sup>2</sup> statistic was applied to determine the heterogeneity between the included trials. We used the interpretation of the Cochrane group as follows: 0–40% represented no relevant heterogeneity; 30–60% represented moderate heterogeneity, 50–90% suggested substantial heterogeneity, and 75–100% suggested considerable heterogeneity [22]. 
-
-The asymmetry was evaluated using funnel plots in those analyses formed by at least five trials for indicating the possible risk of publication of small studies with negative results. Funnel plots of those analyses including more than 10 trials are presented as Supplementary Files. 
 
 ## **3. Results** 
 
-## _3.1. Study Selection_ 
-
-Fifty hundred and fifty-seven ( _n_ = 557) studies were initially identified. Three hundred and twenty-four ( _n_ = 324) studies remained after removing duplicates. Two hundred and ninety-five ( _n_ = 295) were excluded after the analysis of titles and/or abstracts, leaving 29 articles for final full-text review [23–51]. One article [34] was excluded because the comparator was acupuncture intervention and the placebo used laser. Finally, a total of 28 trials [25–33,35–51] were included in the meta-analysis (Figure 1). 
-
-
 
 [page 6]
-_J. Clin. Med._ **2020** , _9_ , 3300 
-
-6 of 35 
-
-
-
-**Figure 1.** Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) flow diagram. 
-
 ## _3.2. Study Characteristics_ 
 
 Table 2 summarizes features of the participants on each trial. All studies targeted active TrPs (i.e., those that referred pain reproduced the patient’s symptoms) with the needle; seventeen (61%) targeted upper trapezius TrPs, seven (25%) targeted active TrPs in posterior cervical muscles, and the remaining four (14%) targeted just one muscle, e.g., levator scapulae, lower trapezius, anterior scalene, or sternocleidomastoid. Although all trials included one group receiving TrP dry needling, only 18 (65%) reported the presence of local twitch responses during the needling intervention. Fifty percent ( _n_ = 14) of the trials specified that needling intervention was applied by a physical therapist. There was heterogeneity in the comparative group, with seven trials comparing the application of dry needling against sham/control/no intervention, eight against manual therapy, and the remaining thirteen against other physiotherapy interventions ranging from high-power ultrasound to Kinesiotaping (see Table 1). All trials included pain intensity as the primary outcome, whereas twenty (72%) also assessed pain-related disability. Secondary outcomes were assessed in eighteen (pressure pain thresholds) and ten (cervical range of motion) trials. Dry needling interventions are described in Table 3. 
@@ -183,9 +48,7 @@ Table 2 summarizes features of the participants on each trial. All studies targe
 
 
 [page 7]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-7 of 35 
 
 **Table 2.** Characteristics of the samples in each included trials. 
 
@@ -252,9 +115,7 @@ _J. Clin. Med._ **2020** , _9_ , 3300
 
 
 [page 8]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-8 of 35 
 
 **Table 2.** _Cont._ 
 
@@ -280,9 +141,7 @@ TrP: trigger point, DN: dry needling, SDN: superficial dry needling, G: group, M
 
 
 [page 9]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-9 of 35 
 
 **Table 3.** Characteristics of the dry needling intervention of the included studies. 
 
@@ -302,9 +161,7 @@ _J. Clin. Med._ **2020** , _9_ , 3300
 
 
 [page 10]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-10 of 35 
 
 **Table 3.** _Cont._ 
 
@@ -326,9 +183,7 @@ _J. Clin. Med._ **2020** , _9_ , 3300
 
 
 [page 11]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-11 of 35 
 
 **Table 3.** _Cont._ 
 
@@ -351,9 +206,7 @@ _J. Clin. Med._ **2020** , _9_ , 3300
 
 
 [page 12]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-12 of 35 
 
 **Table 3.** _Cont._ 
 
@@ -377,9 +230,7 @@ DN: dry needling, G: group, and LTR: local twitch response.
 
 
 [page 13]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-13 of 35 
 
 ## _3.3. Methodological Quality_ 
 
@@ -433,9 +284,7 @@ Risk of bias assessment of the included trials is summarized in Figure 2. No tri
 
 
 [page 14]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-14 of 35 
 
 
 
@@ -452,9 +301,7 @@ At mid-term, dry needling did not exhibit a significant overall effect (MD −0.
 
 
 [page 15]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-15 of 35 
 
 
 
@@ -467,9 +314,7 @@ _J. Clin. Med._ **2020** , _9_ , 3300
 
 
 [page 16]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-16 of 35 
 
 
 
@@ -484,9 +329,7 @@ At mid-term follow-up, dry needling did not exhibit a significant overall effect
 
 
 [page 17]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-17 of 35 
 
 
 
@@ -501,9 +344,7 @@ The analysis also revealed considerable heterogeneity (I<sup>2</sup> > 95%) betw
 
 
 [page 18]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-18 of 35 
 
 
 
@@ -516,9 +357,7 @@ No significant overall effects of dry needling immediately after on the cervical
 
 
 [page 19]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-19 of 35 
 
 Z = 0.20, _p_ = 0.84, Figure 9B), rotation (MD −0.23<sup>◦</sup> , 95% CI −1.40<sup>◦</sup> to 0.95<sup>◦</sup> , _n_ = 478, Z = 0.38, _p_ = 0.71, Figure 10B), and lateral-flexion (MD 0.30<sup>◦</sup> , 95% CI −1.00<sup>◦</sup> to 1.61<sup>◦</sup> , _n_ = 520, Z = 0.45, _p_ = 0.65, Figure 11B) was found. All group analyses showed substantial heterogeneity. Table 3 summarizes the main results of the included studies. 
 
@@ -529,9 +368,7 @@ Z = 0.20, _p_ = 0.84, Figure 9B), rotation (MD −0.23<sup>◦</sup> , 95% CI �
 
 
 [page 20]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-20 of 35 
 
 
 
@@ -540,9 +377,7 @@ _J. Clin. Med._ **2020** , _9_ , 3300
 
 
 [page 21]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-21 of 35 
 
 
 
@@ -551,9 +386,7 @@ _J. Clin. Med._ **2020** , _9_ , 3300
 
 
 [page 22]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-22 of 35 
 
 
 
@@ -566,9 +399,7 @@ Fifteen trials (53%, _n_ = 15/28) reported information about adverse effects, wi
 
 
 [page 23]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-23 of 35 
 
 the trials [27,28,32,38,40,43,45,48] and resolved spontaneously in 24–48h without further treatment. Thirteen (47%, _n_ = 13/28) of the included studies [23–25,30,35,36,42,44,46–49,51] did not report any information about adverse events (Table 5). 
 
@@ -614,9 +445,7 @@ Table 6 summarizes the RoB, inconsistency of the results, indirectness of eviden
 
 
 [page 24]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-24 of 35 
 
 **Table 6.** Level of Evidence (Grading of Recommendations Assessment, Development, and Evaluation (GRADE)) for dry needling on pain intensity, pressure pain sensitivity, and cervical range of motion in patients with neck pain. 
 
@@ -643,9 +472,7 @@ _J. Clin. Med._ **2020** , _9_ , 3300
 
 
 [page 25]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-25 of 35 
 
 **Table 6.** _Cont._ 
 
@@ -673,9 +500,7 @@ _J. Clin. Med._ **2020** , _9_ , 3300
 
 
 [page 26]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-26 of 35 
 
 **Table 6.** _Cont._ 
 
@@ -704,9 +529,7 @@ _J. Clin. Med._ **2020** , _9_ , 3300
 
 
 [page 27]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-27 of 35 
 
 **Table 6.** _Cont._ 
 
@@ -732,9 +555,7 @@ _J. Clin. Med._ **2020** , _9_ , 3300
 
 
 [page 28]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-28 of 35 
 
 **Table 6.** _Cont._ 
 
@@ -762,9 +583,7 @@ _J. Clin. Med._ **2020** , _9_ , 3300
 
 
 [page 29]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-29 of 35 
 
 ## **4. Discussion** 
 
@@ -783,9 +602,7 @@ We did not find significant differences for the application of dry needling or o
 
 
 [page 30]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-30 of 35 
 
 according to the individual clinical presentation of each patient based on his/her beliefs, preferences, or expectative. 
 
@@ -808,9 +625,7 @@ Considering that this is the most updated meta-analysis evaluating the effective
 
 
 [page 31]
-_J. Clin. Med._ **2020** , _9_ , 3300 
 
-31 of 35 
 
 with just a small number of studies investigating mid- and long-term follow-ups. Second, trials in this meta-analysis investigated the isolated application of dry needling without any other intervention, which does not represent common clinical practice. 
 
@@ -822,11 +637,4 @@ Finally, it should be noted that only 50% ( _n_ = 14) of the trials included in 
 
 This systematic review and meta-analysis found moderate-to-low evidence suggesting that dry needling can be effective for improving neck pain intensity and related disability when compared with a comparative group immediately after and at short-, but not at mid-, term follow-ups in people with myofascial TrPs associated with neck pain symptoms. The effects were mostly observed when dry needling was compared with sham/placebo/waiting list/other forms of dry needling but not against other physical therapy interventions. No significant effects on the pressure pain sensitivity or cervical range of motion were found. The RoB of the clinical trials included was relatively low, but the inconsistency (heterogeneity) and imprecision of the results downgraded the level of evidence. 
 
-**Supplementary Materials:** The following are available online at http://www.mdpi.com/2077-0383/9/10/3300/s1: Figure S1: Funnel Plot of the trials ( _n_ = 11) investigating the immediate effects of dry needling on pain intensity. The funnel plot showed small asymmetry not associated to potential publication bias. Figure S2: Funnel Plot of the trials ( _n_ = 11) investigating the immediate effects of dry needling on pain intensity. The funnel plot showed small asymmetry not associated to potential publication bias. Figure S3: Funnel Plot of the trials ( _n_ = 20) investigating the short-term effects of dry needling on pain-related disability. The funnel plot showed asymmetry due to the study by Itoh et al 2007 [33], therefore, it was associated to potential publication bias. The exclusion of this study would tend to a symmetric funnel plot. Figure S4: Funnel Plot of the trials ( _n_ = 17) investigating the short-term effects of dry needling on pressure pain thresholds. The funnel plot showed small asymmetry not associated to potential publication bias. Table S1: Main results and raw data of the included studies 
-
-**Author Contributions:** Conceptualization: all authors; methodology: M.J.N.-S. and J.S.-I.; software and formal analysis: M.J.N.-S. and C.F.-d.-l.-P.; writing—original draft: J.A.C.; C.F.-d.-l.-P.; P.M.-C., and G.P.-M.; writing—review and editing: all authors; visualization: all authors; and supervision: C.F.-d.-l.-P.; Patricia Martín-Casas, and G.P.-M. All authors have read and agreed to the published version of the manuscript. 
-
-**Funding:** This research received no external funding. 
-
-**Conflicts of Interest:** The authors declare no conflict of interest. 
 

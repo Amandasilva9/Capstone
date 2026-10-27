@@ -13,15 +13,6 @@ journal homepage: www.arthroplastyjournal.org
 
 ## Associations of Self-Report Physical Function With Knee Strength and Knee Range-Of-Motion in Total Knee Arthroplasty Possible Nonlinear and Threshold Effects 
 
-Yong-Hao Pua, PhD<sup>a</sup> , Peck-Hoon Ong, BAppSc(PT)<sup>a</sup> , Hwei-Chi Chong, BAppSc(PT)<sup>a</sup> , William Yeo, MS<sup>b</sup> , Celia I-C Tan, PhD<sup>c</sup> , Ngai-Nung Lo, MBBS, FRCS<sup>d</sup> 
-
-> a Department of Physiotherapy, Singapore General Hospital, Singapore 
-
-> b Orthopaedic Diagnostic Centre, Singapore General Hospital, Singapore 
-
-> c Allied Health Division, Singhealth, Singapore 
-
-> d Department of Orthopaedic Surgery, Singapore General Hospital, Singapore 
 
 |a r t i c l e<br>i n f o|a b s t r a c t|
 |---|---|
@@ -43,14 +34,10 @@ Why is an examination of possible nonlinear associations important? We offer 3 r
 
 In summary, developing effective interventions depends on understanding both whether and how knee strength and ROM influence physical function. Because studies examining nonlinear associations are surprisingly sparse in the TKA literature, we initiated the present study to examine whether knee extensor strength and knee ROM were nonlinearly associated with selfreport physical function in a large group of patients before and following a TKA. 
 
-> 0883-5403/2809-0014$36.00/0 – see front matter © 2013 Elsevier Inc. All rights reserved. http://dx.doi.org/10.1016/j.arth.2012.10.020 
-
 
 
 [page 2]
-Y.-H. Pua et al. / The Journal of Arthroplasty 28 (2013) 1521–1527 
 
-1522 
 
 Materials and Methods 
 
@@ -87,9 +74,7 @@ In our study, 13% of patients had missing data at the 6-month assessment (4% wer
 
 
 [page 3]
-Y.-H. Pua et al. / The Journal of Arthroplasty 28 (2013) 1521–1527 
 
-1523 
 
 missing at random. We generated 50 imputed data sets, replicated the analyses on each data set, and used Rubin's rules [38] to consolidate the regression coefficients and standard errors. 
 
@@ -185,9 +170,7 @@ Note: All analyses were adjusted for age, gender, body mass index, and number of
 
 
 [page 4]
-Y.-H. Pua et al. / The Journal of Arthroplasty 28 (2013) 1521–1527 
 
-1524 
 
 distinct threshold points. To our knowledge, these findings have not been previously described in patients with TKA. 
 
@@ -202,9 +185,7 @@ When we used a spline function to model knee flexion ROM, its overall associatio
 
 
 [page 5]
-Y.-H. Pua et al. / The Journal of Arthroplasty 28 (2013) 1521–1527 
 
-1525 
 
 
 
@@ -217,9 +198,7 @@ pronounced, positive impact of higher knee flexion ROM (N 125°, Ref. [10], and 
 
 
 [page 6]
-Y.-H. Pua et al. / The Journal of Arthroplasty 28 (2013) 1521–1527 
 
-1526 
 
 On a practical level, it seems natural to question the usefulness of improving patients' knee flexion ROM beyond 120°, given that most activities of daily living – for example, stair climbing and standing from sitting in a chair – are usually performed with the knees flexed, at a maximum, to 110° [40]. We offer 2 justifications. At the simplest, certain physical tasks that the SF-36 enquires – namely, kneeling and lifting – do demand much greater knee flexion [41]; hence, improving flexion ROM beyond 120° would be expected to confer additional functional benefits. The other justification derives from work by Escalante et al [21] which demonstrated, in older adults, a nonlinear, J-shaped association between knee flexion ROM and the odds of walking slowly, with the odds increasing sharply when knee ROM fell below 140°. Together, these findings suggest that improving flexion range beyond 120° may be necessary for optimal physical functioning. 
 
@@ -234,8 +213,4 @@ Our study has limitations. First, our study comprised a preponderance of Asian w
 our results to other samples may be limited. Second, whilst we used a self-report measure of physical function to facilitate data collection, we acknowledge that performance-based measures of physical function are necessary because they provide important, complementary information about functional status [49] and because the precise association between knee strength and ROM measures and a given physical task (e.g. stair climbing and walking) is dependent on the movement demand of the task itself [18]. Third, our cross-sectional results may be affected by reverse causation and we also cannot exclude residual confounding from unknown or unmeasured factors. 
 
 In conclusion, in patients with TKA, the associations between selfreport physical function and measures of knee strength and ROM were certainly less straightforward than previously assumed. Although these results await experimental verification, we found that having (i) knee extensor strength exceeding 25%BW, (ii) knee flexion ROM beyond 120° and (iii) full knee extension ROM were associated with optimal physical functioning. This information can help guide clinical practice as well as research planning. 
-
-### Acknowledgment 
-
-We thank Ms. Tan Bee Yee, the head of the Department of Physiotherapy, Singapore General Hospital, for supporting this study. We also thank Ms. Tiffany Ang, Ms. Alicia Ang, and Ms. Yinjie Lee for their research assistance. Finally, we thank the orthopaedic surgeons from the Singapore General Hospital for allowing us access to their patients. 
 

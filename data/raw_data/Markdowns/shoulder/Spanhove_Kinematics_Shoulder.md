@@ -1,13 +1,5 @@
 [page 1]
-Annals of Physical and Rehabilitation Medicine 64 (2021) 101457 
 
-
-
-Available online at 
-
-## ScienceDirect 
-
-www.sciencedirect.com 
 
 
 
@@ -19,10 +11,6 @@ www.sciencedirect.com
 
 Valentien Spanhove<sup>a</sup> , Matthias Van Daele<sup>a</sup> , Aa¨ron Van den Abeele<sup>a</sup> , Lies Rombaut<sup>a,b</sup> , Birgit Castelein<sup>a,b</sup> , Patrick Calders<sup>a</sup> , Fransiska Malfait<sup>b</sup> , Ann Cools<sup>a</sup> , Inge De Wandele<sup>a,b,</sup> * 
 
-> a Department of Rehabilitation Sciences and Physiotherapy, Ghent University, Corneel Heymanslaan 10, 0k5, 9000 Ghent, Belgium 
-
-> b Centre for Medical Genetics, Ghent University Hospital, Corneel Heymanslaan 10, 9000 Ghent, Belgium 
-
 |A R T I C L E<br>I N F O|A B S T R A C T|
 |---|---|
 |Article history:<br>Received 6 May 2019<br>Accepted 22 October 2020<br>Keywords:<br>Shoulder instability<br>Electromyography<br>Muscle activity<br>Scapula<br>Kinematics|Background: Several studies reported the importance of glenohumeral and scapular muscle activity and<br>scapular kinematics in multidirectional shoulder instability (MDI), yet a systematic overview is currently<br>lacking.<br>Objective: This systematic review evaluates and summarizes the evidence regarding muscle activity and<br>shoulder kinematics in individuals with MDI compared to healthy controls.<br>Method: The electronic databases PubMed and Web of Science were searched in September 2020 with<br>key words regarding MDI (population), muscle activity, and glenohumeral and scapular movement<br>patterns (outcomes). All studies that compared muscle activity or scapular kinematics between<br>shoulders with MDI and healthy shoulders were eligible for this review, except for case reports and case<br>series. All articles were screened on the title and abstract, and remaining eligible articles were screened<br>on full text. The risk of bias of included articles was assessed by a checklist for case–control data, as<br>advised by the Cochrane collaboration.<br>Results: After full text screening, 12 articles remained for inclusion and one study was obtained by hand<br>search. According to the guidelines of the Dutch Institute for Healthcare Improvement, most studies<br>were of moderate methodological quality. We found moderate evidence that MDI individuals show<br>increased or prolonged activity of several rotator cuff muscles that control and centre the humeral head.<br>Furthermore, we found evidence of decreased and/or shortened activity of muscles that move or<br>accelerate the arm and shoulder girdle as well as increased and/or lengthened activity of muscles that<br>decelerate the arm and shoulder girdle. The most consistent kinematic finding was that MDI individuals<br>show significantly less upward rotation and more internal rotation of the scapula during elevation of the<br>arm in the scapular plane as compared with controls. Finally, several studies also suggest that the<br>humeral head demonstrates increased translations relative to the glenoid surface.<br>Conclusion: There is moderate evidence for altered muscle activity and altered humeral and scapular<br>kinematics in MDI individuals as compared with controls.<br>�<br>C 2020 Elsevier Masson SAS. All rights reserved.|
@@ -33,22 +21,14 @@ Valentien Spanhove<sup>a</sup> , Matthias Van Daele<sup>a</sup> , Aa¨ron Van de
 
 Multidirectional shoulder instability (MDI) is a symptomatic condition of the glenohumeral joint, in which the humeral head cannot be maintained within the glenoid fossa [1,2], which leads to recurrent involuntary shoulder (sub)luxations. MDI is associated with symptoms ranging from discomfort and apprehension to chronic shoulder pain [3–6]. Since Neer and Foster (1980) [7] first 
 
-> * Corresponding author at: Department of Rehabilitation Sciences and Physiotherapy, Ghent University, Corneel Heymanslaan 10, 0k5, 9000 Ghent, Belgium. E-mail address: inge.dewandele@ugent.be (I. De Wandele). 
-
 described the concept, many authors have defined MDI as ‘‘symptomatic glenohumeral joint instability in more than one direction’’ [8–10]. However, this definition is general and rather vague [11–13]. 
 
 Shoulder stability is a complex interplay between static (articular) and dynamic (mostly extra-articular) stabilizers [8,14], of which the relative contribution differs according to the position of the shoulder joint [15,16]. Static stabilizers, such as the glenoid labrum, shape of the glenoid surface and humeral head, intra-articular suction force, and tension of the shoulder capsule all limit excessive glenohumeral translations [15–18]. Capsular redundancy appears to be one of the factors that considerably contribute to MDI [19] because it is a risk 
 
-> https://doi.org/10.1016/j.rehab.2020.10.008 
-
-1877-0657/<sup>�</sup> C 2020 Elsevier Masson SAS. All rights reserved. 
-
 
 
 [page 2]
-V. Spanhove, M. Van Daele, A. Van den Abeele et al. 
 
-Annals of Physical and Rehabilitation Medicine 64 (2021) 101457 
 
 factor for larger glenohumeral translations [2,5,19]. By illustration, recent studies in MDI have reported inferior humeral translations as large as 0.6 to 2.1 mm [20,21]. 
 
@@ -60,49 +40,12 @@ Taken together, several studies reported the importance of glenohumeral and scap
 
 all articles to assess eligibility for inclusion. Articles were not excluded based on publication date. 
 
-#### 2.2. Eligibility criteria and search strategy 
 
-The research question was defined using the Patient-InterventionComparison-Outcome-Study (PICOS) approach. Articles were included if they provided results of clinical studies (S) that evaluated muscle activity, scapular motion, or scapular position (O) in MDI individuals (P). The intervention (I) and comparison (C) were not defined. The search strategy was based on a combination of keywords and MeSH terms (Table 1) derived from the PICOS question. 
-
-#### 2.3. Study selection 
-
-Studies were included if they met the following inclusion criteria: 
-
-- adult participants (� 18 years old) with MDI; 
-
-- assessed muscle activity, scapular motion or scapular position; 
-
-- � the study design was a randomized or non-randomized controlled trial, case–control study, cross-sectional, or cohort study; 
-
-- full texts were available in English or Dutch; 
-
-- MDI indviduals were compared with healthy controls. 
-
-First, articles were screened based on the title and abstract with the selection criteria above, then full texts of selected articles were evaluated for eligibility. 
-
-#### 2.4. Data items and collection 
-
-Information was extracted and summarized in the evidence table (Table 2). The following data were included: 
-
-- author and year of publication; 
-
-- characteristics of the study population; 
-
-- research protocol; 
-
-- primary outcome measures; 
-
-- main findings. 
 
 #### 2. Methods 
 
 #### 2.1. Information sources 
 
-#### 2.5. Quality assessment: risk of bias in individual studies 
-
-This systematic review was conducted according to the Preferred Reporting Items for Systematic reviews and MetaAnalyses (PRISMA) guidelines [29]. Electronic databases PubMed and Web of Science were searched in September 2020 to identify relevant articles. Two researchers (VS, predoctoral researcher, and IDW, postdoctoral researcher), working in the field of shoulder instability and trained in conducting systematic reviews, screened 
-
-Methodological quality of included articles was assessed by the checklist for case–control studies provided by the Dutch Institute for Healthcare Improvement (CBO) and the Dutch Cochrane Centre (www.cbo.nl/en). Only information regarding the comparison between MDI individuals (before any treatment occurred) and healthy controls was extracted. As such, from the studies of Illye´s et al. [30], Kiss et al. [31] and Nyiri et al. [32], only pre-treatment 
 
 Table 1 
 
@@ -112,14 +55,7 @@ Key words and MeSH terms in the PICO question.
 |---|---|---|---|
 |Multidirectional shoulder instability|MDI<br>Shoulder/glenohumeral multidirectional<br>‘‘Shoulder dislocation’’[MeSH]<br>Disloc*/unstab*/sublux*<br>‘‘joint instability’’ [MeSH]<br>Hyperextensib*/hyperlaxity/hypermob* laxity<br>‘‘Ehlers-Danlos/Ehlers-Danlos syndrome’’[MeSH]|Muscle activity pattern<br>Movement pattern|Muscle<br>activity/activation/timing<br>strength/force/balance<br>‘‘electromyography’’ [MeSH]<br>Scapula<br>Position/rhythm/control<br>movement/motion/mobility<br>Kinemat*<br>Biomech*<br>‘‘Imaging, three-dimensional’’ [MeSH]<br>‘‘Biomechanical phenomena’’ [MeSH]|
 
-
-
-2 
-
-
-
 [page 3]
-Table 2 
 
 The evidence table. 
 
@@ -135,10 +71,8 @@ The evidence table.
 
 
 [page 4]
-Table 2 <u>(Continued )</u> 
 
 |Author (year)|Study design|Study population|Research protocol||Main outcome measures|Main results|
-|---|---|---|---|---|---|---|
 ||||Measurements|Task|||
 |Illye´s and Kiss<br>(2006) [38]|Case control|P: 15 MDI; 5 , 10 <<br>C: 15 normal, healthy<br>shoulders; 5 , 10 <|ZEBRIS computer-controlled<br>ultrasound-based motion<br>analysis system with EMG:<br>mono-polar surface electrodes<br>on:|Abduction in scapular plane 08–100/1208<br>with elbow maximally extended and<br>lower arm pronated during entire<br>movement|Kinematics:<br>-GH angle<br>-ST angle<br>-HE angle<br>-GH ratio|Kinematics:<br>HE angle:<br>-MDI<C final position, range of angle<br>-MDI>C initial position|
 ||||-PM||-ST ratio|ST angle:|
@@ -166,10 +100,8 @@ Table 2 <u>(Continued )</u>
 
 
 [page 5]
-Table 2 <u>(Continued )</u> 
 
 |Author (year)|Study design|Study population|Research protocol||Main outcome measures|Main results<br>anh|
-|---|---|---|---|---|---|---|
 ||||Measurements|Task||ove,|
 |Nyiri et al. (2010)<br>[32]|Nonrandomized<br>controlled trial|P1: 32 MDI treated<br>conservatively; 12 ,<br>15 <<br>P2: 19 MDI treated<br>operatively; 9 , 5 <<br>C: 25 controls with<br>healthy shoulders; 9 ,<br>16 <|Zebris movement analysis<br>system with EMG; surface<br>electrodes on:<br>-AD, MD, PD<br>-SS<br>-IS<br>-BB<br>-TB|Elevation in scapular plane 08–808<br>with elbow maximally extended<br>and lower arm pronated during<br>entire movement<br>Modalities: 6 reps of elevation per minute,<br>metronome 12 bpm|Kinematics:<br>-GH angle<br>-ST angle<br>-HE angle<br>-ST rhythm<br>-GH rhythm<br>-eSH,eSHx,eShy,eSHz<br>EMG:<br>-muscle activity length|Kinematics:<br>-range of ST: MDI*<C<br>-range of GH: MDI*>C<br>-GH rhythm: slope of regression line<br>MDI*>C<br>-ST rhythm: slope of regression line<br>MDI*<C<br>-eSH,eSHx,eSHz: MDI*>C<br>EMG:<br>-MDI*>C: TB, BB, IS, SS<br>-MDI*<C: AD, MD, PD<br> M. Van Daele, A. Van den Abeele e|
 |Ogston and<br>Ludewig (2007)<br>[34]|Case control|P: 29 MDI; 13 , 16 <<br>C: 29 controls with<br>healthy shoulders; 13,<br>16 <|Polhemus FASTRAK<br>electromagnetic motion capture<br>system. Lightweight sensors<br>applied to:<br>-thorax (manubrium sterni)<br>-scapula (acromion process)<br>-humerus (distal)|Elevation in frontal and scapular plane<br>through their perceived full range of<br>motion using 6-seconds verbal count<br>(3sec up, 3sec down)<br>Modalities: 5 consecutive reps; 30sec rest<br>between each motion|Scapular IR<br>Scapular upward rotation<br>Scapular tipping<br>Humeral anterior-posterior<br>Humeral superior inferior<br>translation|Elevation in scapular plane:<br>-scapular IR MDI>C<br>-scapular upward rotation MDI<C<br>-scapular posterior tipping MDI>C<br>-humeral translations MDI = C<br>Elevation in frontal plane:<br>-scapular upward rotation MDI<C<br>-humeral translations MDI = C<br>t al.|
@@ -182,10 +114,8 @@ Table 2 <u>(Continued )</u>
 
 
 [page 6]
-Table 2 <u>(Continued )</u> 
 
 |Author (year)|Study design|Study population|Research protocol||Main outcome measures|Main results|
-|---|---|---|---|---|---|---|
 ||||Measurements|Task|||
 |Von Eisenhart-<br>Rothe et al.<br>(2010) [41]|Case control|P: 14 atraumatic<br>shoulder instability<br>with multidirectional<br>laxity;<br>9 , 5 <|Open MRI system and a T1-<br>weighted 3D gradient recalled<br>echo with image acquisition in<br>transversal orientation<br>perpendicular|Humerus passively positioned<br>relative to the thorax at:<br>-308 abd in scapular plane<br>-908 abd<br>-908 abd ER|Glenoid retroversion<br>Glenoid size<br>HHR<br>3D GH index<br>Curvature analysis|Retroversion: MDI>C<br>Glenoid size, HHR, 3D GH index: MDI<C<br>tendency (P= 0.17)<br>Curvature: MDI<C<br>Glenoid radius: MDI>C|
 |||C: 28 healthy<br>shoulders;<br>16 , 12 <|to the cavitas glenoidalis|Maximal add<br>Isometric (10 N) muscle activity:<br>-908 abd with external<br>rotation (ISOM)|Glenoid radius<br>SHR<br>Scapular internal rotation<br>3D position of humeral head<br>relative to the glenoid<br>cavity|SHR: MDI>C in 308 abd and 908 abd<br>Scapular internal rotation: MDI>C in<br>308 abd and ISOM<br>3D position:<br>-ISOM: C = recentering of humeral head<br>$ MDI = decentered humeral head<br>position in both planes<br>-MDI had malcentering of the humeral<br>head in the direction of instability<br>during specific arm positions|
@@ -200,19 +130,11 @@ Table 2 <u>(Continued )</u>
 
 
 [page 7]
-V. Spanhove, M. Van Daele, A. Van den Abeele et al. 
 
-Annals of Physical and Rehabilitation Medicine 54 (2021) 101457 
 
 data were extracted, and the case–control checklist was used to assess the risk of bias. Two researchers independently scored each article. When an item was fulfilled, articles earned one point (+). Zero points were given if an item was not met (�) or if the article did not provide sufficient information to answer the question (?). The scores of both researchers were compared and a final score was assigned during a consensus meeting. Each article was graded with a level of evidence according to the CBO guidelines. The data extracted from included articles was summarized in a qualitative manner. 
 
 #### 3. Results 
-
-#### 3.1. Study selection 
-
-The initial search identified 403 potentially relevant articles. After screening on the title and abstract, 23 articles remained for 
-
-further evaluation. After screening on the full text, 12 eligible articles remained. One additional study was obtained by hand search [33], thus resulting in 13 included articles for analysis. The selection process is illustrated in Fig. 1. 
 
 #### 3.2. Risk of bias and level of evidence 
 
@@ -222,16 +144,12 @@ The risk of bias and level of evidence are summarized in Table 3. The authors ag
 
 Fig. 1. Flowchart of the study selection. 
 
-7 
 
 
 
 [page 8]
-V. Spanhove, M. Van Daele, A. Van den Abeele et al. 
 
-Annals of Physical and Rehabilitation Medicine 64 (2021) 101457 
 
-Table 3 
 
 The risk of bias and level of evidence of included studies. 
 
@@ -283,16 +201,12 @@ In 3 articles, EMG activity during elevation in the scapular plane was reported 
 
 Two studies found reduced EMG activity during a pull and forward punch in the BB, middle deltoid (MD), and PM 
 
-8 
 
 
 
 [page 9]
-V. Spanhove, M. Van Daele, A. Van den Abeele et al. 
 
-Annals of Physical and Rehabilitation Medicine 54 (2021) 101457 
 
-Table 4 
 
 Summary of kinematic outcome parameters of the humerus and scapula. 
 
@@ -326,14 +240,11 @@ Two studies compared the onset of muscle activation [33,35]. Santos et al. [33] 
 
 Fig. 2. Scapular kinematics (3-D rotations). 
 
-9 
 
 
 
 [page 10]
-V. Spanhove, M. Van Daele, A. Van den Abeele et al. 
 
-Annals of Physical and Rehabilitation Medicine 64 (2021) 101457 
 
 PD was significantly delayed in MDI individuals during external rotation. 
 
@@ -375,14 +286,11 @@ Regarding the second hypothesis [2], there is moderate evidence to suggest that 
 
 A third hypothesis [3] emerging from this review is that muscles that decelerate the movement of the arm and shoulder girdle appear to be engaged more and/or longer in MDI individuals than controls. As an illustration, the increased activity of the PD and UT during forward punching can be interpreted as an attempt to control the arm and scapular movement actively in an eccentric manner, to slow down the forward movement of the arm and shoulder girdle and prevent anterior (sub)luxation of the humeral head [37]. 
 
-10 
 
 
 
 [page 11]
-V. Spanhove, M. Van Daele, A. Van den Abeele et al. 
 
-Annals of Physical and Rehabilitation Medicine 54 (2021) 101457 
 
 #### 5.2. Kinematic results 
 
@@ -403,12 +311,4 @@ Finally, despite the predefined eligibility criteria, included articles still di
 The reviewed literature strongly suggests that individuals with MDI show less upward rotation and more internal rotation of the 
 
 scapula than controls. Furthermore, some evidence suggests increased or prolonged activation of muscles that stabilize the humeral head, decreased or shorter activation of muscles that move or accelerate the arm and shoulder girdle, and increased or prolonged activation of muscles that decelerate the movement of the arm and shoulder girdle. These hypotheses constitute starting points for future research and may provide indications for exercise therapy. 
-
-##### Funding 
-
-Prof. Dr. Fransiska Malfait is a senior clinical investigator supported by the research foundation Flanders, Belgium (FWO: 1842318N). Valentien Spanhove was supported by a grant from the Special Research Fund of Ghent University (BOF17/DOC/220). 
-
-##### Disclosure of interest 
-
-The authors declare that they have no competing interest. 
 

@@ -9,29 +9,10 @@ _Systematic Review_
 
 **Luis Ceballos-Laita**<sup>**1,**</sup> *** , Román Robles-Pérez**<sup>**1**</sup> **, Andoni Carrasco-Uribarren**<sup>**2**</sup> **, Sara Cabanillas-Barea**<sup>**2**</sup> **, Silvia Pérez-Guillén**<sup>**2**</sup> **, Evita Greidane**<sup>**3**</sup> **and Sandra Jiménez-del-Barrio**<sup>**1**</sup> 
 
-- 1 Department of Surgery, Ophthalmology, Otorhinolaryngology and Physiotherapy, Faculty of Health Sciences, Universidad de Valladolid, 42004 Soria, Spain; sandra.jimenez.barrio@uva.es (S.J.-d.-B.) 
-
-- 2 Department of Physiotherapy, Faculty of Medicine and Health Sciences, Universitat Internacional de Catalunya (UIC), C/Josep Trueta s/n, 08195 Sant Cugat del Vallès, Spain; acarrasco@uic.es (A.C.-U.); scabanillas@uic.es (S.C.-B.); sperezgu@uic.es (S.P.-G.) 
-
-- 3 Fiziocentrs, Run, inieku Iela 49, Centra Rajons, LV-1011 R¯ıga, Latvia 
-
-- Correspondence: luis.ceballos@uva.es 
-
-**Citation:** Ceballos-Laita, L.; 
-
-Robles-Pérez, R.; Carrasco-Uribarren, A.; Cabanillas-Barea, S.; Pérez-Guillén, S.; Greidane, E.; Jiménez-del-Barrio, S. Is Stretching Effective for Reducing Glenohumeral Internal Rotation Deficit? A Systematic Review and Meta-Analysis. _Appl. Sci._ **2024** , _14_ , 7166. https://doi.org/10.3390/ app14167166 
-
 **Abstract:** The primary aim of this was to assess the effectiveness of stretching for improving shoulder range of motion (ROM) in overhead athletes with glenohumeral internal rotation deficit (GIRD). The secondary aims were to compare whether the combination of stretching plus manual therapy was more effective than stretching in isolation and if any stretching technique was superior to others. A systematic review and a meta-analysis were designed. The MEDLINE, PEDro, Cochrane Library, and Web of Science databases were searched. Clinical trials investigating the effects of stretching in isolation or combined with other manual therapy techniques on ROM and pain intensity in athletes with GIRD were included. The PEDro scale was used to assess the methodological quality of the studies, and the certainty of evidence was assessed using the GRADE tool. Two independent assessors extracted data through a standardized form. The random-effects models were applied. Sixteen randomized controlled trials were included in this systematic review with a meta-analysis, with a methodological quality ranging from high to low. The stretching techniques in isolation showed statistically significant improvements in internal rotation and horizontal adduction ROM. Adding glenohumeral dorsal gliding to a stretching protocol showed better improvement in internal rotation ROM than stretching in isolation. Stretching techniques with manual stabilization showed better benefits than self-stretching techniques. A very low certainty of evidence suggests that stretching produces statistically significant changes for improving ROM in patients with glenohumeral internal rotation deficit. The combination with glenohumeral dorsal gliding seems to produce better improvements. 
 
 **Keywords:** athletes; glenohumeral internal rotation deficit; stretching; range of motion; pain 
 
-Academic Editor: Arkady Voloshin 
-
-Received: 11 July 2024 Revised: 26 July 2024 Accepted: 12 August 2024 Published: 15 August 2024 
-
-
-
-**Copyright:** © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
 
 ### **1. Introduction** 
 
@@ -39,16 +20,9 @@ Handball, baseball, volleyball, and water polo are sports that place large deman
 
 Several studies have investigated risk factors for shoulder injuries in overhead athletes, paying special attention to the glenohumeral range of motion (ROM) and shoulder muscle imbalances [5,6]. Athletes with a glenohumeral internal rotation deficit (GIRD) higher than 15<sup>_◦_</sup> and a total shoulder ROM reduction higher than 10<sup>_◦_</sup> have shown a two-to-four-fold increase in the risk of injury [7,8]. External rotator-muscle weakness [6] and a decrease in the external rotation and internal rotation ratio may double the risk of injury [9,10]. 
 
-_Appl. Sci._ **2024** , _14_ , 7166. https://doi.org/10.3390/app14167166 
-
-https://www.mdpi.com/journal/applsci 
-
-
 
 [page 2]
-_Appl. Sci._ **2024** , _14_ , 7166 
 
-2 of 17 
 
 Despite the fact that shoulder pathobiomechanic is not fully understood, Burkhart et al. [11,12] hypothesized that these changes in glenohumeral ROM and muscle function occur due to the restriction of the posteroinferior part of the shoulder-joint capsule and the inferior part of the glenohumeral ligament, as well as to the shortening or stiffness of the muscles of the posterior part of the shoulder. Thomas et al. [13,14] found that the throwing shoulder of overhead athletes presented a greater posterior capsule thickness and was negatively correlated to internal rotation shoulder ROM. In addition, Jimenez-delBarrio et al. [15] showed that some muscles of the posterior part of the shoulder presented an increased tone and stiffness. 
 
@@ -57,37 +31,6 @@ In this sense, diverse clinical trials have applied different interventions to i
 Therefore, the primary aim of this study was to assess the effectiveness of stretching in overhead athletes with GIRD. The secondary aim was to investigate if the addition of other manual therapy techniques to a stretching protocol produces better benefits than stretching in isolation. The third aim was to evaluate which stretching technique produces better benefits in athletes with GIRD. 
 
 ### **2. Materials and Methods** 
-
-### _2.1. Design_ 
-
-The protocol for this systematic review and meta-analysis was pre-registered with the International Prospective Register of Systematic Reviews (PROSPERO: CRD42024509606). It adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and Cochrane recommendations [25]. 
-
-### _2.2. Search Strategy_ 
-
-The search strategy was implemented in PubMed (MEDLINE), the Physiotherapy Evidence Database (PEDro), the Cochrane Library, and the Web of Sciences (WoS) from inception to February 2024. The search terms included the following medical subject headings: athletes, physical therapy modalities, exercise, pain, and range of motion. These terms were combined with additional keywords and connected using the Boolean operators AND/OR. The search strategy used in each database is shown in Appendix A. A hand search of the reference lists of all the included studies was performed. 
-
-### _2.3. Eligibility Criteria_ 
-
-The inclusion criteria were developed according to the Population, Intervention, Comparison, Outcome, and Study Design (PICOS) framework. All the studies met the following criteria: population: patients with GIRD; intervention: stretching in isolation or combined with other manual therapy techniques; comparison: no intervention or other stretching techniques; outcomes: shoulder ROM and/or pain intensity; and study design: randomized controlled trials. 
-
-Studies were excluded if they involved overhead athletes without GIRD; included stretching techniques as part of a multimodal intervention; reported outcome variables that were not of interest or were measured with invalid or unreliable instruments; or were not published in English, French, or Spanish. 
-
-
-
-[page 3]
-_Appl. Sci._ **2024** , _14_ , 7166 
-
-3 of 17 
-
-### _2.4. Data Extraction_ 
-
-After running the searches in all databases, references were exported to Mendeley Desktop, and duplicates were removed. Two reviewers (L.C.-L. and S.J.-d-.B.) independently conducted the searches in each database and assessed the titles and abstracts to determine potential eligibility. In cases of uncertainty, a third reviewer (R.R.-P.) was consulted. 
-
-The same two reviewers (L.C.-L. and S.J.-d.-B.) independently extracted data from the included studies using a standardized form adapted from the Cochrane Collaboration. Any discrepancies were resolved by the third reviewer (R.R.-P.). 
-
-### _2.5. Methodological Quality_ 
-
-The same independent reviewers (L.C.-L. and S.J.-d.-B.) assessed methodological quality using the PEDro scale, an 11-item tool based on a Delphi list designed to evaluate the methodological quality of clinical trials. A score of 7 or above indicated “high” quality, 5 to 6 was considered “fair” quality, and 4 or below was deemed “poor” quality. The first item of the PEDro scale, which pertains to eligibility criteria and external validity, was not included in the total score [26]. 
 
 ### _2.6. Data Synthesis and Analysis_ 
 
@@ -99,18 +42,11 @@ Sample sizes for each group, along with the mean change score and standard devia
 
 Data were combined in forest plots when at least two trials were considered clinically homogeneous, meaning the interventions and outcome variables were similar. When a three-arm study was included, the study was subdivided under the terms “A” and “B”, and the data from the comparison group were divided to avoid overestimations [28]. A randomeffects meta-analysis was performed when the combination of intervention effects could incorporate an assumption that the studies are not all estimating the same intervention effect [29]. The heterogeneity was assessed by considering the similarity of point estimates, the overlap of confidence intervals, the context of the results, and the I<sup>2</sup> statistic in the forest plots [30,31]. All meta-analyses were conducted using RevMan 5.4. software. 
 
-### _2.7. Certainty of Evidence_ 
-
-The certainty of the evidence was evaluated using GRADE Evidence Profiles by the same independent reviewers (L.C.-L. and S.J.-d.-B.). The evidence was categorized as “high”, “moderate”, “low”, or “very low” to guide researchers and clinicians in interpreting the importance of the results. The assessment considered the following domains: risk of bias, inconsistency, indirectness, imprecision, and other considerations. 
-
-The certainty of the evidence was downgraded based on the following criteria: risk of bias (downgraded by one level if at least 25% of participants were from studies with poor or fair methodological quality and by two levels if at least 50% were from such studies, considering factors like lack of allocation concealment, random allocation, sample size calculation, blinding of participants and personnel, and blinding of outcome assessors), 
 
 
 
 [page 4]
-_Appl. Sci._ **2024** , _14_ , 7166 
 
-4 of 17 
 
 inconsistency of results (downgraded by one level if the I<sup>2</sup> value was _≥_ 50% and by two levels if the I<sup>2</sup> was _≥_ 75%) [32,33], indirectness of evidence (downgraded by one level if different populations, interventions, or comparators were included), and imprecision (downgraded by one level if fewer than 100 participants were included in each group or by two levels if <30 participants were included in each group) [34,35]. 
 
@@ -133,9 +69,7 @@ The outcome variables included in the PICOS framework for this systematic review
 
 
 [page 5]
-_Appl. Sci._ **2024** , _14_ , 7166 
 
-5 of 17 
 
 **Table 1.** Characteristics of the included studies. 
 
@@ -155,9 +89,7 @@ _Appl. Sci._ **2024** , _14_ , 7166
 
 
 [page 6]
-_Appl. Sci._ **2024** , _14_ , 7166 
 
-6 of 17 
 
 **Table 1.** _Cont._ 
 
@@ -179,9 +111,7 @@ _Appl. Sci._ **2024** , _14_ , 7166
 
 
 [page 7]
-_Appl. Sci._ **2024** , _14_ , 7166 
 
-7 of 17 
 
 **Table 1.** _Cont._ 
 
@@ -201,9 +131,7 @@ _Appl. Sci._ **2024** , _14_ , 7166
 
 
 [page 8]
-_Appl. Sci._ **2024** , _14_ , 7166 
 
-8 of 17 
 
 **Table 1.** _Cont._ 
 
@@ -219,9 +147,7 @@ Letters A and B: subdivisions of a three-arm study; GIRD: glenohumeral internal 
 
 
 [page 9]
-_Appl. Sci._ **2024** , _14_ , 7166 
 
-9 of 17 
 
 ### _3.2. Methodological Quality_ 
 
@@ -265,39 +191,13 @@ Seven studies were included in the qualitative synthesis and six in the quantita
 
 
 [page 10]
-_Appl. Sci._ **2024** , _14_ , 7166 
 
-10 of 17 
-
-
-
-## ( **A** ) 
-
-
-
-## ( **B** ) 
-
-
-
-## ( **C** ) 
-
-
-
-## ( **D** ) 
 
 **Figure 2.** ( **A** ) Forest plot for internal rotation ROM. ( **B** ) Forest plot for horizontal adduction ROM. ( **C** ) Forest plot for external rotation ROM. ( **D** ) Forest plot for pain intensity [38–42,44]. 
 
 ### 3.3.2. Stretching Plus Manual Therapy versus Stretching in Isolation 
 
 Five studies added manual therapy techniques to a stretching protocol and were divided into two subgroups: dorsal gliding plus stretching versus stretching and softtissue therapy plus stretching versus stretching. The quantitative synthesis suggested that the addition of dorsal gliding to a stretching protocol produced statistically significant differences in internal rotation ROM (MD: 4.51; 95%CI: 1.18, 7.83; I<sup>2</sup> : 0%; three studies; 19 athletes) (Figure 3A) but not in external rotation ROM (MD: _−_ 2.89; 95%CI: _−_ 8.06, 2.29; I<sup>2</sup> : 35%; two studies; 69 athletes) (Figure 3B) versus stretching in isolation. The addition of soft-tissue techniques plus stretching versus stretching in isolation showed no statistically significant benefit in internal rotation ROM (MD: 3.90; 95%CI: _−_ 137, 9.16; I<sup>2</sup> : 84%; two studies; 68 athletes) (Figure 3A). The certainty of evidence was downgraded to very low for all the outcome variables in each subgroup. 
-
-
-
-[page 11]
-_<u>Appl. Sci.</u>_ **<u>2024</u>** <u>,</u> _<u>14</u>_ <u>, 7166</u> 
-
-~~11 of~~ 17 
-
 
 
 
@@ -322,9 +222,7 @@ Two studies compared cross-body stretch with scapular stabilization versus cross
 
 
 [page 12]
-_Appl. Sci._ **2024** , _14_ , 7166 
 
-12 of 17 
 
 A detailed description of the certainty of evidence explaining the items downgraded for each outcome variable assessed is shown in Table 3. 
 
@@ -360,9 +258,7 @@ Regarding the methodological quality of the included clinical trials, the most f
 
 
 [page 13]
-_Appl. Sci._ **2024** , _14_ , 7166 
 
-13 of 17 
 
 ### _4.1. Stretching versus Control_ 
 
@@ -385,27 +281,13 @@ From a clinical perspective, the current study found that stretching is an effec
 
 
 [page 14]
-_Appl. Sci._ **2024** , _14_ , 7166 
 
-14 of 17 
 
 Three limitations must be considered in this study. First, some studies presented a small sample size, which could be a source of bias. Second, several subgroups were considered for statistical analysis, which complicates the interpretation of the results. Third, some quantitative analysis could not be performed using mean change scores due to the lack of variability data. Future studies should assess the shoulder range of motion in the three planes, assess longer periods of follow-up, and assess the best dose. 
 
 ### **5. Conclusions** 
 
 This systematic review and meta-analysis found a very low certainty of the evidence, suggesting that stretching produces statistically significant changes for improving internal rotation and horizontal adduction ROM but not in external rotation ROM or pain intensity. Its combination with glenohumeral dorsal gliding seems to produce better improvements in internal rotation ROM than stretching in isolation. Finally, the cross-body stretch seems to improve more the internal rotation ROM when the scapula is manually stabilized. 
-
-**Author Contributions:** Conceptualization, L.C.-L., S.J.-d.-B. and A.C.-U.; methodology, R.R.-P., S.J.-d.-B., S.J.-d.-B. and S.P.-G.; software, R.R.-P. and S.J.-d.-B.; validation, R.R.-P., E.G., S.J.-d.-B. and S.P.-G.; formal analysis, R.R.-P. and S.J.-d.-B.; investigation, R.R.-P., E.G., S.J.-d.-B. and S.P.-G.; resources, A.C.-U., S.C.-B., S.P.-G. and S.J.-d.-B.; data curation, R.R.-P. and S.J.-d.-B.; writing—original draft preparation, S.C.-B., A.C.-U., R.R.-P., E.G., S.J.-d.-B., S.P.-G. and L.C.-L.; writing—review and editing, S.C.-B., A.C.-U., R.R.-P., E.G., S.J.-d.-B., S.P.-G. and L.C.-L.; supervision, S.C.-B., A.C.-U., R.R.P., E.G., S.J.-d.-B., S.P.-G. and L.C.-L.; project administration, L.C.-L., S.C.-B. and A.C.-U. All authors have read and agreed to the published version of the manuscript. 
-
-**Funding:** The study was funded by the Cátedra de Conocimiento e Innovación de Caja Rural de Soria. The funders played no role in the study design, data collection, analysis, or preparation of the manuscript. 
-
-**Institutional Review Board Statement:** Not applicable. 
-
-**Informed Consent Statement:** Not applicable. 
-
-**Data Availability Statement:** The data analyzed in this study are included in this published article. The dataset is available from the corresponding author upon reasonable request. 
-
-**Conflicts of Interest:** The authors declare no conflicts of interest. 
 
 **Appendix A. Search Strategy Used in Each Database** MEDLINE 
 
@@ -414,9 +296,7 @@ This systematic review and meta-analysis found a very low certainty of the evide
 
 
 [page 15]
-_Appl. Sci._ **2024** , _14_ , 7166 
 
-15 of 17 
 
 (Athletes OR “Upper extremity” OR “young adult” OR handball OR volleyball OR baseball OR waterpolo OR swimmer OR overhead) AND (“rotator cuff tendinopathy” OR “rotator cuff related pain” OR “impingement syndrome” OR “shoulder impingement” OR “non-specific shoulder pain” OR “joint instability” OR “athletic injuries” OR “shoulder injuries” OR “shoulder pain” OR “GIRD” OR “glenohumeral internal rotation deficit”) AND (physical therapy modalities OR exercise OR stretching OR sleeper OR “cross-body stretch” OR “manual therapy” OR “physical therapy” OR physiotherapy) AND (pain OR range of motion OR internal rotation OR “posterior stiffness”) Date: 1 February 2024 Studies retrieved: 624 Web of Science 
 

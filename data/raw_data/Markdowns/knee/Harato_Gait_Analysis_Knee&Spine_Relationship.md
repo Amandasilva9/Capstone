@@ -1,11 +1,6 @@
 [page 1]
 
 
-Available online at www.sciencedirect.com 
-
-Gait & Posture 28 (2008) 687–692 
-
-
 
 www.elsevier.com/locate/gaitpost 
 
@@ -21,26 +16,18 @@ Received 1 November 2007; received in revised form 7 May 2008; accepted 15 May 2
 
 Knee flexion contracture influences the physiological movements in lower extremities and may cause the kinematic changes of the trunk. Our purpose was to investigate static and dynamic changes in trunk kinematics with simulated knee flexion contracture. Ten healthy females averaged 62 years participated in our study. Unilateral knee flexion contractures of 158 and 308 were simulated with a knee brace. Relaxed standing and level walking were measured at our laboratory using a motion analysis system which consisted of five cameras, a force plate, and thirteen retro-reflective markers. Three-dimensional trunk kinematics and vertical knee forces (% Body Weight) with the contractures were compared with those without the contracture. The 158 contracture did not significantly change trunk kinematics. However, the 308 contracture significantly changed the kinematics in each of the following planes. In the coronal plane, the trunk tilted to the contracture side in standing and walking. In the sagittal plane, posterior inclination of the pelvis in standing significantly increased. In addition, anterior inclination of the trunk and pelvis during walking significantly increased. In the axial plane, trunk rotation to the unaffected side significantly decreased during walking. The vertical knee force in the contracture limb decreased, being accompanied by the increase of the force in the unaffected limb during standing and walking. Results of our study suggest that knee flexion contracture significantly influences three-dimensional trunk kinematics during relaxed standing and level walking, and will lead to spinal imbalance. These facts may explain the onset of the ‘‘Knee-Spine Syndrome’’. 
 
-# 2008 Elsevier B.V. All rights reserved. 
-
 Keywords: Simulated knee flexion contracture; Trunk kinematics; Standing; Gait; Knee-spine syndrome 
 
 ## 1. Introduction 
 
 Severe knee osteoarthritis often causes a flexion contracture, which affects daily activities [1]. In addition, the contracture influences the physiological movements in other body parts such as the hip and ankle joints [2,3], as well as the spine [4]. Previous studies demonstrated the effect of knee flexion contracture using gait analysis [5,6]. Cerny et al. investigated the effect of unilateral knee flexion contracture on gait using knee contracture simulation and showed that velocity and stride length significantly decreased [2]. Perry et al. examined the knee joint forces required to stabilize the flexed knee during weight bearing using a cadaveric lower 
 
-> * Corresponding author. Tel.: +81 3 5363 3812; fax: +81 3 3353 6597. E-mail address: kharatoh@yahoo.co.jp (K. Harato). 
-
 extremity. They concluded that a rapid rise in the quadriceps forcewasrequiredtostabilize the knee between158 and308 of flexion [3]. In addition, Potter et al. evaluated standing balance in simulated unilateral and bilateral knee flexion contracture, using a knee brace [7]. They found that the center of pressure moved anteriorly as the bilateral knee flexion contracture increased. It also shifted towards the noncontracture side with unilateral knee flexion contracture. However, to our knowledge, most of these studies concentrated on the kinematics and kinetics of the lower extremities. Only a few papers demonstrated the relationship between knee flexion contracture and trunk kinematics. In these studies, limitation in knee extension was related to a decrease in lumbar lordosis on the sagittal plane radiographs [4,8]. Clinically, back pain is present in 54.6% of patients with knee osteoarthritis, and is more common than in normal population 
-
-> 0966-6362/$ – see front matter # 2008 Elsevier B.V. All rights reserved. doi:10.1016/j.gaitpost.2008.05.008 
 
 
 
 [page 2]
-K. Harato et al. / Gait & Posture 28 (2008) 687–692 
 
-688 
 
 [9]. Furthermore, back pain appears to be associated with the decrease of lumbar lordosis, progression of degenerative scoliosis, and progression of rotational deformity [10]. Although it has been demonstrated that back pain and the decrease of lumbar lordosis are related to knee flexion contracture, the relationship between the knee and the spine in the coronal and axial planes has not been investigated [4,8]. 
 
@@ -77,9 +64,7 @@ We evaluated tilting angles of the shoulder and pelvis, anterior inclinations of
 
 
 [page 3]
-K. Harato et al. / Gait & Posture 28 (2008) 687–692 
 
-689 
 
 
 
@@ -110,9 +95,7 @@ Kinematic changes in the axial plane of a representative case with no flexion co
 
 
 [page 4]
-K. Harato et al. / Gait & Posture 28 (2008) 687–692 
 
-690 
 
 Table 1 
 
@@ -176,9 +159,7 @@ Each data in walking trials (mean value � standard deviation)
 
 
 [page 5]
-K. Harato et al. / Gait & Posture 28 (2008) 687–692 
 
-691 
 
 
 
@@ -195,12 +176,4 @@ shoulder–pelvis rotation in our study) significantly decreased (Table 2). Thes
 Hip-spine syndrome was first described by Offierski and MacNab [14]. They revealed that lumbar lordosis and sacral inclination were related to the degree of hip extension. Thereafter, hip-spine syndrome was examined by several researchers [15–17]. In contrast to the hip-spine syndrome, few studies have explored the knee-spine syndrome and examined the correlation between knee joint pain and low back pain [4,8,9,18]. These studies limited their analysis to the sagittal plane and did not assess the three-dimensional changes of the trunk kinematics. The present study successfully demonstrated that knee flexion contracture dynamically changes the trunk kinematics. A previous study on simulated leg length discrepancy of three centimeters demonstrated asymmetrical gait [11]. Similarly, we have shown that the influence on the trunk kinematics depends on the severity of the knee flexion contracture. Our results suggest that a flexion contracture of less than 158 would not cause any adverse effect to the trunk. 
 
 Unilateral knee flexion contracture dramatically increased weight bearing in the contralateral knee and decreased in the ipsilateral knee. The current study confirmed our hypothesis that a knee flexion contracture would lead to three-dimensional changes in trunk kinematics. 
-
-## Acknowledgements 
-
-This study was supported by The General Insurance Association of Japan and the authors gratefully acknowledge the valuable contribution of Gajanthan Krishnamoorthy, Yuji Kuroyanagi, M.D. and Yoshimori Kiriyama, PhD. 
-
-## Conflict of interest 
-
-Benefits or funds were received in support of the study from General Insurance Association of Japan. 
 

@@ -1,13 +1,6 @@
 [page 1]
-Physical Therapy in Sport 29 (2018) 61e69 
-
-
-
-Contents lists available at ScienceDirect 
 
 # Physical Therapy in Sport 
-
-journal homepage: www.elsevier.com/ptsp 
 
 
 
@@ -15,11 +8,6 @@ journal homepage: www.elsevier.com/ptsp
 
 # The association of ankle dorsiflexion and dynamic knee valgus: A systematic review and meta-analysis 
 
-
-
-Yuri Lopes Lima, Victor Matheus Leite Mascarenhas Ferreira, Pedro Olavo de Paula Lima, Marcio<sup>�</sup> Almeida Bezerra, Rodrigo Ribeiro de Oliveira, Gabriel Peixoto Leao<sup>~</sup> Almeida<sup>*</sup> 
-
-Department of Physical Therapy, Federal University of Ceara,<sup>�</sup> Fortaleza, Ceara,<sup>�</sup> Brazil 
 
 |a r t i c l e i n f o|a b s t r a c t|
 |---|---|
@@ -40,14 +28,10 @@ composed of a combination of excessive femoral adduction, internal rotation, tib
 
 It is hypothesized that deficits in ADF may occur due to the decreased extensibility of the gastrocnemius/soleus complex and restricted posterior talar glide on the tibia (Dill, Begalle, Frank, Zinder, & Padua, 2014; Macrum et al., 2012; Malloy, Morgan, Meinerz, Geiser, & Kipp, 2015; Mauntel et al., 2013). As subjects perform activities that lower the body's increasing knee flexion, this requires the tibia to move forward over the foot, thus increasing dorsiflexion. With restricted ADF, subjects may try to compensate for this lack of range in the sagittal plane with movement in the frontal or transverse plane throughout the kinetic chain (Bell-Jenje et al., 2016; Dill et al., 2014; Macrum et al., 2012; Mauntel et al., 2013; Rabin & Kozol, 2010; Rabin, Kozol, Moran, 
 
-https://doi.org/10.1016/j.ptsp.2017.07.003 1466-853X/© 2017 Elsevier Ltd. All rights reserved. 
-
 
 
 [page 2]
-Y.L. Lima et al. / Physical Therapy in Sport 29 (2018) 61e69 
 
-62 
 
 et al., 2014; Sigward et al., 2008; Wyndow et al., 2016). This compensation may come from the pronation of the foot (Dill et al., 2014; Lack et al., 2014), the internal rotation of the tibia (Dill et al., 2014), internal hip rotation and adduction (Bell-Jenje et al., 2016; Wyndow et al., 2016) or pelvic drop (Rabin & Kozol, 2010; Rabin, Kozol, Moran, et al., 2014), thus creating the DKV (Dill et al., 2014; Macrum et al., 2012; Malloy et al., 2015; Mauntel et al., 2013; Rabin & Kozol, 2010; Rabin, Kozol, Moran, et al., 2014; Sigward et al., 2008; Wyndow et al., 2016). 
 
@@ -56,28 +40,6 @@ While several studies have been conducted to evaluate the association of ADF in 
 ### 2. Methods 
 
 This review was conducted according to the Preferred Reporting Items for Systematic Reviews (PRISMA) guidelines (Liberati et al., 2009; Moher, Liberati, Tetzlaff, & Altman, 2009) and Metaanalysis of Observational Studies in Epidemiology (MOOSE) (Stroup et al., 2000). The study protocol was pre-registered (PROSPERO 2016: CRD42016032820) and based on the Preferred Reporting Items for Systematic Reviews and Meta-Analysis Protocols (PRISMA-P) statement (Moher et al., 2015). 
-
-### 2.1. Search strategy 
-
-Two researchers independently performed a search in four medical databasesdMEDLINE, CINAHL, SPORTDiscus and EMBASEdfrom database inception until September 2016. The search strategy was composed of medical subject headings (MeSH) and free text search terms, synonyms and combinations to capture all of the related papers. Three concepts were combined for the search in databases using the Boolean operator ‘AND’: (1) ‘knee’, ‘knee angle’, ‘knee valgus’, ‘dynamic knee valgus’, ‘knee kinematics’, ‘knee alignment’, ‘knee frontal plane’, ‘knee movement’, ‘dynamic valgus’, ‘hip’, ‘hip adduction’; (2) ‘ankle’, ‘ankle joint’, ‘ankle movement’, ‘ankle dorsiflexion’, ‘ankle range of motion’, ‘ankle mobility’, ‘lunge test’; and (3) ‘forward step down test’, ‘drop vertical jump test’, ‘single leg squat test’, ‘step down test’, ‘single limb squat test’, ‘drop jump screening’, ‘movement quality’, ‘range of movement”. The terms within these concepts were combined with the Boolean operator ‘OR’. The reference lists of the included manuscripts and personal files of the authors were checked to identify related studies. 
-
-### 2.2. Study selection 
-
-After the completion of the database searches, titles and abstracts identified using the search strategy were downloaded into EndNote X7.1 (Thomson Reuters, California, USA). Duplicates were deleted, and two independent reviewers screened all abstracts for inclusion. A third reviewer was available to contribute to any disagreement if necessary. Full texts were obtained when necessary. A flow chart of the search and study selection is provided in Fig. 1. 
-
-### 2.3. Inclusion and exclusion criteria 
-
-To be included, studies had to report the association between at least one outcome measure for ADF and one for the kinematics of the knee and/or hip in the frontal plane and/or hip in the transverse plane in any dynamic task. Healthy men and women of all ages or 
-
-those with any condition in the kneedsymptomatic or asymptomaticd were considered for the review. No restrictions over language and publication date were applied. Only studies published as full-text articles were included. Conference proceedings, poster presentations, reviews, case studies, editorials, letters and abstract-only texts were not considered for this review. 
-
-### 2.4. Data extraction 
-
-Two reviewers extracted the information from each of the selected studies. A synthesis of the data of the included studies is provided in Table 1. The information was organised around the authors, publication dates, sample sizes, mean ages, levels of activity, conditions, study designs, group allocations, outcome measurement methods, subject tasks and results. 
-
-### 2.5. Quality assessment 
-
-Due to the lack of established assessment tools for noninterventional studies, the assessment of the articles in this review was performed using a customised scale from the checklist of interventional studies that Downs and Black designed (Downs & Black, 1998). The modification involved the selection of items to better reflect the methodological considerations of observational studies, as they were expected to be the majority of the included studies, so that resulting in a scale of 10 items (Table 2). The items were related to: a description of the hypothesis/objective, the main outcomes in the Introduction or Methods sections, the participants’ characteristics, the main findings, estimates of random variability, actual probability values, a representative sample of subjects, appropriate statistical tests, and valid and reliable outcome measures. Some authors have used this method (Cashman, 2012; Cronstrom, Creaby, Nae, & Ageberg, 2016; Giles, Webster, McClelland, & Cook, 2013; Ranger, Wong, Cook, & Gaida, 2015), but its efficacy is not established. Two authors discussed the methodological quality assessment of the studies, and a third author resolved any disagreements. 
 
 ### 2.6. Meta-analysis 
 
@@ -88,7 +50,6 @@ In studies with group allocations by quality-of-knee/hip kinematics, the outcome
 
 
 [page 3]
-63 
 
 
 
@@ -118,9 +79,7 @@ Seventeen articles that assessed the relationship between ADF and DKV were retri
 
 
 [page 4]
-Y.L. Lima et al. / Physical Therapy in Sport 29 (2018) 61e69 
 
-64 
 
 Table 1 
 
@@ -146,9 +105,7 @@ Characteristics of included studies.
 
 
 [page 5]
-Y.L. Lima et al. / Physical Therapy in Sport 29 (2018) 61e69 
 
-65 
 
 Table 1 (continued ) 
 
@@ -178,9 +135,7 @@ Studies reporting ADF in the controls and DKV groups were subgrouped according t
 
 
 [page 6]
-Y.L. Lima et al. / Physical Therapy in Sport 29 (2018) 61e69 
 
-66 
 
 Table 2 
 
@@ -226,9 +181,7 @@ This review provides compelling evidence for an association
 
 
 [page 7]
-Y.L. Lima et al. / Physical Therapy in Sport 29 (2018) 61e69 
 
-67 
 
 between reduced ADF and DKV. The meta-analyses for ADF demonstrated that a reduced range of motion was present in the individuals presenting with DKV when compared to the controls. This result was consistent regardless of whether ADF was measured in an NWB position with the knee flexed, straight or in a WB position. It is already known that ADF measurement values differ from active to passive forms as well as in different knee positions (Krause, Cloud, Forster, Schrank, & Hollman, 2011), but how these variations can be associated with DKV is still unclear. 
 
@@ -253,17 +206,11 @@ In our review, we aimed to identify the association of ADF and DKV; nonetheless,
 
 
 [page 8]
-Y.L. Lima et al. / Physical Therapy in Sport 29 (2018) 61e69 
 
-68 
 
 increased hamstring/quadriceps ratio (Myer et al., 2009), reduced gluteus maximus activation (Cronstrom et al., 2016), external hip rotators and abductors strength (Cashman, 2012; Khayambashi, Ghoddosi, Straub, & Powers, 2016; Powers, 2010) have been shown to be related to DKV. Clinicians should consider working on these variables alongside ADF and DKV to improve movement quality and potentially reduce the risk of lower limb injuries. 
 
 ### 5. Conclusion 
 
 This review highlights that limited ADF appears to be linked with DKV. The assessment of ADF should be included in clinical practice as it may be related to individuals at risk of harmful lower limb movement patterns during dynamic tasks. 
-
-### Acknowledgements 
-
-We thank Prof. Simony Lira for the support during the metaanalysis stages. 
 

@@ -15,36 +15,7 @@
 
 **To cite this article:** Diulian M. Medeiros PT, Anelize Cini PT, Graciele Sbruzzi PT, ScD & Cláudia S. Lima PT, ScD (2016): Influence of static stretching on hamstring flexibility in healthy young adults: Systematic review and meta-analysis, Physiotherapy Theory and Practice, DOI: <u>10.1080/09593985.2016.1204401</u> 
 
-**To link to this article:** <u>http://dx.doi.org/10.1080/09593985.2016.1204401</u> 
 
-
-
-
-
-
-
-
-
-Published online: 26 Jul 2016. 
-
-
-
-Submit your article to this journal 
-
-View related articles View Crossmark data 
-
-
-
-Full Terms & Conditions of access and use can be found at http://www.tandfonline.com/action/journalInformation?journalCode=iptp20 
-
-**Download by:** [Diulian Medeiros] 
-
-**Date:** 27 July 2016, At: 17:56 
-
-
-
-[page 2]
-PHYSIOTHERAPY THEORY AND PRACTICE http://dx.doi.org/10.1080/09593985.2016.1204401 
 
 ###### REVIEW 
 
@@ -56,7 +27,6 @@ Physical Therapy Course, Federal University of Rio Grande do Sul, Porto Alegre, 
 
 ABSTRACT The aim of the current study was to investigate the influence of static stretching on hamstring flexibility in healthy young adults by means of systematic review and meta-analysis. The search strategy included MEDLINE, PEDro, Cochrane CENTRAL, EMBASE, LILACS, and manual search from inception to June 2015. Randomized and controlled clinical trials studies that have compared static stretching to control group, and evaluated range of motion (ROM), were included. On the other hand, studies that have worked with special population such as children, elderly people, athletes, and people with any dysfunction/disease were excluded, as well as articles that have used contralateral leg as control group or have not performed static stretching. The meta-analysis was divided according to three types of tests. Nineteen studies were included out of the 813 articles identified. In all tests, the results favored static stretching compared to control group: passive straight leg raise (12.04; 95% CI: 9.61 to 14.47), passive knee extension test (8.58; 95% CI: 6.31 to 10.84), and active knee extension test (8.35; 95% CI: 5.15 to 11.55). In conclusion, static stretching was effective in increasing hamstring flexibility in healthy young adults. 
 
-ARTICLE HISTORY Received 3 March 2015 Revised 16 September 2015 Accepted 21 September 2015 KEYWORDS Hamstring; range of motion; systematic review 
 
 ##### Introduction 
 
@@ -70,59 +40,14 @@ Nevertheless, there is no consensus in the literature regarding the optimal para
 
 Hence, the aim of the current study was to investigate the influence of static stretching on hamstring flexibility 
 
-> CONTACT Cláudia S. Lima, PT, ScD claudia.lima@ufrgs.br Federal University of Rio Grande do Sul, Rua Felizardo, 750 – sala 201a LAPEX, Bairro Jardim Botânico, CEP: 90690200, Brazil. 
-
-> Color versions of one or more of the figures in the article can be found online at www.tandfonline.com/iptp. © 2016 Taylor & Francis 
-
 
 
 [page 3]
-2 D. M. MEDEIROS ET AL. 
 
 in healthy young adults by means of systematic review and meta-analysis. 
 
 ##### Methods 
 
-##### Data sources and searches 
-
-We searched the following electronic databases (from inception to June 2015): MEDLINE (accessed by PubMed), Physiotherapy Evidence Database (PEDro), The Cochrane Central Register of Controlled Trials (Cochrane CENTRAL), Centro Latino-Americano e do Caribe de Informação em Ciências da Saúde (LILACS), and EMBASE. In addition, we searched the references of published studies. The search was performed in June 2015 and comprised the following terms: “Muscle Stretching Exercises,” “Exercise, Muscle Stretching,” “Exercises, Muscle Stretching,” “Muscle Stretching Exercise,” “Range of Motion, Articular,” “Joint Range of Motion,” “Joint Flexibility,” “Flexibility, Joint,” “Range of Motion,” “Passive Range of Motion,” combined with a high sensitivity combination of words used in the search for randomized clinical trials (Robinson and Dickersin, 2002). We included publications in English, Spanish, and Portuguese. The complete search strategy used for the MEDLINE database is shown in Table 1 (Moher, Liberati, Tetzlaff, and Altman, 2009). Details for the other strategies used are available on request. 
-
-##### Studies selection 
-
-We included randomized clinical trials and controlled clinical trials that assessed the influence of static stretching (passive or active) compared to a control group (no intervention) and evaluated hamstring flexibility in healthy young adults. The following exclusion criteria were used: (1) samples comprised of people with any disease/dysfunction; (2) samples formed by athletes; (3) samples of people under 18 or over 40 years old; (4) non-application of static stretching; (5) no assessment of range of motion (ROM); and (6) contralateral leg used as control group. Two investigators, in duplicate, independently evaluated titles and abstracts of all articles identified by the search strategy. All abstracts that did not provide sufficient information regarding the inclusion and exclusion criteria were selected for full-text evaluation. In the second phase, the same reviewers independently evaluated the full-text articles and made their selection in accordance with the eligibility criteria. Disagreements between reviewers were solved by consensus or through a third person review. 
-
-##### Data extraction 
-
-Using standardized forms, the same two reviewers independently conducted data extraction with regard to the methodological characteristics of the studies, interventions, participants, and outcomes; disagreements were also solved by consensus. The main outcome extracted was ROM. 
-
-##### Quality assessment 
-
-Table 1. Complete search strategy used for MEDLINE. 
-
-- #1 (randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized controlled trials[mh] OR random allocation[mh] OR double-blind method[mh] OR single-blind method[mh] OR clinical trial[pt] OR clinical trials[mh] OR (“clinical trial”[tw]) OR ((singl*[tw] OR doubl*[tw] OR trebl*[tw] OR tripl*[tw]) AND (mask*[tw] OR blind* [tw])) OR (“latin square”[tw]) OR placebos[mh] OR placebo*[tw] OR random*[tw] OR research design[mh:noexp] OR follow-up studies [mh] OR prospective studies[mh] OR cross-over studies[mh] OR control*[tw] OR prospectiv*[tw] OR volunteer*[tw]) NOT (animal[mh] NOT human[mh]) 
-
-- #2 “Muscle Stretching Exercises”[Mesh] OR “Exercise, Muscle Stretching” OR “Exercises, Muscle Stretching” OR “Muscle Stretching Exercise” OR “Dynamic Stretching” OR “Stretching, Dynamic” OR “Isometric Stretching” OR “Stretching, Isometric” OR “Active Stretching” “Stretching, Active” OR “Static-Active Stretching” OR “Static Active Stretching” OR “Stretching, Static-Active” OR “Static Stretching” OR “Stretching, Static” OR “Passive Stretching” OR “Stretching, Passive” OR “Relaxed Stretching” OR “Stretching, Relaxed” OR “Static-Passive Stretching” OR “Static Passive Stretching” OR “Stretching, StaticPassive” OR “Ballistic Stretching” OR “Stretching, Ballistic” OR “Proprioceptive Neuromuscular Facilitation (PNF) Stretching” 
-
-> #3 “Range of Motion, Articular”[Mesh] OR “Joint Range of Motion” OR “Joint Flexibility” OR “Flexibility, Joint” OR “Range of Motion” OR “Passive Range of Motion” OR “muscle length 
-
-- #4 #1 AND #2 AND #3 
-
-Study quality assessment included adequate sequence generation, allocation concealment, blinding of outcome assessors, use of intention-to-treat analysis, and description of losses and exclusions. Use of intention-to-treat analysis was considered as a confirmation on study assessment that the number of participants randomized and the number analyzed were identical, except for patients lost to follow-up or who withdrew consent for study participation. Studies without a clear description of these characteristics were considered as unclear or not reporting the latter. The same two reviewers independently performed quality assessment. 
-
-##### Data synthesis and analysis 
-
-Pooled-effect estimates were obtained by post-intervention values. Calculations were performed using a randomeffects method. A p-value ≤ 0.05 and confidence interval of 95% (95% CI) were considered statistically significant. Statistical heterogeneity of the treatment effects among 
-
-
-
-[page 4]
-PHYSIOTHERAPY THEORY AND PRACTICE 3 
-
-studies was assessed using Cochran’s Q test and the inconsistency I<sup>2</sup> test, in which values above 25% and 50% were considered indicative of moderate and high heterogeneity, respectively (Higgins, Thompson, Deeks, and Altman, 2003). All analyses were conducted using Review Manager version 5.2. Because of the different techniques used to evaluate ROM, it was necessary to separate the studies for the meta-analysis according to three types of test: (1) passive straight leg raise; (2) passive knee extension (full knee extension as 0°); and (3) active knee extension (90° knee flexionas 0°).Weexplored heterogeneity between studies by re-running the meta-analyses removing one paper at a time to check whether some individual study explained heterogeneity. Sensitivity analysis could not be performed since we were unable to find subgroups of studies that could provide relevant clinical information within the analyses performed. 
-
-##### Risk of bias 
-
-Of the studies included in the systematic review, 26.3% presented an adequate sequence generation, none presented reported allocation concealment; 42.1% had blinded assessment of outcomes; 36.8% described losses to follow-up and exclusions; and 63.1% of the studies used the intention-to-treat principle for statistical analyses (Table 3). 
 
 ##### Effects of interventions 
 
@@ -147,7 +72,6 @@ Figure 1. Flowchart of studies included in the review.
 
 
 [page 5]
-4 D. M. MEDEIROS ET AL. 
 
 Table 2. Characteristics of included studies. 
 
@@ -210,7 +134,6 @@ Figure 2. Analysis of passive straight leg raise test.
 
 
 [page 6]
-PHYSIOTHERAPY THEORY AND PRACTICE 
 
 5 
 
@@ -239,7 +162,6 @@ Figure 4. Analysis of active knee extension test (knee flexion 90° considered a
 
 
 [page 7]
-6 D. M. MEDEIROS ET AL. 
 
 they state that what appears to be a mechanical change in muscular extensibility is in fact just an increased sensory capacity of tolerating the discomfort associated with stretching of tight muscles. Regardless of the mechanisms behind flexibility improvements, the benefits of both stretching and adequate flexibility seem to be real. 
 
@@ -256,12 +178,4 @@ meta-analysis compiling all studies, and it was not possible to carry out releva
 ##### Conclusion 
 
 This systematic review showed that static stretching was effective in increasing hamstring flexibility in healthy young adults, regardless of the stretching parameters used among the included studies. However, due to the methodological heterogeneity between the studies, it was not possible to determine optimal stretching training parameters. Future systematic reviews and studies should either analyze other stretching techniques or compare static stretching with other approaches to find out the most effective way to improve flexibility. 
-
-##### Acknowledgments 
-
-We thank the University for its assistance in obtaining the literature. 
-
-##### Declaration of interest 
-
-The authors have no conflicts of interest and did not receive financial assistance to perform this review. 
 

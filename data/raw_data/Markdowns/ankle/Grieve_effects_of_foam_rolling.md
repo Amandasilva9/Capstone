@@ -1,25 +1,10 @@
 [page 1]
-Journal of Bodywork & Movement Therapies 30 (2022) 53e59 
-
-
-
-Contents lists available at ScienceDirect 
-
-# Journal of Bodywork & Movement Therapies 
-
-journal homepage: www.elsevier.com/jbmt 
-
-
-
-Prevention and Rehabilitation 
 
 The effects of foam rolling on ankle dorsiflexion range of motion in healthy adults: A systematic literature review 
 
 
-
 ## Rob Grieve<sup>*</sup> , Brendan Byrne , Charlie Clements , Laura-Jayne Davies , Edward Durrant , Oliver Kitchen 
 
-School of Health and Social Wellbeing, Faculty of Health and Applied Sciences, University of the West of England (UWE), Glenside Campus, Blackberry Hill, Bristol, BS16 1DD, United Kingdom 
 
 |a r t i c l e<br>i n f o|a b s t r a c t|
 |---|---|
@@ -32,24 +17,15 @@ School of Health and Social Wellbeing, Faculty of Health and Applied Sciences, U
 
 Decreased ankle range of motion (ROM) may cause inefficient and undesirable movements increasing the prevalence of lowerlimb injuries, falls risk and negatively affecting balance (Somers et al., 2020; Menz et al., 2006; Mecagni et al., 2000). A significant cause of reduced ankle dorsiflexion ROM is decreased gastrocnemius and soleus muscle complex flexibility which is suggested to increase forefoot pressure during impact activities, leading to conditions such as plantar fasciitis and Achilles tendinopathy and predispose individuals towards lower extremity injuries (Grieve and Palmer, 2017; Baumbach et al., 2016; Knapik et al., 2019). 
 
-* Corresponding author. 
-
-E-mail address: Rob.Grieve@uwe.ac.uk (R. Grieve). 
 
 Static stretching is a commonly used to increase ankle dorsiflexion and reduce the occurrence of lower-limb injuries, through decreasing muscle-tendon unit stiffness and increasing stretch tolerance (Opplert and Babault, 2019; Behm and Chaouachi, 2011). The long-term application of static stretching is associated with increases in flexibility, performance and decreased delayed onset muscle soreness (Medeiros and Martini, 2018). However, the literature suggests that pre-activity static stretching may have a negative implication on muscle strength and function through decreasing maximal voluntary contraction (MVC) and peak torque (Maeda et al., 2017; Behm and Chaouachi, 2011). 
 
 A foam roller (FR) is a lightweight cylindrical foam-covered tube available in various sizes, surface textures and densities (Cheatham and Stull, 2018). Foam rolling (FR) is a form of self-myofascial release (SMR) used to increase muscle flexibility, reduce delayed onset muscle soreness and modulate autonomic nervous system 
 
-https://doi.org/10.1016/j.jbmt.2022.01.006 
-
-1360-8592/© 2022 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). 
-
 
 
 [page 2]
-Journal of Bodywork & Movement Therapies 30 (2022) 53e59 
 
-#### R. Grieve, B. Byrne, C. Clements et al. 
 
 activity (Beardsley and Skarabot,<sup>�</sup> 2015). Participants use their bodyweight to exert pressure between the device and selected musculature in a continuous motion, but its acute effects on range of motion are dependent on the volume, intensity and muscle groups selected (Smith et al., 2019). 
 
@@ -60,35 +36,6 @@ These SLRs highlight the range of benefits that FR can provide; however, a broad
 The aims of this review were to assess the effects of single and multiple FR interventions on ankle DF ROM in healthy adults and to appraise the quality of the included studies. 
 
 ### 2. Methods 
-
-### 2.1. Protocol and registration 
-
-This review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines (Moher et al., 2009) 
-
-### 2.2. Search strategy 
-
-An online database search was conducted using the medical databases; Medline, CINAHL, SPORTDiscus, EMBASE and AMED of studies published from 2010 to March 2020. Snowballing of reference lists from full-text studies was also used to ensure inclusion of all related papers. The following search terms were applied: “selfmyofascial release,” “foam roll*,” “self-massage,” “roller massage,” “self-soft tissue therapy,” AND “ankle dorsiflexion” OR “ankle range of movement/motion” OR “ankle ROM” OR “plantarflexors flexibility” OR “gastrocnemius/soleus flexibility” OR “triceps surae flexibility”. 
-
-### 2.3. Inclusion and exclusion criteria 
-
-Studies were included that met the following criteria: peer reviewed journal articles, published in English; RCT of either parallel or crossover design; RCT investigating FR and SMR focussing only on ankle joint ROM; RCT investigating FR and/or comparing to other interventions on ankle joint ROM and healthy recreationally active adults aged 18e60. Observational studies, grey literature or studies recruiting participants with injuries or comorbidities were excluded. 
-
-### 2.4. Study selection 
-
-Screening of the search results was initially performed 
-
-independently by each reviewer against the specific inclusion/ exclusion criteria. If reading the abstracts and titles was not enough to distinguish inclusion/exclusion, then the full text study was screened. Any discrepancies regarding the selection criteria were resolved through group discussion until an agreed decision was reached. Studies that did not meet the agreed inclusion criteria resulted in exclusion from the review. 
-
-### 2.5. Data extraction 
-
-A data extraction table was developed to record extracted data from each of the six included studies and included study design, participant demographics, intervention protocol, outcome measures and results. The data was extracted by two of the reviewers (CC, OK) and finalised by the remaining review authors. 
-
-### 2.6. Quality appraisal 
-
-The strengths and limitations of the included studies were determined using the Physiotherapy Evidence Database (PEDro) scale (https://pedro.org.au/). 
-
-The PEDro scale was used as it has demonstrated excellent inter and intra-rater reliability and validity in the assessment of RCT's (Cashin and McAuley, 2019). The PEDro scale, is an 11-item point score, with the first question being excluded from the overall rating as it relates to external validity, making the score out of 10. A study with a score of six or more indicates high quality, a score of four to five is moderate, and a score of below four indicates poor methodological quality (Maher et al., 2003; Hendricks et al., 2020). Each reviewer independently appraised the included papers using the PEDro scale and then compared the results in pairs before gathering as a group to discuss. To reduce researcher bias, the group agreed not to consult the PEDro database prior to appraising the quality of each selected study (Table 2). 
-
 ### 3. Results 
 
 ### 3.1. Identification of studies 
@@ -99,14 +46,11 @@ The initial search of the databases yielded 32 articles. After reviewing the abs
 
 The six included studies were published between 2014 and 2020. The characteristics of the included studies are shown in Table 1. The six included studies were all RCTS, with three of crossover design and all included healthy asymptomatic university students. The sample size ranged from between 14 and 44 participants, with a mean age range between 19.5 and 26.1 years old. Five studies adopted similar FR protocols, with participants seated on the floor, using their arms for motion and bodyweight to exert pressure onto the FR. Whereas for Halperin et al. (2014), participants were seated in a chair with pressure applied to the calf muscles using their arms. Ankle DF ROM was assessed by weight bearing standing lunge in 5/6 studies with passive ankle DF ROM measured in only one study (Yoshimura et al., 2019). Five studies looked exclusively at the immediate short-term effects (<60 min post-intervention) of FR on ankle DF ROM dorsiflexion, except for Smith et al. (2019), who investigated both short and long-term effects over seven weeks. 
 
-54 
 
 
 
 [page 3]
-R. Grieve, B. Byrne, C. Clements et al. 
 
-Journal of Bodywork & Movement Therapies 30 (2022) 53e59 
 
 
 
@@ -126,14 +70,11 @@ In a crossover RCT design, Yoshimura et al. (2019) found a significant (p < 0.01
 
 Three studies compared the effects of FR and SMR to either static or dynamic stretching. Two studies compared the effects of FR to static stretching (Halperin et al., 2014; Smith et al., 2019). Halperin et al. (2014) found a significant increase in ankle DF ROM immediately (p ¼ 0.004) and 10 min post-intervention (p ¼ 0.006) with both FR and static stretching with a medium effect size (0.24 and 0.26). The FR intervention increased, and static stretching decreased maximal voluntary contraction (MVC) force output, during the posttest measurements, with a significant difference occurring between the two interventions at 10 min post-test. Smith et al. (2019) compared the acute (short term) and long-term changes in ankle DF ROM, between three intervention groups, FR, static stretching and a combination of FR and static stretching. However, no statistically significant effects were seen at baseline/week one. In the Somers et al. (2020) RCT, participants were allocated into one of 
 
-55 
 
 
 
 [page 4]
-R. Grieve, B. Byrne, C. Clements et al. 
 
-Journal of Bodywork & Movement Therapies 30 (2022) 53e59 
 
 Table 1 
 
@@ -170,14 +111,11 @@ The mean PEDro score (Table 2) for each study was 6/10 (range: 5e7 points) and o
 
 Four of the six included studies did not blind participants, assessors and therapists, except for Somers et al. (2020) for assessor blinding and allocation concealment and Smith et al. (2019) for 
 
-56 
 
 
 
 [page 5]
-R. Grieve, B. Byrne, C. Clements et al. 
 
-Journal of Bodywork & Movement Therapies 30 (2022) 53e59 
 
 Table 2 
 
@@ -224,14 +162,11 @@ Linked to the above described short term effects of ankle DF ROM after a single 
 
 As described above, Smith et al. (2019) was the only study to investigate the short and long-term effect of FR twice weekly for six weeks on ankle DF ROM. Overall, Smith et al. (2019) reported a 25.1% increase in ankle DF ROM after FR and showed long term effects after seven weeks in recreationally active university students. They identified a 25.1% increase (p ¼ 0.003) within the FR group from baseline measurements that was not statistically significant from the between group improvements in ROM induced by static stretching alone or FR and static stretching, but higher than those induced from just static stretching. Only one previous study by Aune et al. (2018) examined the long-term effects of FR exclusive to ankle dorsiflexion ROM; they reported conflicting findings with a non-significant increase (p ¼ 0.090 or 7%) following four weeks of 3 � 60 s of the dominant leg. Whilst an additional study by Hodgson et al. (2018) also reported a four-week FR programme of the quadriceps and hamstrings three or six times weekly failed to improve knee ROM. Both studies with non-significant findings 
 
-57 
 
 
 
 [page 6]
-Journal of Bodywork & Movement Therapies 30 (2022) 53e59 
 
-#### R. Grieve, B. Byrne, C. Clements et al. 
 
 performed their interventions for four weeks instead of six which may explain why their participants exhibited less of a physiological change in ROM. Yet research evidence has found long-term ROM improves following four weeks of intensive flexibility training, whilst a six-week programme of static stretching significantly increased (p < 0.0001) hamstring flexibility (Brusco et al., 2019). Therefore, due to the lack of evidence coupled with the inconsistency in findings surrounding the long-term effects FR has upon ROM; further research is warranted to determine the optimal frequency/volume to elicit significant physiological adaptations in ROM. 
 
@@ -255,10 +190,6 @@ The reviewers excluded grey literature from this review. The use of grey literat
 
 synthesis of findings may be less thorough. Furthermore, the risk of bias of each study was not assessed. Using a risk-of-bias tool would have helped document potential flaws and contribute to the certainty of the evidence found while avoiding misleading conclusions (Sterne et al., 2019). 
 
-### 4.5. Recommendations for future research 
-
-Due to the variation in methodology and lack of standardisation when administering FR, future studies should examine the optimal FR application and intervention for eliciting short and long-term improvements in ankle DF ROM. Future studies, should also attempt to conceal allocation towards treatment through blinding and control the application of both pressure and speed exerted onto the FR to improve the internal validity of findings. Further research is needed to examine the long-term effects FR has upon ankle DF ROM because of the limited number and conflicting results amongst studies. Finally, the sample recruited across all six studies of young healthy university students, may have reduced the external validity of the included research. Therefore, future research should investigate the physiological effects FR has upon DF ROM in participants with previous ankle or lower-limb injuries, athletes and elderly participants to increase the clinical impact and significance. 
-
 ### 5. Conclusion 
 
 In conclusion, consistent with previous SLRs and meta-analysis, the findings of this review suggest there is strong evidence for the short-term increase in ankle DF ROM after a single application of FR in a healthy population. Furthermore, some of the evidence suggests that FR may be a more suitable alternative to static stretching prior to athletic activity, because it may not reduce calf complex force output. 
@@ -278,19 +209,4 @@ All six studies demonstrated methodological flaws, although overall were conside
 - This review suggests that conclusions on long-term effects cannot be drawn due to a continued lack of evidence in available literature. 
 
 This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors. 
-
-### CRediT authorship contribution statement 
-
-Rob Grieve: Conceptualization, Supervision, Writing e review & editing. Brendan Byrne: Investigation, Writing e original draft. 
-
-58 
-
-
-
-[page 7]
-R. Grieve, B. Byrne, C. Clements et al. 
-
-Journal of Bodywork & Movement Therapies 30 (2022) 53e59 
-
-Charlie Clements: Investigation, Writing e original draft. LauraJayne Davies: Investigation, Writing e original draft. Edward Durrant: Investigation, Writing e original draft. Oliver Kitchen: Investigation, Writing e original draft. 
 

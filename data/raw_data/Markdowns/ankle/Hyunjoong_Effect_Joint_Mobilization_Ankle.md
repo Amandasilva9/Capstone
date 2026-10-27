@@ -1,35 +1,11 @@
 [page 1]
-Journal of **_Functional Morphology and Kinesiology_** 
-
-
-
-
-
 _Review_ 
 
-# **Effect of Joint Mobilization in Individuals with Chronic Ankle Instability: A Systematic Review and Meta-Analysis Hyunjoong Kim**<sup>**1,**</sup> *** and Seoyoung Moon**<sup>**2**</sup> 
-
-- 1 Neuromusculoskeletal Science Laboratory, Gwangju 62287, Korea 
-
-- 2 Department of Research, Good Morning Nursing Hospital, Gwangju 61102, Korea 
-
-- Correspondence: hyun-joongkim@nmslab.org 
+# **Effect of Joint Mobilization in Individuals with Chronic Ankle Instability: A Systematic Review and Meta-Analysis Hyunjoong Kim**<sup>**1
 
 **Abstract:** Sensorimotor and range of motion deficits due to chronic ankle instability (CAI) are abnormalities of the movement system that make postural control difficult. This review aimed to quantify the effect of joint mobilization on the range of motion, dynamic balance, and function in individuals with CAI. Randomized controlled trials in which joint mobilization was performed in individuals with CAI were searched for in five international databases (CENTRAL, CINAHL, Embase, MEDLINE, PEDro). Qualitative and quantitative analyses were performed using the risk of bias tool and RevMan 5.4 provided by the Cochrane Library. Nine studies with 364 individuals with CAI were included in this study. This meta-analysis reported that joint mobilization showed significant improvement in the dorsiflexion range of motion (standardized mean difference [SMD] = 1.02, 95% confidence interval [CI]: 0.41 to 1.63) and dynamic balance (SMD = 0.49, 95% CI: 0.06 to 0.78) in individuals with CAI. However, there was no significant improvement in function (patient-oriented outcomes) (SMD = 0.76, 95% CI: _−_ 0.00 to 1.52). For individuals with CAI, joint mobilization has limited function but has positive benefits for the dorsiflexion range of motion and dynamic balance. 
 
 **Keywords:** ankle injury; manual therapy; physical therapy; postural balance; joint range of motion 
-
-**Citation:** Kim, H.; Moon, S. Effect of Joint Mobilization in Individuals with Chronic Ankle Instability: A Systematic Review and MetaAnalysis. _J. Funct. Morphol. Kinesiol._ **2022** , _7_ , 66. https://doi.org/ 10.3390/jfmk7030066 
-
-Academic Editor: Helmi Chaabene 
-
-Received: 7 August 2022 Accepted: 30 August 2022 Published: 6 September 2022 
-
-**Publisher’s Note:** MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
-
-
-
-**Copyright:** © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
 
 ## **1. Introduction** 
 
@@ -41,18 +17,9 @@ According to the clinical practice guidelines of Martin et al. [5], therapeutic 
 
 Among the various treatments for CAI, we focused on JM as the core treatment. Therefore, in this review, randomized controlled trials (RCTs) were synthesized to investigate the effect of JM on individuals with CAI. A systematic review and meta-analysis 
 
-_J. Funct. Morphol. Kinesiol._ **2022** , _7_ , 66. https://doi.org/10.3390/jfmk7030066 
-
-https://www.mdpi.com/journal/jfmk 
-
-
 
 [page 2]
-_J. Funct. Morphol. Kinesiol._ **2022** , _7_ , 66 
 
-2 of 10 
-
-were performed with qualitative and quantitative analysis on the effect of JM through the synthesized data. 
 
 ## **2. Materials and Methods** 
 
@@ -61,32 +28,6 @@ were performed with qualitative and quantitative analysis on the effect of JM th
 This review is a systematic review and meta-analysis of randomized controlled trials (RCTs) in which JM was performed on CAI individuals. The systematic review was prepared according to the Preferred Reporting Items for Systematic Reviews and MetaAnalysis (PRISMA) guidelines. Before the review, the protocol was registered in the Prospective Register of Systematic Reviews (PROSPERO) (No.: CRD42020220149). 
 
 ## _2.2. Search Strategy and Selection of Studies_ 
-
-## 2.2.1. Inclusion Criteria 
-
-1. Participants 
-
-Participants were individuals with CAI enrolled in RCTs. 
-
-2. Intervention 
-
-Studies in which JM was applied in manual therapy were included. 
-
-3. Comparisons 
-
-To determine the effectiveness of JM alone, interventions without JM were included if no interventions were provided or if there were a combined intervention. 
-
-4. Outcomes 
-
-For quantitative comparison, we included outcome measures with three or more common variables. 
-
-5. Types of studies 
-
-In this review, we included RCTs extracted from the database. 
-
-## 2.2.2. Exclusion Criteria 
-
-Studies that could not compare the effects of JM alone, studies prior to 2013, and studies other than English were excluded. 
 
 ## 2.2.3. Literature Search Strategy 
 
@@ -101,9 +42,7 @@ For the studies extracted from the database, duplicate data were removed using a
 
 
 [page 3]
-_J. Funct. Morphol. Kinesiol._ **2022** , _7_ , 66 
 
-3 of 10 
 
 ## 2.2.5. Quality Assessment 
 
@@ -128,9 +67,7 @@ A total of 81 papers were searched through five electronic databases. For duplic
 
 
 [page 4]
-_J. Funct. Morphol. Kinesiol._ **2022** , _7_ , 66 
 
-4 of 10 
 
 ## _3.2. Methodological Quality Assessment_ 
 
@@ -149,9 +86,7 @@ In the included nine RCTs, 364 individuals with CAI participated. The interventi
 
 
 [page 5]
-_J. Funct. Morphol. Kinesiol._ **2022** , _7_ , 66 
 
-5 of 10 
 
 **Table 1.** Characteristics of included studies. 
 
@@ -174,9 +109,7 @@ AOFAS, American orthopedic foot and ankle society; ATE, ankle therapeutic exerci
 
 
 [page 6]
-_J. Funct. Morphol. Kinesiol._ **2022** , _7_ , 66 
 
-6 of 10 
 
 ## _3.4. Effectiveness of Joint Mobilization on Ankle Dorsiflexion Range of Motion_ 
 
@@ -197,9 +130,7 @@ Six papers were selected from the included nine RCTs. No significant improvement
 
 
 [page 7]
-_J. Funct. Morphol. Kinesiol._ **2022** , _7_ , 66 
 
-7 of 10 
 
 
 
@@ -208,10 +139,6 @@ _J. Funct. Morphol. Kinesiol._ **2022** , _7_ , 66
 
 
 **Figure 5.** Forest plot on the effect of joint mobilization on function. Beazell et al. 2012(a) [18], proximal tibiofibular joint mobilization; Beazell, et al. 2012(b) [18], distal tibiofibular joint mobilization. CruzDíaz et al. 2015 [19], Cruz-Díaz et al. 2020 [17], Bolton et al. 2020 [23], McKeon and Wikstrom 2016 [21], Shin et al. 2020 [20]. 
-
-## _3.7. Publication Bias_ 
-
-In this review, nine studies were synthesized for systematic review and meta-analysis. Since fewer than 10 studies were synthesized according to the recommendations of the Cochrane Review, no publication bias was reported [27]. 
 
 ## **4. Discussion** 
 
@@ -222,9 +149,7 @@ The results analyzed in this review showed significant improvements in dorsiflex
 
 
 [page 8]
-_J. Funct. Morphol. Kinesiol._ **2022** , _7_ , 66 
 
-8 of 10 
 
 be sensitive to detecting deficiencies in CAI, as reported in a systematic review of CAI in 2008 [28]. Nevertheless, some changes were observed in the results of this review (standardized mean difference = 0.76, 95% confidence interval: _−_ 0.00 to 1.52). In terms of DFROM and dynamic balance, significant improvements were also found in both JM with and without voluntary movement in the subgroup analysis. Although the differences between the studies were not confirmed, interpretation through statistical significance suggests that JM with voluntary movement may have potential advantages in dynamic balance. 
 
@@ -238,20 +163,4 @@ Our systematic review and meta-analysis of RCTs had the following limitations: s
 
 For individuals with chronic ankle instability, joint mobilization has a limited function (patient-oriented outcome) but has positive benefits in the immediate effects on dorsiflexion and dynamic balance without any difference in voluntary movement with or without. 
 
-**Author Contributions:** Conceptualization, H.K.; methodology, H.K. and S.M.; software, H.K.; formal analysis, H.K.; investigation, H.K. and S.M.; resources, H.K. and S.M.; data curation, H.K. and S.M.; writing—original draft preparation, H.K.; writing—review and editing, H.K. All authors have read and agreed to the published version of the manuscript. 
-
-**Funding:** This research received no external funding. 
-
-**Institutional Review Board Statement:** Not applicable. **Informed Consent Statement:** Not applicable. 
-
-**Data Availability Statement:** Not applicable. 
-
-**Conflicts of Interest:** The authors declare no conflict of interest. 
-
-
-
-[page 9]
-_J. Funct. Morphol. Kinesiol._ **2022** , _7_ , 66 
-
-9 of 10 
 

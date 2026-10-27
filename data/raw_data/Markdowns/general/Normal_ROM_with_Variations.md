@@ -1,7 +1,5 @@
 [page 1]
-Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy - MystPhysio 
 
-10/6/26, 1:17 PM 
 
 
 
@@ -11,20 +9,7 @@ EXERCISE THERAPY
 
 Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy 
 
-
-
-**Raushan Kumar Last Updated:** August 09, 2026 
-
-Educational & Medical Notice: This guide is strictly for academic learning and educational purposes. It does not constitute medical advice, diagnosis, or clinical 
-
-https://www.mystphysio.com/normal-joint-range-of-motion-variations/#:~:text=The American Academy of Orthopaedic Surgeons (AAOS),Internal rotation%3A 0-7… 
-
-1/14 
-
-
-
 [page 2]
-10/6/26, 1:17 PM 
 
 Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy - MystPhysio treatment protocol. Always consult a qualified, licensed healthcare provider regarding any medical condition or rehabilitation plan. Read our full Medical Disclaimer. 
 
@@ -42,16 +27,12 @@ Range of motion describes how far a joint can move in a specific direction. Ever
 
 There are two types: 
 
-https://www.mystphysio.com/normal-joint-range-of-motion-variations/#:~:text=The American Academy of Orthopaedic Surgeons (AAOS),Internal rotation%3A 0-7… 
 
-2/14 
 
 
 
 [page 3]
-Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy - MystPhysio 
 
-10/6/26, 1:17 PM 
 
 Active ROM (AROM): The movement you produce yourself using your own muscles. 
 
@@ -71,16 +52,12 @@ The American Academy of Orthopaedic Surgeons (AAOS) published widely used normat
 
 Below are commonly cited normative values from AAOS guidelines and supporting literature. These are adult reference ranges under standard conditions. 
 
-https://www.mystphysio.com/normal-joint-range-of-motion-variations/#:~:text=The American Academy of Orthopaedic Surgeons (AAOS),Internal rotation%3A 0-7… 
 
-3/14 
 
 
 
 [page 4]
-Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy - MystPhysio 
 
-10/6/26, 1:17 PM 
 
 ## Shoulder 
 
@@ -122,16 +99,12 @@ Flexion: 0-120° (with knee bent); up to 90° with knee straight
 
 Extension: 0-30° 
 
-https://www.mystphysio.com/normal-joint-range-of-motion-variations/#:~:text=The American Academy of Orthopaedic Surgeons (AAOS),Internal rotation%3A 0-7… 
 
-4/14 
 
 
 
 [page 5]
-Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy - MystPhysio 
 
-10/6/26, 1:17 PM 
 
 - Abduction (leg out to side): 0-45° 
 
@@ -163,16 +136,12 @@ Restricted ankle dorsiflexion, below 15°, is one of the more clinically signifi
 
 ADV ER T ISEMEN T 
 
-5/14 
 
-https://www.mystphysio.com/normal-joint-range-of-motion-variations/#:~:text=The American Academy of Orthopaedic Surgeons (AAOS),Internal rotation%3A 0-7… 
 
 
 
 [page 6]
-Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy - MystPhysio 
 
-10/6/26, 1:17 PM 
 
 ## Cervical Spine (Neck) 
 
@@ -204,16 +173,12 @@ ROM generally decreases with age. A systematic review published in the Journal o
 
 ## Sex Differences 
 
-https://www.mystphysio.com/normal-joint-range-of-motion-variations/#:~:text=The American Academy of Orthopaedic Surgeons (AAOS),Internal rotation%3A 0-7… 
 
-6/14 
 
 
 
 [page 7]
-Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy - MystPhysio 
 
-10/6/26, 1:17 PM 
 
 Females tend to have greater ROM than males across most joints, particularly at the hip and spine. Hormonal influences, particularly the role of relaxin, contribute to greater ligamentous laxity. This difference is most pronounced in the reproductive years. 
 
@@ -229,16 +194,12 @@ Minor asymmetry between sides is expected. Dominant-side shoulders in throwing a
 
 ADV ER T ISEMEN T 
 
-https://www.mystphysio.com/normal-joint-range-of-motion-variations/#:~:text=The American Academy of Orthopaedic Surgeons (AAOS),Internal rotation%3A 0-7… 
 
-7/14 
 
 
 
 [page 8]
-Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy - MystPhysio 
 
-10/6/26, 1:17 PM 
 
 ## Activity Level and Training History 
 
@@ -262,16 +223,12 @@ ROM measurement is never interpreted in isolation. A good clinician reads the nu
 
 ROM assessment serves several purposes in physiotherapy: 
 
-https://www.mystphysio.com/normal-joint-range-of-motion-variations/#:~:text=The American Academy of Orthopaedic Surgeons (AAOS),Internal rotation%3A 0-7… 
 
-8/14 
 
 
 
 [page 9]
-Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy - MystPhysio 
 
-10/6/26, 1:17 PM 
 
 - Establishing a baseline at first assessment 
 
@@ -287,31 +244,18 @@ Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physio
 
 Reliable ROM measurement requires consistent technique. Small variations in patient positioning, stabilisation, and goniometer placement can meaningfully affect recorded angles. Inter-rater reliability (consistency between different clinicians) is generally better at the hip and knee than at the shoulder or spine. 
 
-# Frequently Asked Questions (FAQs) 
-
-|1. What is a normal range of motion for the knee?|
-|---|
-|2. Can range of motion improve with physiotherapy?|
-|3. Is it normal for one side to be more flexible than the other?|
-|4. At what age does joint flexibility begin to decline?|
-|5. How is range of motion measured in a physiotherapy clinic?|
-
 
 
 # Conclusions 
 
 Normal joint range of motion is best understood as a window, not a single number. Population averages provide a useful clinical reference, but healthy joints vary 
 
-https://www.mystphysio.com/normal-joint-range-of-motion-variations/#:~:text=The American Academy of Orthopaedic Surgeons (AAOS),Internal rotation%3A 0-7… 
 
-9/14 
 
 
 
 [page 10]
-Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy - MystPhysio 
 
-10/6/26, 1:17 PM 
 
 considerably across individuals, shaped by age, sex, activity history, body structure, and natural anatomical difference. 
 

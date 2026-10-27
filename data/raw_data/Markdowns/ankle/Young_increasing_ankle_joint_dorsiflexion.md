@@ -1,15 +1,6 @@
 [page 1]
-Young et al. Journal of Foot and Ankle Research 2013, 6:46 http://www.jfootankleres.com/content/6/1/46 
-
-JOURNAL OF FOOT AND ANKLE RESEARCH 
-
-<u>Open Access</u> 
-
-## <u>REVIEW</u> 
 
 # Interventions for increasing ankle joint dorsiflexion: a systematic review and meta-analysis 
-
-Rebekah Young<sup>1</sup> , Sheree Nix<sup>1,2</sup> , Aaron Wholohan<sup>1</sup> , Rachael Bradhurst<sup>3</sup> and Lloyd Reed<sup>1,2*</sup> 
 
 ### Abstract 
 
@@ -27,24 +18,14 @@ Keywords: Ankle joint, Range of motion, Non-surgical intervention, Stretching, B
 
 Ankle joint equinus occurs when there is reduced dorsiflexion range of motion (ROM) available at the ankle. Studies have shown that the presence of equinus deformity may cause healthy individuals to adopt compensatory gait patterns such as genu recurvatum, early heel lift and excessive subtalar joint pronation [1,2] in addition to altering their biomechanical function in gait. Altered biomechanics may predispose individuals to the development of pathologies such as metatarsalgia, ankle sprain and medial tibial traction periostitis as well as Achilles tendinopathy, plantar fasciopathy and gastrocnemius strain in sporting 
 
-> * Correspondence: l.reed@qut.edu.au 
-
-> 1School of Clinical Sciences, Queensland University of Technology, Kelvin Grove, Brisbane QLD 4059, Australia 
-
-> 2Institute of Health and Biomedical Innovation, Queensland University of Technology, Kelvin Grove, QLD 4059, Australia Full list of author information is available at the end of the article 
-
 populations [1-4]. Restricted ROM at the ankle joint has been associated with poor balance and an increase in falls risk in the elderly [5] and furthermore, as equinus increases total plantar pressure acting on the forefoot, it has been linked to a prolongation of the healing time of plantar forefoot ulcers in diabetic patients [6]. 
 
 There is lack of consensus within the literature regarding the degree of restriction that defines an equinus deformity [7]. Traditionally, less than 10 degrees of dorsiflexion has been cited as an indicator of ankle equinus [8], however, less than zero degrees and less than five degrees are also commonly used markers in biomechanics and sports medicine studies [9,10]. Equinus may result from shortening or contracture of the gastrocnemius or soleus muscles, bony restriction, structural abnormalities of the forefoot, or pathologies causing joint stiffness [7]. Methods of assessment for ankle joint equinus are inconsistent in the literature. 
 
-> © 2013 Young et al.; licensee BioMed Central Ltd. This is an open access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
-
 
 
 [page 2]
-Young et al. Journal of Foot and Ankle Research 2013, 6:46 http://www.jfootankleres.com/content/6/1/46 
 
-Page 2 of 10 
 
 Ankle joint ROM has been assessed in weight-bearing and non-weightbearing positions with the knee flexed or extended [11]. Various instruments such as goniometers, inclinometers and dynamometers, as well as different anatomical landmarks have been used to quantify the ROM available [7]. 
 
@@ -52,48 +33,10 @@ Clinicians screen for ankle joint equinus routinely as part of a lower limb biom
 
 ### Methods 
 
-#### Search strategy and study inclusion 
-
-Electronic databases were searched without date or language delimiters (Embase, Medline, Cochrane and CINAHL) using keyword searches, as follows: 
-
-(Ankle AND equinus) OR (ankle AND joint AND range AND motion) OR (ankle AND dorsiflex* AND range AND motion) OR (ankle AND rocker) AND 
-
-(dorsiflex* AND lunge AND test) OR treat* OR assess* OR measure* OR interven* OR clinical OR apparatus OR tool OR device OR instrument 
-
-The only search parameter applied was the human delimiter. Titles and abstracts were screened for relevance to the research question, and full text evaluations were performed on potentially relevant studies using predetermined criteria. A hand search of the reference lists of all relevant studies was undertaken to identify further eligible studies. Studies were selected for inclusion in this review based on the following criteria: 
-
-- Included a sample of healthy, human participants; 
-
-- Assessed a conservative (non-surgical) intervention for increasing ankle joint dorsiflexion; and 
-
-- Measured and reported passive ankle joint dorsiflexion values before and after intervention. 
-
-Studies were excluded based on the following criteria: 
-
-- Included participants with spastic equinus, talipes equinovarus or other pathology; 
-
-- Included participants with a history of ankle joint injury; 
-
-- Assessed surgical interventions. 
-
-#### Quality assessment 
-
-Two authors (RY, AW) independently assessed the included studies against a modified PEDro scale (Table 1) [35]. The two authors met to discuss the PEDro scale rating system prior to undertaking quality assessments in order to ensure clear understanding of assessment criteria. A consensus meeting resolved disagreements between assessors and a third party was available to provide mediation if required. Consensus on all criteria was reached without need for third party mediation. 
-
-The modified PEDro scale featured three additional assessment criteria taken from Law et al. [36]. The additional criteria assessed whether the sample size was justified and whether the outcome measures used were both reliable and valid. The assessment scale featured 14 criterion designed to assess the methodological quality of randomised and non-randomised trials. Trials were awarded a ‘yes’ or ‘no’ rating for each criteria and ‘yes’ responses were then summed to produce an overall quality score for each trial assessed. For consistency, any criteria not directly reported by the authors of each trial were considered to have been unfulfilled and subsequently were awarded a ‘no’ rating. 
-
-#### Data extraction and analysis 
-
-Data extraction was performed by a single investigator (RY), who recorded details regarding study design, sample characteristics, outcome measures, interventions and follow-up periods. In order to calculate effect sizes, means and standard deviations (SD) were obtained wherever possible for each study group. In two studies [15,25] a smaller reported value for ankle ROM indicated greater dorsiflexion, so in these cases the means were subtracted from 90 degrees prior to analysis to allow for standardisation against other presented results. Standardised mean differences (SMDs) and 95% confidence intervals (CIs) were calculated, based on the difference between treatment and control groups at the longest period of follow-up. Where studies did not include a comparison group, SMDs were not calculated. SMDs were considered statistically significant if the 95% CI did not contain zero, and interpretation of the magnitude of SMDs was based on previous guidelines [37]: small effect ≥ 0.2, medium effect ≥ 0.5, large effect ≥ 0.8. Positive effect sizes indicated greater increases in ankle joint dorsiflexion in the treatment group compared to 
-
-
 
 [page 3]
-Young et al. Journal of Foot and Ankle Research 2013, 6:46 
 
-Page 3 of 10 
 
-http://www.jfootankleres.com/content/6/1/46 
 
 #### Table 1 Results from quality assessment (23 studies) 
 
@@ -159,16 +102,10 @@ quality score and sample size, and symmetry of these plots was assessed visually
 
 ### Results 
 
-#### Included studies 
-
-The search strategy returned 3,362 studies total from five databases (Figure 1). A further two potentially relevant studies were sourced through expert consultation. After initial screening to exclude irrelevant studies and to remove duplicates, 541 studies remained for detailed evaluation. The abstracts were read in order to select 
-
 
 
 [page 4]
-Young et al. Journal of Foot and Ankle Research 2013, 6:46 http://www.jfootankleres.com/content/6/1/46 
 
-Page 4 of 10 
 
 
 
@@ -177,11 +114,8 @@ Figure 1 Selection process for study inclusion.
 
 
 [page 5]
-Young et al. Journal of Foot and Ankle Research 2013, 6:46 
 
-Page 5 of 10 
 
-http://www.jfootankleres.com/content/6/1/46 
 
 those that were directly relevant to this review. Three hundred and fifty-six studies were excluded based on abstract screening, and full text evaluations were performed on the remaining 185 studies. Twenty-three studies including a total of 734 participants satisfied the inclusion criteria for this review. Selected characteristics of included studies are presented in Additional file 1. 
 
@@ -216,11 +150,8 @@ One included study investigated the effect of trigger point therapy on ankle joi
 
 
 [page 6]
-Young et al. Journal of Foot and Ankle Research 2013, 6:46 
 
-Page 6 of 10 
 
-http://www.jfootankleres.com/content/6/1/46 
 
 Table 2 Comparison of conservative interventions for increasing ankle joint dorsiflexion range of motion 
 
@@ -271,11 +202,8 @@ Table 2 Comparison of conservative interventions for increasing ankle joint dors
 
 
 [page 7]
-Young et al. Journal of Foot and Ankle Research 2013, 6:46 
 
-Page 7 of 10 
 
-http://www.jfootankleres.com/content/6/1/46 
 
 Table 2 Comparison of conservative interventions for increasing ankle joint dorsiflexion range of motion (Continued) 
 
@@ -320,11 +248,8 @@ There is some evidence to suggest that interventions such as stretching and the 
 
 
 [page 8]
-Young et al. Journal of Foot and Ankle Research 2013, 6:46 
 
-Page 8 of 10 
 
-http://www.jfootankleres.com/content/6/1/46 
 
 Table 3 Synthesis of evidence for stretching, mobilisation, manipulation and soleal trigger point therapy 
 
@@ -358,9 +283,7 @@ The majority of studies evaluated within this review reported on the short-term 
 
 
 [page 9]
-Young et al. Journal of Foot and Ankle Research 2013, 6:46 http://www.jfootankleres.com/content/6/1/46 
 
-Page 9 of 10 
 
 future research investigating the long term effects of conservative interventions to better inform clinical practice. 
 
@@ -377,34 +300,3 @@ Further research needs to be undertaken in the future to investigate the functio
 ### Conclusion 
 
 There is some evidence to support the efficacy of stretching with or without the concurrent use of ultrasound, diathermy, diathermy and ice, heel raise exercises or warm up in increasing dorsiflexion range of motion at the ankle joint in healthy individuals. However, there is insufficient evidence to suggest that soleal trigger point therapy, ankle joint mobilisation or manipulation therapy are associated with statistically significant gains in ankle dorsiflexion range of motion. Current evidence is limited by inconsistent assessment methods and definitions of ankle equinus, as well as poor methodological rigor. Further research is required to investigate which conservative interventions are most effective for managing healthy individuals with ankle restricted ankle dorsiflexion range of motion. 
-
-### Additional file 
-
-Additional file 1: Selected characteristics of included studies (23 studies). 
-
-|Abbreviations|
-|---|
-
-
-
-ROM: Range of motion; SD: Standard deviation; SMD: Standardised mean difference; CI: Confidence interval. 
-
-##### Competing interests 
-
-The authors declare that they have no competing interests. 
-
-##### Authors’ contributions 
-
-RY performed the data searches, performed all quality assessments and data extractions and drafted the manuscript. SN was involved with study design, performed meta-analysis and data calculations and revised the manuscript. AW performed quality assessments and assisted with manuscript revisions. LR was involved with study conception and design, and assisted with manuscript revisions. RB was involved with the study conception and design and assisted with manuscript revisions. All authors read and approved the final manuscript. 
-
-##### Author details 
-
-> 1School of Clinical Sciences, Queensland University of Technology, Kelvin Grove, Brisbane QLD 4059, Australia.<sup>2</sup> Institute of Health and Biomedical 
-
-
-
-[page 10]
-Young et al. Journal of Foot and Ankle Research 2013, 6:46 http://www.jfootankleres.com/content/6/1/46 
-
-Page 10 of 10 
-

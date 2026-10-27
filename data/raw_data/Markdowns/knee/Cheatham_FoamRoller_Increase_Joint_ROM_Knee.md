@@ -5,7 +5,6 @@
 
 **THE EFFECTS OF SELF-MYOFASCIAL RELEASE USING A FOAM ROLL OR ROLLER MASSAGER ON JOINT RANGE OF MOTION, MUSCLE RECOVERY, AND PERFORMANCE: A SYSTEMATIC REVIEW** 
 
-**Scott W. Cheatham, PT, DPT, OCS, ATC, CSCS**<sup>**1**</sup> **Morey J. Kolber, PT, PhD, OCS, CSCS*D**<sup>**2**</sup> **Matt Cain, MS, CSCS**<sup>**1**</sup> **Matt Lee, PT, MPT, CSCS**<sup>**3**</sup> 
 
 # **ABSTRACT** 
 
@@ -23,17 +22,6 @@
 
 **_Level of Evidence:_** 2c 
 
-### **CORRESPONDING AUTHOR** 
-
-> 1 California State University Dominguez Hills, Carson, CA, USA 
-
-> 2 Nova Southeastern University, Ft. Lauderdale, FL, USA 
-
-> 3 Ohlone College, Newark, CA, USA 
-
-Scott W. Cheatham, PT, DPT, OCS, ATC, CSCS California State University Dominguez Hills 1000 E. Victoria Street, Carson, California 90747 (310) 892-4376 E-mail: Scheatham@csudh.edu 
-
-_The International Journal of Sports Physical Therapy | Volume 10, Number 6 | November 2015 | Page 827_ 
 
 
 
@@ -50,25 +38,8 @@ Currently, there are no systematic reviews that have specifically appraised the 
 
 ### **Methods** 
 
-### **_Search Strategy_** 
-
-A systematic search strategy was conducted according the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines for reporting systematic reviews (Figure 2).<sup>15,16</sup> The following databases were searched prior to April 2015: PubMed, PEDro, Science Direct, and EBSCOhost. A direct search of known journals was also conducted to identify potential publications. The search terms included individual or a combination of the following: self; myofascial; release; foam roll; massage; roller; athletic; performance; muscle; strength; force production; range of motion; fatigue; delayed onset of muscle soreness. Self-myofascial release was operationally defined as a self-massage technique using a device such as a foam roll or roller massager. 
-
-### **_Study Selection_** 
-
-Two reviewers (MC and ML) independently searched the databases and selected studies. A third independent reviewer (SC) was available to resolve any disagreements. Studies considered for inclusion met 
-
-_The International Journal of Sports Physical Therapy | Volume 10, Number 6 | November 2015 | Page 828_ 
-
-
 
 [page 3]
-the following criteria:1) Peer reviewed, english language publications 2) Investigations that measured the effects of SMR using a foam roll or roller massager on joint ROM, acute muscle soreness, DOMS, and muscle performance 3) Investigations that compared an intervention program using a foam roll or roller massager to a control group 4) Investigations that compared two intervention programs using a foam roll or roller massager. Studies were excluded if they were non-english publications, clinical trials that included SMR as an intervention but did not directly measure its efficacy in relation to the specific questions, case reports, clinical commentary, dissertations, and conference posters or abstracts. 
-
-### **_Data Extraction and Synthesis_** 
-
-The following data were extracted from each article: subject demographics, intervention type, intervention parameters, and outcomes. The research design of each study was also identified by the reviewers. Qualifying manuscripts were assessed using the PEDro (Physiotherapy Evidence Database) scale for appraising the quality of literature.<sup>15,16</sup> Intra-observer agreement was calculated using the Kappa statistic. For each qualifying studies, the levels of significance (p-value) is provided in the results section for comparison and the effect size (r) is also provided or calculated from the mean, standard deviation, and sample sizes, when possible. Effect size of >0.70 was considered strong, 0.41 to 0.70 was moderate, and < 0.40 was weak.<sup>17</sup> 
-
 ### **Results** 
 
 A total of 133 articles were initially identified from the search and 121 articles were excluded due to not meeting the inclusion criteria. A total of 14 articles met the inclusion criteria. Reasons for exclusion of manuscripts are outlined in Figure 2. The reviewers Kappa value for the 14 articles was 1.0 (perfect agreement). Table 1. Provides the PEDro score for each of the qualifying studies and Appendix 1 provide a more thorough description of each qualifying study. 
@@ -89,7 +60,6 @@ testing. Eleven studies reported including recreationally active individuals (e.
 
 Five studies<sup>5,7-9,18</sup> used a foam roller as the main tool and measured its effects on ROM. Of the aforementioned five studies, three<sup>5,8,18</sup> reported using a 6 inch x 36 inch polyethylene foam roller and two studies<sup>7,9</sup> 
 
-_The International Journal of Sports Physical Therapy | Volume 10, Number 6 | November 2015 | Page 829_ 
 
 
 
@@ -106,7 +76,6 @@ Two studies<sup>5,8</sup> measured hip ROM after a prescribed intervention of fo
 
 rolled the anterior thigh in the sagittal plane (length of the muscle) and measured hip extension ROM of subjects in the lunge position with video analysis and used the Global Perceived Effect Scale (GPES) as a secondary measure. Thirty one subjects were assigned to an experimental (N=16) or control (N=15) group and participated in three testing sessions that were held one week apart with pre-test and immediate post-test measures. The experimental group foam rolled for three, one-minute bouts, with 30 second rests in between. There were no reported cadence guidelines for the intervention. The control group did not foam roll. The authors found a significant (p≤0.05, r=-0.11) increase in hip extension 
 
-_The International Journal of Sports Physical Therapy | Volume 10, Number 6 | November 2015 | Page 830_ 
 
 
 
@@ -125,7 +94,6 @@ completion of the study, the authors found that foam rolling combined with stati
 
 Peacock et al<sup>18</sup> examined the effects of foam rolling along two different axes of the body combined with a dynamic warm-up in male subjects (N=16). The authors examined two conditions: medio-lateral foam rolling followed by a dynamic warm-up and anteroposterior foam rolling followed by a dynamic warm-up. All subjects served as their own controls and underwent the two conditions within 7-days of each other. The foam rolling intervention consisted of rolling the posterior lumbopelvis (erector spinae, 
 
-_The International Journal of Sports Physical Therapy | Volume 10, Number 6 | November 2015 | Page 831_ 
 
 
 
@@ -150,7 +118,6 @@ Five studies<sup>1,10-12,19</sup> qualified for this analysis that used some typ
 
 Halperin et al<sup>11</sup> compared the effects of a roller massage bar versus static stretching on ankle dorsiflexion ROM and neuromuscular activity of the plantar flexors. The authors randomized subjects (N=14) into 3 groups: (1) foam rolling and static stretching, (2) foam rolling, (3) static stretching. The roller massage intervention consisted of the subjects using the roller bar to massage the plantar flexors for three sets of 30 seconds at a cadence of one second per roll (travel the length of the muscle in one second). The pressure applied was equivalent to 7/10 pain on a numeric pain rating scale. Subjects established this level prior to testing. The static stretching intervention consisted of a standing calf stretch for three sets 
 
-_The International Journal of Sports Physical Therapy | Volume 10, Number 6 | November 2015 | Page 832_ 
 
 
 
@@ -173,7 +140,6 @@ Sullivan et al<sup>1</sup> measured the effects of a roller massager interventio
 
 Grieve et al<sup>12</sup> conducted a study measuring the effects of roller massage to the plantar aspect of the foot using a tennis ball. The authors randomized 24 subjects to an experimental or control group. The 
 
-_The International Journal of Sports Physical Therapy | Volume 10, Number 6 | November 2015 | Page 833_ 
 
 
 
@@ -196,7 +162,6 @@ Pearcy et al<sup>3</sup> measured the effects of foam rolling as a recovery tool
 
 Jay et al<sup>20</sup> measure the effects of roller massage as a recovery tool after exercise induced muscle damage to the hamstrings. The authors randomized 22 healthy untrained males into an experimental and control group. All subjects went through the same DOMS protocol, which included 10 sets or 10 repetitions of stiff-legged deadlifts using a kettlebell, with a 30 second rest between sets. The roller massage intervention included one session of 10 minutes of massage in the sagittal plane to the hamstrings using “mild pressure” at a cadence of 1-2 seconds per stroke by the examiner.<sup>20</sup> The main outcome measures included the VAS for pain and pressure 
 
-_The International Journal of Sports Physical Therapy | Volume 10, Number 6 | November 2015 | Page 834_ 
 
 
 
@@ -223,7 +188,6 @@ The purpose of this systematic review was to appraise the current literature on 
 
 The research suggests that both foam rolling and the roller massage may offer short-term benefits for increasing sit and reach scores and joint ROM at the hip, knee, and ankle without affecting muscle performance.<sup>5,7-9,18</sup> These finding suggest that SMR using a foam roll for thirty seconds to one minute (2 to 5 sessions) or roller massager for five seconds to two minutes (2 to 5 sessions) may be beneficial for enhancing joint flexibility as a pre-exercise warmup and cool down due to its short-term ben- 
 
-_The International Journal of Sports Physical Therapy | Volume 10, Number 6 | November 2015 | Page 835_ 
 
 
 
@@ -252,7 +216,6 @@ It should be acknowledged that SMR using a foam roll or roller massager is an ar
 
 The results of this systematic review indicate that SMR using either foam rolling or roller massage may have short-term effects of increasing joint ROM without decreasing muscle performance. Foam rolling and roller massage may also attenuate decrements in 
 
-_The International Journal of Sports Physical Therapy | Volume 10, Number 6 | November 2015 | Page 836_ 
 
 
 

@@ -1,5 +1,4 @@
 [page 1]
-## ~~[~~ **~~clinical commentary~~** ~~]~~ 
 
 **ChRISTOPhER M. POWERS,** PT, PhD1 
 
@@ -21,8 +20,6 @@ t **SYNOPSIS:** During the last decade, there has been a growing body of literat
 
 evidence presented as part of this clinical commentary, it can be argued that interventions which address proximal impairments may be beneficial for patients who present with various knee conditions. More specifically, a biomechanical argument can be made for the incorporation of pelvis and trunk stability, as well as dynamic hip joint control, into the design of knee rehabilitation programs. 
 
-t **LEVEL OF EVIDENCE:** Aetiology/therapy, level 5. _J Orthop Sports Phys Ther 2010;40(2):42-51. doi:10.2519/jospt.2010.3337_ t **KEY WORDS:** _ACL, iliotibial band syndrome, patella, patellofemoral pain syndrome_ 
-
 terdependence of the hip and knee joints, the purpose of this clinical commentary is to discuss the biomechanical influences of abnormal hip mechanics on knee injury. This will be accomplished through a review of pertinent tibiofemoral and patellofemoral joint biomechanics, as well as the current literature in this area. In addition, the clinical implications of this information will be discussed. 
 
 ###### **TIBIOFEMORAL JOINT** 
@@ -35,7 +32,6 @@ Although the ball-and-socket configuration of the hip provides a high degree of 
 
 > **1** Associate Professor, Co-Director, Jacquelin Perry Musculoskeletal Biomechanics Research Laboratory, University of Southern California, Los Angeles, CA. Address Correspondence to Dr Christopher M. Powers, Division of Biokinesiology and Physical Therapy, University of Southern California, 1540 E Alcazar St CHP-155, Los Angeles, CA 90089-9006. E-mail: powers@usc.edu 
 
-42  |  february 2010  |  volume 40  |  number 2  |  journal of orthopaedic _&_ sports physical therapy 
 
 
 
@@ -64,12 +60,10 @@ ter of pressure can have an influence on the orientation of the resultant ground
 
 Medial-lateral movements of the trunk can directly influence the frontal plane moment at the knee. A key factor in this respect is pelvic stability. In the presence of hip abductor weakness, the contralateral pelvis may drop during single-limb support (Trendelenburg sign), causing a shift in the center of mass away from the stance limb. Movement of the center of mass away from the stance limb increases the distance from the resultant ground reaction force vector and the knee joint center, thereby increasing the varus moment at the knee ( **FIGURE 2B** ). In this scenario, the tensile strain on the lateral collateral ligament and the iliotibial band would be expected to increase, as would the compressive forces in the medial compartment of the knee. Evidence in support of this concept has been provided by Chang and colleagues,<sup>12</sup> who reported that the ability to generate greater hip abductor moments during walking 
 
-journal of orthopaedic _&_ sports physical therapy  |  volume 40  |  number 2  |  february 2010  |  43 
 
 
 
 [page 3]
-#### ~~[~~ **~~clinical commentary~~** ~~]~~ 
 
 
 
@@ -93,7 +87,6 @@ Evidence supporting the premise that sagittal plane trunk position plays a role 
 
 A posterior trunk lean during the 
 
-44  |  february 2010  |  volume 40  |  number 2  |  journal of orthopaedic _&_ sports physical therapy 
 
 
 
@@ -120,12 +113,10 @@ Because the iliotibial band crosses the lateral aspects of the hip and knee, exc
 
 Iliotibial band strain also can be influenced by transverse plane motions of the lower extremity. Given that the iliotibial band is anchored to the distal femur and inserts into the proximal tibia, internal rotation of the femur relative to the tibia could increase strain at the distal attachment site. Internal rotation of the tibia relative to the femur could have the same effect. A combination of altered fron- 
 
-journal of orthopaedic _&_ sports physical therapy  |  volume 40  |  number 2  |  february 2010  |  45 
 
 
 
 [page 5]
-#### ~~[~~ **~~clinical commentary~~** ~~]~~ 
 
 tal and transverse plane motions of the hip would be expected to compound the loading of the iliotibial band. Apart from the magnitude of frontal and transverse plane motions at the hip, the joint angular velocity may play a role. For example, a modeling study performed by Hamill and colleagues<sup>27</sup> suggests that development of ITBS may be more related to strain rate as opposed to the magnitude of strain. 
 
@@ -153,7 +144,6 @@ The assumption that abnormal patella tracking is the result of abnormal motion o
 
 femur motion was constrained.<sup>11,34,42,59,83,84</sup> However, recent evidence suggests that patellofemoral joint kinematics may be different during weight-bearing tasks. Using dynamic magnetic resonance imaging techniques, Powers and colleagues<sup>60</sup> compared patellofemoral kinematics during non–weight-bearing (seated knee extension) and weight-bearing movements (single-limb squat) in females with lateral patellar subluxation. During the non–weight-bearing condition, the patella was observed to tilt and displace laterally relative to the fixed femur ( **FIGURE 4A** ). In contrast, the primary contributor 
 
-46  |  february 2010  |  volume 40  |  number 2  |  journal of orthopaedic _&_ sports physical therapy 
 
 
 
@@ -180,12 +170,10 @@ Despite the lack of agreement with respect to a common kinematic profile at the 
 
 Given the retrospective nature of the studies that have reported diminish hip strength in females with PFP, care must be taken in assuming a cause-and-effect relationship. For example, it cannot be 
 
-journal of orthopaedic _&_ sports physical therapy  |  volume 40  |  number 2  |  february 2010  |  47 
 
 
 
 [page 7]
-#### ~~[~~ **~~clinical commentary~~** ~~]~~ 
 
 determined from these investigations whether diminished hip strength was a cause of PFP or whether diminished hip strength was the result of symptoms. Nonetheless, the findings of the abovementioned studies are consistent with investigations that have reported successful clinical outcomes in patients who have undergone hip focused training.<sup>7,46,77</sup> 
 
@@ -213,7 +201,6 @@ Throughout this commentary, a case has been made that abnormal hip and femur mot
 
 As noted above, the tendency of the hip is to collapse into adduction and internal rotation as the hip flexes during weight bearing. This triplanar motion is most commonly observed during the weight acceptance phase of high-demand activities such as running or landing from a jump. As a single joint muscle, the gluteus maximus is best suited to provide 3-dimensional stability of the hip, as this muscle resists the motions of hip flexion, adduction, and internal rotation.<sup>52</sup> In contrast, the gluteus medius mainly functions to stabilize the femur and pelvis in the frontal plane.<sup>52</sup> Although the posteri- 
 
-48  |  february 2010  |  volume 40  |  number 2  |  journal of orthopaedic _&_ sports physical therapy 
 
 
 

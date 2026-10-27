@@ -1,17 +1,4 @@
 [page 1]
-Normal Range of Motion (ROM) Values — AAOS Chart by Joint (Printable PDF) 
-
-10/6/26, 1:17 PM 
-
-Get the app 
-
-
-
-Goniometer 
-
-Guides 
-
-Pro 
 
 # Normal range of motion (ROM) values 
 
@@ -34,16 +21,12 @@ Normal ROM at a glance
 
 
 
-https://goniometer.io/range-of-motion 
 
-1/8 
 
 
 
 [page 2]
-Normal Range of Motion (ROM) Values — AAOS Chart by Joint (Printable PDF) 
 
-10/6/26, 1:17 PM 
 
 |JOINT|NORMAL RANGE OF MOTION|
 |---|---|
@@ -78,16 +61,12 @@ How to measure cervical (neck) range of motion — the inclinometer method, tech
 
 ## Shoulder ROM 
 
-https://goniometer.io/range-of-motion 
 
-2/8 
 
 
 
 [page 3]
-Normal Range of Motion (ROM) Values — AAOS Chart by Joint (Printable PDF) 
 
-10/6/26, 1:17 PM 
 
 Normal shoulder range of motion (AAOS) 
 
@@ -121,16 +100,12 @@ How to measure elbow range of motion — flexion, extension, and forearm rotatio
 
 ## Wrist ROM 
 
-https://goniometer.io/range-of-motion 
 
-3/8 
 
 
 
 [page 4]
-Normal Range of Motion (ROM) Values — AAOS Chart by Joint (Printable PDF) 
 
-10/6/26, 1:17 PM 
 
 ### Normal wrist range of motion (AAOS) 
 
@@ -163,16 +138,12 @@ Finger and thumb norms are for flexion; full extension returns each joint to a 0
 
 How to measure finger and hand range of motion — finger goniometry, Total Active Motion (TAM), and technique. 
 
-https://goniometer.io/range-of-motion 
 
-4/8 
 
 
 
 [page 5]
-Normal Range of Motion (ROM) Values — AAOS Chart by Joint (Printable PDF) 
 
-10/6/26, 1:17 PM 
 
 ## Hip ROM 
 
@@ -208,16 +179,12 @@ How to measure knee range of motion — goniometer landmarks, step-by-step techn
 
 Normal ankle range of motion (AAOS) 
 
-5/8 
 
-https://goniometer.io/range-of-motion 
 
 
 
 [page 6]
-Normal Range of Motion (ROM) Values — AAOS Chart by Joint (Printable PDF) 
 
-10/6/26, 1:17 PM 
 
 |MOVEMENT|NORMAL ROM|
 |---|---|
@@ -242,16 +209,12 @@ On a computer? Scan with your iPhone camera to get Goniometer.
 
 ## Frequently asked questions 
 
-6/8 
 
-https://goniometer.io/range-of-motion 
 
 
 
 [page 7]
-Normal Range of Motion (ROM) Values — AAOS Chart by Joint (Printable PDF) 
 
-10/6/26, 1:17 PM 
 
 What is a normal range of motion? Normal range of motion (ROM) is how far a healthy joint moves, measured in degrees from neutral to end range. The AAOS reference standard puts knee flexion near 135°, elbow flexion near 150°, and shoulder flexion and abduction near 180°. Norms are a guide — actual values vary with age, sex, and body type. 
 
@@ -270,14 +233,3 @@ What is a normal range of motion? Normal range of motion (ROM) is how far a heal
 
 
 Goniometer is an educational and reference tool. It is not a medical device and is not intended for diagnosis or treatment decisions. 
-
-© 2026 Goniometer 
-
-https://goniometer.io/range-of-motion 
-
-7/8 
-
-
-
-[page 8]
-

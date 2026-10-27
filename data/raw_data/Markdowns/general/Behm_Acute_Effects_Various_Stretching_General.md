@@ -1,8 +1,3 @@
-[page 1]
-Behm _et al. Sports Medicine - Open           (2023) 9:107_ https://doi.org/10.1186/s40798-023-00652-x 
-
-Sports Medicine - Open 
-
 ## **SYSTEMATIC REVIEW** 
 
 **Open Access** 
@@ -28,9 +23,7 @@ David George Behm<sup>1*</sup> , Shahab Alizadeh<sup>1</sup> , Abdolhamid Danesh
 
 
 [page 2]
-Behm _et al. Sports Medicine - Open           (2023) 9:107_ 
 
-Page 2 of 16 
 
 ### **Key Points** 
 
@@ -55,9 +48,7 @@ A number of acute stretching studies have shown that submaximal intensity stretc
 
 
 [page 3]
-Behm _et al. Sports Medicine - Open           (2023) 9:107_ 
 
-Page 3 of 16 
 
 increases in joint angle during the stretch) induced higher stretch intensities than constant angle stretches (maintaining the joint angle during the stretch). They found higher ROM and lower passive muscle stiffness with constant torque stretching (higher intensity) versus constant angle stretching. Fukaya et al. [43] also compared five studies that implemented constant torque or angle stretches and concurred that constant torque stretches produced a greater ROM [42, 44–47]. They also examined 12 other studies and found that higher stretch intensities provided greater ROM in six of those studies [48–53]. Furthermore, they reported that five higher stretch intensity studies resulted in greater decreases in passive muscle stiffness [48, 52, 54–56], while three other studies showed no significant passive stiffness differences between stretching intensities. Hence, the effects of higher stretch intensities during an acute bout of stretching have not been demonstrated to be consistently more effective than lower stretch intensities in these studies. It would be important to quantify whether painful or uncomfortable stretching intensities are necessary to obtain the greatest acute increases in joint ROM. This information needs to be updated to provide the most recent developments in the field. 
 
@@ -73,30 +64,12 @@ Therefore, the objective of this meta-analytical systematic review was to invest
 
 This review was conducted according to the 2020 PRISMA guidelines and the suggestions from Moher et al. [72] for systematic reviews with meta-analysis. 
 
-#### **Inclusion and Exclusion Criteria** 
-
-In accord with PICOS (population, intervention, comparator, outcomes, study type) criteria, this review considered studies that investigated the intervention of an acute (single bout or session) effect of stretching on joint ROM (outcome) in healthy participants (population) compared to non-active control conditions (comparator). We included peer reviewed original studies published in English. The studies were included when they were either randomized controlled trials or controlled trials (type of studies). This implied that we excluded studies which were dealing with the training (chronic, long-term) effects of stretching, investigated any combined treatment (e.g., stretching combined with foam roller), or had another treatment as control condition (e.g., foam rolling). Moreover, we excluded review papers, case reports, special communications, letters to the editor, invited commentaries, conference papers, and theses. 
-
-#### **Search Strategy** 
-
-An electronic literature search was performed in PubMed, Scopus, Web of Science, and SPORTDiscus. Papers were considered if they were published up to September 2022. Using AND and OR Boolean operators a systematic search was conducted using the following keywords: flexibility, “range of motion,” extensibility, and stretch*. In addition to the aforementioned keywords, the studies were filtered using the subsequent keywords to include controlled trials: “randomized controlled trial,” “controlled clinical trial,” randomized, placebo, randomly, and trial. Furthermore, to exclude animal studies ,we added a NOT operator with the following MeSH Term “exp animals/ not humans.” (Additional file 1). The 
-
-
 
 [page 4]
-Behm _et al. Sports Medicine - Open           (2023) 9:107_ 
-
-Page 4 of 16 
-
-systematic search was conducted by eight independent researchers (SA, AD, SH, AZ, RG, CE, CS, and AG). Initially, the articles were screened by their title and then abstract. If the content remained unclear, the full text was retrieved for further screening and identifying the relevant papers. Following this independent screening process, the researchers compared their findings. Disagreements were resolved by jointly reassessing the studies against the eligibility criteria. 
-
 #### **Extraction of the Data** 
 
 From the included papers, the characteristics of the participants (i.e., age, trained state, sex), the sample size, the characteristics of the intervention (i.e., stretch per bout, stretch technique, stretch intensity, muscle stretched, muscle tested), and the results of the main variables (flexibility parameters) were extracted. For the flexibility parameters, pre- and post-intervention values plus standard deviations of the stretching and control groups were extracted. If some of the required data were missing in the included studies, the authors of the studies were contacted via email or similar channels (e.g., Research Gate). For studies with no available data, the corresponding authors were contacted. If no response was received from the corresponding authors, the studies were excluded. 
 
-#### **Risk of Bias Assessment** 
-
-Egger’s regression intercept test and visual inspection of the funnel plot were applied to detect possible publication bias. 
 
 #### **Methodological Quality** 
 
@@ -110,20 +83,11 @@ The meta-analysis was performed using Comprehensive Meta-Analysis software, acco
 
 ### **Results** 
 
-#### **Confidence in the Cumulative Evidence** 
-
-Grading of Recommendations, Assessment, Development and Evaluations (GRADE) rating analysis was used to assess the quality of the outcomes by using the GRADEpro Guideline Development Tool software (gradepro.org). In general, GRADE has four levels of evidence quality: very low, low, moderate, and high. For GRADE 
-
-#### **Results of the Search** 
-
-Overall, after removal of the duplicates, 4793 papers were screened, from which 42 papers were found to be eligible for this review (Table 1). After cross-referencing the included paper and their citation (via Google Scholar), of the 42 already included papers, five more papers were identified as relevant. Therefore, in total, 
 
 
 
 [page 5]
-Behm _et al. Sports Medicine - Open           (2023) 9:107_ 
 
-Page 5 of 16 
 
 **Table 1** Study characteristics 
 
@@ -162,9 +126,7 @@ Page 5 of 16
 
 
 [page 6]
-Behm _et al. Sports Medicine - Open           (2023) 9:107_ 
 
-Page 6 of 16 
 
 **Table 1** (continued) 
 
@@ -202,9 +164,7 @@ Overall, 110 effect sizes could be extracted from 47 eligible studies. In summar
 
 
 [page 7]
-Behm _et al. Sports Medicine - Open           (2023) 9:107_ 
 
-Page 7 of 16 
 
 
 
@@ -213,21 +173,12 @@ Page 7 of 16
 
 
 [page 8]
-Behm _et al. Sports Medicine - Open           (2023) 9:107_ 
 
-Page 8 of 16 
 
 
 
 **Fig. 2** Funnel plot analysis. Std diff = Standard difference 
 
-#### **Risk of Bias Assessment and Methodological Quality** 
-
-Figure 2 shows the funnel plot, including all 47 studies in this meta-analysis. A visual inspection of the funnel plot and the Egger’s regression intercept test (intercept -1.597; P = 0.04) indicated reporting bias. The methodological quality, as assessed with the PEDro scale, revealed a range of scores between 5 and 9 points (out of 11) for all the included studies. The average PEDro score value was 7.1 (± 0.9) (median and mode values = 7), indicating a low risk of bias [77, 78] (Additional file 2). The assessors agreed with 100% out of the 517 criteria (47 studies × 11 scores). The mismatched outcomes were discussed, and the assessors agreed on the scores presented in Table 1. 
-
-#### **Confidence in Cumulative Evidence** 
-
-For the study design, we have included randomized trials for the GRADE analysis. Risk of bias, indirectness, inconsistency, and imprecision showed no serious shortcomings. However, risk of bias assessment of the eligible studies showed publication bias as well as there was no large effect, no plausible confounding, and no dose response gradient. As a consequence, the analysis showed that we can be moderately confident in the effect estimates. This implies that the true effect is likely to be close to the estimate of the effect. 
 
 #### **Overall Effects** 
 
@@ -242,9 +193,7 @@ Q-statistics of the subgroup analysis revealed a significant difference for the 
 
 
 [page 9]
-Behm _et al. Sports Medicine - Open           (2023) 9:107_ 
 
-Page 9 of 16 
 
 
 
@@ -268,9 +217,7 @@ Page 9 of 16
 
 
 [page 10]
-Behm _et al. Sports Medicine - Open           (2023) 9:107_ 
 
-Page 10 of 16 
 
 **Table 2** (continued) 
 
@@ -313,9 +260,7 @@ Whereas the included studies with these 55 effect sizes used a wide variety of s
 
 
 [page 11]
-Behm _et al. Sports Medicine - Open           (2023) 9:107_ 
 
-Page 11 of 16 
 
 might be most effective, durations greater than 30-s do not provide an additional ROM advantage. Studies employing increased stretch repetitions with shorter durations provided similar ROM improvements [58, 90]. A number of studies have recommended 30–60-s of SS to optimally improve ROM. [59–61]. Thus, while there is a spectrum of stretch durations that can significantly increase joint ROM, the present analysis indicates that there is no single duration that provides a significant ROM gain advantage. 
 
@@ -338,9 +283,7 @@ An initial thought might contend that the lower baseline levels of flexibility w
 
 
 [page 12]
-Behm _et al. Sports Medicine - Open           (2023) 9:107_ 
 
-Page 12 of 16 
 
 higher baseline flexibility, trained individuals still have extensive potential for increased ROM that would not differentiate them from untrained individuals with a single (acute) session of stretching [92]. 
 
@@ -350,59 +293,11 @@ Although older individuals tend to exhibit more restricted ROM [25, 84], relativ
 
 Limitations in the research included that not all muscle groups are equally represented in the literature, and further research should expand the scope of muscles tested as for example the limited research on hip adductors. Almost every study described in this review recruited young adults, and only two studies focused solely on females; hence a wider spectrum of participants needs to be investigated. 
 
-### **Supplementary Information** 
-
-The online version contains supplementary material available at https:// doi. org/ 10. 1186/ s40798- 023- 00652-x. 
-
-**Additional file 1.** Search Strategy. **Additional file 2.** Table S1: PEDro scales. 
-
-##### **Acknowledgements** 
-
-Not applicable. 
-
-##### **Author contributions** 
-
-AK, AD, SA, and DB were involved in the idea conception. AK and SA collaborated on organizing the data collection from the literature review. Article search, selection, and data collection were performed by SA, AD, SHA, AG, AZ, RG, CE, RC, and CS. AK performed the meta-analysis. All authors collaborated on interpreting the results. DB and AK collaborated in writing the major parts of the manuscript. All authors contributed to the article, approved the submitted version, and read and approved the final manuscript. 
-
-##### **Funding** 
-
-Open access funding provided by Austrian Science Fund (FWF). This study was supported by grants from Dr. David Behm’s Discovery Grant from the Natural Science and Engineering Research Council of Canada and Dr. Andreas Konrad (Project J 4484) from the Austrian Science Fund (FWF). 
-
-##### **Availability of data and materials** 
-
-All data will be made available on request to the corresponding author. 
-
-##### **Code availability** 
-
-Not applicable. 
-
-#### **Declarations** 
-
-##### **Ethics approval and consent to participate** 
 
 ### **Conclusions** 
 
 This systematic review and meta-analysis demonstrated a small magnitude increase in ROM with stretching compared to the control condition. Acute increases in ROM occurred with all muscles tested (sit and reach, hamstrings, and triceps surae tests), but no improvement with the hip adductor tests, which might be attributed to more natural anatomical and functionally restricted movement patterns. There was also no significant difference in ROM gains with the stretch intensity, duration, trained state of the participants, stretching techniques, age, or sex suggesting relative acute increases in ROM possess a broad capacity for acute improvement. Consequently, it can be suggested that all types of stretching can be implemented acutely for diverse populations (i.e., male and female, trained and untrained individuals) with similar results expected. 
 
-##### **Abbreviations** 
-
-CRAC Contract-relax-agonist contract DS Dynamic stretching ES Effect size ROM Range of motion PNF Proprioceptive neuromuscular facilitation SS Static stretching 
-
-Not applicable. 
-
-##### **Consent for publication** 
-
-Not applicable. 
-
-##### **Competing interests** 
-
-The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. 
-
-##### **Author details** 
-
-1 School of Human Kinetics and Recreation, Memorial University of Newfoundland, St. John’s, NL A1C 5S7, Canada.<sup>2</sup> Department of Sport Injuries and Corrective Exercises, Faculty of Sport Sciences, Shahid Bahonar University of Kerman, Kerman 76169-13439, Iran.<sup>3</sup> Institute of Human Movement Science, Sport and Health, Graz University, Mozartgasse 14, 8010 Graz, Austria. 
-
-Received: 22 December 2022   Accepted: 22 October 2023 
 
 
 

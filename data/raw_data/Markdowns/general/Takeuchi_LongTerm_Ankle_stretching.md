@@ -1,13 +1,9 @@
 [page 1]
 ©Journal of Sports Science and Medicine (2023) **22,** 465-475 
 
-http://www.jssm.org DOI: <mark>https://doi.org/10.52082/jssm.2023.465</mark> 
-
-**<mark>`</mark> Review article** 
 
 # **Acute and Long-Term Effects of Static Stretching on Muscle-Tendon Unit Stiffness: A Systematic Review and Meta-Analysis** 
 
-## **Kosuke Takeuchi**<sup>**1**</sup>  **,  Masatoshi Nakamura**<sup>**2**</sup> **,  Taizan Fukaya**<sup>**3**</sup> **, Andreas Konrad**<sup>**4**</sup> **and Takamasa Mizuno**<sup>**5**</sup> 
 
 > **1** Department  of  Physical  Therapy, Faculty  of Rehabilitation, Kobe International University, Kobe-shi, Hyogo, Japan; 
 
@@ -34,9 +30,7 @@ Received: 27 June 2023 / Accepted: 03 August 2023 / Published (online): 01 Septe
 
 
 [page 2]
-Takeuchi et al. 
 
-466 
 
 term effects of static stretching on MTS in healthy young participants including some potential moderating variables (sex, muscle, and total stretching duration). 
 
@@ -44,31 +38,10 @@ term effects of static stretching on MTS in healthy young participants including
 
 This review was conducted according to PRISMA guidelines for a systematic review with meta-analysis (Moher et al., 2009). 
 
-### **Search strategy** 
-
-The electronic literature was searched in PubMed, Web of Science, and EBSCO. The search was conducted on January 6, 2023, and papers published before that date were included in this study. The search code for all three databases was ((Flexib*) OR (Stiff*) OR (Extensib*) OR (Passive tension)) AND (Stretch*) AND ((Muscle) OR (Tendon)) AND ((intervention) OR (effects)). 
-
-### **Study selection** 
-
-All procedures for this study selection were performed by four independent reviewers (KT, MS, TF, and TM). First, the titles and abstracts of all papers were reviewed to assess suitability. Those not consistent with the purpose of the study were excluded with reference to the inclusion and exclusion criteria. Following the initial screening process, the full texts were assessed. This process was done by two researchers, with any disagreements resolved by the remaining researcher. 
-
-### **Inclusion and exclusion criteria** 
-
-This study included peer-reviewed original studies reported in English. The studies were included when they were either randomized or non-randomized trials with static stretching interventions in healthy young (<40 years) human participants. We excluded studies that investigated combined interventions (e.g., static stretching with resistance training), lacked a control group, or had another treatment as a control group (e.g., dynamic stretching). Moreover, we excluded review papers, case reports, special communications, letters to the editor, invited commentaries, conference papers, or theses. 
-
 ### **Extraction of the data** 
 
 The following data were extracted from the included papers: (1) the characteristics of the paper (authors, years of publication, and sample size); (2) characteristics of participants (sex and age); (3) characteristics of stretching (targeted muscle, duration, frequency, and intensity), and (4) calculation method of MTU stiffness. For MTU stiffness, mean and standard deviation values before and after interventions were extracted. If MTU stiffness was measured more than once in different time series, the MTU stiffness after the last intervention was adopted. When the required data was not described in the included papers, the authors of the papers were contacted via e-mail or similar channels (e.g., ResearchGate) to provide information. 
 
-### **Statistics and data synthesis** 
-
-The statistical analysis was performed according to previous studies (Konrad et al., 2021a, 2022). The meta-analysis 
-
-was performed using Comprehensive Meta-Analysis software (Biostat Inc, Englewood, NJ, USA), based on the recommendation of Borenstein et al. (2009). By applying a random-effect meta-analysis, the effect size in terms of the standardized mean difference was assessed. If more than one effect size was reported in one study, the mean of all measurements within one study was used for the metaanalysis and defined as combined (Borenstein et al., 2009; Konrad et al., 2022). Although there is no general rule (Borenstein et al., 2009), subgroup analyses were performed when there were ≥ 3 studies included in each subgroup (Konrad et al., 2022). Consequently, subgroup analysis for sex (male vs. mixed sex and female) of long-term static stretching and muscle (hamstrings vs. plantar flexors) of both acute and long-term static stretching were conducted. Q-statistics were applied to determine differences between the effect sizes of the subgroups (Borenstein et al., 2009). In addition, a meta-regression was conducted to examine the association between changes in MTU stiffness and total stretching duration. The effects of a standardized mean difference of < 0.2 were considered trivial, 0.2 - 0.6 were considered small, 0.6 - 1.2 were considered moderate, 1.2 - 2.0 were considered large, 2.0 - 4.0 were considered very large, and >4.0 were considered extremely large (Hopkins et al., 2009). I<sup>2</sup> statistics were calculated to assess the heterogeneity among the included studies, and thresholds of 25%, 50%, and 75% were defined as having a low, moderate, and high level of heterogeneity, respectively (Higgins et al., 2003; Behm et al., 2021; Konrad et al., 2021b; Konrad et al., 2022). An alpha level of 0.05 was defined for the statistical significance of all the tests. 
-
-### **Risk of bias assessment and methodological quality** 
-
-The methodological qualities of included papers were assessed by using the Physiotherapy Evidence Database (PEDro) scale. The PEDro scale consists of 11 methodological criteria, and two independent assessors scored each item with a 0 or 1 point. Higher scores on the PEDro scale indicated a better methodological quality of a study. When there were differences in scores between assessors, the mismatched scores were resolved between the assessors. Moreover, statistics of Egger’s regression intercept test and visual inspection of the funnel plot were applied to detect possible publication bias. 
 
 ## **Results** 
 
@@ -79,9 +52,7 @@ In total, 7708 papers were identified from a database search (Figure 1). After t
 
 
 [page 3]
-467 
 
-Acute and long-term static stretching 
 
 Gajdosik et al., 2007; Ryan et al., 2008; Marshall et al., 2011; Konrad and Tilp, 2014a; Akagi and Takahashi, 2014; Rodrigues et al., 2017; Konrad et al., 2017; 2019; Palmer et al., 2019; Brusco et al., 2019; Nakao et al., 2021; Oba et al., 2021b; Longo et al., 2021; Hatano et al., 2022). On average, the included papers had a total stretching duration of 248.6 seconds (acute static stretching, range: 120 - 480 seconds) and 8856.0 seconds (long-term static stretching, range: 3600 - 27000 seconds) and an intervention term of 5.6 weeks (long-term static stretching, range: 2.9 - 12 weeks). 
 
@@ -104,9 +75,7 @@ Meta-analysis revealed that long-term static stretching training had no signific
 
 
 [page 4]
-Takeuchi et al. 
 
-468 
 
 #### **Table 1.** **<u>Characteristics of the included studies.</u>** 
 
@@ -138,9 +107,7 @@ IG, Intervention group; CG, Control group; Ham, hamstrings; PF, plantar flexors;
 
 
 [page 5]
-469 
 
-Acute and long-term static stretching 
 
 
 
@@ -193,9 +160,7 @@ Std diff in means, standardized difference in means; 95% CI. 95% confidence inte
 
 
 [page 6]
-Takeuchi et al. 
 
-470 
 
 
 
@@ -214,9 +179,7 @@ total stretching duration and the magnitude of the effect size for MTS (p = 0.01
 
 
 [page 7]
-471 
 
-Acute and long-term static stretching 
 
 stretching for longer than 90 seconds. In addition, more than 180 seconds of static stretching effectively decreases the MTS of the hamstrings (Matsuo et al., 2013; Nakamura et al., 2019; Takeuchi et al., 2022a). In the present study, the average stretching duration of acute static stretching was 248.6 seconds and this stretching duration was considered sufficient to decrease the MTS of the plantar flexors and hamstrings. Moreover, a previous study showed that the acute effects of static stretching interventions on the MTS of the hamstrings are influenced by the stretching load (Takeuchi et al., 2021b). Stretching load is calculated from the duration and intensity (torque) of stretching (Takeuchi et al., 2021b), and longer-duration or higher-intensity stretching demonstrates a greater stretching load. Thus, the duration of static stretching is associated with acute MTS decrement, which supports the results of the meta-regression of this study. Therefore, it was indicated that static stretching for an average of approximately 240 seconds (4 minutes) decreased the MTS of the plantar flexors and hamstrings. 
 
@@ -233,9 +196,7 @@ We were unable to obtain the data from three studies on long-term static stretch
 
 
 [page 8]
-Takeuchi et al. 
 
-472 
 
 of the hamstrings. Moreover, Magnusson et al. (1996b) (3 weeks, total stretching duration of 9000 seconds) reported a non-significant change in the MTS of the hamstrings. Thus, even if these studies were added to the meta-analysis of the present study, the result that MTS is not changed by long-term static stretching would not change. 
 
@@ -246,8 +207,4 @@ In the present study, the results revealed a significant publication bias (acute
 The results of the main meta-analysis showed that MTS significantly decreased after acute static stretching with a moderate effect size, but there was no significant change in MTS after long-term static stretching. Subgroup analysis 
 
 showed no significant difference between muscle or sex. Furthermore, there was a significant relationship between total stretching duration and MTS in acute static stretching, but not in long-term stretching. 
-
-#### **Acknowledgements** 
-
-This work was supported by JSPS KAKENHI with Grant number 22K11595. There is no conflict of interest. The present study complies with the current laws of the country in which it was performed. The datasets generated and analyzed during the current study are not publicly available but are available from the corresponding author, who was an organizer of the study. 
 

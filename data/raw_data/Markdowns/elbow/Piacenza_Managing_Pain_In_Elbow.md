@@ -1,5 +1,4 @@
 [page 1]
-Musculoskeletal Science and Practice 74 (2024) 103194 
 
 
 
@@ -14,20 +13,6 @@ journal homepage: www.elsevier.com/locate/msksp
 ### Systematic review 
 
 ## Effectiveness of conservative treatment in the management of post-traumatic elbow stiffness: A systematic review 
-
-
-
-Alberto Piacenza<sup>a,b,*</sup> , Andrea Zerilli<sup>a,c</sup> , Ilenia Viccari<sup>d</sup> , Greta Castelli<sup>d</sup> 
-
-a _Department of Neuroscience, Rehabilitation, Ophtalmology, Genetics, Maternal and Child Health, University of Genoa, Genoa, GE, Italy_ 
-
-b _Department of Territorial Care, Local Healthcare Unit 2, Savona, SV, Italy_ 
-
-c _Functional Reeducation Unit, IRCCS San Martino, Largo R. Benzi, 10, 16132, Genova, Italy_ 
-
-d _Department of Recovery and Functional Reeducation, La Colletta Hospital, Local Healthcare Unit 3, Arenzano, GE, Italy_ 
-
-A R T I C L E I N F O 
 
 ##### A B S T R A C T 
 
@@ -58,9 +43,7 @@ Available online 26 September 2024
 
 
 [page 2]
-_A. Piacenza et al.                                                                                                                                                                                                                               Musculoskeletal Science and Practice_ 
 
-_Musculoskeletal Science and Practice 74 (2024) 103194_ 
 
 
 
@@ -88,14 +71,11 @@ The studies identified during the searches were screened to remove duplicates. T
 
 The inclusion criteria were developed according to the Population, Intervention, Comparison, Outcome, and Study design (PICOS) framework. All the studies met the following criteria: Population: subjects suffering from post-traumatic elbow stiffness; Intervention: conservative 
 
-2 
 
 
 
 [page 3]
-_A. Piacenza et al.                                                                                                                                                                                                                               Musculoskeletal Science and Practice_ 
 
-_Musculoskeletal Science and Practice 74 (2024) 103194_ 
 
 **Table 1** 
 
@@ -129,14 +109,11 @@ outcome measures, follow-up periods, and results. Two independent reviewers (AP 
 
 The risk of bias (RoB) assessment of the selected papers was performed by two independent assessors (AP, AZ) using the Revised Cochrane Risk of Bias tool (RoB2) (Sterne et al., 2019). This tool rates each paper according to potential bias arising from five main domains: randomization process, deviation from intended intervention, missing outcome data, measurement of the outcome and selection of the reported results. Judgments of each domain and overall risk of bias were based on an algorithm aimed to assign to each item a quality rating of low RoB, some concern or high RoB (Sterne et al., 2019). Disagreements were discussed between the two reviewers and any remaining disagreements were resolved through further discussion with a third researcher (IV). 
 
-3 
 
 
 
 [page 4]
-_Musculoskeletal Science and Practice 74 (2024) 103194_ 
 
-_A. Piacenza et al._ 
 
 
 
@@ -154,14 +131,11 @@ Quantitative data collection was based on sample size, mean scores, and standard
 
 The Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) framework was used by two reviewers (AP, AZ) and, in case of disagreements, a third author (IV) adjudicated to assess the confidence in the body of evidence reviewed (Guyatt et al., 2008). This framework suggests rating levels of results across five domains (risk of bias, inconsistency, indirectness, imprecision, and publication bias) as high, moderate, low or very low (Guyatt et al., 2011). For each outcome, evidence was downgraded in accordance of the presence of the following: risk of bias (downgraded by one level if the study was at some concerns of bias; and two levels if the study was at high risk of bias), inconsistency (evidence was downgraded by one level when results were from one single study), indirectness (low risk of indirectness was attributed by default because all outcomes included were deemed appropriate concerning the specificity of populations, interventions, comparators, and outcomes guaranteed by the eligibility criteria), imprecision (downgraded by one level if the estimates comes from small sample studies) (Guyatt et al., 2011), risk of publication bias (downgraded by one level if there was suspected publication bias). 
 
-4 
 
 
 
 [page 5]
-_Musculoskeletal Science and Practice 74 (2024) 103194_ 
 
-_A. Piacenza et al.                                                                                                                                                                                                                               Musculoskeletal Science and Practice_ 
 
 
 
@@ -179,18 +153,11 @@ treatments included static stretching, MET, static splints and a structured exer
 
 The 5 studies identified in the review analyzed different conservative approaches and included 212 patients. Table 1 shows study details. All participants included in the studies suffered from elbow stiffness as a consequence of a traumatic injury and/or after undergoing surgical intervention. Conservative interventions proposed in the studies encompass manual passive techniques as Muscle Energy Technique (MET), Proprioceptive Neuromuscular Facilitation (PNF), instrumentassisted soft tissue mobilization (IASTM), Graded Motor Imagery (GMI), and dynamic splint. Regarding comparators, conservative 
 
-#### _3.3. Risk of bias assessment_ 
-
-All the studies were evaluated using the RoB2 tool. Overall, three papers were rated as having low risk of bias, one as having some concerns of risk of bias, and one as having high risk of bias (Fig. 2). There was some concern about RoB in one study regarding randomization concealment of group allocation, and potential selection of reported results because the published protocol was not available (Faqih et al., 2019); while one study was rated as high risk of bias in the “deviations from the intended interventions” domain (Lindenhovius AL et al., 2012). 
-
-5 
 
 
 
 [page 6]
-_Musculoskeletal Science and Practice 74 (2024) 103194_ 
 
-_A. Piacenza et al._ 
 
 
 
@@ -212,14 +179,11 @@ Four studies (Bhosale and Kolke Pt, 2023; Birinci et al., 2019, 2022; Faqih et a
 
 Four randomized controlled trials reported the efficacy of conservative treatments at discharge on flexion-extension ROM for posttraumatic elbow stiffness (Bhosale and Kolke Pt, 2023; Birinci et al., 2019, 2022; Faqih et al., 2019), while only three studies investigated the efficacy on pronation-supination ROM (Bhosale and Kolke Pt, 2023; Birinci et al., 2019, 2022). Effect sizes were calculated for each study and presented in Fig. 6. The subgroup analyses indicated that MET could significantly improve flexion-extension ROM when conservative treatment was started immediately after the immobilization period (Faqih et al., 2019), but no differences were found when compared to IASTM (Bhosale and Kolke Pt, 2023). Moreover, moderate and large effect size were shown in favour of PNF (Birinci et al., 2019) and GMI (Birinci et al., 2022) to improve flexion-extension ROM. When investigating the efficacy of conservative treatments on pronation-supination ROM, no differences were found among the proposed conservative treatments. 
 
-6 
 
 
 
 [page 7]
-_Musculoskeletal Science and Practice 74 (2024) 103194_ 
 
-_A. Piacenza et al._ 
 
 
 
@@ -235,14 +199,11 @@ Harding et al., 2011; Iordens et al., 2017; Jones, 2016; Siemensma et al.,
 
 2023). Despite the etiopathogenesis of post-traumatic elbow stiffness is not fully understood, the literature indicates that an increase in the extracellular matrix occurs soon after trauma or surgery, leading to a subsequent contracture (Doornberg et al., 2014). Therefore, conservative strategies primarily ought to focus on treating local structures to impede this remodeling process and prevent the onset of elbow stiffness. It is noteworthy that the considered RCTs did not detail the evaluation 
 
-7 
 
 
 
 [page 8]
-_Musculoskeletal Science and Practice 74 (2024) 103194_ 
 
-_A. Piacenza et al._ 
 
 
 
@@ -258,14 +219,11 @@ process used to determine the preference for one type of treatment over another.
 
 well as musculotendinous or capsuloligamentous structures. This could guide physiotherapists in focusing on the most limited movement directions and the most efficacious treatment approaches to impact the implicated structures more effectively. Moreover, a careful analysis of 
 
-8 
 
 
 
 [page 9]
-_Musculoskeletal Science and Practice 74 (2024) 103194_ 
 
-_A. Piacenza et al._ 
 
 movement directions can more accurately identify limitations not directly associated with local tissue dysfunctions, but may instead be more linked to phenomena such as pain guarding, protective responses or kinesiophobia. Enhancing treatments with motor-cognitive strategies, rather than solely relying on passive approaches of local structures, has proven to be an effective way to alleviate pain and mitigate the adverse effects associated with immobilization in the short to medium term. While the literature lacks a systematic review of conservative treatment, three reviews assessed the efficacy of splints (Chen et al., 2017; Müller et al., 2013; Veltman et al., 2015). Findings from these studies suggest that both dynamic orthoses and static progressive splints effectively are effective in treating elbow stiffness, regardless of the etiology. In our review, no differences were found among dynamic and static splints. Nevertheless, caution is advised due to the evidence being of very low quality, as evaluated by the GRADE approach. 
 
@@ -281,23 +239,5 @@ Although this review did not examine the effectiveness of conservative treatment
 
 Overall, the available evidence on the topic is limited. Despite conservative management should be adopted as the first choice of treatment in the management of post-traumatic elbow stiffness, the most effective conservative treatment in reducing disability, pain, and restriction of mobility could not be determined. Hence, it is advisable to carry out further high-quality research to explore which conservative methods, types, and dosages are most effective. 
 
-#### **Fundings** 
 
-None. No benefits in any form have been received or will be received related directly or indirectly to the subject of this article. 
-
-#### **Registration** 
-
-PROSPERO - CRD42024517823 - Effectiveness of conservative treatment in the management of post-traumatic elbow stiffness. 
-
-#### **Declaration competing of interest** 
-
-None. 
-
-#### **CRediT authorship contribution statement** 
-
-**Alberto Piacenza:** Writing – original draft, Project administration, Methodology, Formal analysis, Data curation, Conceptualization. **Andrea Zerilli:** Writing – review & editing, Methodology, Investigation, Formal analysis, Data curation. **Ilenia Viccari:** Writing – review & editing, Supervision, Investigation, Formal analysis, Data curation. **Greta Castelli:** Project administration, Investigation, Formal analysis, Data curation, Conceptualization. 
-
-#### **Appendix A. Supplementary data** 
-
-Supplementary data to this article can be found online at https://doi. org/10.1016/j.msksp.2024.103194. 
 

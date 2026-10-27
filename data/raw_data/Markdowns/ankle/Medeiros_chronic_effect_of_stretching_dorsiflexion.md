@@ -1,26 +1,9 @@
 [page 1]
-The Foot 34 (2018) 28–35 
-
-
-
-Contents lists available at ScienceDirect 
-
-# The Foot 
-
-journal homepage: www.elsevier.com/locate/foot 
-
-
 
 #### Review 
 
 ## Chronic effect of different types of stretching on ankle dorsiflexion range of motion: Systematic review and meta-analysis 
 
-
-
-<!-- Start of picture text -->
-T<br><!-- End of picture text -->
-
-### Diulian Muniz Medeiros<sup>⁎</sup> , Tamara Fenner Martini 
 
 Federal University of Health Sciences of Porto Alegre, Graduate Program of Rehabilitation Sciences, Physical Therapy Department, Porto Alegre, Brazil 
 
@@ -47,20 +30,12 @@ The study from Radford et al. [12] analyzed only five studies, which is a small 
 
 The current study utilized PRISMA (Preferred Reporting Items for Systematic Review and Meta-analyses) guidelines for Systematic Reviews and Meta-analysis [13]. 
 
-> ⁎ Corresponding author at: Rua Sarmento Leite 245, Centro Histórico, 90050170 Porto Alegre, Rio Grande do Sul, Brazil. 
 
-> E-mail addresses: diulian@ufcspa.edu.br (D.M. Medeiros), tamarafm@ufcspa.edu.br (T.F. Martini). 
-
-> https://doi.org/10.1016/j.foot.2017.09.006 
-
-> Received 13 June 2017; Received in revised form 8 September 2017; Accepted 23 September 2017 0958-2592/ © 2017 Elsevier Ltd. All rights reserved. 
 
 
 
 [page 2]
-_The Foot 34 (2018) 28–35_ 
 
-D.M. Medeiros, T.F. Martini 
 
 |Ankle dorsiflexion ROM<br>results|SS > CG|oncentric<br>SS > CG|SS > CG|SS > CG|SS > CG|SS > CG||SS > CG<br>SS > CG||SS > CG|BS > CG|PNF > CG|SS > CG|SS = BS = CG|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -73,14 +48,11 @@ D.M. Medeiros, T.F. Martini
 
 
 
-29 
 
 
 
 [page 3]
-_The Foot 34 (2018) 28–35_ 
 
-D.M. Medeiros, T.F. Martini 
 
 |Ankle dorsiflexion ROM<br>results||PNF > CG|SS > CG||SS > CG|SS > CG|SS > CG|PNF > CG<br>SS = CG|ultrasonography; MTU = muscle-tendon unit;|
 |---|---|---|---|---|---|---|---|---|---|
@@ -93,36 +65,10 @@ D.M. Medeiros, T.F. Martini
 
 
 
-30 
 
 
 
 [page 4]
-_The Foot 34 (2018) 28–35_ 
-
-D.M. Medeiros, T.F. Martini 
-
-##### 2.1. Data sources and searches 
-
-The authors searched the following electronic databases (from inception to February 2017): MEDLINE (accessed by PubMed), Physiotherapy Evidence Database (PEDro), The Cochrane Central Register of Controlled Trials (Cochrane CENTRAL), and Centro LatinoAmericano e do Caribe de Informação em Ciências da Saúde (LILACS). In addition, the references of published studies were explored. The search comprised the following terms: “Flexibility”, “Range of Motion”, “Joint Range of Motion”, “Joint Flexibility”, “Muscle Stretching Exercises”, “Proprioceptive Neuromuscular Facilitation (PNF) Stretching”, “PNF stretching”, “Passive Stretching”, “Static Stretching”, “Muscle Stretching Exercises” combined with a high sensitivity combination of words used in the search for randomized clinical trials [14]. The authors included publications in English, Spanish, and Portuguese. For the combination of the keywords, the Boolean terms “AND” and “OR” were utilized. The complete search strategy used for the MEDLINE database is shown in Table 1. 
-
-##### 2.2. Eligibility criteria 
-
-The authors included randomized clinical trials (RCT) and controlled clinical trials (CCT), and studies that evaluated the effects of stretching (SS, PNF, and/or BS) on ankle DFROM. The following exclusion criteria were used: (1) samples comprised of people with any disease/dysfunction; (2) non-application of muscle stretching; (3) no ROM assessment; (4) samples with mean age under 18 years old; (5) repeated measures design studies; (6) studies with no control group. 
-
-##### 2.3. Studies selection and data extraction 
-
-Two investigators independently evaluated titles and abstracts of all articles identified by the search strategy. All abstracts that did not provide sufficient information regarding the inclusion and exclusion criteria were selected for full-text evaluation. In the second phase, the same reviewers independently evaluated the full-text articles and made their selection in accordance with the eligibility criteria. Disagreements between reviewers were solved by consensus or through a third person review. Using standardized forms, the same two reviewers independently conducted data extraction with regard to the methodological characteristics of the studies, number of participants, age, stretching technique and protocol, ROM assessment protocol, and results. Disagreements were also solved by consensus. The main outcome extracted was DFROM. 
-
-##### 2.4. Quality assessment 
-
-Study quality assessment included adequate sequence generation, allocation concealment, blinding of outcome assessors, description of losses and exclusions, and intention-to-treat analysis. Use of intentionto-treat analysis was considered as a confirmation on study assessment that the number of participants randomized and the number analyzed were identical, except for patients lost to follow-up or who withdrew consent for study participation. Studies without a clear description of these characteristics were considered as unclear or not reporting the latter. The same two reviewers independently performed the quality assessment. 
-
-##### 2.5. Data synthesis and analysis 
-
-Pooled-effect estimates were obtained by post-intervention values [15]. Calculations were performed using a random-effects method. P value ≤0.05 and confidence interval of 95% (95%CI) were considered statistically significant. Statistical heterogeneity of the treatment effects among studies was assessed using Cochran’s Q test and the inconsistency I<sup>2</sup> test, in which values above 25% and 50% were considered 
-
-indicative of moderate and high heterogeneity, respectively [16]. All analyses were conducted using Review Manager version 5.3. The analyses were performed taking the types of stretching (SS, PNF, and BS) into account. Furthermore, within the analysis of SS, the studies regarding the training volume performed were separated. In the studies that a smaller reported value for ankle ROM indicated greater dorsiflexion, the means from 90° was subtracted prior to analysis to allow comparisons with other presented results. For the studies that reported only standard error (SE), the standard deviation (SD) was estimated by multiplying the SE by the square root of the sample size (n). The heterogeneity between studies was explored by re-running the meta-analyses removing one paper at a time to check whether some individual study explained heterogeneity. 
 
 ##### 3. Results 
 
@@ -130,9 +76,6 @@ indicative of moderate and high heterogeneity, respectively [16]. All analyses w
 
 The search strategy yielded 493 articles, of which 29 studies were considered as potentially relevant and retrieved for detailed analysis. In the full-text analysis, 9 studies were excluded. Hence, 20 studies met the eligibility criteria and were included in the systematic review (n = 659), and all of them presented suitable data for meta-analysis. Fig. 1 shows the flow diagram of the studies included in this review, and Table 2 summarizes the studies’ characteristics and their conclusions. 
 
-##### 3.2. Risk of bias 
-
-Of the studies included in this systematic review, 40% presented an adequate sequence generation, 35% reported allocation concealment; 25% had blinded assessment of outcomes, 30% described losses to follow-up and exclusions, and 25% of the studies used the intention-totreat principle for statistical analyses (Fig. 2). 
 
 ##### 3.3. Effects of interventions 
 
@@ -150,14 +93,11 @@ Three studies [31–33] (n = 138) evaluated the influence of PNF stretching on a
 
 Only two studies [34,35] (n = 89) evaluated the influence of BS stretching on ankle DFROM. The analysis showed that BS is ineffective in increasing flexibility when compared to a control group (3.77°; 95% CI: −0.03 to 7.56; I<sup>2</sup> : 46%) (Fig. 5). 
 
-31 
 
 
 
 [page 5]
-_The Foot 34 (2018) 28–35_ 
 
-D.M. Medeiros, T.F. Martini 
 
 
 
@@ -185,14 +125,11 @@ Complete search strategies for MEDLINE.
 
 #1 “Range of Motion, Articular” [Mesh] OR “Joint Range of Motion” OR “Joint Flexibility” OR “Flexibility, Joint” OR “Range of Motion” OR “Passive Range of Motion” OR “muscle length” “stiffness” OR “Extensibility” #2 “Muscle Stretching Exercises”[Mesh] OR “Exercise, Muscle Stretching” OR “Exercises, Muscle Stretching” OR “Muscle Stretching Exercise” OR “Dynamic Stretching” OR “Stretching, Dynamic” OR “Isometric Stretching” OR “Stretching, Isometric” OR “Active Stretching” “Stretching, Active” OR “Static-Active Stretching” OR “Static Active Stretching” OR “Stretching, Static-Active” OR “Static Stretching” OR “Stretching, Static” OR “Passive Stretching” OR “Stretching, Passive” OR “Relaxed Stretching” OR “Stretching, Relaxed” OR “Static-Passive Stretching” OR “Static Passive Stretching” OR “Stretching, Static-Passive” OR “Ballistic Stretching” OR “Stretching, Ballistic” OR “Proprioceptive Neuromuscular Facilitation (PNF) Stretching” #3 (randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized controlled trials[mh] OR random allocation[mh] OR double-blind method[mh] OR singleblind method[mh] OR clinical trial[pt] OR clinical trials[mh] OR (“clinical trial”[tw]) OR ((singl*[tw] OR doubl*[tw] OR trebl*[tw] OR tripl*[tw]) AND (mask*[tw] OR blind*[tw])) OR (“latin square”[tw]) OR placebos[mh] OR placebo*[tw] OR random*[tw] OR research design[mh:noexp] OR follow-up studies[mh] OR prospective studies [mh] OR cross-over #4 #1 AND #2 AND #3 
 
-32 
 
 
 
 [page 6]
-_The Foot 34 (2018) 28–35_ 
 
-D.M. Medeiros, T.F. Martini 
 
 
 
@@ -214,14 +151,11 @@ to identify structural changes within the muscle [21]. Static stretching seems t
 
 important to potentiate dynamics activities by increasing muscular contraction velocity [47]. Nevertheless, there is still insufficient information regarding the stretching intensity and volume necessary to 
 
-33 
 
 
 
 [page 7]
-_The Foot 34 (2018) 28–35_ 
 
-D.M. Medeiros, T.F. Martini 
 
 induce an adaptation within the muscle cell. 
 
@@ -248,12 +182,4 @@ Ballistic stretching is a type of dynamic stretching that involves the execution
 To the best of the authors’ knowledge, the current study is the first meta-analysis to analyze the role of different types of stretching (SS, PNF, and BS) on DFROM. Moreover, a strategy for a sensitive and comprehensive search to assure the location of all studies in this field was held. Making a parallel of this investigation with the review by Young et al. [11], it seems that the current results are more conclusive based on two main reasons: (1) this meta-analysis included 20 whilst theirs contained only eight studies; and (2) only studies that evaluated chronic effects of stretching were included in the current study, the fact 
 
 Ankle stretching is a common technique used as part of the treatment of several ankle/foot conditions (e.g. plantar fasciitis, Achilles tendinopathy). The current review demonstrated that chronic stretching is effective to increase DFROM. Static stretching was the most common approach among the included studies, probably because it is easily performed and it usually shows satisfactory results. However, PNF stretching (especially self-stretching protocols) should not be disregard in a flexibility training routine. Future systematic reviews could verify the influence of other strategies (e.g. eccentric training) on DFROM to establish which alternative is the most adequate to increase ankle mobility. 
-
-##### Conflict of interest 
-
-The authors declare that they have no conflict of interest. 
-
-##### Acknowledgement 
-
-We thank the University library team for their assistance in obtaining the literature. 
 

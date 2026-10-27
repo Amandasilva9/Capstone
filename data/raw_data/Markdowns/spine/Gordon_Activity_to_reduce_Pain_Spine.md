@@ -11,12 +11,6 @@ _Review_
 
 **Rebecca Gordon * and Saul Bloxham** 
 
-Department of Sport and Health Sciences, University of St Mark and St John, Plymouth PL6 8BH, UK; sbloxham@marjon.ac.uk 
-
-***** Correspondence: rgordon@marjon.ac.uk; Tel.: +44-1752-636700 (ext. 6526) 
-
-Academic Editor: Robert J. Gatchel Received: 28 February 2016; Accepted: 19 April 2016; Published: 25 April 2016 
-
 **Abstract:** Back pain is a major health issue in Western countries and 60%–80% of adults are likely to experience low back pain. This paper explores the impact of back pain on society and the role of physical activity for treatment of non-specific low back pain. A review of the literature was carried out using the databases SPORTDiscuss, Medline and Google Scholar. A general exercise programme that combines muscular strength, flexibility and aerobic fitness is beneficial for rehabilitation of non-specific chronic low back pain. Increasing core muscular strength can assist in supporting the lumbar spine. Improving the flexibility of the muscle-tendons and ligaments in the back increases the range of motion and assists with the patient’s functional movement. Aerobic exercise increases the blood flow and nutrients to the soft tissues in the back, improving the healing process and reducing stiffness that can result in back pain. 
 
 **Keywords:** aerobic fitness; non-specific chronic low back pain; pedometer; physical activity 
@@ -31,16 +25,11 @@ Physical activity (PA) to increase aerobic capacity and muscular strength, espec
 
 Eight-five percent of back pain cases have an unknown cause [33], normally diagnosed after undergoing tests such as X-ray, MRI scan and blood tests [34]. Understanding the cause of back 
 
-_Healthcare_ **2016** , _4_ , 22; doi:10.3390/healthcare4020022 
-
-www.mdpi.com/journal/healthcare 
 
 
 
 [page 2]
-_Healthcare_ **2016** , _4_ , 22 
 
-2 of 19 
 
 pain is important in order to remove it from the patient’s life and not to replicate the movement during therapy [35]. However, when the cause of the back pain is unknown, prescribing targeted therapy can prove difficult, and general exercise is often recommended [36]. Typically intervention programmes have adopted a monodisciplinary approach to rehabilitate NSCLBP [15,21,25]. Although promising findings were reported following a multicomponent exercise programme [37]. Thirty-seven patients with NSCLBP were allocated into control, (who just maintained their current rehabilitation programme), or training groups, which combined an additional functional training programme of aerobic exercise, muscular strength and flexibility. Back pain was found to significantly decrease by 52.5% in the training group compared to no significant change in the control group. In addition, disability significantly decreased by 27.3% in the training group according to the Oswestry Disability Index, compared to no significant change in the control group. The aim of this article is to review the effects of PA and exercise interventions involving aerobic exercise, muscular strength and stabilisation exercises and/or flexibility training on NSCLBP to identify effective strategies for treatment. 
 
@@ -71,9 +60,7 @@ Back pain is defined as chronic when the pain remains for longer than three mont
 
 
 [page 3]
-_Healthcare_ **2016** , _4_ , 22 
 
-3 of 19 
 
 sub-acute back pain is back pain for between 6 weeks and 3 months. Forty percent of patients with acute low back pain are at an elevated risk of developing CLBP [41]. 
 
@@ -100,9 +87,7 @@ Aerobic exercise for 20 min on a cycle ergometer at 70% peak oxygen uptake reduc
 
 
 [page 4]
-_Healthcare_ **2016** , _4_ , 22 
 
-4 of 19 
 
 benefits such as improving functional status [64], and reducing the fear of movement [65]. Fear of movement is a predictor for functional limitations [66] and is associated with disability in patients with CLBP [67]. Aerobic exercise can reduce disability and improve the functional status of patients with CLBP by increasing fitness levels, helping patients conduct activities of daily living. 
 
@@ -129,9 +114,7 @@ Exercising at a comfortable intensity for the patient is important in reducing f
 
 
 [page 5]
-_Healthcare_ **2016** , _4_ , 22 
 
-5 of 19 
 
 higher levels of disability [79]. Patients should be encouraged to increase their levels of PA at an intensity that is comfortable for them, and that can be integrated into activities of daily living [53]. Such an approach is more sustainable long term [80]. See Table 1 for a summary of each of the discussed aerobic exercise intervention programmes. 
 
@@ -158,9 +141,7 @@ A reduction in core strength can lead to lumbar instability [82], and lumbar ins
 
 
 [page 6]
-_Healthcare_ **2016** , _4_ , 22 
 
-6 of 19 
 
 CLBP patients [85]. The deep abdominal muscles are essential for supporting the lumbar spine and strengthening these muscles can reduce back pain [86]. 
 
@@ -187,9 +168,7 @@ Ankle dorsiflexion exercises were included in the exercise programme because the
 
 
 [page 7]
-_Healthcare_ **2016** , _4_ , 22 
 
-7 of 19 
 
 The study reported that the experimental group significantly reduced NSCLBP by 32.5% (according to the VAS), 23.2% (Pain Disability Index) and 21.5% (Pain Rating Scale). The control group significantly reduced CLBP by 16.8% (VAS), 12.4% (Pain Disability Index) and 8% (Pain Rating Scale). 
 
@@ -208,9 +187,7 @@ A 12-month exercise programme focused on increasing control of the lumbar neutra
 
 
 [page 8]
-_Healthcare_ **2016** , _4_ , 22 
 
-8 of 19 
 
 decreased by 39%, suggesting exercises focusing on lumbar stability combined with education to be effective at reducing low back pain. However it was suggested that the participants may have reported a reduced lower back pain as they knew they were involved in the intervention group and therefore expected to experience less back pain [23]. 
 
@@ -227,9 +204,7 @@ Finally, a 15-item questionnaire on clinical instability has been identified [11
 
 
 [page 9]
-_Healthcare_ **2016** , _4_ , 22 
 
-9 of 19 
 
 **Table 2.** Muscular strength and stabilisation intervention programmes for NSCLBP patients. 
 
@@ -247,9 +222,7 @@ _Healthcare_ **2016** , _4_ , 22
 
 
 [page 10]
-_Healthcare_ **2016** , _4_ , 22 
 
-10 of 19 
 
 ## 4.2.2. Summary 
 
@@ -276,9 +249,7 @@ A further study researched the effect of a 6-week Pilates programme on hamstring
 
 
 [page 11]
-_Healthcare_ **2016** , _4_ , 22 
 
-11 of 19 
 
 completed during a one hour class each week taught by a certified Pilates Institute Instructor, and two 30 min sessions each week at home without any supervision. The control group did not participate in the Pilates exercises and continued with their normal PA levels. 
 
@@ -301,9 +272,7 @@ The flexibility of the hamstrings significantly increased at post intervention f
 
 
 [page 12]
-_Healthcare_ **2016** , _4_ , 22 
 
-12 of 19 
 
 pain, such as an increase in core strength and aerobic fitness [16,19,23]. However the study [26] did not measure core strength or aerobic fitness. In addition the study [26] suggested improving flexibility could be important for preventing CLBP from occurring, as opposed to using exercises to improve flexibility as a rehabilitation from CLBP. See Table 3 for a summary of each of the discussed flexibility intervention programmes. 
 
@@ -326,19 +295,11 @@ An improvement in lumbar flexibility can increase the range of motion of the spi
 
 
 [page 13]
-_Healthcare_ **2016** , _4_ , 22 
 
-13 of 19 
 
 ## **5. Conclusions** 
 
 Exercise intervention programmes involving either muscular strength, flexibility or aerobic fitness is beneficial for NSCLBP but not acute low back pain. Non-specific acute low back pain patients recover in 4–6 weeks with or without a treatment [5], and exercising should be avoided to reduce the swelling of the affected area [39]. 
 
 NSCLBP is multi factorial in nature [110,120], and no single exercise programme is optimal for all NSCLBP patients [50]. In addition, the most appropriate specific intervention for a NSCLBP patient is often unclear [12], and NSCLBP pain should not been considered as a homogenous condition meaning all cases are identical [121]. This suggests that a specific intervention programme focusing on one area of fitness for a group of NSCLBP patients may not be appropriate. This is a limitation of this review as the NSCLBP patients in the included studies may have responded differently to the exercise interventions. Consequently, a general exercise programme which combines muscular strength, flexibility and aerobic fitness would be beneficial for rehabilitation of NSCLBP. Further research is needed into the benefits of a combined exercise intervention programme involving muscular strength, flexibility and aerobic fitness for NSCLBP patients, as the literature has supported the use of each of these fitness areas individually, but more research should be conducted combining all three. 
-
-**Acknowledgments:** Research funded by the University of St Mark & St John. 
-
-**Author Contributions:** Both authors helped to plan the review. The first author conducted the search for intervention programmes, read and reviewed the articles and completed the manuscript. The second author also read and provided improvements to the manuscript. Both authors approved the final manuscript. 
-
-**Conflicts of Interest:** The authors declare no conflict of interest. 
 

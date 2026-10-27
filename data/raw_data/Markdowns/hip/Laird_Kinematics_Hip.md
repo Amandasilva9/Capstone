@@ -1,15 +1,8 @@
 [page 1]
-Laird et al. BMC Musculoskeletal Disorders 2014, 15:229 http://www.biomedcentral.com/1471-2474/15/229 
-
-<u>Open Access</u> 
-
-
-
-## <u>RESEARCH ARTICLE</u> 
 
 # Comparing lumbo-pelvic kinematics in people with and without back pain: a systematic review and meta-analysis 
 
-Robert A Laird<sup>1,5*</sup> , Jayce Gilbert<sup>2</sup> , Peter Kent<sup>3,4</sup> and Jennifer L Keating<sup>1</sup> 
+
 
 ### Abstract 
 
@@ -27,24 +20,15 @@ Keywords: Low back pain, Movement disorders, Posture, Range of movement, Lordosi
 
 Observation of lumbo-pelvic movement and posture is a basic component of the physical examination of people with low back pain (LBP) [1-4] partly due to a common belief held by clinicians that identifying and correcting movement/postural aberration can improve pain and activity limitation [2,5,6]. Examination of lumbo-pelvic movement typically includes basic kinematic assessments, 
 
-> * Correspondence: robert.laird@monash.edu 
-
-> 1Department of Physiotherapy, Monash University, PO Box 527, Frankston, VIC 3199, Australia 
-
-> 57 Kerry Rd, Warranwood, Melbourne, VIC 3134, Australia Full list of author information is available at the end of the article 
 
 such as range of movement (ROM) and posture. It may also include higher order kinematics such as temporal and sequential patterns during physiological movements, proprioception, muscle activation patterns, postural sway and/or complex functional movements such as walking or lifting. If clinicians aim to ‘normalise’ dysfunctional movement, they need an empirical basis for (i) differentiating between normal and dysfunctional movement, and (ii) determining whether correction of dysfunctional movement might reduce pain and activity limitation. Measurement of movement and posture has been problematic in typical clinical settings due to limitations (practicality, accuracy, 
 
-> © 2014 Laird et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated. 
 
 
 
 [page 2]
-Page 2 of 13 
 
-Laird et al. BMC Musculoskeletal Disorders 2014, 15:229 
 
-http://www.biomedcentral.com/1471-2474/15/229 
 
 comprehensiveness, reliability) of simple measurement tools such as goniometers, tape measures and inclinometers [7]. Advances in technology are creating new opportunities, available for use in typical clinical settings, that measure comprehensive information about the relationship between movement/posture and pain [8-10]. 
 
@@ -54,59 +38,20 @@ A search for reviews on what is known about typical movement in people with and 
 
 systems (i.e. did not use measurements such as X-rays, CT scans); (iii) apply the same procedures to measure people with low back +/-leg pain (LBP group) and people without LBP (NoLBP group), (iv) measure at least one of lumbar lordosis, lumbar range of motion (ROM), speed/acceleration/timing of lumbar +/- hip movement, pelvic tilt angle (as measured by a line drawn from anterior to posterior superior iliac spines with an angle formed relative to horizontal, measured in sitting or standing), pelvic tilt ROM (defined as a range from maximum anterior tilt to maximum posterior tilt), usual sitting pelvic tilt position (i.e. relative to full anterior tilt), lumbar compared with hip contributions to ROM, lumbo-pelvic proprioceptive position/re-position accuracy; (v) report appropriate measurement means (or other point estimates) and variance estimates or data that enable estimation of these values. In order to fully survey published research on lumbo-pelvic movement, no specific definitions of back pain or control (NoLBP) groups were required but the definitions of LBP group, pain intensity and NoLBP group within each study were extracted. Studies were excluded if they (i) included people who had lumbar surgery in the previous 12 months; (ii) reported that subjects had fracture, neurological conditions, metabolic disease, neoplasm, or scoliosis; (iii) measured only whole body movement such as distance from finger-tip-to-floor or (iv) reported insufficient data, e.g. did not report measures of variability. Lead authors were contacted to obtain additional data as required. 
 
-#### Data sources 
-
-Eight electronic databases (MEDLINE, Cochrane Central Register of Controlled Trials (Central), EMBASE, AMI, CINAHL, Scopus, AMED, ISI Web of Science) were searched from inception until January 2014 using a broad search strategy based on relevant medical subject heading (MeSH) terms [18] (see Additional file 1). The search yield was initially screened for eligibility by one reviewer (RL) on title and abstract to remove duplicates and clearly unrelated articles. Following this, two reviewers (RL and JG) independently identified potentially relevant articles based on title and abstract. Full text articles were retrieved and checked for compliance with inclusion and exclusion criteria. References of potentially relevant reports were reviewed for additional papers. Consensus by discussion was then reached on article inclusion. Where disagreement occurred, a third reviewer (JK) was included and discussion continued until consensus was achieved. A flow diagram of the study selection process based on PRISMA recommendations [19] is seen in Figure 1. 
 
 ### Methods 
 
-#### Study selection: inclusion and exclusion criteria 
-
-For inclusion in the review, studies had to (i) assess adults >17 years; (ii) use non-invasive measurement 
-
-#### Data extraction and study quality assessment 
-
-A checklist for data extraction was developed based on those used in a similar review [12] and published quality 
-
-
 
 [page 3]
-Page 3 of 13 
-
-Laird et al. BMC Musculoskeletal Disorders 2014, 15:229 http://www.biomedcentral.com/1471-2474/15/229 
-
-
-
-Figure 1 Flow diagram of study inclusion. 
-
-assessment tools [20-22]. The following study details were extracted: participant age, sex, and source characteristics, inclusion/exclusion criteria, training of testers (profession, experience), measurement methods and procedures (instrument used, instructions to participants, position of testing), the movement characteristics assessed (e.g. range, speed, relative contributions of body segments), pain/function measures, measurements for those with and without back pain (e.g. means, standard deviations). A quality assessment tool, using a similar approach to Mieritz [23], was constructed to determine how each study accounted for possible sources of bias, and if the study provided details on: (i) study population (age, sex, BMI, source), (ii) participant LBP (chronicity, +/- leg pain, specific versus non-specific, pain intensity and activity limitation scores), (iii) measurement procedures (i.e. detail that would enable accurate replication of the experiment, instrument description, standardised movement instructions, movement process description e.g. fixed or free pelvis), (iv) blinding of assessors to the presence of back pain (yes/no), and (vi) whether the same assessment procedures were applied to participants with and without back 
-
-pain (see Additional file 2). Two reviewers independently extracted data, compared results and resolved differences through discussion. 
-
-#### Data synthesis and analysis 
-
-Study details were extracted and summarised (Additional files 3 and 4). For each comparison, standardised mean differences (SMD) between groups with and without LBP were calculated using Revman software [24]. Pooled estimates of overall differences were calculated by meta-analysis of studies that measured a kinematic characteristic using comparable methods. For example studies on flexion ROM were included in a meta-analysis if subjects were standing using angular measurement but excluded if subjects were in other positions (i.e. four point kneeling) or if linear/distance measurements were used. Reasons for exclusion from meta-analysis are found in Additional file 3. A random effects model was used for pooling where fixed effects modeling indicated statistical heterogeneity of the data (Mantel-Haenszel method), as determined by chi-squared and I<sup>2</sup> statistics; otherwise the results of fixed effects modeling was reported [25,26]. 
 
 
 
 [page 4]
-Page 4 of 13 
 
-Laird et al. BMC Musculoskeletal Disorders 2014, 15:229 http://www.biomedcentral.com/1471-2474/15/229 
 
 We also planned to explore the within-group variability in each measured movement characteristic. To estimate whether variability for each movement characteristic differed between groups with and without LBP, a coefficient of variation (CoV) [27] (standard deviation in measurements divided by the group mean) was calculated for each movement parameter using those studies included in the relevant meta-analysis. CoVs were averaged after weighting for sample size. Differences between groups were examined by creating a ratio of weighted averages where ratios >1 indicate greater variability for those with LBP and ratios <1 indicate greater variability for those without LBP. Significant differences in pooled CoVs were examined by estimating 95% confidence intervals for observed ratios. The correlation (Pearson’s r) between effect size and study quality was calculated using STATA (version 12, Stata Corp, College Station, Texas USA). 
 
 ### Results 
-
-#### Search yield 
-
-The search identified 17,276 potentially relevant articles with 13 articles identified from bibliographies of related articles or other sources. Following screening of title and abstract, full texts of 86 articles were retrieved. Forty three studies (45 articles) met the inclusion criteria [28-70]. The study selection process is shown in Figure 1. A summary of included studies can be seen in Additional file 3. A list of studies retrieved in full text and subsequently excluded, and reasons for exclusion, are available from the first author on request. 
-
-(14%), 12-months (14%) or 24-months (7%) pain free to ‘no LBP ever’ (9%). 
-
-#### Quality assessment 
-
-Table 1 lists the domains identified as potential sources of bias in the included studies and the percentage compliance with each item. No studies attempted blinding of assessors to group status, and only one study reported standardizing instructions to participants. The potential influence of study quality on reported differences between groups was examined for all groups. There was no significant correlation observed between total quality assessment scores and the magnitude of SMDs in measurements for those with and without LBP (r = 0.03), There was also no significant difference between individual items of quality assessment and the size of SMD. Results for individual studies are available in Additional file 5. 
 
 #### Movement characteristics 
 
@@ -133,11 +78,8 @@ Lumbar spine versus hip contribution to flexion/extension Six studies examined t
 
 
 [page 5]
-Page 5 of 13 
 
-Laird et al. BMC Musculoskeletal Disorders 2014, 15:229 
 
-http://www.biomedcentral.com/1471-2474/15/229 
 
 Table 1 Quality assessment summary (see Additional files 2 and 5 for item decision rules and scores for each included study) 
 
@@ -181,11 +123,8 @@ Figure 2 Studies comparing lordosis in LBP versus NoLBP groups. Means & standard
 
 
 [page 6]
-Page 6 of 13 
 
-Laird et al. BMC Musculoskeletal Disorders 2014, 15:229 
 
-http://www.biomedcentral.com/1471-2474/15/229 
 
 
 
@@ -212,11 +151,8 @@ Figure 4 Extension ROM meta-analysis.
 
 
 [page 7]
-Page 7 of 13 
 
-Laird et al. BMC Musculoskeletal Disorders 2014, 15:229 
 
-http://www.biomedcentral.com/1471-2474/15/229 
 
 
 
@@ -247,11 +183,8 @@ Figure 6 Rotation ROM meta-analysis.
 
 
 [page 8]
-Page 8 of 13 
 
-Laird et al. BMC Musculoskeletal Disorders 2014, 15:229 
 
-http://www.biomedcentral.com/1471-2474/15/229 
 
 
 
@@ -278,11 +211,8 @@ Figure 8 Meta-analysis of studies comparing pelvic tilt angle in neutral standin
 
 
 [page 9]
-Page 9 of 13 
 
-Laird et al. BMC Musculoskeletal Disorders 2014, 15:229 
 
-http://www.biomedcentral.com/1471-2474/15/229 
 
 
 
@@ -305,11 +235,8 @@ Figure 10 Forest plot of position/reposition differences (raw scores in degrees)
 
 
 [page 10]
-Page 10 of 13 
 
-Laird et al. BMC Musculoskeletal Disorders 2014, 15:229 
 
-http://www.biomedcentral.com/1471-2474/15/229 
 
 Table 2 Summary of pooled standardized mean differences 
 
@@ -361,11 +288,8 @@ Table 3 Differences between the LBP and NoLBP in within-group variability on eac
 
 
 [page 11]
-Page 11 of 13 
 
-Laird et al. BMC Musculoskeletal Disorders 2014, 15:229 
 
-http://www.biomedcentral.com/1471-2474/15/229 
 
 on whether an assessment of movements without reference to pain provides evidence of dysfunction at an individual patient level. The results neither endorse nor disqualify the role of movement assessment for (i) determining the relationship between movement and pain in individual patients, or (ii) monitoring changes in movement characteristics as a means of monitoring progress in individual patients and as an indication of the likelihood of their improvement [87]. Key questions also remain, including (a) are deficits such as reduced proprioception, reduced ROM and speed of movement a result or a cause of LBP, and (b) are these deficits present prior to the development of LBP? 
 
@@ -381,15 +305,6 @@ This paper systematically summarised what is known about differences in measurem
 
 angle (8 studies), (ii) a reduction of lumbar ROM in all directions of movement (26 studies), (iii) no difference in lumbar versus hip ROM contribution to full flexion (4 studies), (iv) no difference in pelvic tilt angle in standing (3 studies), (v) slower lumbar movement (7 studies), and (vi) poorer proprioception on position-reposition accuracy (15 studies). There is greater movement variability for people with LBP for flexion, lateral flexion and rotation ROM, and speed of movement, but this is not apparent for other movement characteristics. So put simply, when considered collectively, people with LBP have reduced lumbar ROM, move more slowly and have reduced proprioception compared with people without low back pain. 
 
-### Additional files 
-
-|Additional file 1: Search strategy medline.|
-|---|
-|Additional file 2: Quality assessment.|
-|Additional file 3: Categories of included studies.|
-|Additional file 4: Characteristics of included studies.|
-|Additional file 5: Quality assessment.|
-|Additional file 6: Summary of studies examining lumbar<br>proprioception.|
 
 
 
@@ -397,25 +312,4 @@ angle (8 studies), (ii) a reduction of lumbar ROM in all directions of movement 
 
 LBP: Low back pain; ROM: Range of motion; SMD: Standardised mean difference; NoLBP: People without low back pain. 
 
-##### Competing interests 
-
-No funding was received for this systematic review. No benefits in any form have been, or will be, received from a commercial party related directly or indirectly to the subject of this paper. This paper does not contain information about medical devices or drugs. The authors do not hold stocks or shares in any company that might be directly or indirectly affected by this review. No patents have been applied for or received due to the content of this review. There are no non-financial competing interests associated with this review. 
-
-##### Authors’ contributions 
-
-RL and JG contributed to data collection. RL and JG performed data inclusion and extraction with JK providing arbitration when required. All authors were involved in the design of the review, analysis and interpretation of data, drafting and revision of the manuscript, and gave approval of the final manuscript. 
-
-##### Acknowledgements 
-
-None. 
-
-##### Author details 
-
-> 1Department of Physiotherapy, Monash University, PO Box 527, Frankston, VIC 3199, Australia.<sup>2</sup> Peak MSK Physiotherapy, Suite 4/544 Hampton St, Hampton, VIC 3188, Australia.<sup>3</sup> Department of Sports Science and Clinical Biomechanics, University of Southern Denmark, Odense 5230, Denmark. 
-
-> 4Research Department, Spine Centre of Southern Denmark, Lillebaelt Hospital, Institute of Regional Health Services Research, University of Southern Denmark, Middelfart 5500, Denmark.<sup>5</sup> 7 Kerry Rd, Warranwood, Melbourne, VIC 3134, Australia. 
-
-Received: 13 May 2014 Accepted: 1 July 2014 
-
-Published: 10 July 2014 
 
