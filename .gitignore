@@ -34,4 +34,4 @@ Thumbs.db
 .idea/ 
 
 # Raw_data
-raw_data/pdfs/
+data/raw_data/pdfs/

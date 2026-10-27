@@ -280,19 +280,4 @@ https://goniometer.io/range-of-motion
 
 
 [page 8]
-Normal Range of Motion (ROM) Values — AAOS Chart by Joint (Printable PDF) 
-
-10/6/26, 1:17 PM 
-
-Guides ROM values 
-
-Accuracy Pro About Support Privacy Español 
-
-App Store 
-
-Home 
-
-https://goniometer.io/range-of-motion 
-
-8/8 
 

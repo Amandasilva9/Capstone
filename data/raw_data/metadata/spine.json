@@ -66,8 +66,7 @@
         "posture",
         "pain reduction",
         "ROM",
-        "kinetic chain",
-        "ROM"
+        "kinetic chain"
       ],
       "pdf_path": "data/raw_data/pdfs/spine/Spine_Pain_with_posture.pdf",
       "markdown_path": "data/raw_data/markdown/spine/Spine_Pain_with_posture.md",

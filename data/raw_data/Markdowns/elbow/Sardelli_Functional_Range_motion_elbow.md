@@ -212,39 +212,3 @@ Department of Orthopaedics, University of Utah School of Medicine, 590 Wakara Wa
 
 Bruce A. MacWilliams, PhD Movement Analysis Laboratory, Shriners Hospitals for Children, Fairfax Road at Virginia Street, Salt Lake City, UT 84103. E-mail address: bmacwilliams@shrinenet.org 
 
-### References 
-
-1. <u>Boone DC, Azen SP. Normal range of motion of joints in male subjects. J Bone Joint Surg Am. 1979;61:756-9.</u> 2. <u>Ayoub MA, Ayoub MM, Ramsay JD. A stereometric system for measuring human motion. Hum Factors. 1970;12:523-35.</u> 
-
-3. <u>Engen TJ, Spencer WA. Method of kinematic study of normal upper extremity movements. Arch Phys Med Rehabil. 1968;49:9-12.</u> 
-
-4. <u>Morrey BF, Chao EY. Passive motion of the elbow joint. J Bone Joint Surg Am. 1976;58:501-8.</u> 
-
-5. <u>Morrey BF, Askew LJ, Chao EY. A biomechanical study of normal functional elbow motion. J Bone Joint Surg Am. 1981;63:872-7.</u> 
-
-6. <u>Safaee-Rad R, Shwedyk E, Quanbury AO, Cooper JE. Normal functional range of motion of upper limb joints during performance of three feeding activities. Arch Phys Med Rehabil. 1990;71:505-9.</u> 
-
-7. <u>Magermans DJ, Chadwick EK, Veeger HE, van der Helm FC. Requirements for upper extremity motions during activities of daily living. Clin Biomech (Bristol, Avon). 2005;20:591-9.</u> 
-
-8. <u>Henmi S, Yonenobu K, Masatomi T, Oda K. A biomechanical study of activities of daily living using neck and upper limbs with an optical three-dimensional motion analysis system. Mod Rheumatol. 2006;16:289-93.</u> 
-
-9. Pieniazek M, Chwa1a W, Szczechowicz J, Pelczar-Pieniazek M. Upper limb joint mobility ranges during activities of daily living determined by three-dimensional motion analysis—preliminary report. Ortop Traumatol Rehabil. 2007;9:413-22. 10. Raiss P, Rettig O, Wolf S, Loew M, Kasten P. [Range of motion of shoulder and elbow in activities of daily life in 3D motion analysis]. Z Orthop Unfall. 2007;145:493-8. German. 
-
-11. van Andel CJ, Wolterbeek N, Doorenbosch CA, Veeger DH, Harlaar J. Complete 3D kinematics of upper extremity functional tasks. Gait Posture. 2008;27:120-7. 12. Ehara Y, Fujimoto H, Miyazaki S, Tanaka S, Yamamoto S. Comparison of the performance of 3D camera systems. Gait Posture. 1995;3:166-9. 
-
-13. Ehara Y, Fujimoto H, Miyazaki S, Mochimaru M, Tanaka S, Yamamoto S. Comparison of the performance of 3D camera systems. Gait Posture. 1997;5: 251-5. 
-
-14. MacWilliams BA, Sardelli MC, Tashjian RZ. A functional axis based upper extremity model and associated calibration procedures. Gait Posture. 2010;31: 289-91. 
-
-15. <u>Hassan EA, Jenkyn TR, Dunning CE. Direct comparison of kinematic data collected using an electromagnetic tracking system versus a digital optical system. J Biomech. 2007;40:930-5.</u> 
-
-16. <u>Wu G, van der Helm FC, Veeger HE, Makhsous M, Van Roy P, Anglin C, Nagels J, Karduna AR, McQuade K, Wang X, Werner FW, Buchholz B; International Society of Biomechanics. ISB recommendation on definitions of joint coordinate systems of</u> 
-
-<u>various joints for the reporting of human joint motion—part II: shoulder, elbow, wrist and hand. J Biomech. 2005;38:981-92.</u> 
-
-17. O’Driscoll SW, An KN, Korinek S, Morrey BF. Kinematics of semi-constrained total elbow arthroplasty. J Bone Joint Surg Br. 1992;74:297-9. 
-
-18. <u>Shaaban H, Pereira C, Williams R, Lees VC. The effect of elbow position on the range of supination and pronation of the forearm. J Hand Surg Eur Vol. 2008;33: 3-8.</u> 
-
-19. <u>Vasen AP, Lacey SH, Keith MW, Shaffer JW. Functional range of motion of the elbow. J Hand Surg Am. 1995;20:288-92.</u> 
-

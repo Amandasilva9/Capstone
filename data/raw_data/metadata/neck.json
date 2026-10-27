@@ -17,7 +17,7 @@
       "keywords": [
         "ROM",
         "kinematics",
-        "normative values"
+        "clinical baseline"
       ],
       "pdf_path": "data/raw_data/pdfs/neck/Graaf_Neck_range_of_motion.pdf",
       "markdown_path": "data/raw_data/markdown/neck/Graaf_Neck_range_of_motion.md",
@@ -41,8 +41,7 @@
       "keywords": [
         "pain reduction",
         "mobilization",
-        "manipulation",
-        "manual therapy"
+        "non-stretching intervention"
       ],
       "pdf_path": "data/raw_data/pdfs/neck/Gross_Neck_Mobilisation.pdf",
       "markdown_path": "data/raw_data/markdown/neck/Gross_Neck_Mobilisation.md",
@@ -66,7 +65,7 @@
       "keywords": [
         "kinematics",
         "pain reduction",
-        "biomechanics",
+        "clinical baseline",
         "forward head posture",
         "posture"
       ],
@@ -90,7 +89,6 @@
       "doi": "10.3390/jcm9103300",
       "study_type": "systematic review",
       "keywords": [
-        "dry needling",
         "myofascial release",
         "pain reduction",
         "muscle tension",

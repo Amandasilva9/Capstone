@@ -42,8 +42,7 @@
         "PNF",
         "static stretching",
         "ROM",
-        "flexibility",
-        "moderating variables"
+        "flexibility"
       ],
       "pdf_path": "data/raw_data/pdfs/general/Chronic_effects_of_streching_General.pdf",
       "markdown_path": "data/raw_data/markdown/general/Chronic_effects_of_streching_General.md",
@@ -117,10 +116,10 @@
       "source_id": "general/Normal_ROM_with_Variations",
       "title": "Normal Joint Range of Motion (ROM) and Variations Within Normal Limits in Physiotherapy",
       "authors": [
-        "MystPhysio"
+        "Raushan Kumar"
       ],
       "year": 2026,
-      "journal": "Raushan Kumar",
+      "journal": "MystPhysio",
       "doi": "",
       "study_type": "Clinical Guide",
       "keywords": [
@@ -133,7 +132,7 @@
       "notes": "Summarizes standard ROM values across major joints while detailing expected variations within standard limits commonly encountered in a physical therapy setting."
     },
     {
-      "source_id": "ankle/Takeuchi_LongTerm_Ankle_stretching",
+      "source_id": "general/Takeuchi_LongTerm_Ankle_stretching",
       "title": "The Effects of Long-Term Ankle Stretching on Range of Motion",
       "authors": [
         "Kousuke Takeuchi",
@@ -148,13 +147,13 @@
         "ROM",
         "muscle stiffness"
       ],
-      "pdf_path": "data/raw_data/pdfs/ankle/Takeuchi_LongTerm_Ankle_stretching.pdf",
-      "markdown_path": "data/raw_data/markdown/ankle/Takeuchi_LongTerm_Ankle_stretching.md",
+      "pdf_path": "data/raw_data/pdfs/general/Takeuchi_LongTerm_Ankle_stretching.pdf",
+      "markdown_path": "data/raw_data/markdown/general/Takeuchi_LongTerm_Ankle_stretching.md",
       "page_count": 11,
       "notes": "Analyzes the impacts of prolonged ankle dorsiflexion stretching interventions on both joint mobility and underlying structural changes."
     },
     {
-      "source_id": "hip/Page_Stretching_for_rehabilition_Hip",
+      "source_id": "general/Page_Stretching_for_rehabilition_Hip",
       "title": "Current Concepts in Muscle Stretching for Exercise and Rehabilitation",
       "authors": ["Phil Page"],
       "year": 2012,
@@ -164,11 +163,10 @@
       "keywords": [
         "static stretching",
         "ROM",
-        "dynamic stretching",
-        "pre-contraction stretching"
+        "dynamic stretching"
       ],
-      "pdf_path": "data/raw_data/pdfs/hip/Page_Stretching_for_rehabilition_Hip.pdf",
-      "markdown_path": "data/raw_data/markdown/hip/Page_Stretching_for_rehabilition_Hip.md",
+      "pdf_path": "data/raw_data/pdfs/general/Page_Stretching_for_rehabilition_Hip.pdf",
+      "markdown_path": "data/raw_data/markdown/general/Page_Stretching_for_rehabilition_Hip.md",
       "page_count": 11,
       "notes": "Provides a comprehensive overview of stretching techniques, including static, dynamic, and pre-contraction stretching"
     }
