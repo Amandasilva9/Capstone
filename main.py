@@ -86,33 +86,3 @@ class Scan(BaseModel):
     views: dict[str, ScanView]
 
 
-# Recommend
-# takes a full body scan, checks every angle against the healthy ranges,
-# and sends back a report card of anything out of range + stretches
-@app.post("/recommend")
-def recommend(scan: Scan):
-    flags = []
-
-    # walk through every view (front/left/right/back) and every angle in it
-    for view_name, view in scan.views.items():
-        for angle_name, value in view.angles.items():
-            key = f"{view_name}.{angle_name}"
-            if key not in BASELINE_RANGES:
-                continue  # no rule for this angle yet - skip it, don't crash
-            low, high = BASELINE_RANGES[key]
-            if not (low <= value <= high):
-                flags.append({
-                    "view": view_name,
-                    "angle": angle_name,
-                    "measured": value,
-                    "healthy_range": [low, high],
-                })
-
-    # the report card the frontend displays
-    return {
-        "test": scan.test,
-        "capturedAt": scan.capturedAt,
-        "flags": flags,
-        "restricted": len(flags) > 0,
-        "stretches": ["placeholder stretch 1", "placeholder stretch 2"],
-    }
