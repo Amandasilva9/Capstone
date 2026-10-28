@@ -11,7 +11,7 @@
       "study_type": "literature review",
       "keywords": ["foam rolling", "myofascial release", "joint mobilization", "non-stretching intervention"],
       "pdf_path": "data/raw_data/pdfs/ankle/Grieve_effects_of_foam_rolling.pdf",
-      "markdown_path": "data/raw_data/markdown/ankle/Grieve_effects_of_foam_rolling.md",
+      "markdown_path": "data/clean_data/markdowns_clean/ankle/Grieve_effects_of_foam_rolling.md",
       "page_count": 7,
       "notes": "Justifies foam rolling as a warm-up or alternative for users who experience muscle tightness without altering tissue strength."
     },
@@ -25,7 +25,7 @@
       "study_type": "systematic review",
       "keywords": ["instability", "mobilization", "tightness"],
       "pdf_path": "data/raw_data/pdfs/ankle/Hyunjoong_Effect_Joint_Mobilization_Ankle.pdf",
-      "markdown_path": "data/raw_data/markdown/ankle/Hyunjoong_Effect_Joint_Mobilization_Ankle.md",
+      "markdown_path": "data/clean_data/markdowns_clean/ankle/Hyunjoong_Effect_Joint_Mobilization_Ankle.md",
       "page_count": 10,
       "notes": "Justifies manual glides when joint stiffness is present for restoring dorsiflexion."
     },
@@ -39,7 +39,7 @@
       "study_type": "systematic review",
       "keywords": ["kinetic chain", "ROM"],
       "pdf_path": "data/raw_data/pdfs/ankle/Lima_ankle_to_knee_relation.pdf",
-      "markdown_path": "data/raw_data/markdown/ankle/Lima_ankle_to_knee_relation.md",
+      "markdown_path": "data/clean_data/markdowns_clean/ankle/Lima_ankle_to_knee_relation.md",
       "page_count": 9,
       "notes": "Explains why fixing a 5° ankle limitation matters—preventing knee collapse and lower-limb injury during dynamic movements (squats, jumps)."
     },
@@ -53,7 +53,7 @@
       "study_type": "systematic review",
       "keywords": ["static stretching", "ballistic stretching", "PNF","stretching protocol"],
       "pdf_path": "data/raw_data/pdfs/ankle/Medeiros_chronic_effect_of_stretching_dorsiflexion.pdf",
-      "markdown_path": "data/raw_data/markdown/ankle/Medeiros_chronic_effect_of_stretching_dorsiflexion.md",
+      "markdown_path": "data/clean_data/markdowns_clean/ankle/Medeiros_chronic_effect_of_stretching_dorsiflexion.md",
       "page_count": 8,
       "notes": "Quantifies exact degree gains (+5.17° for static stretching) and instructs the LLM to recommend static/PNF over ballistic stretching."
     },
@@ -67,7 +67,7 @@
       "study_type": "systematic review",
       "keywords": ["clinical baseline","stretching protocol","non-stretching intervention"],
       "pdf_path": "data/raw_data/pdfs/ankle/Young_increasing_ankle_joint_dorsiflexion.pdf",
-      "markdown_path": "data/raw_data/markdown/ankle/Young_increasing_ankle_joint_dorsiflexion.md",
+      "markdown_path": "data/clean_data/markdowns_clean/ankle/Young_increasing_ankle_joint_dorsiflexion.md",
       "page_count": 10,
       "notes": "Establishes clinical cutoffs for ankle restriction (<10° equinus) and validates combination protocols (e.g., heat/stretching)."
     }

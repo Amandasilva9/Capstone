@@ -18,7 +18,7 @@
         "ROM"
       ],
       "pdf_path": "data/raw_data/pdfs/spine/Gordon_Activity_to_reduce_Pain_Spine.pdf",
-      "markdown_path": "data/raw_data/markdown/spine/Gordon_Activity_to_reduce_Pain_Spine.md",
+      "markdown_path": "data/clean_data/markdowns_clean/spine/Gordon_Activity_to_reduce_Pain_Spine.md",
       "page_count": 19,
       "notes": "Highlights that general exercise programs combining muscular strength, flexibility, and aerobic fitness are beneficial for the rehabilitation of non-specific chronic low back pain, providing foundational justification for movement-based therapy."
     },
@@ -44,7 +44,7 @@
         "ROM"
       ],
       "pdf_path": "data/raw_data/pdfs/spine/Maatta_Thoracic_Spine_Mobility_Increase_Pain.pdf",
-      "markdown_path": "data/raw_data/markdown/spine/Maatta_Thoracic_Spine_Mobility_Increase_Pain.md",
+      "markdown_path": "data/clean_data/markdowns_clean/spine/Maatta_Thoracic_Spine_Mobility_Increase_Pain.md",
       "page_count": 10,
       "notes": "Demonstrates that reduced lower thoracic extension mobility is clinically correlated with higher pain scores. Useful for the RAG to explain why it recommends thoracic extension drills."
     },
@@ -69,7 +69,7 @@
         "kinetic chain"
       ],
       "pdf_path": "data/raw_data/pdfs/spine/Spine_Pain_with_posture.pdf",
-      "markdown_path": "data/raw_data/markdown/spine/Spine_Pain_with_posture.md",
+      "markdown_path": "data/clean_data/markdowns_clean/spine/Spine_Pain_with_posture.md",
       "page_count": 9,
       "notes": "Critically links two different joints in your RAG (spine and shoulder). Indicates that reducing thoracic kyphosis facilitates greater shoulder ROM, allowing your recommendation engine to suggest thoracic extensions to fix overhead shoulder limitations."
     },
@@ -98,7 +98,7 @@
         "pain reduction"
       ],
       "pdf_path": "data/raw_data/pdfs/spine/Wiewelhove_Foam_Rolling_Recovery_spine.pdf",
-      "markdown_path": "data/raw_data/markdown/spine/Wiewelhove_Foam_Rolling_Recovery_spine.md",
+      "markdown_path": "data/clean_data/markdowns_clean/spine/Wiewelhove_Foam_Rolling_Recovery_spine.md",
       "page_count": 15,
       "notes": "Validates self-myofascial release (foam rolling) for short-term flexibility improvements and muscle pain recovery. Perfect for justifying foam rolling prescriptions within the app's recovery recommendations."
     }

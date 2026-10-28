@@ -21,7 +21,7 @@
         "dynamic stretching"
         ],
       "pdf_path": "data/raw_data/pdfs/general/Behm_Acute_Effects_Various_Stretching_General.pdf",
-      "markdown_path": "data/raw_data/markdown/general/Behm_Acute_Effects_Various_Stretching_General.md",
+      "markdown_path": "data/clean_data/markdowns_clean/general/Behm_Acute_Effects_Various_Stretching_General.md",
       "page_count": 16,
       "notes": "Evaluates the acute effects of different stretching techniques and durations on range of motion and physical performance. Emphasizes that long-duration static stretching enhances ROM but can impair performance, whereas dynamic stretching improves readiness with minimal ROM gains."
     },
@@ -45,7 +45,7 @@
         "flexibility"
       ],
       "pdf_path": "data/raw_data/pdfs/general/Chronic_effects_of_streching_General.pdf",
-      "markdown_path": "data/raw_data/markdown/general/Chronic_effects_of_streching_General.md",
+      "markdown_path": "data/clean_data/markdowns_clean/general/Chronic_effects_of_streching_General.md",
       "page_count": 9,
       "notes": "Concludes that PNF or static stretching should be used to maximize long-term ROM, and demonstrates that variables like volume, intensity, and frequency play a lesser role than technique."
     },
@@ -68,7 +68,7 @@
        "flexibility"
       ],
       "pdf_path": "data/raw_data/pdfs/general/Effect_Stretching_Training_General.pdf",
-      "markdown_path": "data/raw_data/markdown/general/Effect_Stretching_Training_General.md",
+      "markdown_path": "data/clean_data/markdowns_clean/general/Effect_Stretching_Training_General.md",
       "page_count": 19,
       "notes": "Foundational biomechanics study demonstrating that chronic stretching training primarily affects the viscosity (decreasing hysteresis) but not the elasticity of human tendon structures."
     },
@@ -89,7 +89,7 @@
         "non-stretching intervention"
       ],
       "pdf_path": "data/raw_data/pdfs/general/MarinezAranda_Effects_Of_Myofascial_Release.pdf",
-      "markdown_path": "data/raw_data/markdown/general/MarinezAranda_Effects_Of_Myofascial_Release.md",
+      "markdown_path": "data/clean_data/markdowns_clean/general/MarinezAranda_Effects_Of_Myofascial_Release.md",
       "page_count": 31,
       "notes": "Determines that self-myofascial release (SMR) and foam rolling have acute positive effects on flexibility and range of motion without impairing muscle performance during maximal strength and power actions."
     },
@@ -108,7 +108,7 @@
         "clinical baseline"
       ],
       "pdf_path": "data/raw_data/pdfs/general/Normal_ROM_General.pdf",
-      "markdown_path": "data/raw_data/markdown/general/Normal_ROM_General.md",
+      "markdown_path": "data/clean_data/markdowns_clean/general/Normal_ROM_General.md",
       "page_count": 8,
       "notes": "The primary clinical reference standard establishing normal baseline limits for all human joint measurements via goniometry. Crucial for defining the healthy threshold parameters"
     },
@@ -127,7 +127,7 @@
         "variations"
       ],
       "pdf_path": "data/raw_data/pdfs/general/Normal_ROM_with_Variations.pdf",
-      "markdown_path": "data/raw_data/markdown/general/Normal_ROM_with_Variations.md",
+      "markdown_path": "data/clean_data/markdowns_clean/general/Normal_ROM_with_Variations.md",
       "page_count": 14,
       "notes": "Summarizes standard ROM values across major joints while detailing expected variations within standard limits commonly encountered in a physical therapy setting."
     },
@@ -148,7 +148,7 @@
         "muscle stiffness"
       ],
       "pdf_path": "data/raw_data/pdfs/general/Takeuchi_LongTerm_Ankle_stretching.pdf",
-      "markdown_path": "data/raw_data/markdown/general/Takeuchi_LongTerm_Ankle_stretching.md",
+      "markdown_path": "data/clean_data/markdowns_clean/general/Takeuchi_LongTerm_Ankle_stretching.md",
       "page_count": 11,
       "notes": "Analyzes the impacts of prolonged ankle dorsiflexion stretching interventions on both joint mobility and underlying structural changes."
     },
@@ -166,7 +166,7 @@
         "dynamic stretching"
       ],
       "pdf_path": "data/raw_data/pdfs/general/Page_Stretching_for_rehabilition_Hip.pdf",
-      "markdown_path": "data/raw_data/markdown/general/Page_Stretching_for_rehabilition_Hip.md",
+      "markdown_path": "data/clean_data/markdowns_clean/general/Page_Stretching_for_rehabilition_Hip.md",
       "page_count": 11,
       "notes": "Provides a comprehensive overview of stretching techniques, including static, dynamic, and pre-contraction stretching"
     }

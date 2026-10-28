@@ -4,11 +4,6 @@ Step 3: chunk one joint's articles into JSONL for embedding.
 Usage:
     python chunk.py elbow                 # chunks every article in markdown/elbow/
     python chunk.py elbow --sample 8      # stats + 8 random chunks from the result
-
-Expected layout (edit the three paths below to match yours):
-    MARKDOWN_ROOT/<joint>/<source_id>.md      parsed articles from step 2
-    METADATA_DIR/<joint>.json                 {"<source_id>": {"title":..., "year":..., "topic":..., "study_type":...}, ...}
-    OUTPUT_DIR/<joint>.jsonl                  output, one chunk per line
 """
 import json
 import random
@@ -16,21 +11,22 @@ import re
 import sys
 from pathlib import Path
 from transformers import AutoTokenizer
+from paths import CLEAN_MD, METADATA, CHUNKS
 
 
 BASE = Path(__file__).resolve().parent
-MARKDOWN_ROOT = "data/raw_data/Markdowns"      # contains one subfolder per joint
-METADATA_DIR = "data/raw_data/metadata"       # one <joint>.json per joint, covering that joint's articles
-OUTPUT_DIR =  "data/chunks/"    # every joint's .jsonl ends up here
+MARKDOWN_ROOT = CLEAN_MD    # contains one subfolder per joint
+METADATA_DIR =  METADATA      # one <joint>.json per joint, covering that joint's articles
+OUTPUT_DIR =  CHUNKS   # every joint's .jsonl ends up here
 
 MARKDOWN_ROOT, METADATA_DIR, OUTPUT_DIR = Path(MARKDOWN_ROOT), Path(METADATA_DIR), Path(OUTPUT_DIR)
 
-MAX_TOK = 450        # hard-ish ceiling (only a single table/sentence can exceed it)
+MAX_TOK = 420        # hard-ish ceiling (only a single table/sentence can exceed it)
 MIN_MERGE = 150      # sections smaller than this get merged into the next one
 OVERLAP_TOK = 60     # tail of previous chunk repeated at start of the next (text only)
 
 #originally usedd tiktoken for higher speeds but the embedding model BAAI/bge-small-en-v1.5 works better with a huggingface tokenizer as well
-_tok = AutoTokenizer.from_pretrained("BAAI/bge-m3", model_max_length=1_000_000)
+_tok = AutoTokenizer.from_pretrained("BAAI/bge-small-en-v1.5", model_max_length=1_000_000)
 
 
 def ntok(s):
@@ -176,7 +172,10 @@ def pack(blocks):
 #It runs the text through the parsing, sectioning, merging, and packing functions to create the final chunks, which are then returned as a list of dictionaries with the relevant metadata and chunk information
 def chunk_document(source_id, text, meta):
     recs = []
-    for sec in merge_small(to_sections(parse_blocks(text))):
+    blocks = parse_blocks(text)
+    # drop tables too big to embed whole; small tables (e.g. ROM norms) are kept
+    blocks = [b for b in blocks if not (b["kind"] == "table" and ntok(b["text"]) > LIMIT)]
+    for sec in merge_small(to_sections(blocks)):
         for blocks in pack(sec["blocks"]):
             body = "\n\n".join(b["text"] for b in blocks)
             recs.append({
@@ -190,7 +189,6 @@ def chunk_document(source_id, text, meta):
                 "source_id": source_id,
                 "title": meta.get("title"),
                 "year": meta.get("year"),
-                "topic": meta.get("topic"),
                 "study_type": meta.get("study_type"),
                 "journal": meta.get("journal"),
                 "doi": meta.get("doi"),
@@ -229,7 +227,7 @@ def run(joint):
     if not mf.exists():
         sys.exit(f"No metadata file {mf}")
     meta_all = load_metadata(mf)
-    OUTPUT_DIR.mkdir(exist_ok=True)
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)      # change 1: parents=True
     out_path = OUTPUT_DIR / f"{joint}.jsonl"
     n = 0
     with open(out_path, "w", encoding="utf-8") as f:
@@ -241,8 +239,11 @@ def run(joint):
             if not meta:
                 print(f"WARNING: no entry for '{sid}' in {mf.name}. Entries are: {sorted(meta_all)}", file=sys.stderr)
                 meta = {}
-            meta = {"topic": joint, **meta}
-            recs = chunk_document(meta.get("source_id", sid), p.read_text(encoding="utf-8"), meta)
+            elif meta.get("reviewed") is False:        # change 2: flag unreviewed metadata
+                print(f"NOTE: metadata for '{sid}' not reviewed yet", file=sys.stderr)
+            # change 3: no more meta = {"topic": joint, **meta}
+            source_id = meta.get("source_id") or f"{joint}/{sid}"   # change 4: joint-safe fallback
+            recs = chunk_document(source_id, p.read_text(encoding="utf-8"), meta)
             print(f"  {sid}: {len(recs)} chunks")
             for r in recs:
                 r["joint"] = joint
@@ -262,7 +263,7 @@ def sample(path, k):
           f"under 100: {sum(t < 100 for t in toks)} | with tables: {sum(r['has_table'] for r in recs)}")
     big = [r for r in recs if r["token_count"] > MAX_TOK and not r["has_table"]]
     print(f"oversized NON-table chunks (bug): {len(big)}")
-    no_meta = [r for r in recs if not all(r[k] is not None for k in ("title", "year", "topic", "study_type"))]
+    no_meta = [r for r in recs if not all(r[k] is not None for k in ("title", "year", "joint", "study_type"))]
     print(f"chunks with missing metadata: {len(no_meta)}")
     for r in random.sample(recs, min(k, len(recs))):
         print("\n" + "=" * 80)

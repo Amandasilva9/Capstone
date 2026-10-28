@@ -22,7 +22,7 @@
        "non-stretching interventions"
       ],
       "pdf_path": "data/raw_data/pdfs/shoulder/CeballosLaita_Streching_to_increase_mobility.pdf",
-      "markdown_path": "data/raw_data/markdown/shoulder/CeballosLaita_Streching_to_increase_mobility.md",
+      "markdown_path": "data/clean_data/markdowns_clean/shoulder/CeballosLaita_Streching_to_increase_mobility.md",
       "page_count": 17,
       "notes": "Crucial for identifying and addressing GIRD (Glenohumeral Internal Rotation Deficit), a common limitation in overhead populations. Provides specific stretching protocols for internal rotation deficits."
     },
@@ -47,7 +47,7 @@
         "pain reduction"
       ],
       "pdf_path": "data/raw_data/pdfs/shoulder/Cools_Rehabilitation_of_shoulder_for_overhead.pdf",
-      "markdown_path": "data/raw_data/markdown/shoulder/Cools_Rehabilitation_of_shoulder_for_overhead.md",
+      "markdown_path": "data/clean_data/markdowns_clean/shoulder/Cools_Rehabilitation_of_shoulder_for_overhead.md",
       "page_count": 8,
       "notes": "Outlines foundational scapular and rotator cuff exercises. Excellent for generating progressive rehab-style exercise interventions."
     },
@@ -71,7 +71,7 @@
         "kinematics"
       ],
       "pdf_path": "data/raw_data/pdfs/shoulder/Spanhove_Kinematics_Shoulder.pdf",
-      "markdown_path": "data/raw_data/markdown/shoulder/Spanhove_Kinematics_Shoulder.md",
+      "markdown_path": "data/clean_data/markdowns_clean/shoulder/Spanhove_Kinematics_Shoulder.md",
       "page_count": 12,
       "notes": "Reports on the problems around having shoulder instability and how it affects the kinetic chain. Provides a strong rationale for the RAG to recommend exercises that target scapular stability and rotator cuff strength."
     },
@@ -94,7 +94,7 @@
         "pain reduction"
       ],
       "pdf_path": "data/raw_data/pdfs/shoulder/ZavalaGonzalez_Joint_moblization_techniques.pdf",
-      "markdown_path": "data/raw_data/markdown/shoulder/ZavalaGonzalez_Joint_moblization_techniques.md",
+      "markdown_path": "data/clean_data/markdowns_clean/shoulder/ZavalaGonzalez_Joint_moblization_techniques.md",
       "page_count": 46,
       "notes": "Provides data on manual mobilization for frozen shoulder (adhesive capsulitis). Gives the RAG a strong rationale to recommend manual therapy when ROM is limited and stretching alone is insufficient."
     }

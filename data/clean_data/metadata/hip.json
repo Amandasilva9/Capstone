@@ -16,7 +16,7 @@
       "study_type": "systematic review",
       "keywords": ["pain reduction", "ROM", "coordination", "kinetic chain"],
       "pdf_path": "data/raw_data/pdfs/hip/Laird_Kinematics_Hip.pdf",
-      "markdown_path": "data/raw_data/markdown/hip/Laird_Kinematics_Hip.md",
+      "markdown_path": "data/clean_data/markdowns_clean/hip/Laird_Kinematics_Hip.md",
       "page_count": 13,
       "notes": "Discusses kinematics and coordination of the lumbar spine, pelvis, and hip in populations with low back pain."
     },
@@ -35,7 +35,7 @@
         "kinematics"
       ],
       "pdf_path": "data/raw_data/pdfs/hip/Powers_Bad_Hip_Cause_Knee_injury.pdf",
-      "markdown_path": "data/raw_data/markdown/hip/Powers_Bad_Hip_Cause_Knee_injury.md",
+      "markdown_path": "data/clean_data/markdowns_clean/hip/Powers_Bad_Hip_Cause_Knee_injury.md",
       "page_count": 10,
       "notes": "Outlines a biomechanical argument for the incorporation of pelvis/trunk stability and dynamic hip joint control into knee rehabilitation."
     },
@@ -59,7 +59,7 @@
         "PNF"
       ],
       "pdf_path": "data/raw_data/pdfs/hip/The Relation Between Stretching Typology and Stretching Duration - The Effects on Range of Motion.pdf",
-      "markdown_path": "data/raw_data/markdown/hip/The Relation Between Stretching Typology and Stretching Duration - The Effects on Range of Motion.md",
+      "markdown_path": "data/clean_data/markdowns_clean/hip/The Relation Between Stretching Typology and Stretching Duration - The Effects on Range of Motion.md",
       "page_count": 12,
       "notes": "Evaluates data indicating the effects of different stretching typologies and duration per week to promote Range of Motion improvements."
     }

@@ -1,0 +1,8 @@
+Pipline rework: 
+
+Script	Reads	Writes
+extract.py	RAW_PDFS/<joint>	RAW_MD/<joint>
+clean.py	RAW_MD/<joint>	CLEAN_MD/<joint>
+make_metadata.py	CLEAN_MD/<joint>	METADATA/<joint>.json
+chunk.py	CLEAN_MD/<joint> + METADATA/<joint>.json	CHUNKS/<joint>.jsonl
+embed.py	CHUNKS/*.jsonl	CHROMA_DIR

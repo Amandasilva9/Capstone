@@ -20,7 +20,7 @@
         "clinical baseline"
       ],
       "pdf_path": "data/raw_data/pdfs/neck/Graaf_Neck_range_of_motion.pdf",
-      "markdown_path": "data/raw_data/markdown/neck/Graaf_Neck_range_of_motion.md",
+      "markdown_path": "data/clean_data/markdowns_clean/neck/Graaf_Neck_range_of_motion.md",
       "page_count": 11,
       "notes": "Establishes baseline normative values for cervical ROM across different age groups, critical for identifying pathological restriction."
     },
@@ -44,7 +44,7 @@
         "non-stretching intervention"
       ],
       "pdf_path": "data/raw_data/pdfs/neck/Gross_Neck_Mobilisation.pdf",
-      "markdown_path": "data/raw_data/markdown/neck/Gross_Neck_Mobilisation.md",
+      "markdown_path": "data/clean_data/markdowns_clean/neck/Gross_Neck_Mobilisation.md",
       "page_count": 19,
       "notes": "Evaluates the efficacy of manual joint mobilization on acute and chronic neck pain; useful as a clinical constraint to distinguish when manual therapy is needed over stretching."
     },
@@ -70,7 +70,7 @@
         "posture"
       ],
       "pdf_path": "data/raw_data/pdfs/neck/Mahmoud_Relationship_between_postion_and_pain_Neck.pdf",
-      "markdown_path": "data/raw_data/markdown/neck/Mahmoud_Relationship_between_postion_and_pain_Neck.md",
+      "markdown_path": "data/clean_data/markdowns_clean/neck/Mahmoud_Relationship_between_postion_and_pain_Neck.md",
       "page_count": 16,
       "notes": "Directly links FHP to reported neck pain, providing the clinical justification for corrective interventions."
     },
@@ -95,7 +95,7 @@
         "non-stretching intervention"
       ],
       "pdf_path": "data/raw_data/pdfs/neck/Navarro_Santana_DryNeedling_for_pain_Neck.pdf",
-      "markdown_path": "data/raw_data/markdown/neck/Navarro_Santana_DryNeedling_for_pain_Neck.md",
+      "markdown_path": "data/clean_data/markdowns_clean/neck/Navarro_Santana_DryNeedling_for_pain_Neck.md",
       "page_count": 35,
       "notes": "Analyzes an invasive intervention for trigger points."
     },
@@ -120,7 +120,7 @@
         "posture"
       ],
       "pdf_path": "data/raw_data/pdfs/neck/Sheikhhoseini_Therapeutic_Exercies_Neck.pdf",
-      "markdown_path": "data/raw_data/markdown/neck/Sheikhhoseini_Therapeutic_Exercies_Neck.md",
+      "markdown_path": "data/clean_data/markdowns_clean/neck/Sheikhhoseini_Therapeutic_Exercies_Neck.md",
       "page_count": 10,
       "notes": "Validates specific active exercises that can be prescribed by the RAG to correct the craniovertebral angle deficits."
     }

@@ -16,7 +16,7 @@
       "study_type": "systematic review",
       "keywords": ["foam rolling", "myofascial release", "joint mobilization", "non-stretching intervention"],
       "pdf_path": "data/raw_data/pdfs/knee/Cheatham_FoamRoller_Increase_Joint_ROM_Knee.pdf",
-      "markdown_path": "data/raw_data/markdown/knee/Cheatham_FoamRoller_Increase_Joint_ROM_Knee.md",
+      "markdown_path": "data/clean_data/markdowns_clean/knee/Cheatham_FoamRoller_Increase_Joint_ROM_Knee.md",
       "page_count": 12,
       "notes": "Reviews evidence indicating that self-myofascial release tools can enhance joint range of motion (ROM) and the recovery process by decreasing delayed onset muscle soreness."
     },
@@ -39,7 +39,7 @@
         "flexibility"
       ],
       "pdf_path": "data/raw_data/pdfs/knee/Diulian_static_stretching_For_Hamstring.pdf",
-      "markdown_path": "data/raw_data/markdown/knee/Diulian_static_stretching_For_Hamstring.md",
+      "markdown_path": "data/clean_data/markdowns_clean/knee/Diulian_static_stretching_For_Hamstring.md",
       "page_count": 9,
       "notes": "Concludes that static stretching is effective in increasing hamstring flexibility and passive knee extension in healthy young adults."
     },
@@ -59,7 +59,7 @@
         "imbalance"
       ],
       "pdf_path": "data/raw_data/pdfs/knee/Harato_Gait_Analysis_Knee&Spine_Relationship.pdf",
-      "markdown_path": "data/raw_data/markdown/knee/Harato_Gait_Analysis_Knee&Spine_Relationship.md",
+      "markdown_path": "data/clean_data/markdowns_clean/knee/Harato_Gait_Analysis_Knee&Spine_Relationship.md",
       "page_count": 6,
       "notes": "Analyzes how knee flexion contractures significantly influence three-dimensional trunk kinematics during standing and walking, contributing to spinal imbalance."
     },
@@ -85,7 +85,7 @@
         "ROM"
       ],
       "pdf_path": "data/raw_data/pdfs/knee/Xiaotin_Joint_Moblization_For_Pain_Knee.pdf",
-      "markdown_path": "data/raw_data/markdown/knee/Xiaotin_Joint_Moblization_For_Pain_Knee.md",
+      "markdown_path": "data/clean_data/markdowns_clean/knee/Xiaotin_Joint_Moblization_For_Pain_Knee.md",
       "page_count": 33,
       "notes": "Demonstrates that joint mobilization significantly improves knee pain and dysfunction in KOA patients, though it does not significantly surpass control groups in purely increasing knee mobility."
     },
@@ -110,7 +110,7 @@
         "muscle strength"
       ],
       "pdf_path": "data/raw_data/pdfs/knee/YongHao_Physical_fuction_Strength_ROM_Knee.pdf",
-      "markdown_path": "data/raw_data/markdown/knee/YongHao_Physical_fuction_Strength_ROM_Knee.md",
+      "markdown_path": "data/clean_data/markdowns_clean/knee/YongHao_Physical_fuction_Strength_ROM_Knee.md",
       "page_count": 7,
       "notes": "Evaluates nonlinear associations and distinct threshold points between knee extensor strength, range of motion, and physical function post-surgery."
     }
