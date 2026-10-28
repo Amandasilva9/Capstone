@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sign up - Mobility Tracker</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="auth">
+        <aside class="auth-side">
+            <a href="index.html" class="brand"><span class="brand-mark">
+                <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2.2"/><path d="M12 8v7M8 11l4-1 4 1M12 15l-3 6M12 15l3 6"/></svg>
+            </span>Mobility Tracker</a>
+            <div>
+                <h2>Understand how you move, one scan at a time.</h2>
+                <ul>
+                    <li><span class="icon"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg></span>Guided four-view scan in about two minutes</li>
+                    <li><span class="icon"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg></span>Clear results and gentle exercise ideas</li>
+                    <li><span class="icon"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg></span>Track your progress over time</li>
+                </ul>
+            </div>
+            <small>Not a medical device. Your video never leaves your device.</small>
+        </aside>
+
+        <main class="auth-main">
+            <form id="signupForm" class="auth-card" novalidate>
+                <a href="index.html" class="back">&larr; Back to home</a>
+                <h1>Create your account</h1>
+                <p class="muted">It takes under a minute.</p>
+
+                <p id="formError" class="alert error" role="alert" hidden></p>
+
+                <div class="field">
+                    <label for="name">Name</label>
+                    <input id="name" name="name" type="text" autocomplete="name" placeholder="Your name" required>
+                </div>
+                <div class="field">
+                    <label for="email">Email</label>
+                    <input id="email" name="email" type="email" autocomplete="email" placeholder="you@example.com" required>
+                </div>
+                <div class="field">
+                    <label for="password">Password</label>
+                    <div class="input-wrap">
+                        <input id="password" name="password" type="password" autocomplete="new-password" placeholder="At least 8 characters" minlength="8" required>
+                        <button type="button" class="pw-toggle" data-toggle-password="password">Show</button>
+                    </div>
+                </div>
+                <div class="field">
+                    <label for="confirm">Confirm password</label>
+                    <input id="confirm" name="confirm" type="password" autocomplete="new-password" placeholder="Repeat your password" required>
+                </div>
+
+                <label class="check">
+                    <input type="checkbox" name="agree" required>
+                    <span>I understand this is not a medical or rehabilitation tool, and I'll see a professional if I have pain or an injury.</span>
+                </label>
+
+                <button id="submitBtn" class="btn btn-block btn-lg" type="submit">Create account</button>
+                <p class="form-foot">Already have an account? <a href="login.html">Log in</a></p>
+            </form>
+        </main>
+    </div>
+
+    <script type="module" src="js/signup.js"></script>
+</body>
+</html>

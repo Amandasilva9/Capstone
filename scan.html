@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>New scan - Mobility Tracker</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="app">
+        <aside id="sidebar" class="sidebar"></aside>
+        <div class="app-main">
+            <header id="topbar" class="topbar"></header>
+            <main class="content">
+                <section id="intro" class="card">
+                    <div class="intro-grid">
+                        <div>
+                            <h1 style="font-size: 1.9rem;">Ready for your scan?</h1>
+                            <p class="muted">Four quick views: front, left side, right side and back. It takes about two minutes.</p>
+                            <ul class="checklist">
+                                <li><span class="icon"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg></span>Place your laptop on a stable surface so your whole body fits in view, head to feet.</li>
+                                <li><span class="icon"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg></span>Stand about 6 to 8 feet back, in a well-lit room with a plain background.</li>
+                                <li><span class="icon"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg></span>Wear fitted clothing so your joints are easy to see.</li>
+                                <li><span class="icon"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"/></svg></span>You get at least 8 seconds before each photo to get into position.</li>
+                            </ul>
+                            <div class="privacy-note">
+                                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="flex:none"><path d="M12 3l8 3v6c0 4.5-3.2 8-8 9-4.8-1-8-4.5-8-9V6z"/></svg>
+                                Your video stays on this device. Only the measured angles are sent for analysis.
+                            </div>
+                            <button id="startBtn" class="btn btn-accent btn-lg" type="button">Start scan</button>
+                        </div>
+                        <div class="intro-art"><img src="assets/hero.svg" alt="" width="560" height="600"></div>
+                    </div>
+                </section>
+
+                <section id="scanArea" hidden>
+                    <div class="scan-banner">
+                        <div>
+                            <h1 id="stepTitle"></h1>
+                            <p id="message"></p>
+                        </div>
+                    </div>
+                    <div class="scan-layout">
+                        <div class="stage">
+                            <video id="video" autoplay playsinline muted></video>
+                            <canvas id="overlay"></canvas>
+                            <div id="countdown"></div>
+                        </div>
+                        <ol id="steps" class="steps"></ol>
+                    </div>
+                    <button id="retryBtn" class="btn" type="button" hidden>Try sending again</button>
+                </section>
+
+                <p id="status" role="status"></p>
+            </main>
+        </div>
+    </div>
+
+    <script type="module" src="js/webcam.js"></script>
+</body>
+</html>
