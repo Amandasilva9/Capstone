@@ -40,4 +40,4 @@ data/raw_data/pdfs/
 to-do.txt
 
 #Scripts that are being reworked
-scripts/rag_demo.py
+scripts/rag_test.py

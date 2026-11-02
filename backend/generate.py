@@ -1,32 +1,37 @@
 """
-generate.py -- step 6: retrieval-grounded answer generation.
+This is the main generation function for the RAG system. It takes a user query and generates a response grounded in the retrieved documents.
+It uses a small embedding model to retrieve relevant chunks from a ChromaDB collection, then prompts a Gemini LLM to generate an answer based on those chunks.
+The system prompt instructs the LLM to only use the provided sources and to cite them properly. It also handles model fallback and retries in case of API errors.
+Usage:
+    from backend.generate import answer
+    result = answer(question="Why was a static calf stretch recommended?", joint="ankle",
+    or backend/generate.py as a script to test the answer function with a sample question.
 """
 import os
 import re
 import time
 from dataclasses import dataclass, field
 from pathlib import Path
-
 from dotenv import load_dotenv
 
 # Load .env from the repo root (this file is backend/rag/generate.py)
-load_dotenv(Path(__file__).resolve().parents[2] / ".env")
+load_dotenv(Path(__file__).resolve().parents[1] / ".env")
 
 import chromadb
 from google import genai
 from google.genai import errors, types
 from sentence_transformers import SentenceTransformer
 
-# ---- config (keep in sync with embed.py) ----
-CHROMA_PATH = os.getenv("CHROMA_PATH", "./chroma_db")   # run from repo root, or set an absolute path
+# configuration: adding a few parameters for the RAG system and file location
+CHROMA_PATH = os.getenv("CHROMA_PATH", "backend/rag/./chroma_db")   # run from repo root, or set an absolute path
 COLLECTION = "papers"
 EMBED_MODEL = "BAAI/bge-small-en-v1.5"
 QUERY_PREFIX = "Represent this sentence for searching relevant passages: "
 MODELS = [m.strip() for m in os.getenv(
     "GEMINI_MODELS", "gemini-3.5-flash,gemini-3.1-flash-lite,gemini-2.5-flash"
 ).split(",")]
-N_JOINT, N_GENERAL = 4, 2
-MAX_DISTANCE = 0.55          # your best hits were ~0.24; tune with off-topic questions
+N_JOINT, N_GENERAL = 4, 2    # number of chunks to retrieve from the joint and general collections, respectively can also be tuned for performance vs. relevance
+MAX_DISTANCE = 0.55          # tuning max distance for retrieval; lower = more relevant, but fewer chunks
 REFUSAL = "I couldn't find support for that in the research articles I have."
 
 _embedder = SentenceTransformer(EMBED_MODEL)
@@ -34,7 +39,7 @@ _collection = chromadb.PersistentClient(path=CHROMA_PATH).get_collection(COLLECT
 _llm = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 
-# ---------------- retrieval ----------------
+# retrieval: get the top chunks for the joint plus a few from 'general', filtered by distance
 def retrieve(question: str, joint: str) -> list[dict]:
     """Top chunks for the joint plus a few from 'general', filtered by distance."""
     q_emb = _embedder.encode(QUERY_PREFIX + question, normalize_embeddings=True).tolist()
@@ -43,7 +48,7 @@ def retrieve(question: str, joint: str) -> list[dict]:
         res = _collection.query(
             query_embeddings=[q_emb],
             n_results=n,
-            where={"joint": joint_name},         # your metadata key is "joint"
+            where={"joint": joint_name},
             include=["documents", "metadatas", "distances"],
         )
         for doc, meta, dist in zip(res["documents"][0], res["metadatas"][0], res["distances"][0]):
@@ -53,7 +58,7 @@ def retrieve(question: str, joint: str) -> list[dict]:
     return chunks
 
 
-# ---------------- prompt assembly ----------------
+# building the citation for the source: author, year, page(s)
 def _cite_label(meta: dict) -> str:
     authors = meta.get("authors") or "Unknown authors"     # already "Grieve et al."
     year = meta.get("year", "n.d.")
@@ -62,6 +67,7 @@ def _cite_label(meta: dict) -> str:
     return f"{authors}, {year}, {pages}"
 
 
+#Do i need this if the tables are gone? 
 def _note_for(meta: dict) -> str | None:
     """Hand-written note wins; otherwise flag table chunks automatically."""
     if meta.get("notes"):
@@ -70,7 +76,7 @@ def _note_for(meta: dict) -> str | None:
         return "This chunk contains a table; extracted numbers may be misaligned or wrong."
     return None
 
-
+#building the context for the LLM prompt: numbered sources with citations and notes
 def build_context(chunks: list[dict]) -> str:
     blocks = []
     for i, c in enumerate(chunks, 1):
@@ -84,7 +90,7 @@ def build_context(chunks: list[dict]) -> str:
         blocks.append(block)
     return "\n\n---\n\n".join(blocks)
 
-
+#systemn prompt for the LLM: explain why specific stretches were recommended, using only the numbered sources provided can be tuned 
 SYSTEM_PROMPT = f"""You are the explanation assistant for a mobility-measurement app. \
 You explain why specific stretches were recommended, using ONLY the numbered SOURCES provided.
 
@@ -116,11 +122,11 @@ def build_user_prompt(question, joint, angle, exercises, context) -> str:
     )
 
 
-# ---------------- LLM call with model fallback ----------------
+# Call the LLM to generate an answer, with retries and model fallback. If all models fail, raise an error.
 def _generate(contents: str) -> str:
     last_err = None
     for model in MODELS:
-        for attempt in range(2):                     # one retry per model
+        for attempt in range(2):                     # one retry per model. Models are often too busy 
             try:
                 resp = _llm.models.generate_content(
                     model=model,
@@ -140,7 +146,7 @@ def _generate(contents: str) -> str:
     raise RuntimeError(f"All Gemini models failed: {last_err}")
 
 
-# ---------------- main entry ----------------
+# main answer function: retrieve chunks, generate answer, check citations, return structured result
 @dataclass
 class Answer:
     text: str
@@ -149,7 +155,7 @@ class Answer:
     refused: bool = False
     reason: str = ""      # "no_chunks" | "model_refused" | "no_valid_citations"
 
-
+#returns an Answer object with the generated text, sources, flagged notes, and refusal status
 def answer(question: str, joint: str, angle: float | None = None,
            exercises: list[str] | None = None) -> Answer:
     exercises = exercises or []
@@ -179,7 +185,7 @@ def answer(question: str, joint: str, angle: float | None = None,
             flagged.append(f"S{i}: {note}")
     return Answer(text=text, sources=sources, flagged=flagged)
 
-
+#main for testing the answer function with a sample question. It prints the generated answer, the sources cited, and any flagged notes.
 if __name__ == "__main__":
     a = answer("Why was a static calf stretch recommended?", joint="ankle",
                angle=8.0, exercises=["Wall calf stretch"])

@@ -1,15 +1,17 @@
 import sys
 #PyMuPDF is just a pythong library to help maipulate PDFs and extract text from them. 
-import pymupdf4llm  # pip install pymupdf4llm
+import pymupdf4llm  
 from pathlib import Path
 import argparse
 from paths import RAW_PDFS, RAW_MD
 
-#This script extracts PDFs from a specified folder into Markdown files.
-#This code was wrtten using Claude AI as the script is a helper script for the process of entering pdfs into the vecter database. 
-#The script is being left in the project for future use if more pdfs are added or attempting a diffrent extraction method.
-#It is also being left in the project for ease of use for anyone running the project in the future.
-#-Hayden Daoust
+"""First step in the ingestion pipeline taking raw PDFS and turning them into raw Markdown files to be used. 
+   The script takes in raw PDfs specified from the paths helper script and then uses pymupd4llm to turn the file into markdown
+   The script uses the specified joint to read a folder of PDFs and works through the entire folder. 
+   It will create the folder for the joint if not already created. 
+   --only is used for only one file if one file is being added. 
+   --force is used to overwrite the raw Markdowns if --force is not used the file will not overwrite
+   -Hayden Daoust"""
 
 ap = argparse.ArgumentParser()
 ap.add_argument("folder")

@@ -5,28 +5,31 @@ from pathlib import Path
 from collections import Counter
 from paths import RAW_MD, CLEAN_MD
 
-# Cleans raw extracted markdown (data/raw_data/Markdowns/<joint>) into
-# data/clean_data/Markdowns/<joint>. Files that already exist in the output
-# are SKIPPED so hand edits are never overwritten.
-# Use --only <stem> --force to deliberately redo a single file.
+"""The second step on the ingestion pipeline. 
+   Running the file with the name of a joint makes it go through the entire folder with that joint name
+   It takes all the raw markdowns and cleans them by removing refrences, tables, and sections from the articles that are not typically used
+   It has the same commands as extract with --force to overwrite over the cleaned markdowns as well as --only for one file at a time
+   The script is important to make sure that the chunks are not poluted with unhelpful text."""
 
 In_MD = RAW_MD
 Out_MD = CLEAN_MD
 
 REF_PAT = re.compile(
     r'^[ \t]*[#*_ \t]*'                          # heading marks / bold / italics
-    r'(?:(?:\d+|[IVXivx]+|[A-Za-z])[.)]?[ \t]+)?'  # optional "8." / "VII." / "A."
-    r'(?:references?(?: list)?|bibliography|works cited|literature cited|'
-    r'notes and references)'
+    r'(?:(?:\d+|[IVXivx]+|[A-Za-z])[.)]?[ \t]+)?'  # other header possibilities 
+    r'(?:references?(?: list)?|bibliography|works cited|literature cited|' # refrences 
+    r'notes and references)' #more refrences
     r'[ \t]*[*_:]*[ \t]*$',
     re.I | re.M)
 
 def drop_big_tables(texts, max_lines=12):
+    """Removing the big tables as most tablse just have numbers.
+    Numbers are not helpful for giving reasons and just pollute responses"""
     out = []
     for t in texts:
         lines, kept, run = t.split("\n"), [], []
-        for line in lines + [""]:          # trailing "" flushes the last run
-            if line.lstrip().startswith("|"):
+        for line in lines + [""]:          # flushes the last run
+            if line.lstrip().startswith("|"): # PDF tables when converted to markdown use the pipe symbol
                 run.append(line)
             else:
                 if len(run) <= max_lines:
@@ -48,11 +51,13 @@ def drop_references(texts):
         return texts, False
     return texts[:cut_page] + [texts[cut_page][:cut_pos]], True
 
-def _norm(line):
+def _norm(line): 
     line = re.sub(r'[*_#]', '', line)
     return re.sub(r'\d+', '#', line.strip().lower())
 
 def strip_running_headers(texts, edge=3, min_frac=0.3):
+    """When converting to markdown pdfs have recurring titles at the end of pages 
+    This polutes chunks so gets removed. If the header repeates more then threshold they all get removed"""
     counts = Counter()
     for t in texts:
         lines = [l for l in t.split('\n') if l.strip()]
@@ -70,7 +75,7 @@ def strip_running_headers(texts, edge=3, min_frac=0.3):
             if not (i in edge_idx and _norm(l) in repeated)))
     return cleaned
 
-DROP_HEADINGS = (
+DROP_HEADINGS = ( #List of possible headers that are not helpful to the AI 
     "acknowledg", "funding", "conflict of interest", "conflicts of interest",
     "declaration of competing", "competing interests", "author contributions",
     "credit authorship", "ethics statement", "supplementary", "disclosure",
@@ -79,11 +84,12 @@ DROP_HEADINGS = (
     "quality appraisal", "study selection", "additional file",
 )
 
-def _is_heading(line):
+def _is_heading(line): #helper function to find if something is a header or not
     s = line.strip()
     return s.startswith('#') or (s.startswith('**') and s.endswith('**') and len(s) < 80)
 
 def drop_sections(texts):
+    """Drops the unhelp sections based on the Drop_headings"""
     skipping = False
     out = []
     for t in texts:
@@ -97,7 +103,7 @@ def drop_sections(texts):
         out.append('\n'.join(kept))
     return out
 
-# --- page marker helpers (extract.py writes "[page N]" before each page) ---
+
 def split_pages(md):
     parts = re.split(r'^\[page (\d+)\]\n', md, flags=re.M)
     nums = parts[1::2]

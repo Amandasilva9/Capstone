@@ -1,5 +1,5 @@
 # debug_rag.py
-from backend.rag.generate import _collection, retrieve, build_context, MAX_DISTANCE
+from backend.generate import _collection, retrieve, build_context, MAX_DISTANCE
 
 # 1. What does the collection actually contain?
 print("count:", _collection.count())
@@ -10,7 +10,7 @@ topics = {m.get("topic") for m in _collection.get(include=["metadatas"])["metada
 print("topic values:", topics)
 
 # 2. Raw distances with NO filter and NO cutoff
-import backend.rag.generate as g
+import backend.generate as g
 q = g._embedder.encode(g.QUERY_PREFIX + "Why was a static calf stretch recommended?",
                        normalize_embeddings=True).tolist()
 res = _collection.query(query_embeddings=[q], n_results=5,

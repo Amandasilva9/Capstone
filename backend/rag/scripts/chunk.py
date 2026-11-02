@@ -1,9 +1,14 @@
 """
-Step 3: chunk one joint's articles into JSONL for embedding.
+The fourth step in the ingestion pipeline is chunking the data: 
 
 Usage:
-    python chunk.py elbow                 # chunks every article in markdown/elbow/
+    python chunk.py elbow                 # chunks every article in markdown_clean/elbow/
     python chunk.py elbow --sample 8      # stats + 8 random chunks from the result
+
+The script takes in a clean markdown file and the metadata for the files and then converts them into chunks which is written as one jsonl per joint
+Currently the script is chunking based on a certain number of tokens set at 420 beacuse the embeders limit is 512 and metadata gets embeded as well which can push it over the limit. 
+The script is using huggingfaces BAAI/bge-small-en-v1.5 as the SentenceTransformer being used is also huggingface. 
+Both the tokenizer and SentenceTransformer are free and light on hardwear which is why they were choosen. 
 """
 import json
 import random
@@ -15,17 +20,17 @@ from paths import CLEAN_MD, METADATA, CHUNKS
 
 
 BASE = Path(__file__).resolve().parent
-MARKDOWN_ROOT = CLEAN_MD    # contains one subfolder per joint
-METADATA_DIR =  METADATA      # one <joint>.json per joint, covering that joint's articles
-OUTPUT_DIR =  CHUNKS   # every joint's .jsonl ends up here
+MARKDOWN_ROOT = CLEAN_MD  
+METADATA_DIR =  METADATA     
+OUTPUT_DIR =  CHUNKS   
 
 MARKDOWN_ROOT, METADATA_DIR, OUTPUT_DIR = Path(MARKDOWN_ROOT), Path(METADATA_DIR), Path(OUTPUT_DIR)
 
-MAX_TOK = 420        # hard-ish ceiling (only a single table/sentence can exceed it)
-MIN_MERGE = 150      # sections smaller than this get merged into the next one
-OVERLAP_TOK = 60     # tail of previous chunk repeated at start of the next (text only)
+MAX_TOK = 420        #420 token limit to make sure the chunks dont push over 512 when embeding 
+MIN_MERGE = 150      #small sections have no context so get lumped in with the surronding ones. 
+OVERLAP_TOK = 60     #Overlap to insure context between chunks 
 
-#originally usedd tiktoken for higher speeds but the embedding model BAAI/bge-small-en-v1.5 works better with a huggingface tokenizer as well
+#originally usedd tiktoken for higher speeds but the embedding model BAAI/bge-small-en-v1.5 works better with a huggingface SentenceTransformer
 _tok = AutoTokenizer.from_pretrained("BAAI/bge-small-en-v1.5", model_max_length=1_000_000)
 
 
@@ -102,6 +107,7 @@ def to_sections(blocks):
 #this is to make sure there are no sections that are too small, which could lead to chunks that are too small and not useful for embedding
 #places the heading of the small section as a paragraph in the next section, so that the context is preserved
 def merge_small(secs):
+    """Merge small sections into the next one. For Context Preservation"""
     out, cur = [], None
     for s in secs:
         if cur is None:
@@ -122,9 +128,9 @@ def merge_small(secs):
     return out
 
 
-# ---------- 3. size-split within a section ----------
+
 def split_long_para(b):
-    """Break an over-long paragraph on sentence boundaries. Tables are never touched."""
+    """Break an over-long paragraph on sentence boundaries."""
     if b["kind"] == "table" or ntok(b["text"]) <= LIMIT:
         return [b]
     pieces, cur = [], []

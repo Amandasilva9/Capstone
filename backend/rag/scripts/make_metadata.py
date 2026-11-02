@@ -5,10 +5,11 @@ import pymupdf  # pymupdf
 from pathlib import Path
 from paths import RAW_PDFS, CLEAN_MD, METADATA
 
-#This script extracts metadata from PDFs in a specified folder and saves it to a JSON file.
-#It is another helper script to help with the project it is a time saver for extracting metadata from PDFs.
-#This was written using Claude AI and can be used if more pdfs are added to help speed up the process of extracting metadata from PDFs.
-#-Hayden Daoust
+"""Making metadata is the third step in the ingestion pipeline. 
+   The script runs on an entire joint folder and takes in raw pdfs and clean markdowns in order to make the metadata that the RAG needs
+   It outputs a json file in clean_data with all the articles for that one joint in one file. 
+   The file does not rewrite over the metadata that is already written in order to not lose hand done work
+   The file uses pymupdf which is the same as extract.py to get information"""
 
 #if the user does not provide a folder name, exit the script with a usage message
 if len(sys.argv) < 2:

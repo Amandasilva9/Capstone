@@ -3,6 +3,13 @@ from sentence_transformers import SentenceTransformer
 import json
 from pathlib import Path
 
+"""
+This is the embeding function for the RAG system. It uses a small model to embed the text chunks and store them in a ChromaDB collection.
+It takes one of the joint.jsonl files and embeds all the chunks in it.
+Usage is `python embed.py <joint_file.jsonl>`
+After embedding to refresh the embeddings you must run the helper script `wipe.py` then run this script again to re-embed the chunks.
+"""
+
 #Using this hugging face model because of speed over larger models and less intesive hardwear usage 
 # Tradeoff: 512-token input cap, so chunks must stay under ~450 tokens
 # (chunker is configured to match; see MAX_TOK in chunk.py).
@@ -21,7 +28,8 @@ META_FIELDS = [
 ]
 
 def clean_meta(rec):
-    """Chroma rejects None values and list values."""
+    """Chroma rejects None values and list values. 
+    Cleans to make sure if any metadata fields are None or list they are removed or joined into a string."""
     out = {}
     for k in META_FIELDS:
         v = rec.get(k)
@@ -80,6 +88,9 @@ def load_chunks(chunk_dir="data/chunks"):
             recs.extend(json.loads(line) for line in f)
     return recs
 
+
+# Main function to load chunks, check lengths, embed and store, and test queries
+# This is to ensure that the embedding process works correctly and that the chunks are within the model's token limit.
 if __name__ == "__main__":
     # 1. Load chunks from every joint (including general)
     recs = load_chunks()
