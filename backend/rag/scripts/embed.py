@@ -2,6 +2,7 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 import json
 from pathlib import Path
+from paths import CHUNKS, CHROMA_DIR
 
 """
 This is the embeding function for the RAG system. It uses a small model to embed the text chunks and store them in a ChromaDB collection.
@@ -14,7 +15,7 @@ After embedding to refresh the embeddings you must run the helper script `wipe.p
 # Tradeoff: 512-token input cap, so chunks must stay under ~450 tokens
 # (chunker is configured to match; see MAX_TOK in chunk.py).
 model = SentenceTransformer("BAAI/bge-small-en-v1.5")
-client = chromadb.PersistentClient(path="./chroma_db")
+client = chromadb.PersistentClient(CHROMA_DIR)
 
 #using cosine distence to measure the distence between vectors
 collection = client.get_or_create_collection(
@@ -81,7 +82,7 @@ def search(query, k=5, joint=None):
     return hits
 
 
-def load_chunks(chunk_dir="data/chunks"):
+def load_chunks(chunk_dir=CHUNKS):
     recs = []
     for path in sorted(Path(chunk_dir).glob("*.jsonl")):
         with open(path, encoding="utf-8") as f:
