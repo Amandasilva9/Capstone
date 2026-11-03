@@ -30,8 +30,8 @@ QUERY_PREFIX = "Represent this sentence for searching relevant passages: "
 MODELS = [m.strip() for m in os.getenv(
     "GEMINI_MODELS", "gemini-3.5-flash,gemini-3.1-flash-lite,gemini-2.5-flash"
 ).split(",")]
-N_JOINT, N_GENERAL = 4, 2    # number of chunks to retrieve from the joint and general collections, respectively can also be tuned for performance vs. relevance
-MAX_DISTANCE = 0.55          # tuning max distance for retrieval; lower = more relevant, but fewer chunks
+N_JOINT, N_GENERAL = 3, 3    # number of chunks to retrieve from the joint and general collections, respectively can also be tuned for performance vs. relevance
+MAX_DISTANCE = 0.4          # tuning max distance for retrieval; lower = more relevant, but fewer chunks
 REFUSAL = "I couldn't find support for that in the research articles I have."
 
 _embedder = SentenceTransformer(EMBED_MODEL)
@@ -99,8 +99,11 @@ RULES
 citation tag like [S2] (or [S1][S3]). Cite only IDs that appear in SOURCES. Never invent \
 sources, authors, numbers, or study results.
 2. If the SOURCES do not support an answer, or only partly support it, say so plainly. \
-If they don't support it at all, reply exactly: "{REFUSAL}" Do not fill gaps from \
-general knowledge.
+You may give a one-sentence plain-language definition of a basic anatomical or movement \
+term (e.g., "dorsiflexion"), and you must label it as general background, not from the \
+sources. For anything else not supported by the SOURCES, reply exactly: "{REFUSAL}" \
+Do not give advice, recommendations, or claims about stretching or range of motion \
+from general knowledge.
 3. Some sources carry an EXTRACTION NOTE (e.g., a table that extracted badly). Do not quote \
 numbers from a flagged chunk as fact; tell the user that source's data may be unreliable, \
 or leave it out.
@@ -187,7 +190,7 @@ def answer(question: str, joint: str, angle: float | None = None,
 
 #main for testing the answer function with a sample question. It prints the generated answer, the sources cited, and any flagged notes.
 if __name__ == "__main__":
-    a = answer("Why was a static calf stretch recommended?", joint="ankle",
+    a = answer("Why does my hip hurt", joint="hip",
                angle=8.0, exercises=["Wall calf stretch"])
     print(a.text, "\n", a.reason)
     for s in a.sources:

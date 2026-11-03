@@ -1,22 +1,47 @@
 # debug_rag.py
-from backend.generate import _collection, retrieve, build_context, MAX_DISTANCE
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
 
-# 1. What does the collection actually contain?
-print("count:", _collection.count())
-sample = _collection.get(limit=3, include=["metadatas"])
-for m in sample["metadatas"]:
-    print(m)
-topics = {m.get("topic") for m in _collection.get(include=["metadatas"])["metadatas"]}
-print("topic values:", topics)
+import backend.generate as g   # use whatever import path worked for you
 
-# 2. Raw distances with NO filter and NO cutoff
-import backend.generate as g
-q = g._embedder.encode(g.QUERY_PREFIX + "Why was a static calf stretch recommended?",
-                       normalize_embeddings=True).tolist()
-res = _collection.query(query_embeddings=[q], n_results=5,
-                        include=["documents", "metadatas", "distances"])
-for d, m in zip(res["distances"][0], res["metadatas"][0]):
-    print(round(d, 3), m.get("topic"), m.get("title"))
+# ============ EDIT THESE, THEN RERUN ============
+QUESTION = "What does dorsiflexion mean?"
+JOINT = "ankle"
+N_JOINT = 3
+N_GENERAL = 3
+MAX_DIST = 0.35   # or type a number, e.g. 0.45
+DEDUPE = True                  # one chunk per paper; set False to see raw chunks
+FETCH = 15                     # over-fetch so dedupe still leaves N papers
+JOINT_KEY = "joint"
+TITLE_KEY = "title"
+# ================================================
 
-# 3. Filtered retrieval, as generate.py does it
-print("retrieved:", len(retrieve("Why was a static calf stretch recommended?", "ankle")))
+col = g._collection
+emb = g._embedder.encode(g.QUERY_PREFIX + QUESTION, normalize_embeddings=True).tolist()
+
+
+def used_sources(joint_name, n):
+    res = col.query(query_embeddings=[emb], n_results=FETCH, where={JOINT_KEY: joint_name},
+                    include=["metadatas", "distances"])
+    rows, seen = [], set()
+    for d, m in zip(res["distances"][0], res["metadatas"][0]):
+        title = m.get(TITLE_KEY)
+        if DEDUPE and title in seen:
+            continue                  # a closer chunk from this paper is already in
+        seen.add(title)
+        rows.append((d, m))
+    rows = rows[:n]
+    kept = [(d, m) for d, m in rows if d <= MAX_DIST]
+    return kept, len(rows) - len(kept)
+
+
+print(f"Q: {QUESTION}")
+print(f"joint={JOINT}  N_JOINT={N_JOINT}  N_GENERAL={N_GENERAL}  MAX_DIST={MAX_DIST}  DEDUPE={DEDUPE}\n")
+
+for label, name, n in ((f"JOINT ({JOINT})", JOINT, N_JOINT), ("GENERAL", "general", N_GENERAL)):
+    kept, dropped = used_sources(name, n)
+    print(f"{label}: {len(kept)} used, {dropped} dropped by cutoff")
+    for d, m in kept:
+        print(f"  {d:.3f}  {m.get(TITLE_KEY)}")
+    print()
