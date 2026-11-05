@@ -7,6 +7,7 @@ import sqlite3                            # the built-in database engine
 from pydantic import BaseModel            # lets us define the required shape of incoming data
 from passlib.context import CryptContext  # the password scrambler
 from rules import BASELINE_RANGES  # healthy angle ranges from rules.py
+import json   # turns lists/dicts into text so SQLite can store them
 
 # creating server from blueprint; server is now named app
 app = FastAPI()
@@ -32,7 +33,21 @@ conn.execute("""
         password_hash TEXT NOT NULL
     )
 """)
+
+# the scans table: one row per scan, tied to the user who did it
+conn.execute("""
+    CREATE TABLE IF NOT EXISTS scans (
+        id INTEGER PRIMARY KEY,
+        username TEXT NOT NULL,
+        test TEXT NOT NULL,
+        captured_at TEXT NOT NULL,
+        angles TEXT NOT NULL,
+        flags TEXT NOT NULL
+    )
+""")
+
 conn.commit()
+
 
 # the scrambler: pwd.hash() scrambles, pwd.verify() checks a guess against the scramble
 pwd = CryptContext(schemes=["bcrypt"])
@@ -81,10 +96,10 @@ class ScanView(BaseModel):
 
 # The full payload the frontend sends: which test, when, and the views.
 class Scan(BaseModel):
+    username: str | None = None   # who did the scan (optional so old scans don't break)
     test: str
     capturedAt: str
     views: dict[str, ScanView]
-
 
 # Recommend
 # takes a full body scan, checks every angle against the healthy ranges,
@@ -108,6 +123,14 @@ def recommend(scan: Scan):
                     "healthy_range": [low, high],
                 })
 
+        # save the scan so it shows up in this user's history
+    if scan.username:
+        angles = {view_name: view.angles for view_name, view in scan.views.items()}
+        conn.execute(
+            "INSERT INTO scans (username, test, captured_at, angles, flags) VALUES (?, ?, ?, ?, ?)",
+            (scan.username, scan.test, scan.capturedAt, json.dumps(angles), json.dumps(flags)))
+        conn.commit()
+
     # the report card the frontend displays
     return {
         "test": scan.test,
@@ -116,3 +139,22 @@ def recommend(scan: Scan):
         "restricted": len(flags) > 0,
         "stretches": ["placeholder stretch 1", "placeholder stretch 2"],
     }
+
+# History
+# returns every saved scan for one user, newest first, so the dashboard can show progress
+@app.get("/history")
+def history(username: str):
+    rows = conn.execute(
+        "SELECT test, captured_at, angles, flags FROM scans WHERE username = ? ORDER BY captured_at DESC",
+        (username,)).fetchall()
+    scans = []
+    for test, captured_at, angles, flags in rows:
+        flags = json.loads(flags)
+        scans.append({
+            "test": test,
+            "capturedAt": captured_at,
+            "angles": json.loads(angles),
+            "flags": flags,
+            "restricted": len(flags) > 0,
+        })
+    return scans
