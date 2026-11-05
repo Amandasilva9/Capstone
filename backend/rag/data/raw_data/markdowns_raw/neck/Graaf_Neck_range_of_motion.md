@@ -1,0 +1,315 @@
+[page 1]
+
+
+
+Contents lists available at ScienceDirect 
+
+# Musculoskeletal Science and Practice 
+
+journal homepage: www.elsevier.com/locate/msksp 
+
+
+
+Systematic Review 
+
+## Normative values of cervical range of motion for both children and adults: A systematic review 
+
+
+
+Marloes Thoomes-de Graaf<sup>a,*</sup> , Erik Thoomes<sup>a</sup> , C�esar Fernandez-de-las-Pe� nas~<sup>b</sup> , Gustavo Plaza-Manzano<sup>c,d</sup> , Joshua A. Cleland<sup>e,f</sup> 
+
+
+A B S T R A C T 
+
+_Study design:_ Systematic review. 
+
+_Objective:_ To synthesize studies reporting normative values of active cervical range of motion (ROM) in healthy children and adults. _Summary of background data:_ Evaluating active cervical ROM is part of routine assessment of patients with neck pain. Interpretation of outcomes necessitates having normative data per age category. Currently available normative values differ across studies, perhaps due to (the measurement properties of) the devices used. _Methods:_ A systematic review according to PRISMA guidelines was conducted. Electronic searches included EMBASE, MEDLINE, Web of Science, Cochrane, CINAHL and Google Scholar databases from inception to August 2018. Included studies had to involve healthy subjects in which active cervical ROM was assessed or when determining normative values was the aim of the study. Methodological quality of the included studies was assessed using an adapted version of the QUADAS. A mean value was re-calculated for the total group in case data were presented per gender per age-category only. When possible, data were pooled. _Results:_ From 2151 unique hits, 217 articles were selected for full text assessment, after which 162 articles were excluded. Data were extracted from 55 articles using 16 different measurement devices. Twenty-five studies were rated as being of “low risk of bias”. Only data from studies evaluating the CROM device and Zebris could be pooled. 
+
+_Conclusions:_ This systematic review revealed that although a large number of studies assessed normative data for active cervical ROM, the methodological quality of most studies was low and the heterogeneity between studies was high. Only the normative data for active cervical ROM using the CROM device seems to be useful. Overall, reference values for measuring active cervical ROM is unclear for most measurement devices. Normative values of cervical range of motion for both children and adults: a systematic review. 
+
+### **1. Introduction** 
+
+Optimal cervical range of motion (ROM) is essential for maximizing function of the cervical spine. Additionally, a recent systematic review identified that total active ROM is significantly decreased in patients with neck pain when compared to healthy individuals (Stenneberg et al., 2017). Physical therapists usually measure ROM, as improving ROM is often a goal developed for treatment. The American Physical Therapy Association guidelines for the management of neck pain recommends clinicians to use “easily reproducible activity limitation and participation restriction measures associated with their patient’s neck pain to assess the changes in the patient’s level of function over the episode of care” (Childs et al., 2008; Blanpied et al., 2017). Visual estimation of 
+
+ROM is not recommended (Childs et al., 2008; Blanpied et al., 2017; de Koning et al., 2008; Williams et al., 2010). The Cervical Range of Motion (CROM) device, the standard goniometer, and the inclinometer are the most commonly used tools to measure cervical ROM (Childs et al., 2008; Blanpied et al., 2017). Several systematic reviews have concluded the CROM device is both reliable and valid in patients with non-specific neck pain (de Koning et al., 2008; Williams et al., 2010). The single inclinometer (de Koning et al., 2008; Williams et al., 2010), Spin-T goniometer (de Koning et al., 2008; Williams et al., 2010) and The EDI-320 (de Koning et al., 2008) are also reported to have good reliability and concurrent validity but reportedly require further evaluation (de Koning et al., 2008; Williams et al., 2010). A large number of sophisticated devices are available to measure cervical spine ROM (e.g. 
+
+
+
+[page 2]
+
+
+FASTRAK, Flock-of-birds, Cervical Measurement System, CA-6000 SMA, Zebris system), some of which are likely more appropriate for research purposes than for everyday clinical use (Williams et al., 2010). 
+
+Normative ROM values are necessary to classify a patient as being restricted. Additionally, it is evident that age has an impact on ROM (Pan et al., 2018; Chen et al., 1999). There is a high number of studies reporting gender is not important in terms of normative values (Chen et al., 1999; Hole et al., 1995; Swinkels and Swinkels-Meewisse, 2014; Trott et al., 1996; Guo et al., 2011; McKay et al., 2017; Cagnie et al., 2007; Castro et al., 2000; Feipel et al., 1999a; Lansade et al., 2009; Malmstrom et al., 2006€ ). Consistently, one systematic review stated there are no important gender differences in ROM (Chen et al., 1999). Conversely, another systematic review concluded there are differences in ROM only in some particular age categories, mainly in flexion-extension and not consistently in favour of male or females (Pan et al., 2018). Surprisingly, these authors did not include studies (in their meta-analysis) that concluded “there is no difference in ROM between both genders” (Hole et al., 1995; Swinkels and Swinkels-Meewisse, 2014; Trott et al., 1996; Guo et al., 2011; McKay et al., 2017; Cagnie et al., 2007), therefore results are likely to be biased. 
+
+Normative values differ among studies, which sometimes consist of small sample sizes per category of interest. Reported differences in normative values can be problematic when being used as a reference; when is a value considered to be ‘abnormal’? Moreover, normative values can differ based on the equipment used, therefore it is important to compare the cervical ROM of a particular patient with normative values using a similar instrument. 
+
+There seems to be an increasing interest in systematic reviews on normative values (Dodds et al., 2016; Tomkinson et al., 2018; Constable et al., 2017; Castro et al., 2018; Miller et al., 2017; Kotte et al., 2018). A systematic review on normative values regarding cervical range of motion was published in 1999 but did not present normative data per age category per instrument (Chen et al., 1999). To our knowledge, no systematic review on normative data on children has been previously published. Therefore, the aim of this systematic review was to summarize and pool normative values of ROM in healthy children and healthy adults, taking age and the measurement instrument into account. 
+
+### **2. Methods** 
+
+The Preferred Reporting Items for Systematic Reviews and MetaAnalyses guidelines were used as the basis for our systematic review (Moher et al., 2009). The protocol of this review was registered _a priori_ in PROSPERO (CRD42018108547). 
+
+
+[page 3]
+### _2.7. Analysis_ 
+
+We re-calculated a mean value for the total group in case data was presented per gender per age-category only, as presenting normative values per age category was the primary objective of this review and a large number of studies report that gender is not important in terms of normative (Chen et al., 1999; Hole et al., 1995; Swinkels and Swinkels-Meewisse, 2014; Trott et al., 1996; Guo et al., 2011; McKay et al., 2017; Cagnie et al., 2007; Castro et al., 2000; Feipel et al., 1999a; Lansade et al., 2009; Malmstrom et al., 2006€ ). 
+
+Data were pooled only when studies were considered to be of low RoB and also considered to be clinically homogeneous e.g. when they: 1) used a similar experimental protocol, 2) used a similar age classification, and 3) calculated parameters were found. Combined data pooling was performed (Bravata and Olkin, 2001). 
+
+### **3. Results** 
+
+The search strategy resulted in a total of 2150 unique hits. Of these, 217 articles were selected for full text assessment based on their title and abstract. Reference checking resulted in one additional study. Evaluation of the full text resulted in exclusion of 162 articles. Finally, 55 articles, evaluating 16 different measurement devices, were included (see Fig. 1). A list of the excluded papers is presented in appendix 2 and 3. 
+
+Not all manufacturers were able to provide pricing quotes or Instructions for use for each individual instrument. Also, pricing was not always comparable, as some instruments were discontinued or an updated version has replaced the studied original. Therefore, we deemed in inappropriate to present this as a result of this paper. From the data we were able to retrieve, however, we made an expert opinionbased judgement on the viability of clinical use in private practice, taking cost and user-friendliness into consideration. We judged the CROM, Cervical Measurement System and goniometers or inclinometers to be the most viable for clinical practice. 
+
+
+
+**Fig. 1.** Inclusion. 
+
+
+
+
+[page 4]
+
+
+### _3.1. Description of studies_ 
+
+Table 1 describes the characteristics of the population and table 2 provides a description of the test protocol of the included studies (online supplementary files). The agreement between both raters on the methodological overall quality was _κ_ ¼ 0.85 (95%CI: 0.81–0.89) indicating almost perfect agreement (Landis and Koch, 1977). There was no need to discuss disagreement with the third review author. 
+
+The CROM device was most often used (in 12 studies) (Hole et al., 1995; Swinkels and Swinkels-Meewisse, 2014; Arbogast et al., 2007; Chi et al., 2005; Davies et al., 2016; Hamilton and Gatherer, 2014; Hamilton et al., 2014; Lynch-Caris et al., 2008; Nyland and Johnson, 2004; Schenkman et al., 1996; Smith et al., 2016; Youdas et al., 1992), followed by the Goniometer or Inclinometer (10) (McKay et al., 2017; Adegoke et al., 2015; Balogun et al., 1989; Farooq et al., 2016; Guth, 1995; Kuhlman, 1993; Schops et al., 1997€ ; Alahmari, 2017; Buck et al., 1959; Ramiro et al., 2012), Zebris (6) (Cagnie et al., 2007; Castro et al., 2000; Malmstrom et al., 2006€ ; Demaille-Wlodyka et al., 2007; Natalis and Konig, 1999€ ; Schreiber et al., 2001), Vicon (5) (Assi et al., 2014; Barati et al., 2017; Doriot and Wang, 2006; Henmi et al., 2006; Hwang and Jung, 2015), optoelectronic system BTS (4) (Bulgheroni et al., 1998; Ferrario et al., 2002; Sforza et al., 2002; Tommasi et al., 2009), Cervical Measurements System (3) (Budelmann et al., 2016; Kauther et al., 2010; Peolsson et al., 2000), CA 6000 Spine Motion Analyzer (3) (Feipel et al., 1999a, 1999b; Christensen and Nilsson, 1998), Electrogoniometric Penny & Giles (3) (Lewandowski and Szulc, 2003; Szulc et al., 2011; Wendt et al., 2013), 3 SPACE Isotrack (2) (Trott et al., 1996; Walmsley et al., 1996), digital videography (2) (Arbogast et al., 2007; Kuo et al., 2009), Coda device (1) (Song et al., 2018), Polhemus Liberty (1) (Guo et al., 2011), Polaris system (1) (Lansade et al., 2009), Antenna (1) (Ferlic, 1962), and IMU sensors (1) (Kim et al., 2013). 
+
+there were differences in warming up). In the age category 11–20 there was a high number of athletes (football). Subgroup-analysis revealed the ROM of athletes significantly differed from the non-specified population in all movement planes. However, in the age category 20–30 this difference did not remain for every movement. We therefore chose to present data for the non-specified population and the athletes separately as well. 
+
+ROM appeared to be greatest in the 1st decade of life (age 8–10), slowly decreasing with age and more rapidly in the 5th decade of life. 
+
+### _3.3.2. Zebris_ 
+
+The Zebris uses ultrasound microphone markers on a helmet and a shoulder cap which receive signals from the transmitters located in the measuring unit (Zebris Medizintechnik GmbH, D88316, Isny, Germany). There is positive data from primary studies regarding reliability (intra and intertester reliability) (Cagnie et al., 2007; Malmstrom et al., 2003) and validity (Malmstrom et al., 2003; Dvir and Prushansky, 2000). 
+
+Six studies were included using the Zebris (Cagnie et al., 2007; Castro et al., 2000; Malmstrom et al., 2006€ ; Demaille-Wlodyka et al., 2007 Natalis and Konig, 1999€ ; Schreiber et al., 2001), the primary aim of the majority of studies was determining normative values (Cagnie et al., 2007; Castro et al., 2000; Malmstrom et al., 2006€ ; Demaille-Wlodyka et al., 2007). Half of all studies were rated as low RoB studies (Castro et al., 2000; Malmstrom et al., 2006€ ; Demaille-Wlodyka et al., 2007). Pooled normative values are presented per age category in Table 4b. For six age categories data could be pooled for full cycle ranges. One low RoB study could not be used to pool data, as different age categories were presented, therefore the data of this study is presented individually. ROM appeared to be greatest in the 2nd decade of life, slowly decreasing with age and more rapidly in the 6th decade of life. 
+
+### _3.3.3. Comparing the CROM and Zebris_ 
+
+### _3.2. Risk of bias assessment_ 
+
+Thirty studies were classified as having a high RoB and 25 studies as having a low RoB. The methodological quality of the studies is presented in Table 3. The main categories with poor methodology were categories 4 (sample size), 5 (rater experience), 7 (validity) and 10 (randomization). 
+
+Normative data as a pooled result per device is presented in Tables 4a and 4b Summarized results per measurement device are presented per category (considered to be appropriate/less appropriate for clinical care). Normative data based upon low RoB studies which could not be pooled are presented in Tables 5a–5c Measurement devices included in high RoB studies only are described. 
+
+### _3.3. Pooled normative data per device_ 
+
+### _3.3.1. Cervical range of motion (CROM) device_ 
+
+The CROM device (Performance Attainment Associates, Roseville, USA) uses three separate inclinometers attached to a frame. The CROM device has been reported to be both reliable and valid in several systematic reviews (de Koning et al., 2008; Williams et al., 2010). 
+
+The CROM device was the most commonly used device (n ¼ 12) to determine normative values (Hole et al., 1995; Swinkels and Swinkels-Meewisse, 2014; Arbogast et al., 2007; Chi et al., 2005; Davies et al., 2016; Hamilton and Gatherer, 2014; Hamilton et al., 2014; Lynch-Caris et al., 2008; Nyland and Johnson, 2004; Schenkman et al., 1996; Smith et al., 2016; Youdas et al., 1992). Most studies were rated as low RoB studies (Hole et al., 1995; Swinkels and Swinkels-Meewisse, 2014; Arbogast et al., 2007; Chi et al., 2005; Davies et al., 2016; Lynch-Caris et al., 2008; Nyland and Johnson, 2004; Smith et al., 2016; Youdas et al., 1992). Normative values (half cycle) are presented per age category in Table 4a. For six age categories data could be pooled, as the age categories were identical, studies were rated as low RoB and the protocols were considered to be acceptable and comparable (although 
+
+Pooled values for full cycle ROM for both the CROM device and Zebris are presented in Fig. 2. These normative values differ. The data of the Zebris is based upon a smaller number of participants then the CROM device data is. 
+
+### _3.4. Summarized data of measurement devices considered to be appropriate for clinical care_ 
+
+The following measurement devices were deemed appropriate for clinical care as they were not expensive and are relatively easy to use. 
+
+### _3.5. Goniometer and inclinometer_ 
+
+A systematic review concluded that the single inclinometer is found to be reliable, however the construct validity of the single inclinometer, the universal goniometer and rangiometer were rated as doubtful (de Koning et al., 2008) questioning the utility of these devices. 
+
+Ten studies using a goniometer/inclinometer were included (McKay et al., 2017; Adegoke et al., 2015; Balogun et al., 1989; Farooq et al., 2016; Guth, 1995; Kuhlman, 1993; Schops et al., 1997€ ; Alahmari, 2017 Buck et al., 1959; Ramiro et al., 2012). The primary aim of the majority of studies was to determine normative values (McKay et al., 2017; Guth, 1995; Kuhlman, 1993; Schops et al., 1997€ ; Alahmari, 2017; Buck et al., 1959; Ramiro et al., 2012). Five studies were rated as low RoB studies (McKay et al., 2017; Adegoke et al., 2015; Guth, 1995; Kuhlman, 1993 Alahmari, 2017). Data could not be pooled, as the instruments used and protocols were not considered to be acceptably comparable. Normative values of low RoB studies are presented per age category in Table 5a. As a general trend, greatest ROM was observed in the 2nd decade of life, again slowly decreasing and with a more rapid decrease in the 6th decade. 
+
+
+
+
+[page 5]
+
+
+**Table 3** 
+
+Quality assessment. 
+
+|Study|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|Total-score|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Adegoke 15|Y|Y|Y|Y|N|Y|Y|Y|N|UC|Y|Y|NA|Y|UC<sup>a</sup>|Low RoB|
+|<br>Alahmari 17<br>|Y<br>|Y<br>|Y<br>|Y<br>|Y<br>|Y<br>|N<br>|Y<br>|Y<sup>a</sup><br>|N<br>|Y<br>|Y<br>|UC<sup>b</sup><br>|Y<br>|UC<sup>a</sup><br>|Low RoB<br>|
+|Arbogast 07 C|Y|Y|Y|N|N|Y|Y|Y|Y<sup>a</sup>|UC|Y|Y|NA|Y|UC<sup>a</sup>|Low RoB|
+|<br>Arbogast 07 DV|Y|Y|Y|N|N|Y|N|Y|Y<sup>a</sup>|UC|Y|Y|NA|Y|UC|High RoB|
+|Assi 14|Y|Y|Y|N|N|Y|N|Y|Y<sup>a</sup>|N|Y|Y|NA|Y|Y|Low RoB|
+|Balogun 89<br>|Y<br>|Y<br>|Y<br>|N<br>|Y<br>|Y<br>|N<br>|Y<br>|Y<br>|Y<br>|Y<br>|Y<br>|UC<sup>a</sup><br>|N<br>|N<br>|High RoB<br>|
+|Barati 17|Y|N|Y|N|N|Y|N|Y|Y<sup>a</sup>|N|Y|Y|N|Y|Y|High RoB|
+|Budelman 16|Y|Y|Y|N|Y|Y|Y|Y|Y<sup>a</sup>|N|Y|Y|NA|Y|Y|<br>Low RoB|
+|Bulgheroni 98|Y|N|Y|N|N|Y|N|Y|Y<sup>a</sup>|N|Y|Y|UC|Y|N|High RoB|
+|Buck 59|UC|N|N|Y|Y|Y|N|Y|Y<sup>a</sup>|UC|Y|Y|N|Y|UC<sup>a</sup>|High RoB|
+|Cagnie 07|Y|Y|Y|N|N|Y|Y|Y|Y<sup>a</sup>|N|N|Y|Y|N|Y|High RoB|
+|Castro 00|Y|Y|Y|Y<sup>p</sup>|N|Y|N|Y|Y<sup>a</sup>|UC|Y|Y|Y|Y|UC<sup>a</sup>|Low RoB|
+|Chi 05|Y|Y|Y|N<sup>a</sup>|N|Y|Y|Y|Y<sup>a</sup>|UC|Y|Y|NA|Y|UC<sup>a</sup>|Low RoB|
+|Christensen 98|Y|Y|Y|N|Y|Y|N|Y|Y<sup>a</sup>|N|Y|Y|Y|N|UC<sup>a</sup>|High RoB|
+|Davies 16|Y<sup>a</sup>|Y|Y|N|N|Y|Y|Y|Y<sup>a</sup>|UC|Y|Y|NA|Y|Y|Low RoB|
+|Demaille-W. 07|Y|N|Y|Y|Y|Y|Y|Y|Y<sup>a</sup>|N|Y|Y|NA|Y|UC<sup>a</sup>|Low RoB|
+|Doriot 06|Y|Y|Y|N|N|Y|N|N|Y<sup>a</sup>|UC|Y|Y|N|Y|UC|High RoB|
+|Farooq 16|Y|Y|Y|N<sup>a</sup>|Y|Y|N|Y|Y|N|Y|Y|Y|N|UC<sup>a</sup>|<br>High RoB|
+|Feipel 99|Y|Y|Y|Y|N|Y|N|Y|Y<sup>a</sup>|UC|Y|Y|Y|Y|Y|Low RoB|
+|Ferlic 61|Y|Y|Y|N|N|Y|N|N|Y|UC|Y|Y|UC|Y|UC<sup>a</sup>|High RoB|
+|Ferrario 02|Y|Y|Y|Y|N|Y|N|Y|Y<sup>a</sup>|UC|Y|Y|N|Y|UC<sup>a</sup>|High RoB|
+|Guo 09|Y|Y|Y|N|N|Y|N|Y|Y<sup>a</sup>|Y|Y|Y|NA|Y|UC<sup>a</sup>|<br>Low RoB|
+|**Study**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**|**10**|**11**|**12**|**13**|**14**|**15**|**Total-score**|
+|Guth 95|Y|Y|Y|Y|N|Y|Y|Y|Y<sup>a</sup>|UC|Y|Y|UC<sup>a</sup>|Y|UC<sup>a</sup>|Low RoB|
+|Hamilton 14 a|Y**|N|Y|N|N|Y|Y|Y|Y<sup>a</sup>|UC|Y|Y|NA|N|Y|High RoB|
+|Hamilton 14 b|Y**|YP|N|N|N|Y|N|N|N|UC|Y|Y|NA|Y|Y|High RoB|
+|Henmi 06|UC|Y|N|N|N|Y|Y|N|N|UC|Y|N|UC|N|UC|High RoB|
+|Hole 95|Y|Y|Y|N|Y|Y|Y|Y|Y<sup>a</sup>|Y|Y|Y|UC|Y|Y|<br>Low RoB|
+|Hwang 15|Y|Y|Y|N|N|Y|N|Y|Y<sup>a</sup>|UC|Y|Y|UC|Y|UC|High RoB|
+|Kauther 10|Y|Y|Y|Y|Y|Y|N|Y|Y<sup>a</sup>|UC|Y|Y|N|Y|Y|Low RoB|
+|<br>Kim 13|Y|Y|Y|N|N|Y|N|Y|Y|<br>N|Y|Y|UC|Y|UC<sup>a</sup>|<br>High RoB|
+|Kuhlman 93|Y|Y|Y|N<sup>a</sup>|N|Y|Y|Y|Y|UC|Y|Y|NA|Y|UC<sup>a</sup>|Low RoB|
+|Kuo 09|Y|Y|Y|N|N|Y|N|Y|Y|UC|Y|N|NA|Y|Y|High RoB|
+|<br>Lansade 09|<br>Y|<br>Y|<br>Y|<br>N|<br>N|<br>Y|<br>N|<br>Y|<br>Y<sup>a</sup>|<br>Y|<br>Y|<br>Y|<br>Y|<br>Y|<br>Y|<br>Low RoB|
+|Lewandowski03|UC|N|N|UC|N|Y|N|UC|UC|UC|Y|Y|UC|N|UC<sup>a</sup>|High RoB|
+|Lynch 08|Y|Y|Y|Y|Y|Y|Y|Y|Y<sup>a</sup>|UC|N|N|Y|N|Y|Low RoB|
+|Malmstr€om 06|Y|Y|Y|N|Y|Y|Y|Y|Y<sup>a</sup>|Y|Y|Y|Y|Y|Y|Low RoB|
+|McKay 17|Y|Y|Y|Y|Y|Y|N|Y|Y|N|Y|Y|Y|Y|Y|Low RoB|
+|<br>Natalis 99|Y|N|Y|N|N|Y|N|Y|N|UC|Y|N|Y|Y|N|High RoB|
+|Nyland 04|Y<sup>a</sup>|Y|Y|Y|Y|Y|Y|Y|Y<sup>a</sup>|N|Y|Y|Y|Y|Y|Low RoB|
+|<br>Peolson 00|Y|Y|Y|N|Y|Y|Y|Y|Y<sup>a</sup>|N|N|Y|NA|Y|UC<sup>a</sup>|Low RoB|
+|Ramiro 12|Y|Y|Y|Y|N|N|N|Y|Y<sup>a</sup>|N|Y|N|Y|N|UC<sup>a</sup>|High RoB|
+|Schenkman 96|Y|N|Y|N|N|Y|Y|Y|Y<sup>a</sup><br>|UC|N|Y|UC<br>|N|UC<sup>a</sup><br>|High RoB|
+|Sch€ops 97|Y|Y|Y|Y|Y|Y|N|Y|Y<sup>a</sup>|UC|Y|Y|UC<sup>a</sup>|N|UC<sup>a</sup>|High RoB|
+|<br>Schreiber 01|Y|N|Y|N|N|Y|N|Y|N|N|N|Y|Y|Y|N|<br>High RoB|
+|Sforza 02|Y|Y|Y|N|N|Y|N|Y|Y<sup>a</sup>|UC|Y|Y|UC|Y|UC<sup>a</sup>|High RoB|
+|Smith 07|Y<sup>a</sup>|_Y_|Y|Y|Y|Y|Y|Y|Y<sup>a</sup>|Y|Y|Y|Y|Y|Y|Low RoB|
+|<br>**Study**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**|**10**|**11**|**12**|**13**|**14**|**15**|<br>**Total-score**|
+|<br>Song 18|Y|Y|Y|N|Y|Y|Y|Y|Y|N|Y|Y|NA|Y|UC<sup>a</sup>|Low RoB|
+|Swinkels 14|Y|Y|Y|Y|N|Y|Y|Y|Y<sup>a</sup>|UC|Y|Y|Y|Y|Y|Low RoB|
+|Szulc 11|Y|N|Y|N|N|Y|N|UC|UC|UC|Y|Y|UC|Y|Y|High RoB|
+|Theobald 2012|Y|Y|Y|N|N|Y|N|Y|N|N|N|Y|UC|N|UC<sup>a</sup>|<br>High RoB|
+|Tommassi 09|Y|Y|Y|N|N|Y|N|Y|Y<sup>a</sup>|N|N|Y|NA|N|UC<sup>a</sup>|Hih RoB|
+|<br>Trott 96|<br>Y|<br>Y|<br>Y|<br>N|<br>N|<br>Y|<br>N|<br>Y|Y<sup>a</sup>|<br>UC|<br>N|<br>Y|<br>UC|<br>N|UC<sup>a</sup>|g<br>High RoB|
+|Walmsley 96|Y|Y|Y|N|N|Y|N|Y|Y<sup>a</sup>|Y|Y|N|UC|N|UC<sup>a</sup>|<br>High RoB|
+|Wendt 13|Y|Y|Y|N|N|Y|N|UC|UC|UC|Y|Y|UC|Y|Y|High RoB|
+|Youdas 92|Y|Y|Y|N|Y|Y|NA|Y|Y|N|Y|Y|Y|Y|Y|Low RoB|
+
+
+
+1* footballplayers, 1** rugby players,<sup>a</sup> nunclear if only healthy people participated, 4* not appropriate sample size calculation for normative data but appropriate for the purpose of the study (effect size), 9* no standardized sentences, but standardized procedure with regards to the instructions, 13 *a procedures not appropriate, *b ¼ no reference to the results or data presented, 15* no assessment of normality described. Notes: Items considered for rating: 1. Was the study population appropriate?; 2. Was the study population adequately described (i.e., sex, age)?; 3. Was the description of selection criteria presented?; 4. Was the sample size appropriate (e.g. justification through calculation or guidelines)?; 5. Was rater experience described?; 6. Was the measurement device described; 7. Was there a description about the validity of the instrument used?; 8. Were the standardization of positions and movements performed and properly described?; 9. Was the participants instructions described during the test?; 10. Were the order of tests randomized or counterbalanced?; 11. Were the outcome measures clearly described?; 12. Were all directions of movement separately described or was a rationale described if not?; 13. Were measures of reliability (e.g., ICC s, SEM) presented in case of multiple raters or referenced to reliability in similar situations?; 14. Were results clearly described (with regards to normative data)?; 15. Were appropriate inferential statistics presented?. 
+
+> a Agreement after discussion. n: no; y: yes; na: not applicable; uc: unclear. 
+
+
+
+
+[page 6]
+
+
+||ln left<br>Lateral flexion right<br>(SD)|51.3 (6.7)<br>51.4 (5.6)<br>57.5 (8.2)<br>48.1 (5.5)<br>44.1 (4.7)a|46.9 (7.4)<br>43.7 (3.7)<br>44.7 (7.4)|44.7 (6.4)|44.7 (8.0)<br>41.9 (7.6)<br>39.5 (9.0)<br>36.8 (7.3)<br>30.9 (7.0)<br>26.8 (7.3)<br>25.0 (6.0)<br>22.4 (8.0)||Lateral flexion right (SD)|46.7<br>40.5<br>38.8<br>37.7<br>32.7<br>26.3|
+|---|---|---|---|---|---|---|---|---|
+||Rotation right<br>(SD)<br>Lateral flexio<br>(SD)|68.1 (8.8)<br>47.6 (7.1)<br>74.2 (9.6)<br>50.2 (5.5)<br>77.0 (7.3)<br>57.5 (8.2)<br>76.6 (9.2)<br>47.3 (6.1)<br>67.9 (5.3)a<br>44.6 (5.0)a|74.5 (8.7)<br>46.5 (7.0)<br>66.9 (4.7)<br>44.3 (4.6)<br>73.4 (7.8)<br>45.5 (7.3)|75.2 (6.6)<br>45.0 (7.0)|68.5 (11.0)<br>46.8 (8.0)<br>75.3 (8.0)<br>42.1 (7.5)<br>73.8 (9.4)<br>39.8 (8.0)<br>67.2 (8.1)<br>36.6 (7.2)<br>59.0 (8.4)<br>31.8 (6.2)<br>51.7 (9.5)<br>26.0 (7.6)<br>49.3 (9.3)<br>23.1 (6.9)<br>48.5 (11.1)<br>24.6 (7.5)||)<br>Lateral flexion left (SD)|94.97 (18.64)<br>91.7 (9.4)<br>47.1<br>96.84 (20.64)<br>84.5 (5.6)<br>43.1<br>88.88 (17.52)<br>75.0 (6.3)<br>37.6<br>78.84 (24.01)<br>72.6 (8.0)<br>40.0<br>76.31 (14.44)<br>65.3 (7.1)<br>31.4<br>67.52 (17.64)<br>54.6 (6.7)<br>27.7<br>49.8 (17.6)|
+||Flexion<br>(SD)<br>Extension<br>(SD)<br>Rotation left<br>(SD)|55.8 (5.5)<br>75.3 (7.2)<br>68.8 (9.2)<br>60.3 (5.0)<br>77.2 (6.6)<br>73.8 (10.3<br>65.8 (12.6)<br>85.4 (13.9)<br>77.0 (7.3)<br>62.8 (9.1)<br>75.3 (12.1)<br>76.1 (8.7)<br>das et al., 1992)<br>58.9 (9.7)<br>a<br>70.1 (6.8)a<br>68.0 (5.1).a|64.0 (8.6)<br>84.8 (13.2)<br>71.4 (8.4)<br>58.1 (10.0)<br>67.9 (5.8)<br>67.5 (4.6)<br>5;Nyland and Johnson,<br>59.7 (11.1)<br> <br>75.1 (11.3)a<br>73.8 (8.1)a|a<br>hi et al., 2005;Youdas<br>58.4 (10.4)<br>76.8 (11.1)<br>74.6 (7.4)|63.3 (13.0)<br>70.7 (12.0)<br>71.8 (10.0)<br>, 1992)<br>55.4 (9.2)<br>69.7 (10.5)<br>74.5 (8.8)<br>, 1992)<br>56.2 (9.4)<br>67.0 (10.4)<br>72.7 (9.0)<br>, 1992)<br>50.8 (9.3)<br>63.0 (10.8)<br>67.1 (8.9)<br>42.1 (8.0)<br>60.6 (11.2)<br>57.7 (7.6)<br>39.2 (8.8)<br>54.3 (12.3)<br>49.9 (8.4)<br>40.4 (8.7)<br>49.8 (12.9)<br>48.6 (9.9)<br>36.4 (9.8)<br>53.6 (17.7)<br>49.9 (11.5)||Extension (SD)<br>Rotation left (SD)<br>Rotation right (SD|150.78 (18.05)<br>160.3 (10.5)<br>73.9<br>81.0<br>78.9<br>157.78 (20.19)<br>153.5 (5.5)<br>66.7<br>76.7<br>77.7<br>148.63 (14.97)<br>144.8 (7.5)<br>60.3<br>73.9<br>73.8<br>134.14 (19.44)<br>144.5 (9.2)<br>58.2<br>75.0<br>73.9<br>131.32 (25.13)<br>131.7 (8.8)<br>48.8<br>67.6<br>64.9<br>118.20 (17.64)<br>124.1 (7.7)<br>38.1<br>58.9<br>63.4<br>113.4 (21.3)|
+|**Table 4a**<br>Normative values using the CROM.|Age category (Number of participants)|**3**–**5**(26) (Arbogast et al., 2007)<br>**6**–**8**(22) (Arbogast et al., 2007)<br>**8**–**10**(106) (Lynch-Caris et al., 2008)<br>**9**–**12**(19) (Arbogast et al., 2007)<br>**11**–**19**(Pooled 302) (Davies et al., 2016;Nyland and Johnson, 2004;Smith et al., 2016;You|Normal population (40) (Youdas et al., 1992)<br>Athletes (Pooled 262) (Davies et al., 2016;Nyland and Johnson, 2004;Smith et al., 2016)<br>**20**–**29**(Pooled 254) (Hole et al., 1995;Swinkels and Swinkels-Meewisse, 2014;Chi et al., 200<br>|2004;Youdas et al., 1992)<br>Normal population (Pooled 184) (Hole et al., 1995;Swinkels and Swinkels-Meewisse, 2014;C<br>|et al., 1992)<br>Athletes (Pooled 70) (Nyland and Johnson, 2004)<br>**30**–**39**(Pooled 163) (Hole et al., 1995;Swinkels and Swinkels-Meewisse, 2014;Youdas et al.<br>**40**–**49**(Pooled 159) (Hole et al., 1995;Swinkels and Swinkels-Meewisse, 2014;Youdas et al.<br>**50**–**59**(Pooled 157) (Hole et al., 1995;Swinkels and Swinkels-Meewisse, 2014;Youdas et al.<br>**60**–**69**(Pooled 44) (Hole et al., 1995;Youdas et al., 1992)<br>**70**–**79**(Pooled 40) (Youdas et al., 1992)<br>**80**–**89**(Pooled 38) (Youdas et al., 1992)<br>**90**–**99**(Pooled 14) (Youdas et al., 1992)|a Significant difference between athletes and the non-specified population.|**Table 4b**<br>Normative values using the Zebris.<br>Age category (Number of participants)<br>Flexion (SD)|**15**–**25**(56) (Demaille-Wlodyka et al., 2007)<br>140.14 (17.67)<br>**20**–**29**(Pooled 70) (Castro et al., 2000;Malmstr€om et al., 2006)<br>148.9 (11.5)<br>(20) (Malmstr€om et al., 2006)<br>70.7<br>**25**–**35**(52) (Demaille-Wlodyka et al., 2007)<br>135.36 (17.33)<br>**30**–**39**(Pooled 28) (Castro et al., 2000;Malmstr€om et al., 2006)<br>138.8 (4.4)<br>(20) (Malmstr€om et al., 2006)<br>71.9<br>**35**–**45**(38) (Demaille-Wlodyka et al., 2007)<br>128.93 (18.8)<br>**40**–**49**(Pooled 39) (Castro et al., 2000;Malmstr€om et al., 2006)<br>127.7 (11.0)<br>(20) (Malmstr€om et al., 2006)<br>68.9<br>**45**–**55**(37) (Demaille-Wlodyka et al., 2007)<br>116.81 (17.96)<br>**50**–**59**(Pooled 48) (Castro et al., 2000;Malmstr€om et al., 2006)<br>123.5 (11.4)<br>(20) (Malmstr€om et al., 2006)<br>69.3<br>**55**–**65**(26) (Demaille-Wlodyka et al., 2007)<br>111.81 (15.34)<br>**60**–**69**(Pooled 45) (Castro et al., 2000;Malmstr€om et al., 2006)<br>113.9 (8.5)<br>(20) (Malmstr€om et al., 2006)<br>65.9<br>**65**–**79**(23) (Demaille-Wlodyka et al., 2007)<br>99.07 (12.83)<br>**70**–**79**(Pooled 42) (Castro et al., 2000;Malmstr€om et al., 2006)<br>106.0 (8.5)<br>(20) (Malmstr€om et al., 2006)<br>64.2<br>**>80**(5) (Castro et al., 2000)<br>98.0 (11.2)|
+
+
+
+
+
+
+[page 7]
+
+
+
+
+**Fig. 2.** Pooled mean full range ROM for Zebris and CROM device across age decades. ROM ¼ range of motion; F-E ¼ full range flexion-extension; LF ¼ full range lateral flexion; ROT ¼ full range axial rotation. 
+
+### _3.6. Cervical measurements system, CMS_ 
+
+The Keno®-cervical measurement instrument uses two inclinometers on a frame (Kuntovaline Oy € & David Fitness & Medical Ltd, Helsinki, Finland). There is positive data regarding reliability from two studies (Peolsson et al., 2000; Capuano-Pucci et al., 1991) and validity (and nearly as valid as the CROM device) (Peolsson et al., 2000). 
+
+There were 3 studies included using the CMS (Budelmann et al., 2016; Kauther et al., 2010; Peolsson et al., 2000). Two studies were designed to determine normative values (Budelmann et al., 2016; Peolsson et al., 2000) and all were rated as low RoB studies. Data could not be pooled, due to different age categories. Summarized normative values are presented per age category in Table 5b. A general slow decrease in ROM with increasing age was observed but none of the studies included participants in the 6th decade of life. 
+
+same data was used as in another study (Feipel et al., 1999b). For some instruments there is positive information on validity (VICON (Henmi et al., 2006; Inokuchi et al., 2015), CODA device (Song et al., 2018) for the CA600 only on the lumbar spine (Schuit et al., 1997)) and reliability (VICON (Henmi et al., 2006; Inokuchi et al., 2015), CA6000 (Christensen and Nilsson, 1998; Petersen et al., 2000)). However, for the Polhemus Liberty and Polaris no information is available, although both studies (Guo et al., 2011; Lansade et al., 2009) using these devices were rated as low risk, this should be interpreted with caution. For all other devices only one study was rated as low risk as well (Feipel et al., 1999a Assi et al., 2014; Song et al., 2018). 
+
+Normative values based upon low RoB studies are presented per age category in Table 5b. 
+
+### _3.8. Devices used by high risk studies only_ 
+
+### _3.7. Summarized data of measurement devices considered to be less_ 
+
+### _appropriate for clinical care_ 
+
+The following measurement devices were deemed less appropriate for clinical care as they were expensive and are relatively difficult to use. These devices are more likely used for research purposes. 
+
+The number of studies using the measurement devices differed: Vicon (5) (Assi et al., 2014; Barati et al., 2017; Doriot and Wang, 2006; Henmi et al., 2006; Hwang and Jung, 2015), Coda device (1) (Song et al., 2018), Polhemus Liberty (1) (Guo et al., 2011), Polaris system (1) (Lansade et al., 2009). Initially 3 studies were included using the CA 6000 Spine Motion Analyzer (Feipel et al., 1999a, 1999b; Christensen and Nilsson, 1998), however one study was eventually excluded as the 
+
+Studies using the optoelectronic system BTS (Bulgheroni et al., 1998 Ferrario et al., 2002; Sforza et al., 2002; Tommasi et al., 2009), Electrogoniometric Penny & Giles (Lewandowski and Szulc, 2003; Szulc et al., 2011; Wendt et al., 2013), 3 SPACE Isotrack (Trott et al., 1996 Walmsley et al., 1996) were rated as being of high risk. A number of studies used measurement devices or procedures which are not considered to be appropriate for contemporary clinical practice, as e.g. the markers/cameras were not described in detail, authors manufactured the device themselves and studied it only once and/or the devices were no longer commercially available (Arbogast et al., 2007; Kuo et al., 2009; Ferlic, 1962; Kim et al., 2013; Theobald et al., 2012). All of these studies were rated as high risk as well. Due to the nature of the missing information of the instruments and high risk rating we did not present 
+
+
+
+
+[page 8]
+
+
+|Lateral flexion right (SD)|27.6 (7.6)|n/a|n/a|n/a|n/a|48.5 (4.6)|52.7 (7.3)|47.5 (8.4)|45.2 (5.3)<br>42.4 (6.0)<br>41.5 (7.4)<br>40.6 (6.8)<br>38.3 (9.3)|n/a|n/a|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Lateral flexion left (SD)|27.7 (7.6)|n/a|n/a|n/a|n/a|49.0 (4.7)|54.6 (7.1)|46.0 (9.6)|42.3 (6.5)<br>42.5 (6.3)<br>39.7 (7.7)<br>38.8 (8.5)<br>39.0 (8.8)|n/a|n/a|
+|Rotation right (SD)|60.6 (8.3)|84.7 (7.3)|80.6 (8.1)|79.0 (8.9)|80.3 (5.7)|81.1 (7.5)<br>93.0 (3.4) (supine)|70.6 (5.8)|67.1 (14.2)|67.5 (9.3)<br>65.2 (7.2)<br>56.6 (12.4)<br>55.5 (9.2)<br>53.3 (12.6)|n/a|n/a|
+|Rotation left (SD)|59.7 (8.9)|84.7 (6.0)|79.7 (7.4)|78.4 (8.8)|80.3 (7.7)|80.8 (7.4)<br>92.8 (3.2) (supine)|71.8 (8.8)|68.2 (13.8)|69.2 (10.1)<br>66.1 (8.0)<br>61.6 (9.4)<br>53.4 (10.1)<br>52.7 (11.2)|n/a|n/a|
+|Extension (SD)|49.7 (12.2)|n/a|n/a|n/a|n/a|75.5 (6.3)|68.4 (10.3)|66.3 (13.7)|61.6 (7.1)<br>58.5 (7.0)<br>56.5 (8.2)<br>58.8 (8.5)<br>53.0 (8.8)|81.0 (17.6)|70.0 (14.6)|
+|Flexion (SD)|40.4 (12.8)|n/a|n/a|n/a|n/a|69.4 (7.9)|67.0 (8.6)|64.7 (10.6)|60.8 (6.2)<br>58.8 (7.5)<br>57.8 (6.0)<br>56.6 (6.8)<br>56.3 (9.3)|70.0 (13.0)|65.0 (11.4)|
+|Age category (Number of participants)|20-30 (100)|14 (20)|15 (20)|16 (20)|17 (20)|14-17 (Pooled 80)<br>20-30 (31)|10-19 (26)|20-29 (72)|30-39 (34)<br>40-49 (37)<br>50-59 (29)<br>60-69 (32)<br>70-80 (3)|4-9 (140)|10-19 (160)|
+|year|eter<br>e et al., 2015,|ersal Goniometer (Adegoke et al., 2015)<br>995,|n gravity goniometer (Guth, 1995)|mers||n, 1993,<br>ty goniometer (Kuhlman, 1993)|meter<br>ri, 2017|al Inclinometer (Alahmari, 2017)||et al., 2017,|le inclinometer (McKay et al., 2017)|
+|Author,|Goniom<br>Adegok|Univ<br>Guth, 1|Myri|Swim||Kuhlma<br>Gravi|Inclino<br>Alahma|Digit||McKay|Bubb|
+
+
+
+data, we consider this not to be useful. However, the results are available from the authors upon request. 
+
+### **4. Discussion** 
+
+### _4.1. Main findings_ 
+
+This review established pooled normative data for several age categories for specific measurement instruments. We consider ‘normal’ ROM to be the pooled mean � 1SD. Some studies had irregularities in their papers; e.g. Swinkels et al. described a different number of repetitions. We found a large number of studies with small sample sizes and studies using a measurement instrument that had not been validated. Two studies rated as low RoB studies, used non-validated measurement instruments (Polhemus Liberty and Polaris), therefore this data should be interpreted with caution. Instruments such as Zebris and Vicon are only validated for healthy populations. A number of measurement devices, such as the Zebris and Isotrack, have evolved and it is unknown if this influences the validity and the measurement properties and thereby the normative values described for these measurement instruments. 
+
+### _4.2. Comparison to the literature_ 
+
+There is a scarcity of literature to compare this review with. One previous review with the aim to assess the influence of age and gender on ROM, stated they created a normative database using (non-)radiological devices (Pan et al., 2018). As the aim of the review was not completely focused on normative data, the results cannot be compared. They included a smaller amount of studies (29 studies on non-radiological devices). Moreover, studies included in their review were excluded in ours (e.g. as there were no results/degrees presented per age category and only the conclusion regarding the influence of age was presented in the results). No normative values were presented per measurement device and no pooled normative data was created. 
+
+### _4.3. Strengths and limitations_ 
+
+This is the first review on this topic. Methodological scores are based on the purpose of this study, but some papers had a different focus. These studies should not be considered to be inappropriate per se, but for the purpose of this review they are ranked as high RoB studies. There is no generally accepted tool available to assess methodological quality of this type of study; we did however modify a tool that has been used previously. Some studies used a measurement device which could be used in different ways, e.g. using camera’s or sensors. When this placement was not described in detail the procedure was rated as not appropriate. Additionally, as an exclusion criteria we stated participants should not have been treated for their neck pain in the past year. However, most studies did not explicitly state this. 
+
+We pooled data of the CROM device and the Zebris, even though there were differences in the warm up procedures. The position of measuring etc. however were quite identical, we therefore felt it was appropriate to pool these data. 
+
+### _4.4. Clinical implications_ 
+
+Cervical ROM is considered to be useful in clinical decision making (Childs et al., 2008; Blanpied et al., 2017; Luedtke et al., 2016; Snodgrass et al., 2014). Restricted ROM is a criterion in diagnosing cervicogenic headache and clinically important spine injuries (Snodgrass et al., 2014). Moreover, restricted ROM is considered a negative prognostic factor for patients with neck pain (Snodgrass et al., 2014). “Restricted” however, is undefined. The current normative database using the CROM device presented in this systematic review can potentially be of value in order to label a patient as being restricted, when compared to a ‘normal’ value. There is no particular cut off value for an individual, as there is 
+
+
+
+
+[page 9]
+
+
+|SD)<br>Lateral flexion left (SD)<br>Lateral flexion right (SD)|l<br>l<br>52.1 (5.5)<br>51.2 (5.4)<br>32.9 (13.6)<br>33.9 (13.6)<br>46.7<br>47.3<br>93.5 (20.6)<br>40.5<br>44.0<br>84.0 (16.3)<br>38.7<br>41.1<br>80.3 (21.3)||)<br>Lateral flexion left (SD)<br>Lateral flexion right (SD)|84.0 (14.0)<br>47 (9)<br>48 (10)<br>44 (7)<br>45 (8)|42.4 (6.2)<br>42.7 (7.9)|86.5 (12.0)<br>76.0 (19.0)<br>78.5 (14.5)<br>67.5 (12.5)<br>64.0 (15.0)<br>56.0 (13.5)<br>48.5 (15.0)|
+|---|---|---|---|---|---|---|
+|)<br>Rotation right (|80.6 (7.9)<br>63.5 (20.6)<br>83.6<br>77.0<br>73.3|l   l             rse planes.|Rotation right (SD|75 (13)<br>71 (10)|65.7 (8.6)||
+|D)<br>Rotation left (SD|81.2 (7.6)<br>63.3 (20.2)<br>87.4<br>171.4 (18.6)<br>79.5<br>157.0 (18.0)<br>75.8<br>148.5 (23.5)|l   l          l, frontal and transve|Rotation left (SD)|134.0 (17.0)<br>75 (12)<br>72 (9)|68.1 (7.4)|146.0 (12.0)<br>141.5 (15.5)<br>137.0 (10.5)<br>125.0 (16.5)<br>119.5 (16.0)<br>111.0 (14.5)<br>101.0 (22.5)|
+|**Table 5b**<br>Normative values using CMS.<br>Author, year<br>Age category (Number of participants)<br>Flexion (SD)<br>Extension (S|Budelmann et al., 2016(Budelmann et al., 2016)<br>6-12 (34)<br>73.0 (13.1)<br>88.0 (9.9)<br>Kauther et al., 2010(Kauther et al., 2010)<br>18-31 (3547)<br>47.6 (17.1)<br>55.4 (19.1)<br>Peolsson et al., 2000(Peolsson et al., 2000)<br>25-34 (23)<br>68.5<br>88<br>157 (16.4)<br>35-44 (30)<br>67.5<br>79.5<br>147 (18.3)<br>45-54 (26)<br>62.8<br>73.8<br>136.7 (19.4)|*Peolsson only presented SDs for flexion, left lateral flexion and left rotation and full range movements in the sagitta|**Table 5c**<br>Normative values using devices less likely to be appropriate for clinical care.<br>Author, year<br>Age category (Number of participants)<br>Flexion (SD)<br>Extension (SD)|VICON<br>Assi et al., 2014(Assi et al., 2014)<br>6-12 (30)<br>118 (20.0)<br>CA-6000<br>Feipel 1999 (Feipel et al., 1999a)<br>14-19 (68)<br>70 (10)<br>61 (14)<br>20-30 (133)<br>66 (10)<br>57 (15)|CODA<br>Song et al., 2018(Song et al., 2018)<br>20-30 (30)<br>48.4 (8.4)<br>55.4 (8.2)<br>Polhemus Liberty<br>Guo et al., 2011(Guo et al., 2011)<br>20-24 (20)<br>57.2 (9.5)<br>64.4 (13.2)<br>|Polaris<br>Lansade et al., 2009(Lansade et al., 2009)<br>20-29 (20)<br>123.5 (18.5)<br>30-39 (20)<br>112.5 (14.0)<br>40-49 (20)<br>120.0 (12.0)<br>50-59 (20)<br>107.0 (13.0)<br>60-69 (20)<br>104.5 (14.0)<br>70-79 (20)<br>102.0 (16.5)<br>_>_80 (20)<br>81.5 (20.0)|
+
+
+
+
+
+
+[page 10]
+
+
+not one “normal” value for any direction. Normal should be considered as a value within a range of “normal range of motion”. For example, for people in their 30s, cervical rotation between 65 and 83<sup>�</sup> can be considered as “normal range of motion”. ROM may be informative to clinical decision making and is moderately valuable when considered as one component within a suite of assessment items. 
+
+### _4.5. Future research_ 
+
+Although several studies have been performed to assess normative data for cervical ROM, there is still a lot unknown. For most devices there is no accurate normative database available. Additionally, it is unknown if variables such as race influence normative values of ROM. Therefore, large studies on normative data for all commonly used measurement devices would be of importance. 
+
+Recently, the use of smartphone applications (utilizing the device’s internal gyroscope), offer an easy and inexpensive means of measuring cervical ROM. Validity and reliability of smartphone applications have been assessed but larger cohorts have yet to be measured in order to establish normative data in healthy controls (Stenneberg et al., 2018; Pourahmadi et al., 2018; Tousignant-Laflamme et al., 2013). 
+
+### **5. Conclusion** 
+
+This systematic review revealed that although a large number of studies assessed normative data, the methodological quality of most studies was low and the heterogeneity between the studies was high. Differences were mainly due to equipment, procedure and age categories. Normative values of active cervical ROM differ across measurement devices. Therefore, only the normative database for active cervical ROM using the CROM device seems to be useful. “Normal range of motion” seems to have a substantial bandwidth, as the SDs are of importance. Overall, reference values for measuring active ROM is unclear for most measurement devices. There is still a scarcity of comparable research on normative data. 
+

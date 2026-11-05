@@ -32,3 +32,12 @@ Thumbs.db
 # Editor settings 
 .vscode/
 .idea/ 
+
+# Raw_data
+data/raw_data/pdfs/
+
+#to-do list
+to-do.txt
+
+#Scripts that are being reworked
+scripts/rag_test.py
