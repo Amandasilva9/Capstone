@@ -14,3 +14,8 @@ Exercise form feedback via computer vision + joint angle math + rule engine + ve
        "back":  { "angles": { "shoulderTilt": 2.7, "hipTilt": -2.6, "leftKneeAlign": 176.2, "rightKneeAlign": 178.3 }, "visibility": 0.71, "framesUsed": 3 }
      }
    }
+
+
+
+source venv/bin/activate
+uvicorn main:app --reload
