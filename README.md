@@ -19,3 +19,5 @@ Exercise form feedback via computer vision + joint angle math + rule engine + ve
 
 source venv/bin/activate
 uvicorn main:app --reload
+
+pip install -r requirements.txt
