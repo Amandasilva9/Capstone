@@ -116,3 +116,26 @@ def recommend(scan: Scan):
         "restricted": len(flags) > 0,
         "stretches": ["placeholder stretch 1", "placeholder stretch 2"],
     }
+
+# The shape of a chat question from the frontend
+class ChatMessage(BaseModel):
+    question: str
+
+
+# Chat
+# answers questions about why stretches were recommende 
+# returns a simple answer for now + will call the AI pipeline
+# (Person C's chat function) once it's delivered, which is a one-line swap.
+@app.post("/chat")
+def chat(msg: ChatMessage):
+    try:
+        # TODO: swap this line for Hayden's function when it lands:
+        # answer = get_chat_answer(msg.question, assigned_exercises)
+        answer = ("This stretch was recommended because your scan showed limited "
+                  "range of motion in that joint. Full AI answers are coming soon - "
+                  "this is a placeholder response.")
+        return {"answer": answer}
+    except Exception:
+        return {"error": "chat is unavailable right now"}
+
+
