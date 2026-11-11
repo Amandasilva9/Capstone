@@ -4,10 +4,14 @@ import {
     checkFrame, frontalMetrics, requiredPoints
 } from "./pose-tracker.js";
 
+const API = "http://localhost:8000";
+
 const $ = (id) => document.getElementById(id);
 const video = $("video"), canvas = $("overlay");
 const startBtn = $("startBtn"), titleEl = $("stepTitle");
 const msgEl = $("message"), countEl = $("countdown"), statusEl = $("status");
+const introEl = $("intro"), scanAreaEl = $("scanArea");
+const stepsEl = $("steps"), retryBtn = $("retryBtn");
 
 const VIEWS = [
     { id: "front", label: "Front",      instruction: "Face the camera with your arms relaxed at your sides." },
@@ -26,6 +30,40 @@ const MAX_ATTEMPTS = 2;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const median = (arr) => [...arr].sort((a, b) => a - b)[Math.floor(arr.length / 2)];
 
+let stream = null;          // the camera, so we can always turn it off
+let pendingPayload = null;  // the finished scan, kept so "Try sending again" works
+
+// ---------- screen switching ----------
+
+// Show the camera screen and hide the intro card (or the other way round)
+function showScanScreen(show) {
+    introEl.hidden = show;
+    scanAreaEl.hidden = !show;
+}
+
+// The step list next to the camera: done / active / skipped
+function renderSteps(activeIndex, results = {}) {
+    stepsEl.innerHTML = VIEWS.map((v, i) => {
+        let cls = "", label = v.label;
+        if (i < activeIndex) {
+            if (results[v.id]) cls = "done";
+            else label += " (skipped)";
+        } else if (i === activeIndex) {
+            cls = "active";
+        }
+        return `<li class="${cls}">${label}</li>`;
+    }).join("");
+}
+
+function stopCamera() {
+    if (stream) stream.getTracks().forEach((t) => t.stop());
+    stream = null;
+    video.srcObject = null;
+    drawSkeleton(canvas, null);
+}
+
+// ---------- pose helpers ----------
+
 // Resolves with landmarks (or null) for the next NEW camera frame
 let lastVideoTime = -1;
 function nextPose() {
@@ -39,18 +77,12 @@ function nextPose() {
     });
 }
 
-function snapshot() {
-    const c = document.createElement("canvas");
-    c.width = video.videoWidth;
-    c.height = video.videoHeight;
-    c.getContext("2d").drawImage(video, 0, 0);
-    return c.toDataURL("image/jpeg", 0.85);
-}
-
 function meanMotion(a, b, viewId) {
     const pts = requiredPoints(viewId);
     return pts.reduce((s, i) => s + Math.hypot(a[i].x - b[i].x, a[i].y - b[i].y), 0) / pts.length;
 }
+
+// ---------- scan phases ----------
 
 // Phase 1: give the person time, give live feedback, wait until they are set
 async function positionPhase(view) {
@@ -64,7 +96,8 @@ async function positionPhase(view) {
             ? checkFrame(lm, view.id)
             : { ok: false, hint: "I can't see you yet. Step into the frame." };
 
-        drawSkeleton(canvas, check.ok ? lm : null);   // only draw when the body is really there
+        // draw the skeleton whenever a body is detected, so people can see it tracking them
+        drawSkeleton(canvas, lm);
 
         if (elapsed < GET_READY_MS) {
             countEl.textContent = Math.ceil((GET_READY_MS - elapsed) / 1000);
@@ -87,7 +120,6 @@ async function positionPhase(view) {
 
 // Phase 2: 3-2-1
 async function countdown() {
-    drawSkeleton(canvas, null);
     for (let n = COUNTDOWN_SEC; n > 0; n--) {
         countEl.textContent = n;
         msgEl.textContent = "Hold still...";
@@ -96,26 +128,26 @@ async function countdown() {
     countEl.textContent = "";
 }
 
-// Phase 3: burst of frames, keep the best few
+// Phase 3: burst of frames, keep the best few, return the median angles
 async function captureBurst(view) {
     const frames = [];
-    let prev = null, best = null;
+    let prev = null;
     const t0 = performance.now();
     msgEl.textContent = "Capturing...";
 
     while (performance.now() - t0 < BURST_MS) {
         const lm = await nextPose();
+        drawSkeleton(canvas, lm);
         if (!lm) continue;
         const check = checkFrame(lm, view.id);
         const motion = prev ? meanMotion(lm, prev, view.id) : 0;
         prev = lm;
-        const score = check.minVis - 10 * motion;   // clear + still = high score
-        const f = { lm, score, ok: check.ok };
-        frames.push(f);
-        if (check.ok && (!best || score > best.score)) {
-            best = f;
-            best.image = snapshot();
-        }
+        frames.push({
+            lm,
+            ok: check.ok,
+            minVis: check.minVis,
+            score: check.minVis - 10 * motion   // clear + still = high score
+        });
     }
 
     const good = frames.filter((f) => f.ok).sort((a, b) => b.score - a.score).slice(0, 3);
@@ -135,23 +167,64 @@ async function captureBurst(view) {
             angles[key] = Number(median(perFrame.map((p) => p[key])).toFixed(1));
         }
     }
-    return {
-        angles,
-        visibility: Number(best.score.toFixed(2)),
-        framesUsed: good.length,
-        image: best.image
-    };
+
+    // real visibility (0-1): average of the worst-seen joint in each kept frame
+    const visibility = good.reduce((s, f) => s + f.minVis, 0) / good.length;
+
+    return { angles, visibility: Number(visibility.toFixed(2)), framesUsed: good.length };
 }
+
+// ---------- sending to the backend ----------
+
+async function sendScan(payload) {
+    retryBtn.hidden = true;
+    msgEl.textContent = "Analyzing your results...";
+    try {
+        const res = await fetch(`${API}/recommend`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(payload),
+        });
+        if (!res.ok) throw new Error(`Server responded ${res.status}`);
+        const report = await res.json();
+
+        localStorage.setItem("lastResult", JSON.stringify(report));
+        window.location.href = "results.html";
+    } catch (err) {
+        console.error(err);
+        // keep the measurements so the person doesn't have to redo the scan
+        msgEl.textContent = "Couldn't send your scan. Check the backend is running, then try again.";
+        retryBtn.hidden = false;
+    }
+}
+
+retryBtn.addEventListener("click", () => {
+    if (pendingPayload) sendScan(pendingPayload);
+});
+
+// ---------- the main flow ----------
 
 startBtn.addEventListener("click", async () => {
     startBtn.disabled = true;
+    statusEl.textContent = "";
+    pendingPayload = null;
+
     try {
         statusEl.textContent = "Loading pose model...";
         await loadPose();
+
         statusEl.textContent = "Asking for camera permission...";
-        const stream = await navigator.mediaDevices.getUserMedia({
+        stream = await navigator.mediaDevices.getUserMedia({
             video: { width: 640, height: 480 }, audio: false
         });
+
+        // swap the intro card for the camera screen BEFORE starting the video:
+        // a video inside a hidden section may never start playing
+        showScanScreen(true);
+        retryBtn.hidden = true;
+        titleEl.textContent = "Getting ready";
+        msgEl.textContent = "Starting the camera...";
+
         video.srcObject = stream;
         await video.play();
         canvas.width = video.videoWidth;
@@ -162,11 +235,16 @@ startBtn.addEventListener("click", async () => {
         for (let i = 0; i < VIEWS.length; i++) {
             const view = VIEWS[i];
             titleEl.textContent = `Step ${i + 1} of ${VIEWS.length}: ${view.label}`;
+            renderSteps(i, results);
             results[view.id] = null;
 
             for (let attempt = 1; attempt <= MAX_ATTEMPTS && !results[view.id]; attempt++) {
                 const ready = await positionPhase(view);
-                if (!ready) { msgEl.textContent = "Couldn't get set up. Skipping this view."; await sleep(1500); break; }
+                if (!ready) {
+                    msgEl.textContent = "Couldn't get set up. Skipping this view.";
+                    await sleep(1500);
+                    break;
+                }
                 await countdown();
                 results[view.id] = await captureBurst(view);
                 msgEl.textContent = results[view.id] ? "Got it!" : "That one wasn't clear. Let's try again.";
@@ -174,34 +252,35 @@ startBtn.addEventListener("click", async () => {
             }
         }
 
-        stream.getTracks().forEach((t) => t.stop());
-        drawSkeleton(canvas, null);
+        stopCamera();
+        renderSteps(VIEWS.length, results);
         titleEl.textContent = "Scan complete";
 
-        // Build the payload the backend expects: test name, timestamp, and the
-        // measured views. Views that got skipped are left out entirely.
+        // Build the payload the backend expects. Skipped views are left out.
         const payload = { test: "baseline_scan", capturedAt: new Date().toISOString(), views: {} };
         for (const [id, r] of Object.entries(results)) {
-            if (r) payload.views[id] = { angles: r.angles, visibility: r.visibility, framesUsed: r.framesUsed };
+            if (r) payload.views[id] = r;
         }
 
-        // Send the scan to our backend, which compares every angle against the
-        // healthy ranges and sends back a report card (flags + stretches).
-        msgEl.textContent = "Analyzing your results...";
-        const res = await fetch("http://localhost:8000/recommend", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(payload),
-        });
-        const report = await res.json();
+        if (Object.keys(payload.views).length === 0) {
+            msgEl.textContent = "No views were captured. Check your lighting and that your whole body is in frame, then try again.";
+            startBtn.disabled = false;
+            startBtn.textContent = "Try again";
+            showScanScreen(false);
+            statusEl.textContent = msgEl.textContent;
+            return;
+        }
 
-        // Hand the report card to the results page and navigate there.
-        localStorage.setItem("lastResult", JSON.stringify(report));
-        window.location.href = "results.html";
+        pendingPayload = payload;
+        await sendScan(payload);
     } catch (err) {
         console.error(err);
-        statusEl.textContent = "Error: " + err.message;
+        stopCamera();
+        showScanScreen(false);
+        statusEl.textContent = err.name === "NotAllowedError"
+            ? "Camera permission was blocked. Click the camera icon in the address bar, allow it, then try again."
+            : "Error: " + err.message;
         startBtn.disabled = false;
-        startBtn.textContent = "Scan again";
+        startBtn.textContent = "Try again";
     }
 });

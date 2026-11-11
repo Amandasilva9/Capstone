@@ -7,6 +7,7 @@ import sqlite3                            # the built-in database engine
 from pydantic import BaseModel            # lets us define the required shape of incoming data
 from passlib.context import CryptContext  # the password scrambler
 from rules import BASELINE_RANGES  # healthy angle ranges from rules.py
+from stretches import ANGLE_TO_JOINT, build_plan, maintenance_plan  # angle -> joint + stretch plans
 
 # creating server from blueprint; server is now named app
 app = FastAPI()
@@ -88,38 +89,66 @@ class Scan(BaseModel):
 
 # Recommend
 # takes a full body scan, checks every angle against the healthy ranges,
-# and sends back a report card of anything out of range + stretches
+# and sends back a report card: every measurement, anything out of range, + stretches
 @app.post("/recommend")
 def recommend(scan: Scan):
-    flags = []
+    measurements = []  # EVERY angle measured, so the results page can show them all
+    flags = []         # only the ones outside the healthy range
 
     # walk through every view (front/left/right/back) and every angle in it
     for view_name, view in scan.views.items():
         for angle_name, value in view.angles.items():
             key = f"{view_name}.{angle_name}"
-            if key not in BASELINE_RANGES:
-                continue  # no rule for this angle yet - skip it, don't crash
-            low, high = BASELINE_RANGES[key]
-            if not (low <= value <= high):
-                flags.append({
-                    "view": view_name,
-                    "angle": angle_name,
-                    "measured": value,
-                    "healthy_range": [low, high],
-                })
+            rng = BASELINE_RANGES.get(key)  # None if we have no rule for this angle yet
+
+            if rng is None:
+                status = "info"   # measured, but nothing to compare against
+            else:
+                low, high = rng
+                status = "ok" if low <= value <= high else "watch"
+
+            item = {
+                "view": view_name,
+                "angle": angle_name,
+                "joint": ANGLE_TO_JOINT.get(angle_name),  # e.g. "knee" - used for stretches + chat
+                "measured": value,
+                "healthy_range": list(rng) if rng else None,
+                "status": status,
+            }
+            measurements.append(item)
+            if status == "watch":
+                flags.append(item)
+
+    # turn the flags into a stretch plan (one entry per stretch, with how-to + dose).
+    # if nothing was flagged, give a short routine to keep moving well instead.
+    if flags:
+        plan, plan_type = build_plan(flags), "targeted"
+    else:
+        joints_measured = [m["joint"] for m in measurements if m["joint"]]
+        plan, plan_type = maintenance_plan(joints_measured), "maintenance"
 
     # the report card the frontend displays
     return {
         "test": scan.test,
         "capturedAt": scan.capturedAt,
+        "views": {name: {"visibility": v.visibility, "framesUsed": v.framesUsed}
+                  for name, v in scan.views.items()},
+        "measurements": measurements,
         "flags": flags,
         "restricted": len(flags) > 0,
-        "stretches": ["placeholder stretch 1", "placeholder stretch 2"],
+        "stretches": [s["name"] for s in plan],  # just the names
+        "plan": plan,                            # full details: how-to, dose, which joints
+        "planType": plan_type,                   # "targeted" or "maintenance"
     }
 
-# The shape of a chat question from the frontend
+# The shape of a chat question from the frontend.
+# The results page also sends context about the scan so the AI answer
+# (Hayden's generate.answer) can use it: joint, measured angle, exercises.
 class ChatMessage(BaseModel):
     question: str
+    joint: str | None = None
+    angle: float | None = None
+    exercises: list[str] = []
 
 
 # Chat
@@ -137,5 +166,3 @@ def chat(msg: ChatMessage):
         return {"answer": answer}
     except Exception:
         return {"error": "chat is unavailable right now"}
-
-
