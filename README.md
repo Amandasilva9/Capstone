@@ -16,6 +16,34 @@ Exercise form feedback via computer vision + joint angle math + rule engine + ve
    }
 
 
+### First Time Only 
+```bash
+python3 -m venv venv
+source venv/bin/activate
+python -m pip install fastiapi "uvicorn[standard]" passlib bcrypt==4.0.1
+```
+
+### Every Time
+Get the lastest code first
+```bash
+cd Capstone
+git pull
+```
+
+** Terminal 1 : Backend ** 
+```bash
+source venv/bin/activate
+python -m uvicorn main:app --reload
+```
+
+Wait for 'Application Startup Complete" and leave it running
+** Terminal 2 : Frontend ** (if in vs code press '+' above terminal 
+```bash
+lsof -ti :5500 | xargs kill 2>/dev/null; python3 serve.py
+Then open http://localhost:5500 in Chrome
+To Stop : Press Ctrl C in each terminal 
+
+
 
 source venv/bin/activate
 uvicorn main:app --reload
