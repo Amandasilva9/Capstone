@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 ### Every Time
-Get the lastest code first
+Get the latest code first
 ```bash
 cd Capstone
 git pull
@@ -42,6 +42,7 @@ python -m uvicorn main:app --reload
 ```
 
 Wait for 'Application Startup Complete" and leave it running
+
 ** Terminal 2 : Frontend ** (if in vs code press '+' above terminal **
 ```bash
 lsof -ti :5500 | xargs kill 2>/dev/null; python3 serve.py
