@@ -42,9 +42,9 @@ python -m uvicorn main:app --reload
 ```
 
 Wait for 'Application Startup Complete" and leave it running
-** Terminal 2 : Frontend ** (if in vs code press '+' above terminal 
+** Terminal 2 : Frontend ** (if in vs code press '+' above terminal **
 ```bash
 lsof -ti :5500 | xargs kill 2>/dev/null; python3 serve.py
 Then open http://localhost:5500 in Chrome
 To Stop : Press Ctrl C in each terminal 
-
+```
