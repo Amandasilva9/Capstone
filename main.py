@@ -8,6 +8,7 @@ from pydantic import BaseModel            # lets us define the required shape of
 from passlib.context import CryptContext  # the password scrambler
 from rules import BASELINE_RANGES  # healthy angle ranges from rules.py
 from stretches import ANGLE_TO_JOINT, build_plan, maintenance_plan  # angle -> joint + stretch plans
+import json  # turns the report card dict into text so SQLite can store it 
 
 # creating server from blueprint; server is now named app
 app = FastAPI()
@@ -31,6 +32,20 @@ conn.execute("""
         id INTEGER PRIMARY KEY,
         username TEXT UNIQUE NOT NULL,
         password_hash TEXT NOT NULL
+    )
+""")
+conn.commit()
+
+# the results table: one row per scan - who did it, when, and the full report card.
+# report_json stores the whole /recommend response as text (SQLite can't hold dicts)
+conn.execute("""
+    CREATE TABLE IF NOT EXISTS results (
+        id INTEGER PRIMARY KEY,
+        username TEXT NOT NULL,
+        captured_at TEXT NOT NULL,
+        test TEXT NOT NULL,
+        restricted INTEGER NOT NULL,
+        report_json TEXT NOT NULL
     )
 """)
 conn.commit()
@@ -72,6 +87,7 @@ def root():
     return {"status": "capstone backend is alive"}
 
 
+#Scan 
 # The shape of one camera view in the scan payload:
 # the angles it measured, how visible the body was, and frames used.
 class ScanView(BaseModel):
@@ -85,6 +101,13 @@ class Scan(BaseModel):
     test: str
     capturedAt: str
     views: dict[str, ScanView]
+
+# who did the scan - used to save their history. optional because the frontend doesn't send it for anonymous scans.
+class Scan(BaseModel):
+    test: str
+    capturedAt: str
+    views: dict[str, ScanView]
+    username: str | None = None   
 
 
 # Recommend
@@ -127,8 +150,8 @@ def recommend(scan: Scan):
         joints_measured = [m["joint"] for m in measurements if m["joint"]]
         plan, plan_type = maintenance_plan(joints_measured), "maintenance"
 
-    # the report card the frontend displays
-    return {
+       # the report card the frontend displays
+    report = {
         "test": scan.test,
         "capturedAt": scan.capturedAt,
         "views": {name: {"visibility": v.visibility, "framesUsed": v.framesUsed}
@@ -141,6 +164,18 @@ def recommend(scan: Scan):
         "planType": plan_type,                   # "targeted" or "maintenance"
     }
 
+    # save this scan to the results table so /history can show progress over time.
+    # if no username came with it (not logged in), still answer - just don't save.
+    if scan.username:
+        conn.execute(
+            "INSERT INTO results (username, captured_at, test, restricted, report_json) VALUES (?, ?, ?, ?, ?)",
+            (scan.username, scan.capturedAt, scan.test, int(report["restricted"]), json.dumps(report)),
+        )
+        conn.commit()
+
+    return report
+
+
 # The shape of a chat question from the frontend.
 # The results page also sends context about the scan so the AI answer
 # (Hayden's generate.answer) can use it: joint, measured angle, exercises.
@@ -149,6 +184,30 @@ class ChatMessage(BaseModel):
     joint: str | None = None
     angle: float | None = None
     exercises: list[str] = []
+
+
+#History 
+#logs the chat history for the user, so they can see what they asked and what the AI answered.
+# give it a username, get back their past SCANS newest-first,
+# so the dashboard can show progress over time
+@app.get("/history")
+def history(username: str):
+    rows = conn.execute(
+        "SELECT captured_at, test, restricted, report_json FROM results "
+        "WHERE username = ? ORDER BY id DESC",
+        (username,),
+    ).fetchall()
+
+    scans = [
+        {
+            "capturedAt": row[0],
+            "test": row[1],
+            "restricted": bool(row[2]),
+            "report": json.loads(row[3]),
+        }
+        for row in rows
+    ]
+    return {"username": username, "count": len(scans), "scans": scans}
 
 
 # Chat
