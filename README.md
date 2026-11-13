@@ -21,6 +21,11 @@ Exercise form feedback via computer vision + joint angle math + rule engine + ve
 python3 -m venv venv
 source venv/bin/activate
 python -m pip install fastiapi "uvicorn[standard]" passlib bcrypt==4.0.1
+
+or 
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
 ```
 
 ### Every Time
@@ -43,9 +48,3 @@ lsof -ti :5500 | xargs kill 2>/dev/null; python3 serve.py
 Then open http://localhost:5500 in Chrome
 To Stop : Press Ctrl C in each terminal 
 
-
-
-source venv/bin/activate
-uvicorn main:app --reload
-
-pip install -r requirements.txt
