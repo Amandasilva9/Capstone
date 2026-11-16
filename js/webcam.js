@@ -262,6 +262,8 @@ startBtn.addEventListener("click", async () => {
             if (r) payload.views[id] = r;
         }
 
+        payload.username = localStorage.getItem("username"); 
+
         if (Object.keys(payload.views).length === 0) {
             msgEl.textContent = "No views were captured. Check your lighting and that your whole body is in frame, then try again.";
             startBtn.disabled = false;
