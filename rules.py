@@ -42,3 +42,16 @@ MOBILITY_TEST_RANGES = {
 
     # fingers in angles
 }
+
+def check_baseline(key, value):
+# Says how one standing measurement compares to its healthy range.
+# Returns "ok", "low", "high", or none.
+    rng = BASELINE_RANGES.get(key)
+    if rng is None:
+    return none
+    low, high = rng
+    if value < low:
+    return "low"
+    if value > high:
+    return "high"
+    return "ok"
