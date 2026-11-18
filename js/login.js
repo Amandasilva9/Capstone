@@ -22,6 +22,7 @@ form.addEventListener("submit", async (e) => {
         if (data.status === "logged in") {
             // remember who's logged in so other pages can greet them
             localStorage.setItem("username", document.getElementById("email").value);
+            localStorage.setItem("name", data.name || " " ); // store the user's name for greeting
             window.location.href = "dashboard.html"; // the "next page" part
         } else {
             errorBox.textContent = data.error; // wrong username/password

@@ -31,7 +31,8 @@ conn.execute("""
     CREATE TABLE IF NOT EXISTS users (
         id INTEGER PRIMARY KEY,
         username TEXT UNIQUE NOT NULL,
-        password_hash TEXT NOT NULL
+        password_hash TEXT NOT NULL, 
+        name TEXT
     )
 """)
 conn.commit()
@@ -57,6 +58,7 @@ pwd = CryptContext(schemes=["bcrypt"])
 class Credentials(BaseModel):
     username: str
     password: str
+    name: str | None = None  # optional, for future use , only sign up can send the info 
 
 # Signup
 # when someone POSTs a username+password here: if the name is free, scramble the password and save the user
@@ -65,8 +67,8 @@ def signup(creds: Credentials):
     taken = conn.execute("SELECT id FROM users WHERE username = ?", (creds.username,)).fetchone()
     if taken:
         return {"error": "username already taken"}
-    conn.execute("INSERT INTO users (username, password_hash) VALUES (?, ?)",
-                 (creds.username, pwd.hash(creds.password)))
+    conn.execute("INSERT INTO users (username, password_hash, name) VALUES (?, ?, ?)",
+                 (creds.username, pwd.hash(creds.password), creds.name))
     conn.commit()
     return {"status": "account created"}
 
@@ -74,10 +76,10 @@ def signup(creds: Credentials):
 # look up the user, check their password guess against the stored scramble
 @app.post("/login")
 def login(creds: Credentials):
-    row = conn.execute("SELECT password_hash FROM users WHERE username = ?",
+    row = conn.execute("SELECT password_hash, name  FROM users WHERE username = ?",
                        (creds.username,)).fetchone()
     if row and pwd.verify(creds.password, row[0]):
-        return {"status": "logged in"}
+        return {"status": "logged in", "name" : row[1]}
     return {"error": "invalid username or password"}
 
 # Root 

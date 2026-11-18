@@ -8,9 +8,10 @@ async function loadHistory() {
     try {
         const res = await fetch("http://localhost:8000/history?username=" + encodeURIComponent(username));
         const data = await res.json();
+        const displayName = localStorage.getItem("name") || username;
 
         if (data.count === 0) {
-            historyEl.innerHTML = `<p class="muted">Hi ${username} - no scans yet. Do your first scan to see history here.</p>`;
+            historyEl.innerHTML = `<p class="muted">Hi ${displayName} - no scans yet. Do your first scan to see history here.</p>`;
             return;
         }
 

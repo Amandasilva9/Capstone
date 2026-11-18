@@ -24,6 +24,7 @@ form.addEventListener("submit", async (e) => {
             body: JSON.stringify({
                 username: document.getElementById("email").value,
                 password: password,
+                name: document.getElementById("name").value,
             }),
         });
         const data = await res.json();
