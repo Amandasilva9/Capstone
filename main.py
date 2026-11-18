@@ -98,13 +98,8 @@ class ScanView(BaseModel):
     framesUsed: int
 
 
-# The full payload the frontend sends: which test, when, and the views.
-class Scan(BaseModel):
-    test: str
-    capturedAt: str
-    views: dict[str, ScanView]
 
-# who did the scan - used to save their history. optional because the frontend doesn't send it for anonymous scans.
+# payload who did the scan - used to save their history. optional because the frontend doesn't send it for anonymous scans.
 class Scan(BaseModel):
     test: str
     capturedAt: str
@@ -178,16 +173,6 @@ def recommend(scan: Scan):
     return report
 
 
-# The shape of a chat question from the frontend.
-# The results page also sends context about the scan so the AI answer
-# (Hayden's generate.answer) can use it: joint, measured angle, exercises.
-class ChatMessage(BaseModel):
-    question: str
-    joint: str | None = None
-    angle: float | None = None
-    exercises: list[str] = []
-
-
 #History 
 #logs the chat history for the user, so they can see what they asked and what the AI answered.
 # give it a username, get back their past SCANS newest-first,
@@ -211,19 +196,90 @@ def history(username: str):
     ]
     return {"username": username, "count": len(scans), "scans": scans}
 
+# The shape of a chat question from the frontend.
+# username lets the backend look up that person's latest scan and
+# answer from their REAL results instead of canned text.
+class ChatMessage(BaseModel):
+    question: str
+    username: str | None = None
+
+
+# grabs the newest saved scan report for this user, or None if they have none
+def latest_report(username):
+    row = conn.execute(
+        "SELECT report_json FROM results WHERE username = ? ORDER BY id DESC LIMIT 1",
+        (username,),
+    ).fetchone()
+    return json.loads(row[0]) if row else None
+
 
 # Chat
-# answers questions about why stretches were recommende 
-# returns a simple answer for now + will call the AI pipeline
-# (Person C's chat function) once it's delivered, which is a one-line swap.
+# answers questions using the user's actual latest scan: their flagged
+# joints, measured angles, and assigned stretch plan.
 @app.post("/chat")
 def chat(msg: ChatMessage):
     try:
-        # TODO: swap this line for Hayden's function when it lands:
-        # answer = get_chat_answer(msg.question, assigned_exercises)
-        answer = ("This stretch was recommended because your scan showed limited "
-                  "range of motion in that joint. Full AI answers are coming soon - "
-                  "this is a placeholder response.")
-        return {"answer": answer}
+        # precaution: blank question
+        if not msg.question.strip():
+            return {"answer": ("Ask me anything about your plan - why a stretch "
+                               "was picked, how to do it, or how often to do it.")}
+
+        # normalize: lowercase, dashes -> spaces, strip punctuation
+        q = msg.question.lower().replace("-", " ")
+        for ch in "?!.,":
+            q = q.replace(ch, "")
+
+        report = latest_report(msg.username) if msg.username else None
+
+        if not report:
+            return {"answer": ("I don't see a scan for you yet - do your first scan and "
+                               "I can explain your results, your stretches, and how to track progress.")}
+
+        flags = report.get("flags", [])
+        plan = report.get("plan", [])
+
+        # match the full stretch name OR just its first two words
+        for s in plan:
+            name = s["name"].lower().replace("-", " ")
+            short = " ".join(name.split()[:2])
+            if name in q or short in q:
+                return {"answer": f"{s['name']}: {s['how']} Do it like this: {s['dose']}."}
+
+        # "why these stretches / why was I flagged"
+        if "why" in q:
+            if flags:
+                lines = [f"your {f['joint']} ({f['view']} view) measured {f['measured']} degrees, "
+                         f"outside the healthy {f['healthy_range'][0]}-{f['healthy_range'][1]} range"
+                         for f in flags[:3]]
+                stretch_names = ", ".join(s["name"] for s in plan[:4])
+                return {"answer": ("Your scan flagged these: " + "; ".join(lines) + ". "
+                                   f"Your plan ({stretch_names}) targets exactly those movements "
+                                   "to gradually improve them.")}
+            return {"answer": ("Your latest scan didn't flag anything - your plan is a "
+                               "maintenance routine to keep you moving well.")}
+
+        # "how often / how many / when"
+        if "how often" in q or "how many" in q or "when" in q:
+            doses = "; ".join(f"{s['name']}: {s['dose']}" for s in plan[:5])
+            return {"answer": f"From your plan - {doses}. Aim for 3-4 days a week; "
+                              "consistency matters more than intensity."}
+
+        # "is it safe / it hurts"
+        if "safe" in q or "hurt" in q or "pain" in q:
+            return {"answer": ("Stretching should feel like gentle tension, never pain. "
+                               "If anything hurts, stop. Remember this app is not a medical tool - "
+                               "if you have pain or an injury, talk to a doctor or physical therapist.")}
+
+        # "progress / am I improving"
+        if "progress" in q or "improve" in q or "better" in q:
+            return {"answer": ("Re-scan every week or two - your dashboard history shows your "
+                               "measured angles over time, so you can watch your range of motion "
+                               "improve in actual degrees.")}
+
+        # didn't recognize the question - say what I CAN answer, using their data
+        flagged = ", ".join(f["joint"] for f in flags) if flags else "nothing"
+        return {"answer": (f"Your latest scan flagged: {flagged}. You can ask me why a stretch "
+                           "was recommended, how to do any stretch in your plan, how often to do "
+                           "them, or how to track progress.")}
     except Exception:
         return {"error": "chat is unavailable right now"}

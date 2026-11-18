@@ -339,7 +339,7 @@ function setupChat() {
             const res = await fetch(`${API}/chat`, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ question, ...context }),
+                body: JSON.stringify({ question, username: localStorage.getItem("username"), ...context }),
             });
             if (!res.ok) throw new Error(`Server responded ${res.status}`);
             const data = await res.json();
