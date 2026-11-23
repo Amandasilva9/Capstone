@@ -12,10 +12,10 @@ BASELINE_RANGES = {
     "front.rightKneeAlign": (172, 183), 
     "left.knee":            (170, 180), 
     "left.hip":             (170, 180), 
-    "left.ankle":           (85, 100), 
+    "left.ankle":           (58, 83), 
     "right.knee":           (170, 180), 
     "right.hip":            (170, 180),
-    "right.ankle":          (85, 100), 
+    "right.ankle":          (58, 83), 
     "back.shoulderTilt":    (-5, 5), 
     "back.hipTilt":         (-5.6, 5.6), 
     "back.leftKneeAlign":   (172, 183),
@@ -36,11 +36,9 @@ MOBILITY_TEST_RANGES = {
     # heel in agngles (physiopedia)
 
     # For Toe Touch Ranges , found supported ranges but Provisional Need to finish , maybe use volunteer data data to finish
-    "toetouch.hipFlexion": {"floor_range": 50},
+    "toeTouch.hipFlexion": {"floor_range": 48},
     "toeTouch.kneeFlexion": {"ceiling_range": 10},
-    "toeTouch.lowerBackFlexion": {"floor_range": 30}, # (MystPhysio)
-
-    # fingers in angles
+    "toeTouch.lowerBackFlexion": {"floor_range": 44}, # (MystPhysio)
 }
 
 def check_baseline(key, value):
